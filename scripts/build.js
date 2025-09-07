@@ -85,13 +85,16 @@ async function main() {
     const text = await fsp.readFile(path.join(SRC, file), 'utf8');
     const { items } = parseM3U(text);
 
+    // Exclude duration and attributes from sub JSON files
+    const itemsSimple = items.map(({ name, url }) => ({ name: name ?? null, url }));
+
     const data = {
       name: base,
       slug,
       sourceFile: `playlists/${file}`,
-      count: items.length,
+      count: itemsSimple.length,
       generatedAt: now,
-      items
+      items: itemsSimple
     };
 
     await fsp.writeFile(
@@ -100,11 +103,11 @@ async function main() {
       'utf8'
     );
 
+    // Exclude slug from the main JSON
     list.push({
       name: base,
-      slug,
       url: `api/playlists/${slug}.json`,
-      count: items.length
+      count: itemsSimple.length
     });
   }
 
