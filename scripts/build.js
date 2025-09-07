@@ -85,12 +85,12 @@ async function main() {
     const text = await fsp.readFile(path.join(SRC, file), 'utf8');
     const { items } = parseM3U(text);
 
-    // Exclude duration and attributes from sub JSON files
+    // Keep only name and url in items
     const itemsSimple = items.map(({ name, url }) => ({ name: name ?? null, url }));
 
+    // No "slug" in sub JSON file
     const data = {
       name: base,
-      slug,
       sourceFile: `playlists/${file}`,
       count: itemsSimple.length,
       generatedAt: now,
@@ -103,7 +103,7 @@ async function main() {
       'utf8'
     );
 
-    // Exclude slug from the main JSON
+    // No "slug" in main index entries
     list.push({
       name: base,
       url: `api/playlists/${slug}.json`,
