@@ -1,3 +1,45 @@
 #EXTM3U
 #EXTINF:-1,PsyStream
 https://radio.psymusic.co.uk/listen/psystream/radio1_192k.mp3
+#EXTINF:-1,psyradio * fm - progressive
+http://komplex2.psyradio.org:8010/stream
+#EXTINF:-1,Psyndora Psytrance
+http://cast.magicstreams.gr:9111/stream
+#EXTINF:-1,Hirschmilch Progressive
+http://hirschmilch.de:7000/progressive.aac
+#EXTINF:-1,Psyland Radio
+http://sp.streams.ovh:8020/stream
+#EXTINF:-1,Babaganousha Radio
+http://188.68.42.236:8000/psytrance
+#EXTINF:-1,Afterhours FM
+https://ca.ah.fm/192k
+#EXTINF:-1,Hirschmilch Psytrance
+http://hirschmilch.de:7000/psytrance.mp3
+#EXTINF:-1,Psyradio.fm
+http://streamer.psyradio.org:8010/listen.mp3
+#EXTINF:-1,Caprice Radio - Dark Psy - 320 - The Russian Federation - dark psy - dark psytrace - darkpsy - psytrance
+http://79.111.119.111:8000/darkpsytrance
+#EXTINF:-1,Caprice Radio - Forest Psy - 48 - The Russian Federation - forest psytrance - psytrance
+http://213.141.131.10:8002/forestpsytrance
+#EXTINF:-1,HBR1.com - I.D.M. Tranceponder - 128 - Germany - psytrance - trance
+http://hirschmilch.de:7000/psytrance.aac
+#EXTINF:-1,laut.fm Psytrancelicious - 128 - Germany - progressive psytrance - psytrance
+http://psytrancelicious.stream.laut.fm/psytrancelicious?t302=2025-09-10_18-22-35&uuid=0c4606f6-4102-4178-9c45-10bc11cc8f51
+#EXTINF:-1,MixLive.ie - Psybient Sunset - 192 - Ireland - psychill - psytrance
+https://0nlineradio.stream13.radiohost.de/technolovers-psytrance?ref=radiobrowser&upd-meta&upd-scheme=https&_art=dD0xNzU3NTI4ODU2JmQ9MWMyYzg3MjQxYmZmMmY4OWNjODE
+#EXTINF:-1,Toksyna FM PsyTrance - 128 - Poland - psytrance
+http://www.toksyna.fm/psytrance.pls
+#EXTINF:-1,PARTY VIBE RADIO : MORNING PSYTRANCE
+https://free.rcast.net/248279
+#EXTINF:-1,PARTY VIBE RADIO : PROGRESSIVE PSYTRANCE
+https://free.rcast.net/247939
+#EXTINF:-1,sunshine live - Psytrance
+https://free.rcast.net/236083
+#EXTINF:-1,TL_Psytrance
+https://0nlineradio.stream13.radiohost.de/technolovers-psytrance?upd-meta=0&upd-scheme=https&_art=dD0xNzU3MzA1MTA3JmQ9OGM0OGUzODY4MjI3NWFjN2JiNjg
+#EXTINF:-1,1.FM - BOM Psytrance Radio
+https://free.rcast.net/231439
+#EXTINF:-1,psyradio * fm - psytrance
+https://free.rcast.net/16652
+#EXTINF:-1,PARTY VIBE RADIO : FULL ON PSYTRANCE
+https://free.rcast.net/3147

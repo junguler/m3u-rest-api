@@ -1,0 +1,43 @@
+#EXTM3U
+#EXTINF:-1,Radio Madjoura Touba
+http://185.41.154.86:8004/
+#EXTINF:-1,Bamako24 radio
+https://fps5.listen2myradio.com:2199/listen.php?ip=78.129.139.48\u0026port=9880\u0026type=s1
+#EXTINF:-1,Radio Madjoura Touba radio
+http://185.41.154.86:8004/stream.nsv
+#EXTINF:-1,Radio Caravane
+https://caravan.radioca.st/stream
+#EXTINF:-1,Antenna Web Mali
+https://italiavera.radioca.st/stream
+#EXTINF:-1,Radio Dankoun
+https://streaming.brol.tech/rtfmlounge
+#EXTINF:-1,RFI Afrique
+http://live02.rfi.fr/rfiafrique-64.mp3
+#EXTINF:-1,Africa N°1
+http://african1paris.ice.infomaniak.ch/african1paris-64.mp3
+#EXTINF:-1,Dial Comercial Radio Listen live
+https://sonic.sistemahost.es:7000/dialcomercial.mp3
+#EXTINF:-1,Bone Pool Radio Listen live
+https://streamer.radio.co/s49a58b236/low
+#EXTINF:-1,tunein Listen live
+https://tunein.stream.laut.fm/tunein?ref=radiode&t302=2025-09-17_22-00-00&uuid=ff25487b-9f2b-44a4-a5e0-35a0a7b968b4
+#EXTINF:-1,RauteMusik - Karneval Listen live
+https://rautemusik.stream25.radiohost.de/rm-karneval_mp3-192?ref=rm5beta&upd-meta&upd-scheme=https&_art=dD0xNzU4MTQ2NzAxJmQ9ZTA4OWVhMzEyZjIzNDUzNjdlODk
+#EXTINF:-1,Exclusively Glen Campbell Listen live
+https://nl4.mystreaming.net/er/glencampbell/icecast.audio
+#EXTINF:-1,WXPN Listen live
+https://wxpnhi.xpn.org/xpnhi
+#EXTINF:-1,Bollywood Armaan malik - 0 - India - music
+https://nl4.mystreaming.net/uber/bollywoodarmaanmalik/icecast.audio
+#EXTINF:-1,KBUU-LP 97.5 Malibu -  CA - 128 - The United States Of America - adult album alternative - malibu
+http://livefta.malimarcdn.com/ftaedge00/nat.sdp/playlist.m3u8
+#EXTINF:-1,Paranormalium - 24 - Poland - talk
+http://shoutcast.paranormalium.pl:8000/5
+#EXTINF:-1,Radio Caprice Minimalism - 320 - The Russian Federation - instrumental - minimalism
+http://213.141.131.10:8000/minimalism
+#EXTINF:-1,Radyo Natin Malita - 64 - The Philippines -
+https://link.radyonatinfm.com/listen/dxsa/malita
+#EXTINF:-1,Alhikmah FM
+http://185.41.154.86:8004/stream/
+#EXTINF:-1,Radio Madjoura Touba – 95.4 FM – San – ML-4
+http://185.41.154.86:8004/listen.pls

@@ -1,0 +1,51 @@
+#EXTM3U
+#EXTINF:-1,TugaFm | Radio A Tua Medida
+https://tugafm.stream.laut.fm/tugafm?t302=2025-09-06_23-01-52&uuid=8e0969bc-38cf-4001-8417-6ea83001bb0b
+#EXTINF:-1,Jobs & Musik Kizomba
+https://streamingp.shoutcast.com/JamendoLounge?lang=*
+#EXTINF:-1,LATINA KIZOMBA
+https://latinakizomba.ice.infomaniak.ch/latinakizomba.mp3
+#EXTINF:-1,Blackbox Kizomba
+https://start-blackbox.ice.infomaniak.ch/start-blackbox-high.mp3
+#EXTINF:-1,1MORE Tropical
+https://1more.fr/ecoute/1more-tropical-128.m3u
+#EXTINF:-1,Jobs & Musik Tropicale
+https://listen.radionomy.com/laradiotropicale.m3u
+#EXTINF:-1,Musifesta
+https://listen.radionomy.com/Musifesta-.m3u
+#EXTINF:-1,Générations Afrobeat
+https://generations-wr001.ice.infomaniak.ch/generations-wr001.mp3
+#EXTINF:-1,TugaFm
+https://tugafm.stream.laut.fm/tugafm?t302=2023-04-25_20-18-37&uuid=c6b76dae-c1b3-4174-ac79-fd2e51da0e1a
+#EXTINF:-1,TugaFm radio
+https://tugafm.stream.laut.fm/tugafm?t302=2025-09-01_10-10-28&uuid=d361220b-d4b9-4af5-9ae8-2be8c1925a60
+#EXTINF:-1,Radio Atlantico
+https://stream.cvhosting.uk:8000/radio.mp3
+#EXTINF:-1,Tropiques Kizomba
+https://listen.radioking.com/radio/8919/stream/19094
+#EXTINF:-1,.977 Today&amp#39s Hits
+https://15113.live.streamtheworld.com/977_HITSAAC_SC?dist=onlineradiobox
+#EXTINF:-1,BOX : Afrofusion Plus Listen live
+https://boxradio-edge-00.streamafrica.net/afro
+#EXTINF:-1,Alpradio Deutschland Listen live
+https://alpradio.stream.laut.fm/alpradio?t302=2025-09-17_22-41-20&uuid=76f53457-29b0-4fc5-8e0f-63e302d50b7c
+#EXTINF:-1,Clapas Listen live
+https://stations.radioclapas.fr/radio/8130/radio.mp3
+#EXTINF:-1,mycore Listen live
+https://mycore.stream.laut.fm/mycore?ref=radiode&t302=2025-09-17_22-41-20&uuid=57fa1d62-c8df-4fd6-992d-75abbf4c2de1
+#EXTINF:-1,DeeJay 97.5 Greece Corfu Listen live
+https://sh.onweb.gr:7083/stream?type=http&nocache=35812
+#EXTINF:-1,Radio Génération Tuga
+https://stream.vestaradio.com/rg33
+#EXTINF:-1,Latina
+https://start-latina.ice.infomaniak.ch/start-latina-high.aac
+#EXTINF:-1,Radio Tele San Konplexx (RTSK)
+http://s22.myradiostream.com:8080/
+#EXTINF:-1,Latina - Kizomba
+http://latinawork.ice.infomaniak.ch/latinakizomba.mp3
+#EXTINF:-1,Bl@ckfeeling Radio
+https://listen.radioking.com/radio/26269/stream/58993
+#EXTINF:-1,Bar Latina Radio
+http://s2.citrus3.com:8330/stream
+#EXTINF:-1,Web Radio Apollo
+http://5.39.39.105:8038/stream

@@ -1,7 +1,347 @@
 #EXTM3U
+#EXTINF:-1,EldoRadio Alternative
+http://sc.bce.lu/eldoalt
 #EXTINF:-1,Alternative Flow
 http://puma.streemlion.com:1090/stream
 #EXTINF:-1,FreshRock Internet Radio Station
 http://stream.freshrock.net:8000/128.mp3
 #EXTINF:-1,Anarchy Factory
 http://cheetah.streemlion.com:2820/stream
+#EXTINF:-1,Big R Radio - 70s FM
+https://bigrradio.cdnstream1.com/5182_128?listenerid=ea4ef9d7-dc2d-496b-9f18-5bbd5ca7923a&cb=974096.mp3
+#EXTINF:-1,Радио Maximum - Nirvana
+https://maximum-nirvana.hostingradio.ru/nirvana96.aacp
+#EXTINF:-1,Star FM - Alternative
+https://starfm.streamabc.net/30-alternativerock-mp3-128-7570129?sABC=65097047%230%234r22236104s8nr3n29rss56oo6qo07n6%23jrofrvgr&aw_0_1st.playerid=webseite&amsparams=playerid:webseite;skey:1695117383
+#EXTINF:-1,Радио Maximum - Grunge
+https://maximum-grunge.hostingradio.ru/grunge96.aacp
+#EXTINF:-1,Big R Radio - Post Grunge Rock
+https://bigrradio.cdnstream1.com/5203_128
+#EXTINF:-1,Mediatica FM
+https://earwaxme.radioca.st/stream
+#EXTINF:-1,AltRockIsDead.com
+https://das-edge14-live365-dal02.cdnstream.com/a22520
+#EXTINF:-1,Born79
+https://born79.stream.laut.fm/born79
+#EXTINF:-1,ROCKRADIO.com - Grunge
+https://www.rockradio.com/grunge
+#EXTINF:-1,Pirate Gong
+https://edge10.streamonkey.net/fhn-gong971/stream/mp3
+#EXTINF:-1,Geografia Rock
+https://servidor20.brlogic.com:7354/live
+#EXTINF:-1,Pirate Radio
+https://edge66.streamonkey.net/fhn-pirateradio
+#EXTINF:-1,Punto Zero Radio
+https://server.radiostreaming.com.ar/8194/stream
+#EXTINF:-1,NME 1
+https://listen-nme.sharp-stream.com/nme1.mp3
+#EXTINF:-1,RMF Grunge + FAKTY
+http://195.150.20.7/GRUNGEF
+#EXTINF:-1,100% HARD ROCK
+http://streamingp.shoutcast.com/JamendoLounge
+#EXTINF:-1,Wespennest
+https://wespennest.stream.laut.fm/wespennest?t302=2023-04-25_19-31-28&uuid=eb150f10-e076-47d2-812a-a476140a3719
+#EXTINF:-1,The Beat - Alternative Rock Revolution Headquarters
+https://das-edge15-live365-dal02.cdnstream.com/a40871
+#EXTINF:-1,RMF Grunge
+http://195.150.20.7/GRUNGE
+#EXTINF:-1,DrGnu - 70th Rock
+http://fluxfm.streamabc.net/flx-70er-mp3-320-4383769?sABC=6202qr25%230%237osorqnn86p8nnp979o1124290qqo247%23fgernzf.syhksz.qr&amsparams=playerid:streams.fluxfm.de;skey:1644355109
+#EXTINF:-1,DrGnu - 80th Rock II
+https://fluxfm.streamabc.net/flx-80er-mp3-320-9596107?sABC=6202qrr6%230%23sorr1p583723p06268o324o2ps5n399q%23fgernzf.syhksz.qr&amsparams=playerid:streams.fluxfm.de;skey:1644355302
+#EXTINF:-1,DrGnu - X-Mas Rock II
+https://fluxfm.streamabc.net/flx-event04-mp3-320-5268754?sABC=6202r047%230%23sorr1p583723p06268o324o2ps5n399q%23fgernzf.syhksz.qr&amsparams=playerid:streams.fluxfm.de;skey:1644355655
+#EXTINF:-1,DrGnu - Metal 2
+https://fluxfm.streamabc.net/flx-metalfm-mp3-320-9154971?sABC=6202r2p8%230%23sorr1p583723p06268o324o2ps5n399q%23fgernzf.syhksz.qr&amsparams=playerid:streams.fluxfm.de;skey:1644356296
+#EXTINF:-1,classicalternative
+http://classicalternative.stream.laut.fm/classicalternative
+#EXTINF:-1,8erfeld
+http://8erfeld.stream.laut.fm/8erfeld
+#EXTINF:-1,p42
+http://p42.stream.laut.fm/p42
+#EXTINF:-1,801indie
+http://801indie.stream.laut.fm/801indie
+#EXTINF:-1,maximusrockfm
+http://maximusrockfm.stream.laut.fm/maximusrockfm
+#EXTINF:-1,altrockmetal radioband
+http://altrockmetal-radioband.stream.laut.fm/altrockmetal-radioband
+#EXTINF:-1,alternative xl
+http://alternative-xl.stream.laut.fm/alternative-xl
+#EXTINF:-1,makegrungegreatagain
+http://makegrungegreatagain.stream.laut.fm/makegrungegreatagain
+#EXTINF:-1,altrockmetal radiogirls
+http://altrockmetal-radiogirls.stream.laut.fm/altrockmetal-radiogirls
+#EXTINF:-1,traveller
+http://traveller.stream.laut.fm/traveller
+#EXTINF:-1,parrotrecords jukebox
+http://parrotrecords_jukebox.stream.laut.fm/parrotrecords_jukebox
+#EXTINF:-1,radio ozwald
+http://radio-ozwald.stream.laut.fm/radio-ozwald
+#EXTINF:-1,edgewave
+http://edgewave.stream.laut.fm/edgewave
+#EXTINF:-1,inmotionradio
+http://inmotionradio.stream.laut.fm/inmotionradio
+#EXTINF:-1,no talking just music
+http://no-talking-just-music.stream.laut.fm/no-talking-just-music
+#EXTINF:-1,fun and music
+http://fun-and-music.stream.laut.fm/fun-and-music
+#EXTINF:-1,4400 ironcity
+http://4400-ironcity.stream.laut.fm/4400-ironcity
+#EXTINF:-1,froq
+http://froq.stream.laut.fm/froq
+#EXTINF:-1,blitzfm
+http://blitzfm.stream.laut.fm/blitzfm
+#EXTINF:-1,kruemelradio
+http://kruemelradio.stream.laut.fm/kruemelradio
+#EXTINF:-1,rocksound
+http://rocksound.stream.laut.fm/rocksound
+#EXTINF:-1,nevermind
+http://nevermind.stream.laut.fm/nevermind
+#EXTINF:-1,metal4life
+http://metal4life.stream.laut.fm/metal4life
+#EXTINF:-1,bluewave
+http://bluewave.stream.laut.fm/bluewave
+#EXTINF:-1,radionarcan
+http://radionarcan.stream.laut.fm/radionarcan
+#EXTINF:-1,R.SA Live radio
+https://rsa.streamabc.net/regc-rsalive-mp3-128-4032278?sABC=68o5681q%230%23ono22ssn5q76r813ss37o7o929ro99rn%23bayvarenqvbobk&aw_0_1st.playerid=onlineradiobox&amsparams=playerid:onlineradiobox;skey:1756719133
+#EXTINF:-1,Énergie radio
+https://26293.live.streamtheworld.com/CKMFFMAAC.aac?dist=onlineradiobox
+#EXTINF:-1,CAYA Radio
+https://www.tuneintoradio1.com/radio/8020/radio.mp3
+#EXTINF:-1,107dot5 radio
+https://www.tuneintoradio1.com/radio/8030/radio.mp3
+#EXTINF:-1,Pirate Gong radio
+https://edge10.streamonkey.net/fhn-gong971/stream/mp3?
+#EXTINF:-1,Pirate Radio, Nuremberg
+https://edge12.streamonkey.net/fhn-pirateradio?aggregator=onlineradiobox
+#EXTINF:-1,Power100 radio
+https://das-edge12-live365-dal02.cdnstream.com/a99781
+#EXTINF:-1,Radio Drift
+https://das-edge12-live365-dal02.cdnstream.com/a01214
+#EXTINF:-1,107.9 The X
+https://das-edge17-live365-dal02.cdnstream.com/a74858
+#EXTINF:-1,Estación Rocanrol
+https://das-edge15-live365-dal02.cdnstream.com/a83862
+#EXTINF:-1,The Zone
+https://das-edge15-live365-dal02.cdnstream.com/a13427
+#EXTINF:-1,96.7 The X
+https://das-edge11-live365-dal03.cdnstream.com/a01758
+#EXTINF:-1,Northern Rocks Radio
+https://das-edge11-live365-dal03.cdnstream.com/a00783
+#EXTINF:-1,radio 2810: the alternative
+https://das-edge17-live365-dal02.cdnstream.com/a55555
+#EXTINF:-1,Channel Z 95
+https://das-edge12-live365-dal02.cdnstream.com/a95224
+#EXTINF:-1,Monkeyboy Radio
+https://das-edge12-live365-dal02.cdnstream.com/a78986
+#EXTINF:-1,Rockstar-Radio UNDERGROUND
+https://das-edge12-live365-dal02.cdnstream.com/a68506
+#EXTINF:-1, IT’s ON! WITH DaBOMB! RADIO
+https://das-edge12-live365-dal02.cdnstream.com/a26584
+#EXTINF:-1,SoCal Radio
+https://das-edge14-live365-dal02.cdnstream.com/a17701
+#EXTINF:-1,The BEAT  Alternative Rock Revolution HQ
+https://das-edge16-live365-dal02.cdnstream.com/a40871
+#EXTINF:-1,92.3 K-ROCK 90's
+https://das-edge14-live365-dal02.cdnstream.com/a76295
+#EXTINF:-1,delta Radio Grunge
+https://deltaradio.streamabc.net/regc-deltagrunge-mp3-192-7205779?sABC=68p9rp78%230%23p3n6o69035474rp208o85r52n5rr2549%23bayvarenqvbobk&aw_0_1st.playerid=onlineradiobox&amsparams=playerid:onlineradiobox;skey:1758063736
+#EXTINF:-1,R.SA Live
+https://rsa.streamabc.net/regc-rsalive-mp3-128-4032278?sABC=68p9rp78%230%23p3n6o69035474rp208o85r52n5rr2549%23bayvarenqvbobk&aw_0_1st.playerid=onlineradiobox&amsparams=playerid:onlineradiobox;skey:1758063736
+#EXTINF:-1,Énergie
+https://14843.live.streamtheworld.com/CKMFFMAAC.aac?dist=onlineradiobox
+#EXTINF:-1,delta radio INDIE
+https://deltaradio.streamabc.net/regc-deltaindie-mp3-128-3941164?sABC=68p9rp78%230%23p3n6o69035474rp208o85r52n5rr2549%23bayvarenqvbobk&aw_0_1st.playerid=onlineradiobox&amsparams=playerid:onlineradiobox;skey:1758063736
+#EXTINF:-1,Radio Bob! BOBs Grunge
+https://regiocast.streamabc.net/regc-radiobobgrunge4112801-aacplus-64-4023388?sABC=68p9rp79%230%23p3n6o69035474rp208o85r52n5rr2549%23bayvarenqvbobk&aw_0_1st.playerid=onlineradiobox&amsparams=playerid:onlineradiobox;skey:1758063737
+#EXTINF:-1,Terry Callaghan&amp#39s Classic Alternative
+https://ec4.yesstreaming.net:2480/stream.nsv
+#EXTINF:-1,MaximusRockFM
+https://maximusrockfm.stream.laut.fm/maximusrockfm?t302=2025-09-16_23-02-17&uuid=e4ad23e1-5d05-4916-9fa0-1e72cfcea677
+#EXTINF:-1,Labgate Alt Rock Grunge
+https://s2.ssl-stream.com/radio/8190/radio.mp3
+#EXTINF:-1,.977 Today&amp#39s Hits
+https://26343.live.streamtheworld.com/977_HITSAAC_SC?dist=onlineradiobox
+#EXTINF:-1,Radio RMF - Grunge
+https://rs103-krk.rmfstream.pl/GRUNGE
+#EXTINF:-1,R.SA  Maxis Maximal
+https://rsa.streamabc.net/regc-rsasachsenmaxis7484300-mp3-128-3629145?sABC=68p9rp7n%230%23p3n6o69035474rp208o85r52n5rr2549%23bayvarenqvbobk&aw_0_1st.playerid=onlineradiobox&amsparams=playerid:onlineradiobox;skey:1758063738
+#EXTINF:-1,R.SA  Oldie-club
+https://rsa.streamabc.net/regc-rsasachsenoldies7771147-mp3-128-2949639?sABC=68p9rp7n%230%23p3n6o69035474rp208o85r52n5rr2549%23bayvarenqvbobk&aw_0_1st.playerid=onlineradiobox&amsparams=playerid:onlineradiobox;skey:1758063738
+#EXTINF:-1,LITT Live - Grunge
+https://littlive.com/Grunge
+#EXTINF:-1,Alternativa Radiorock
+https://sonic.host-live.com/8406/stream
+#EXTINF:-1,R.SA  Rockzirkus
+https://rsa.streamabc.net/regc-rsasachsenrockzirkus8440598-mp3-128-3072380?sABC=68p9rp7o%230%23p3n6o69035474rp208o85r52n5rr2549%23bayvarenqvbobk&aw_0_1st.playerid=onlineradiobox&amsparams=playerid:onlineradiobox;skey:1758063739
+#EXTINF:-1,R.SA Ostrock
+https://rsa.streamabc.net/regc-rsasachsenostrock7923745-mp3-192-1162842?sABC=68p9rp7o%230%23p3n6o69035474rp208o85r52n5rr2549%23bayvarenqvbobk&aw_0_1st.playerid=onlineradiobox&amsparams=playerid:onlineradiobox;skey:1758063739
+#EXTINF:-1,Radio Rock Hits
+https://live.radiorockhits.com/listen/radiorockhits/radio.mp3
+#EXTINF:-1,delta radio Der beste RockPop reloaded
+https://deltaradio.streamabc.net/regc-deltarockpopreloaded-mp3-192-5287707?sABC=68p9rp7o%230%23p3n6o69035474rp208o85r52n5rr2549%23bayvarenqvbobk&aw_0_1st.playerid=onlineradiobox&amsparams=playerid:onlineradiobox;skey:1758063739
+#EXTINF:-1,Radio Tricolrock
+https://cast.tricolrock.com:8000/radio-tricolrock
+#EXTINF:-1,Projet XY
+https://flux.saaslys.com:8000/radio.mp3
+#EXTINF:-1,Geografia Rock 1
+https://servidor20-4.brlogic.com:7354/live
+#EXTINF:-1,THE ALTERNATIVE ONE!
+https://digitalaudiobroadcasting.net:8020/stream
+#EXTINF:-1,Blitz.fm
+https://blitzfm.stream.laut.fm/blitzfm?t302=2025-09-16_23-02-20&uuid=c8ae83bf-9101-4f00-afe6-f2e5ec6a5a2d
+#EXTINF:-1,R.SA  Weihnachtsradio
+https://rsa.streamabc.net/regc-rsasachsenevent017364573-mp3-128-6343895?sABC=68p9rp7p%230%23p3n6o69035474rp208o85r52n5rr2549%23bayvarenqvbobk&aw_0_1st.playerid=onlineradiobox&amsparams=playerid:onlineradiobox;skey:1758063740
+#EXTINF:-1,Azul Tricolrock
+https://cast.tricolrock.com/listen/azul_tricolrock/azul
+#EXTINF:-1,Edge Wave Radio
+https://edgewave.stream.laut.fm/edgewave?t302=2025-09-16_23-02-20&uuid=cd091812-e334-439e-ab5b-2f83f3e24949
+#EXTINF:-1,RetroSonic Rock
+https://retrosonic.online:8050/rock.mp3
+#EXTINF:-1,4-FriendsRadio
+http://streamingp.shoutcast.com/JamendoLounge?lang=*
+#EXTINF:-1,X88
+https://das-edge11-live365-dal03.cdnstream.com/a22520
+#EXTINF:-1,STAR FM Alternative Rock
+https://starfm.streamabc.net/30-alternativerock-mp3-192-8349543?sABC=68oqp62q%230%233012o6r0p0n71qooq029r8oo1sr32n16%23enqvbqr&aw_0_1st.playerid=radiode&amsparams=playerid:radiode;skey:1757267501
+#EXTINF:-1,Kruemel Radio
+https://kruemelradio.stream.laut.fm/kruemelradio?ref=radiode&t302=2025-09-07_17-51-40&uuid=301b1f8f-bdea-4b96-a9fd-abaf0318ed1a
+#EXTINF:-1,90s90s Rock
+https://regiocast.streamabc.net/regc-90s90srock1436287-mp3-192-2191420?sABC=68oqp62q%230%233012o6r0p0n71qooq029r8oo1sr32n16%23enqvbqr&aw_0_1st.playerid=radiode&amsparams=playerid:radiode;skey:1757267501
+#EXTINF:-1,90er | Best of Rock.FM
+https://radio21.streamabc.net/radio21-konzertkracher-mp3-128-7237969?sABC=68oqp62q%230%233012o6r0p0n71qooq029r8oo1sr32n16%23enqvbqr&aw_0_1st.playerid=radiode&amsparams=playerid:radiode;skey:1757267501
+#EXTINF:-1,The Crash
+https://s4.radio.co/sc349ed42d/listen
+#EXTINF:-1,90s90s Grunge - 0 - Germany - grunge
+http://regiocast.streamabc.net/regc-90s90sgrunge7540920-mp3-192-4353468?sABC=68p1p13q%230%237nnr9827s1noqs64q9580q80676qn939%23fgernzf.90f90f.qr&aw_0_1st.playerid=streams.90s90s.de&amsparams=playerid:streams.90s90s.de;skey:1757528381
+#EXTINF:-1,90s90s Grunge - 0 - Germany - 90s - grunge - rock
+http://regiocast.streamabc.net/regc-90s90sgrunge7540920-mp3-192-4353468?sABC=68p1p13q%230%237nnr9827s1noqs64q9580q80676qn939%23&aw_0_1st.playerid=&amsparams=playerid:;skey:1757528381
+#EXTINF:-1,Big R Radio - Post Grunge Rock - 128 - The United States Of America - alternative - grunge - rock
+http://streams.radiobob.de/bob-grunge/mp3-128/streams.radiobob.de/play.m3u
+#EXTINF:-1,delta radio Grunge - 0 - Germany - grunge
+http://deltaradio.streamabc.net/regc-deltagrunge-mp3-192-7205779?sABC=68p1p13q%230%237nnr9827s1noqs64q9580q80676qn939%23zrqvncynlre&aw_0_1st.playerid=mediaplayer&amsparams=playerid:mediaplayer;skey:1757528381
+#EXTINF:-1,RadCap - Post Grunge - 320 - The Russian Federation - grunge - post grunge - radio caprice
+https://regiocast.streamabc.net/regc-radiobobgrunge4112801-mp3-192-5387631?sABC=68p1p13q%231%23p47683ss451oqs8ror068qrn8n897o50%23ubzrcntr&mode=preroll&aw%200%201st.skey=1671670293&cb=146032260&aw%200%201st.playerid=radiobob%20web&aw%200%20req.userConsentV2=CPkIkEAPkIkEAAFADBDECvCsAP%20AAEPAAAYgI9td%20H%20%20bW9j-f5%20aft0eY1P9%20rz7uQzDhfNk-4F3L%20W%20LwX52E7NF36tq4KmR4ku1LBIQNlHMHUDUmwaokVryHsak2cpSNKJ7BEknMZOydYGF9Pmxtj-QKY5v5%20d3bx2D-t%209v-39z338VXn3d53-%2002PDdV599Dfn9fR%20b89KP9958v4v8%20%20%20%20%203%20e%20%203%2074I9gEmGrcQBdmWODNoGEUCIEYVhIRQKACCgGFogIAHBwU7KwCfWECABAKAIwIgQ4AowIBAAAJAEhEAEgRYIAAARAIAAQAIAEIAGBgEFgBYGAQAAgGgYohQACBIAZEBEUpgQFQJBAS2VCCUFUhphAFWWAFAIjYKABEEgIpAAEBYOAYIkBKxYIEmKN8gBGCFAKJUIAgaADAAEEexEAGAAII9ioAMAAQR7GQAYAAgj2AAA.YAAAAAAAAAAA&aw%200%201st.kuid=kppidff%20PQ5ovBN7&aw%200%201st.ksg=[%22vz9c46692%22,%22tcn2pw7tc%22,%22trfvrpkpq%22,%22uo5ss1kr5%22,%22upxsvbudn%22,%22uphudti45%22,%22ual9zjoqj%22,%22uuslgimlz%22,%22ual6nqoj8%22]&listenerid=c47683ff451bdf8ebe068dea8a897b50&aw_0_1st.playerid=homepage&amsparams=playerid:homepage;skey:1757528381
+#EXTINF:-1,RADIO BOB! BOBs Grunge - 0 - Germany - alternative - grunge - rock
+http://regiocast.streamabc.net/regc-radiobobgrunge4112801-mp3-192-5387631?sABC=68p1p13q%230%237nnr9827s1noqs64q9580q80676qn939%23fgernzf.enqvbobo.qr&aw_0_1st.playerid=streams.radiobob.de&amsparams=playerid:streams.radiobob.de;skey:1757528381
+#EXTINF:-1,Radio BOB! Grunge - 0 - Germany - grunge
+https://regiocast.streamabc.net/regc-radiobobgrunge4112801-mp3-192-5387631?sABC=68p1p13q%230%23sp5q55833s86080oq518305r3p4r799o%23fgernzf.enqvbobo.qr&aw_0_1st.playerid=streams.radiobob.de&amsparams=playerid:streams.radiobob.de;skey:1757528381
+#EXTINF:-1,Radio Caprice - Grunge - 320 - The Russian Federation - caprice - grunge - russia - seattle sound
+http://79.120.39.202:8000/grunge
+#EXTINF:-1,RadioBOB Grunge (64 kbps AAC) - 0 - Germany - grunge - rock
+http://regiocast.streamabc.net/regc-radiobobgrunge4112801-aacplus-64-4023388?sABC=68p1p13q%230%237nnr9827s1noqs64q9580q80676qn939%23zrqvncynlre&aw_0_1st.playerid=mediaplayer&amsparams=playerid:mediaplayer;skey:1757528381
+#EXTINF:-1,Rock Antenne - Grunge - 128 - Germany - grunge - music - rock
+https://s3-webradio.rockantenne.de/grunge/stream/mp3
+#EXTINF:-1,801 Indie
+https://801indie.stream.laut.fm/801indie?t302=2025-09-14_21-17-33&uuid=e95c3ad5-7c88-421f-856c-b2aea3795f76
+#EXTINF:-1,Alpaka Beach Radio
+https://alpaka-beach-radio.stream.laut.fm/alpaka-beach-radio?t302=2019-03-10_10-39-07&ampuuid=9608af2b-f89e-41c0-8405-efea631b6293
+#EXTINF:-1,METAL 4 LIFE
+https://metal4life.stream.laut.fm/metal4life
+#EXTINF:-1,Nevermind FM
+https://nevermind.stream.laut.fm/nevermind?t302=2025-09-14_21-17-34&uuid=16c29891-eb14-4fc2-8cd7-a71e7a3570d9
+#EXTINF:-1,ROCK ANTENNE Grunge
+https://s5-webradio.rockantenne.de/grunge/stream/mp3
+#EXTINF:-1,RADIO BOB - Grunge
+https://regiocast.streamabc.net/regc-radiobobgrunge4112801-mp3-192-5387631?sABC=68or506n%230%23995768oo3r5n9638p710n4158qs27n61%23fgernzf.enqvbobo.qr&aw_0_1st.playerid=streams.radiobob.de&amsparams=playerid:streams.radiobob.de;skey:1757302890
+#EXTINF:-1,440Music Indie Grunge Music Radio
+https://free.rcast.net/253210
+#EXTINF:-1,RADIO BOB BOBs Grunge Import 2023-01-20T20:35:5901:00 Tmbyw
+https://regiocast.streamabc.net/regc-radiobobgrunge4112801-mp3-192-5387631?sABC=68or506n%230%23995768oo3r5n9638p710n4158qs27n61%23ubzrcntr&aw_0_1st.playerid=homepage&amsparams=playerid:homepage;skey:1757302890
+#EXTINF:-1,RMF GRUNGE FAKTY
+https://free.rcast.net/240863
+#EXTINF:-1,90s90s - Grunge
+https://free.rcast.net/237247
+#EXTINF:-1,RMF GRUNGE
+https://free.rcast.net/235744
+#EXTINF:-1,delta radio GRUNGE
+https://free.rcast.net/233852
+#EXTINF:-1,157
+https://free.rcast.net/231634
+#EXTINF:-1,WebTuga Shoutcast Server
+http://185.240.251.169:9134/stream
+#EXTINF:-1,ROUGH Radio
+https://roughradio1.out.airtime.pro/roughradio1_a
+#EXTINF:-1,THE ONLY MUSIC THAT MATTERED!
+http://108.59.9.147:8186/http:/stream/1
+#EXTINF:-1,José FM 97.5 - KLYY
+http://17793.live.streamtheworld.com/KLYYFM.mp3
+#EXTINF:-1,Big R Radio - Grunge FM
+https://bigrradio.cdnstream1.com/5200_128
+#EXTINF:-1,FM 102.1 - WLUM-FM
+http://ais-sa1.streamon.fm/7250_48k.aac/playlist.m3u8
+#EXTINF:-1,95.1 The River - KEWL-FM
+http://ice42.securenetsystems.net:80/KEWL
+#EXTINF:-1,GotRadio - 90's Alternative
+http://206.217.213.235:8190/
+#EXTINF:-1,Radio Monte Carlo - RMC 90
+http://edge.radiomontecarlo.net/rmcweb009
+#EXTINF:-1,101.RU - Wheels-Rock-FM
+http://pub0102.101.ru:8000/stream/personal/aacp/64/799303
+#EXTINF:-1,Retro 80s & 90s Flashback Music Radio -The Pulse FM
+http://das-edge17-live365-dal02.cdnstream.com/a16621
+#EXTINF:-1,delta radio - Grunge
+https://deltaradio.streamabc.net/regc-deltagrunge-mp3-192-7205779?sABC=68op6nqs%230%23970r79qq616ss31r1p27s800o7704rs0%23fgerrzn&aw_0_1st.playerid=streema&amsparams=playerid:streema;skey:1757178591
+#EXTINF:-1,RADIO BOB! - BOBs 90er Rock
+http://regiocast.streamabc.net/regc-radiobob90srock8400272-mp3-192-6033382?sABC=68op6nqs%230%232p81q7n3326478r6740n82q86p4299p3%23fgerrzn&aw_0_1st.playerid=streema&amsparams=playerid:streema;skey:1757178591
+#EXTINF:-1,Radio Vesánico
+http://radiosonline.one:8390/radio.mp3
+#EXTINF:-1,Cosmic FuzzFm (CFFM)
+https://26343.live.streamtheworld.com/SAM04AAC335.mp3
+#EXTINF:-1,Exclusively Neil Young
+https://nl4.mystreaming.net/er/neilyoung/icecast.audio
+#EXTINF:-1,La Lupe Fortín 89.5 - XHFTI
+http://15313.live.streamtheworld.com/XHFTIFM.mp3
+#EXTINF:-1,Pearl Jam Radio
+https://radio.nugs.net/pearljam
+#EXTINF:-1,RADIO BOB! - BOBs Grunge
+https://regiocast.streamabc.net/regc-radiobobgrunge4112801-mp3-192-5387631?sABC=68op6nr0%230%23970r79qq616ss31r1p27s800o7704rs0%23fgerrzn&aw_0_1st.playerid=streema&amsparams=playerid:streema;skey:1757178592
+#EXTINF:-1,R.SA - Rockzirkus
+http://rsa.streamabc.net/regc-rsasachsenrockzirkus8440598-mp3-192-3220659?sABC=68op6nr0%230%232p81q7n3326478r6740n82q86p4299p3%23fgerrzn&aw_0_1st.playerid=streema&amsparams=playerid:streema;skey:1757178592
+#EXTINF:-1,Feierfreund - Rockparty
+http://regiocast.streamabc.net/regc-feierfreundrockparty4811942-mp3-192-2399946?sABC=68op6nr0%230%232p81q7n3326478r6740n82q86p4299p3%23fgerrzn&aw_0_1st.playerid=streema&amsparams=playerid:streema;skey:1757178592
+#EXTINF:-1,Bone Pool Radio (BPR)
+http://streamer.radio.co/s49a58b236/listen
+#EXTINF:-1,RPR1. - 90er Rock
+http://audiotainment-sw.streamabc.net/atsw-90erpop-mp3-128-4512525?sABC=68op6nr1%230%232p81q7n3326478r6740n82q86p4299p3%23gjy25&aw_0_1st.playerid=twl25&amsparams=playerid:twl25;skey:1757178593
+#EXTINF:-1,RPR1. - 90er Trash
+http://audiotainment-sw.streamabc.net/atsw-90erdance-mp3-128-6704216?sABC=68op6nr1%230%232p81q7n3326478r6740n82q86p4299p3%23gjy25&aw_0_1st.playerid=twl25&amsparams=playerid:twl25;skey:1757178593
+#EXTINF:-1,Live From The Lounge Radio
+http://das-edge17-live365-dal02.cdnstream.com/a46518
+#EXTINF:-1,Rock Rage Radio - Brews Radio
+http://usa14.fastcast4u.com:5088/stream
+#EXTINF:-1,Exclusively Alanis Morissette
+https://nl4.mystreaming.net/er/alanismorissette/icecast.audio
+#EXTINF:-1,Exclusively Nickelback
+https://nl4.mystreaming.net/er/nickelback/icecast.audio
+#EXTINF:-1,Exclusively Stone Temple Pilots
+https://nl4.mystreaming.net/er/stonetemplepilots/icecast.audio
+#EXTINF:-1,Exclusively Foo Fighters
+https://nl4.mystreaming.net/er/foofighters/icecast.audio
+#EXTINF:-1,Exclusively Nirvana
+https://nl4.mystreaming.net/er/nirvana/icecast.audio
+#EXTINF:-1,4400 IRONCITY
+https://4400-ironcity.stream.laut.fm/4400-ironcity
+#EXTINF:-1,90s90s – Grunge
+http://regiocast.streamabc.net/regc-90s90sgrunge7540920-mp3-192-4353468?sABC=68ppqss4%231%23fgerrzn%23fgernzf&aw_0_1st.playerid=streams&amsparams=playerid:streams;skey:1758257140
+#EXTINF:-1,Big R Radio – Grunge FM
+http://26343.live.streamtheworld.com/SAM04AAC335.mp3
+#EXTINF:-1,delta radio – Grunge
+http://deltaradio.streamabc.net/regc-deltagrunge-mp3-192-7205779?sABC=68ppqss5%230%239s82ns4sp9qoo8rsnp8n694n144p1pp2%23fgerrzn&aw_0_1st.playerid=streema&amsparams=playerid:streema;skey:1758257141
+#EXTINF:-1,Feierfreund – Rockparty
+http://regiocast.streamabc.net/regc-feierfreundrockparty4811942-mp3-192-2399946?sABC=68ppqss5%230%239s82ns4sp9qoo8rsnp8n694n144p1pp2%23fgerrzn&aw_0_1st.playerid=streema&amsparams=playerid:streema;skey:1758257141
+#EXTINF:-1,GotRadio – 90’s Alternative
+http://das-edge13-live365-dal02.cdnstream.com/a46518
+#EXTINF:-1,R.SA – Rockzirkus
+http://rsa.streamabc.net/regc-rsasachsenrockzirkus8440598-mp3-192-3220659?sABC=68ppqss5%230%239s82ns4sp9qoo8rsnp8n694n144p1pp2%23fgerrzn&aw_0_1st.playerid=streema&amsparams=playerid:streema;skey:1758257141
+#EXTINF:-1,RADIO BOB! – BOBs 90er Rock
+http://regiocast.streamabc.net/regc-radiobob90srock8400272-mp3-192-6033382?sABC=68ppqss5%230%239s82ns4sp9qoo8rsnp8n694n144p1pp2%23fgerrzn&aw_0_1st.playerid=streema&amsparams=playerid:streema;skey:1758257141
+#EXTINF:-1,RADIO BOB! – BOBs Grunge
+http://regiocast.streamabc.net/regc-radiobobgrunge4112801-mp3-192-5387631?sABC=68ppqss5%230%239s82ns4sp9qoo8rsnp8n694n144p1pp2%23fgerrzn&aw_0_1st.playerid=streema&amsparams=playerid:streema;skey:1758257141
+#EXTINF:-1,RMF ON – RMF Grunge
+http://195.150.20.242:8000/rmf_grunge
+#EXTINF:-1,RPR1. – 90er Rock
+http://audiotainment-sw.streamabc.net/atsw-90erpop-mp3-128-4512525?sABC=68ppqss6%230%239s82ns4sp9qoo8rsnp8n694n144p1pp2%23gjy25&aw_0_1st.playerid=twl25&amsparams=playerid:twl25;skey:1758257142
+#EXTINF:-1,RPR1. – 90er Trash
+http://audiotainment-sw.streamabc.net/atsw-90erdance-mp3-128-6704216?sABC=68ppqss6%230%239s82ns4sp9qoo8rsnp8n694n144p1pp2%23gjy25&aw_0_1st.playerid=twl25&amsparams=playerid:twl25;skey:1758257142

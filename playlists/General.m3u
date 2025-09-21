@@ -7,3 +7,49 @@ http://stream4.hippynet.co.uk:8012/backup
 http://puma.streemlion.com:4970/stream
 #EXTINF:-1,LT10 FM
 http://radio.arcast.net:1070/stream
+#EXTINF:-1,Rádio Foz do Mondego - 128 - Portugal - generalista - local news - pop music
+http://hydra.shoutca.st:2199/tunein/radiogeneral-stream.pls
+#EXTINF:-1,Police FM
+http://c20.radioboss.fm:8493/stream
+#EXTINF:-1,Violent Forces Radio: General Thrash
+https://free.rcast.net/261341
+#EXTINF:-1,RasCast Radio - Streaming Music 24/7
+https://free.rcast.net/247969
+#EXTINF:-1,FMI 99.1 – LV12
+http://s1.radiosnethosting.com:9808/stream
+#EXTINF:-1,Frequence Plus Andenne
+http://frequenceplusandenne.ice.infomaniak.ch/frequenceplusandenne-192.mp3
+#EXTINF:-1,Lérins Radio
+http://213.165.68.183:9092/stream
+#EXTINF:-1,Radio Amazónica
+http://cloudstream2034.conectarhosting.com:8172/stream/
+#EXTINF:-1,Radio Antena Shqip
+http://5.135.154.91:8598/
+#EXTINF:-1,Radio Global
+http://ares.disfrutaenlared.com:6048/
+#EXTINF:-1,Radio Marzahn
+https://radio-marzahn.stream.laut.fm/radio-marzahn?t302=2025-09-19_04-44-05&uuid=fa8be5a9-ae6a-41fc-8b7c-b529e005fcbc
+#EXTINF:-1,Radio USK
+http://radiousk.radioca.st:8034/stream/
+#EXTINF:-1,Rouge FM – Best Hits
+http://rouge-besthits.ice.infomaniak.ch/rouge-besthits-64.aac
+#EXTINF:-1,Rouge FM – Live Music
+http://rougefm.ice.infomaniak.ch/rougefm-high.mp3
+#EXTINF:-1,Rouge FM – Made In Suisse
+http://rouge-suisse.ice.infomaniak.ch/rouge-suisse-128.mp3
+#EXTINF:-1,Vanilla Radio – Fresh Flavors
+http://i7.streams.ovh:17074/stream
+#EXTINF:-1,Web Rádio Nova Brasil JF
+http://hts01.kshost.com.br:8356/
+#EXTINF:-1,Best Of Rock.FM Rammstein (mp3-256)
+https://radio21.streamabc.net/radio21-rammstein-mp3-256-6531580?sABC=68o37s6s%230%23792p5r9o09psn15o7r9o07362o891967%23&aw_0_1st.playerid=&amsparams=playerid:;skey:1756594031
+#EXTINF:-1,Azteka Radio en vivo
+https://streamingcwsradio30.com/8176/
+#EXTINF:-1,France Info
+http://icecast.radiofrance.fr/franceinfo-midfi.mp3
+#EXTINF:-1,MCF Radio - Kampala - 98.7 FM (MP3)
+http://streams.radio.co/s79fbbb432/listen
+#EXTINF:-1,VOA Chinese Radio
+http://voa-ingest.akamaized.net/hls/live/2035206/151_124L/playlist.m3u8
+#EXTINF:-1,Inmaculada FM Aguadas en vivo
+https://play14.tikast.com:22015/stream

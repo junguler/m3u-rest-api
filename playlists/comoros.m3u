@@ -1,0 +1,35 @@
+#EXTM3U
+#EXTINF:-1,Radio RTMC
+http://rtmc.ice.infomaniak.ch/rtmc-32.mp3
+#EXTINF:-1,ACMC Radio
+http://acmc.ice.infomaniak.ch/acmc-32.mp3
+#EXTINF:-1,Radio France Comores
+https://radiofrancecomores.ice.infomaniak.ch/radiofrancecomores-128.mp3
+#EXTINF:-1,midayi fm
+https://radio2.pro-fhi.net:19015/stream
+#EXTINF:-1,Radio Malezi FM
+http://37.187.77.45:9185/
+#EXTINF:-1,Radio Océan Indien
+https://stream.vestaradio.com/RadioMRV
+#EXTINF:-1,Nour Webradio
+http://Nour-webradio.ice.infomaniak.ch/nour-webradio.mayotte-32.aac
+#EXTINF:-1,Antenna Web Moroni
+https://italiavera.radioca.st/stream
+#EXTINF:-1,Latriperie Listen live
+https://latriperie.stream.laut.fm/latriperie?t302=2025-09-17_21-54-47&uuid=3c51ed15-402e-4674-8c13-28bf08227d84
+#EXTINF:-1,FunX Utrecht Listen live
+https://icecast.omroep.nl/funx-utrecht-bb-mp3
+#EXTINF:-1,moods Listen live
+https://moods.stream.laut.fm/moods?ref=radiode&t302=2025-09-17_21-54-48&uuid=6e541d2d-cae1-4b55-a81a-7737b5ffbad8
+#EXTINF:-1,RFI Afrique
+https://rfiafrique64k.ice.infomaniak.ch/rfiafrique-64.mp3
+#EXTINF:-1,Radio Comores Marseille
+https://stream.vestaradio.com/RCM13
+#EXTINF:-1,Radio ACMC
+https://acmc.ice.infomaniak.ch/acmc-32.mp3
+#EXTINF:-1,RTMC
+https://rtmc.ice.infomaniak.ch/rtmc-32.mp3
+#EXTINF:-1,SmoothLounge.com Global – Moroni – Grande Comore – KM
+https://smoothjazz.cdnstream1.com/2585_128.mp3
+#EXTINF:-1,Radio Comores Marseille 107.8 FM بث حي
+https://stream.vestaradio.com/RCM13?nocache=1691589981

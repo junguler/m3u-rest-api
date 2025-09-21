@@ -1,0 +1,41 @@
+#EXTM3U
+#EXTINF:-1,AFR Talk
+https://mediaserver3.afa.net:8443/talk.mp3
+#EXTINF:-1,K-LOVE Radio
+https://emf-seg001222.cdnstream1.com/seg001222-i64.aac?platform=airable&city=san-jose&country=united-states&geo_api=abstract_ip&latitude=37.3361663&longitude=-121.890591&opawg_result=false&region=california&segment=001222&t=1&k=ZcgLLhLgVwUCFrW4EDTE12vBCroA0cI0v7p0EHLVd131ObSU-nZNHdX7-d-kICZldmNfxw2ePpgCDDhIWlxKeTGoPfz0cAOHB9T7TLcXuCM6yv84v6aiT1QmKJXX3_DH-2GS2uM
+#EXTINF:-1,100.3 The Edge
+https://stream.revma.ihrhls.com/zc89
+#EXTINF:-1,KSSN 96
+https://stream.revma.ihrhls.com/zc105
+#EXTINF:-1,102.1 KOKY-FM
+https://18733.live.streamtheworld.com/KOKYFMAAC.aac
+#EXTINF:-1,Newsradio 102.9 KARN
+https://22963.live.streamtheworld.com/KARNFMAAC.aac
+#EXTINF:-1,101.1 FM The Answer
+https://18543.live.streamtheworld.com/KDXEFMAAC.aac
+#EXTINF:-1,102.5 Praise FM
+https://24923.live.streamtheworld.com/KPZKFMAAC.aac
+#EXTINF:-1,105.1 The Wolf
+https://stream.revma.ihrhls.com/zc93
+#EXTINF:-1,Classical 90.5 KLRE
+https://26233.live.streamtheworld.com/KLREFM.mp3
+#EXTINF:-1,Little Rock's B98.5
+https://14923.live.streamtheworld.com/KURBFMAAC.aac
+#EXTINF:-1,Power 92 Jams
+https://18433.live.streamtheworld.com/KIPRFMAAC.aac
+#EXTINF:-1,WiLD
+https://stream.revma.ihrhls.com/zc4722
+#EXTINF:-1,HOT 94.9
+https://stream.revma.ihrhls.com/zc101
+#EXTINF:-1,89.1 KUAR
+https://26293.live.streamtheworld.com/KUARFM.mp3
+#EXTINF:-1,Sports Animal 920
+https://24963.live.streamtheworld.com/KARNAMAAC.aac
+#EXTINF:-1,AM 1090 KAAY
+https://17803.live.streamtheworld.com/KAAYAMAAC.aac
+#EXTINF:-1,Alice 107.7
+https://24863.live.streamtheworld.com/KLALFMAAC.aac
+#EXTINF:-1,Atlantis Radio
+https://stream.revma.ihrhls.com/zc7418
+#EXTINF:-1,Faith Talk 99.5
+https://24983.live.streamtheworld.com/KDISFMAAC.aac

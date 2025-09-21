@@ -1,0 +1,71 @@
+#EXTM3U
+#EXTINF:-1,Радио Орфей
+https://orfeyfm.hostingradio.ru:8034/orfeyfm192.mp3
+#EXTINF:-1,
+https://icecast-radioclassica.cdnvideo.ru/sberzvuk
+#EXTINF:-1,101.ru - Классическая Музыка
+https://pub0101.101.ru/stream/pro/aac/64/98?
+#EXTINF:-1,101.ru - Pop Classical Music
+https://pub0101.101.ru/stream/pro/aac/64/97
+#EXTINF:-1,101.ru - NeoClassical
+https://pub0202.101.ru:8443/stream/pro/aac/64/275?
+#EXTINF:-1,101.ru - Опера
+https://pub0202.101.ru:8443/stream/pro/aac/64/96?
+#EXTINF:-1,Радио Орфей - Классика без границ
+https://orfeyfm.hostingradio.ru:8034/orpheuscwb128.mp3
+#EXTINF:-1,Radio México Internacional
+https://s2.mexside.net:7017/;
+#EXTINF:-1,Радио Музком
+https://geshou.s02.radio-tochka.com:5005/stream
+#EXTINF:-1,Classic FM
+https://classic.amgradio.ru/ClassicFM
+#EXTINF:-1,Radio Maestro
+https://nue01-edge01.itdc.ge/fm-maestro-94.7/tracks-a1/playlist.m3u8
+#EXTINF:-1,EPIC CLASSICAL - Classical Orchestral
+https://0nlineradio.stream42.radiohost.de/classical-classical-orchestral?upd-meta=0&upd-scheme=https&_art=dD0xNzU2OTMxMDc3JmQ9OTFkZGYxNGQ3YzMxOWEwNGUxMWU
+#EXTINF:-1,0nlineradio SCHUMANN
+https://0nlineradio.stream42.radiohost.de/0r-schumann?ref=radiobrowser&upd-meta=0&upd-scheme=https&_art=dD0xNzU2OTMxMDc3JmQ9MjY4MWNhNTUwMTNlM2UzNWVkOWQ
+#EXTINF:-1,0nlineradio BEETHOVEN
+https://0nlineradio.stream42.radiohost.de/0r-beethoven?ref=radiobrowser&upd-meta=0&upd-scheme=https&_art=dD0xNzU2OTMxMDc3JmQ9NmE2NDJmOGQ5OWZkNDg1YmVmOTE
+#EXTINF:-1,0nlineradio SCHUBERT
+https://0nlineradio.stream42.radiohost.de/0r-schubert?ref=radiobrowser&upd-meta=0&upd-scheme=https&_art=dD0xNzU2OTMxMDc3JmQ9ZDQyYzMyZWE4MWM2NzYzMWJjZGY
+#EXTINF:-1,Rádio Máquina Instrumental
+https://servidor29-2.brlogic.com:8578/live
+#EXTINF:-1,011.FM - Holiday Instrumental
+http://listen.011fm.com/stream33
+#EXTINF:-1,instrumental orchestral hits
+http://instrumental-orchestral-hits.stream.laut.fm/instrumental-orchestral-hits
+#EXTINF:-1,relax
+http://relax.stream.laut.fm/relax
+#EXTINF:-1,kulturkanal
+http://kulturkanal.stream.laut.fm/kulturkanal
+#EXTINF:-1,senderjf
+http://senderjf.stream.laut.fm/senderjf
+#EXTINF:-1,EPIC CLASSICAL - Classical Orchestral - 192 - Germany - classic - classical - klassik - klassisk - orchestra - orchestral - royal concertgebouw orchestra
+https://0nlineradio.stream42.radiohost.de/classical-classical-orchestral?ref=liveradio&upd-meta&upd-scheme=https&_art=dD0xNzU3NTI1Mzc4JmQ9M2NhOWRkOWJjMGI4MGU2ZjE5NWY
+#EXTINF:-1,Orchestral Rhythm & Soul Music (NL) (MP3 256 kbps)
+https://free.rcast.net/249991
+#EXTINF:-1,RadioArt - Orchestral
+https://free.rcast.net/235804
+#EXTINF:-1,EC_classical_orchestral
+https://0nlineradio.stream13.radiohost.de/classical-classical-orchestral?upd-meta=0&upd-scheme=https&_art=dD0xNzU3MzA0NzMyJmQ9MDJlMTFhNTg2ZGY4NDAwZWY4Nzc
+#EXTINF:-1,Orchestral Rhythm & Soul Music (VIE) (MP3 64 kbps)
+https://free.rcast.net/211801
+#EXTINF:-1,Orchestral Rhythm & Soul Music (NL) (MP3 64 kbps)
+https://free.rcast.net/210327
+#EXTINF:-1,Orchestral Rhythm & Soul Music (VIE) (MP3 256 kbps)
+https://free.rcast.net/209867
+#EXTINF:-1,Media Stad Deventer
+https://free.rcast.net/209322
+#EXTINF:-1,Instrumentalhits - Radio Schlagerparadies
+https://free.rcast.net/208764
+#EXTINF:-1,Orchestral Rhythm & Soul Music (DE) (MP3 192 kbps)
+https://free.rcast.net/207844
+#EXTINF:-1,Orchestral Rhythm & Soul Music (VIE) (MP3 192 kbps)
+https://free.rcast.net/207806
+#EXTINF:-1,Orchestral Rhythm & Soul Music (DE) (MP3 256 kbps)
+https://free.rcast.net/205785
+#EXTINF:-1,Orchestral Rhythm & Soul Music (DE) (MP3 64 kbps)
+https://free.rcast.net/205703
+#EXTINF:-1,Orchestral Rhythm & Soul Music (NL) (MP3 192 kbps)
+https://free.rcast.net/204683

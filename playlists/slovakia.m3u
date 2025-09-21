@@ -1,0 +1,299 @@
+#EXTM3U
+#EXTINF:-1,Jazz Spirit
+https://streaming.brol.tech/rtfmlounge
+#EXTINF:-1,Fun Radio Novinky
+http://stream.funradio.sk:8000/fun128.mp3
+#EXTINF:-1,Radio Expres
+https://stream.bauermedia.sk/expres-hi.mp3
+#EXTINF:-1,Europa 2
+https://stream.bauermedia.sk/europa2.mp3
+#EXTINF:-1,Fun Radio 80&&90
+http://stream.funradio.sk:8000/80-90-128.mp3
+#EXTINF:-1,Fun Radio CZ
+http://stream.funradio.sk:8000/cs128.mp3
+#EXTINF:-1,Fun Radio Dance
+http://stream.funradio.sk:8000/dance128.mp3
+#EXTINF:-1,Kosice International ATC
+https://www.liveatc.net/play/lzkz.pls
+#EXTINF:-1,METALSCENA netRADIO
+https://listen.radioking.com/radio/263218/stream/308365
+#EXTINF:-1,Rádio Jazz
+http://stream.sepia.sk:8000/jazz128.mp3
+#EXTINF:-1,Rádio Jemné Chillout
+http://stream.bauermedia.sk/chillout.mp3
+#EXTINF:-1,Rádio Maria Slovensko
+http://dreamsiteradiocp5.com:8012/streaming.mp3
+#EXTINF:-1,Rádio Melody
+https://stream.bauermedia.sk/melody-hi.mp3
+#EXTINF:-1,Rádio Paráda
+https://extra.mediacp.eu/stream/RadioParada,o.z.
+#EXTINF:-1,Rádio Relax International
+https://edge01.cdn.bitflip.ee:8888/international?_i=acb6e2d1
+#EXTINF:-1,Rádio Rock SV
+https://s2.myradiostream.com/:4870/listen.mp3
+#EXTINF:-1,Rádio Sity
+https://radiosity.online:8000/aac
+#EXTINF:-1,Rádio Viva
+http://stream.sepia.sk:8000/viva128.mp3
+#EXTINF:-1,Rádio Vlna
+https://stream.radiovlna.sk/vlna-hi.mp3
+#EXTINF:-1,Rádio Vlna CLASSIC ROCK
+http://stream.radiovlna.sk:8000/rock-hi.mp3
+#EXTINF:-1,Rádio Vlna Golden hits
+https://stream.radiovlna.sk/gold-hi.mp3
+#EXTINF:-1,Sllobodný vysielač
+http://159.69.219.5:8010//aac
+#EXTINF:-1,Slobodný vysielač
+http://159.69.219.5:8010/mp3
+#EXTINF:-1,HITRADIO SLOVAKIA
+https://hitradioslovakia.stream.laut.fm/hitradioslovakia?ref=radiode&t302=2025-09-06_23-16-44&uuid=6a4bb00e-2bc0-4a7f-9905-a7c83c125f0b
+#EXTINF:-1,Fun Radio 80.90.Roky
+https://stream.funradio.sk:8000/80-90-64.mp3
+#EXTINF:-1,Fun Radio - Live
+https://stream.funradio.sk:8000/fun128.mp3.m3u
+#EXTINF:-1,Rádio 7 Radio
+https://stream02.pcradio.biz/radio7_sk-med
+#EXTINF:-1,radiOzora - Chill Radio
+https://stream02.pcradio.biz/radiozora_chill-med
+#EXTINF:-1,Radio Pokoj
+https://stream02.pcradio.biz/pokoj_sk-med
+#EXTINF:-1,Rock Arena Radio
+https://stream02.pcradio.biz/rockarena_sk-med
+#EXTINF:-1,Radio Beta - Hráme Jubilantom
+https://stream02.pcradio.biz/beta_jubilantom-med
+#EXTINF:-1,Rádio Anténa Rock Radio
+https://stream02.pcradio.biz/antenarock_sk-med
+#EXTINF:-1,Fun Radio 80s-90s
+https://stream02.pcradio.biz/funradio_sk_80s90s-med
+#EXTINF:-1,Rusyn FM Radio
+https://stream02.pcradio.biz/rusyn_fm-med
+#EXTINF:-1,Rádio Anténa Rock Hard Radio
+https://stream02.pcradio.biz/antenarock_sk_hard-med
+#EXTINF:-1,RTVS Rádio Junior Radio
+https://stream02.pcradio.biz/rtvs_junior-med
+#EXTINF:-1,Radio Best FM (Bratislava)
+https://stream02.pcradio.biz/bestfm_sk-med
+#EXTINF:-1,Rádio Logos Radio
+https://stream02.pcradio.biz/logos_sk-med
+#EXTINF:-1,G-Radio
+https://stream02.pcradio.biz/gradio_sk-med
+#EXTINF:-1,Rádio Vlna Radio
+https://stream02.pcradio.biz/radiovlna_sk-med
+#EXTINF:-1,Europa 2 Radio
+https://stream02.pcradio.biz/europa2_sk-med
+#EXTINF:-1,radiOzora - Trance Radio
+https://stream02.pcradio.biz/radiozora_trance-med
+#EXTINF:-1,Fun Radio 94,3 FM
+https://stream02.pcradio.biz/funradio_sk-med
+#EXTINF:-1,Rádio Jemné Radio
+https://stream02.pcradio.biz/jemne_sk-med
+#EXTINF:-1,Slobodný vysielač Radio
+https://stream02.pcradio.biz/slobodny_vysielac-med
+#EXTINF:-1,Rádio Lumen Radio
+https://stream02.pcradio.biz/lumen_sk-med
+#EXTINF:-1,RTVS Rádio Slovensko Radio
+https://stream02.pcradio.biz/rtvs_slovensko-med
+#EXTINF:-1,Dobré rádio Radio
+https://stream02.pcradio.biz/dobreradio_sk-med
+#EXTINF:-1,Rádio Aetter Radio
+https://stream02.pcradio.biz/aetter_sk-med
+#EXTINF:-1,RTVS Rádio Litera Radio
+https://stream02.pcradio.biz/rtvs_litera-med
+#EXTINF:-1,Trnavské rádio 103.9 FM Radio
+https://stream02.pcradio.biz/trnavske_radio-med
+#EXTINF:-1,Rádio Mária Slovensko Radio
+https://stream02.pcradio.biz/maria_slovensko-med
+#EXTINF:-1,Rádio Vlna Golden Radio
+https://stream02.pcradio.biz/vlna_sk_golden-med
+#EXTINF:-1,RTVS Rádio Slovakia International Radio
+https://stream02.pcradio.biz/rtvs_slovak_int-med
+#EXTINF:-1,Fun Radio CZ-SK
+https://stream02.pcradio.biz/funradio_czsk-med
+#EXTINF:-1,Radio WOW
+https://stream02.pcradio.biz/wow_sk-med
+#EXTINF:-1,RTVS Rádio Regina Východ Radio
+https://stream02.pcradio.biz/rtvs_reginavych-med
+#EXTINF:-1,SKY Rádio (Prešov) Radio
+https://stream02.pcradio.biz/skyradio_sk-med
+#EXTINF:-1,RTVS Rádio Devín Radio
+https://stream02.pcradio.biz/rtvs_devin-med
+#EXTINF:-1,Rádio Modra Radio
+https://stream02.pcradio.biz/modra_sk-med
+#EXTINF:-1,Nonstop Rádio Radio
+https://stream02.pcradio.biz/nonstop_sk-med
+#EXTINF:-1,Fit Family Rádio Radio
+https://stream02.pcradio.biz/fitfamily_slo-med
+#EXTINF:-1,RTVS Radio Regina Stred
+https://stream02.pcradio.biz/rtvs_reg_stred-med
+#EXTINF:-1,Radio Beta - Hity 80's a 90's
+https://stream02.pcradio.biz/beta_8090-med
+#EXTINF:-1,Rádio Viva 94.9 FM Radio
+https://stream02.pcradio.biz/viva_949fm-med
+#EXTINF:-1,Rádio Košice Radio
+https://stream02.pcradio.biz/radiokosice_sk-med
+#EXTINF:-1,Rádio Expres Radio
+https://stream02.pcradio.biz/expres_sk-med
+#EXTINF:-1,Záhorácke Rádio Radio
+https://stream02.pcradio.biz/zahoracke_rad-med
+#EXTINF:-1,Rádio Šírava Radio
+https://stream02.pcradio.biz/sirava_sk-med
+#EXTINF:-1,Radio Beta
+https://stream02.pcradio.biz/beta_sk-med
+#EXTINF:-1,Rádio SiTy 107FM Radio
+https://stream02.pcradio.biz/radiosity_sk-med
+#EXTINF:-1,Rádio Jupiter Radio
+https://stream02.pcradio.biz/jupiter_sk-med
+#EXTINF:-1,New Model Rádio Radio
+https://stream02.pcradio.biz/newmodel_sk-med
+#EXTINF:-1,RTVS Pátria Rádio Radio
+https://stream02.pcradio.biz/patria_radio-med
+#EXTINF:-1,Rádio Kiks Radio
+https://stream02.pcradio.biz/kiks_sk-med
+#EXTINF:-1,Frontinus Radio
+https://stream02.pcradio.biz/frontinus_sk-med
+#EXTINF:-1,SUB FM Radio
+https://stream02.pcradio.biz/rad_sbfmsk-med
+#EXTINF:-1,RTVS Rádio Pyramída Radio
+https://stream02.pcradio.biz/rtvs_pyramida-med
+#EXTINF:-1,Rádio Rock (Slovakia) Radio
+https://stream02.pcradio.biz/rad_rdrcksk-med
+#EXTINF:-1,Rádio Topoľčany 102,9 MHz Radio
+https://stream02.pcradio.biz/rad_rdtplcnsk-med
+#EXTINF:-1,RTVS Rádio_FM Radio
+https://stream02.pcradio.biz/rtvs_radio_fm-med
+#EXTINF:-1,Rádio Vlna Classic Rock Radio
+https://stream02.pcradio.biz/rad_rdivlnclssicrck-med
+#EXTINF:-1,Radio Rock SV
+https://stream02.pcradio.biz/r_rock_sv-med
+#EXTINF:-1,Rádio Jazz 92.6 FM (Bratislava) Radio
+https://stream02.pcradio.biz/rad_rdjzzsk-med
+#EXTINF:-1,Rádio iRock Radio
+https://stream02.pcradio.biz/rad_rcksk-med
+#EXTINF:-1,Detské Rádio Radio
+https://stream02.pcradio.biz/rad_dtskrdsc-med
+#EXTINF:-1,Bratislavské Rádio Radio
+https://stream02.pcradio.biz/rad_brtslvskrdsk-med
+#EXTINF:-1,Radio Tatras International
+https://securestreams7.autopo.st/?uri=http://s32.myradiostream.com:10486/stream
+#EXTINF:-1,Radio Sity
+http://s32.myradiostream.com:10486/
+#EXTINF:-1,Radio Yes
+http://80.242.44.249:8000/
+#EXTINF:-1,radiOzora Chill channel
+http://chill.out.airtime.pro:8000/chill_b
+#EXTINF:-1,radiOzora Trance channel
+http://trance.out.airtime.pro:8000/trance_a
+#EXTINF:-1,RTI Gold
+http://s28.myradiostream.com:18084/listen.mp3
+#EXTINF:-1,Jemné Melódie
+http://stream.bauermedia.sk/melody-hi.mp3
+#EXTINF:-1,Rádio Vlna Golden Hits
+https:/http:/adiosity.online:8000/aac
+#EXTINF:-1,Rádio Topoľčany
+http://80.242.44.249:8000/;
+#EXTINF:-1,Fun Radio Chill
+https://stream.funradio.sk:8000/chill128.mp3
+#EXTINF:-1,Fun Radio 80&amp;90
+https:/http:/adioserver.online:9936http:/adiosirava.mp3
+#EXTINF:-1,Infovojna
+http://159.69.219.5:8010/aac
+#EXTINF:-1,Radio Dychovka
+https://epanel.mediacp.eu:7661/stream
+#EXTINF:-1,HITRADIO SLOVAKIA radio
+https://hitradioslovakia.stream.laut.fm/hitradioslovakia?t302=2025-09-01_11-13-17&uuid=668b5d3f-680a-4960-ae53-94e171e2e6de
+#EXTINF:-1,Radio ROCK radio
+https://stream.bauermedia.sk/rock-hi.mp3
+#EXTINF:-1,Radio KIKS radio
+https://online.radiokiks.sk:8000/kiks_hq.mp3
+#EXTINF:-1,RádioLOKÁL radio
+https://mpc1.mediacp.eu/stream/radiolokal/stream.mp3
+#EXTINF:-1,Rádio Logos radio
+https://radio.wanderingsheep.net/radio/8120/live.mp3
+#EXTINF:-1,Best FM 95.6 radio
+https://stream3.bestfm.sk:8000/160.aac
+#EXTINF:-1,897 DANCE Radio
+http://c34.radioboss.fm:8106/stream
+#EXTINF:-1,RADIO Rock SV
+https://s2.myradiostream.com:4870/listen.mp3?nocache=1757213674
+#EXTINF:-1,100.5 FM Restauracion
+http://cdn-radio.elim.org.sv:8007/mp3_128?type=.mp3
+#EXTINF:-1,Fun Radio Cafe del Fun
+http://stream.funradio.sk:8000/fun128.mp3?type=.mp3
+#EXTINF:-1,Hitradio Slovakia
+http://hitradioslovakia.stream.laut.fm/hitradioslovakia?t302=2023-02-13_14-07-55&uuid=aed859e4-3008-4b65-b179-63db915b0a6c
+#EXTINF:-1,Radio Max
+https://azuracast.novi-net.net/radio/8010/radiomax.aac
+#EXTINF:-1,Slobodny Vysielac
+https://vysielanie.online/radio/8010/aac
+#EXTINF:-1,Fun Radio Live
+https://vysielanie.online/radio/8020/SV128.mp3
+#EXTINF:-1,Radio Viva
+http://chill.out.airtime.pro:8000/chill_a
+#EXTINF:-1,RTI Offshore
+http://s22.myradiostream.com:14784/
+#EXTINF:-1,FUN Radio
+https://stream.funradio.sk:8000/dance128.mp3
+#EXTINF:-1,897 FM GOLD
+http://c10.radioboss.fm:8122/stream
+#EXTINF:-1,Fun Radio 8090 Rocky
+https://stream.funradio.sk:8000/80-90-128.mp3
+#EXTINF:-1,Fun Radio Danubius
+https://stream.funradio.sk:8000/fun128.mp3
+#EXTINF:-1,Radio Duj
+http://onair.dancewave.online:8080/dance.mp3
+#EXTINF:-1,Fun Radio Leto Listen live
+https://stream.funradio.sk:8000/summer128.mp3
+#EXTINF:-1,680 CJOB Listen live
+https://corus.leanstream.co/CJOBAM-MP3
+#EXTINF:-1,BouncerFM Listen live
+https://bouncerfm.stream.laut.fm/bouncerfm?t302=2025-09-17_23-04-01&uuid=86e75ef2-f5a4-411e-bf68-bf1606a224ab
+#EXTINF:-1,Radio Tatras International Listen live
+https://s32.myradiostream.com:10486/
+#EXTINF:-1,tango-nuevo Listen live
+https://tango-nuevo.stream.laut.fm/tango-nuevo?ref=radiode&t302=2025-09-17_23-04-04&uuid=6d23c2db-ed68-411f-adaf-8b329fe29668
+#EXTINF:-1,90er-Revival Listen live
+https://90er-revival.stream.laut.fm/90er-revival?t302=2025-09-17_23-04-04&uuid=698964cd-c4d7-4ed1-a0d3-7dda9ec60a88
+#EXTINF:-1,Radio Koudjouni Listen live
+https://radio.mayotte-streaming.com/8002/server
+#EXTINF:-1,Power 98 Listen live
+https://ice3.securenetsystems.net/KZGZ
+#EXTINF:-1,Glow FM Listen live
+https://stream.glowfm.nl/glowfm.aac
+#EXTINF:-1,Rádio Anténa Rock
+http://trance.out.airtime.pro:8000/trance_c
+#EXTINF:-1,897 FM DANCE
+https://c34.radioboss.fm:18106/stream
+#EXTINF:-1,Rádio Mária Slovensko
+http://dreamsiteradiocp5.com:8012/
+#EXTINF:-1,897 FM HITS
+https://c10.radioboss.fm:18122/stream
+#EXTINF:-1,897 DANCE
+https://hitradioslovakia.stream.laut.fm/hitradioslovakia?t302=2025-09-12_02-29-07&uuid=2fbed1b8-3b69-44e3-b9e9-ecae50a7bcc7
+#EXTINF:-1,Rádio Viva Metropol
+https://stream.sepia.sk/viva128.mp3
+#EXTINF:-1,Radio Vlna
+http://65.108.80.164/radio/8020/SV128.mp3
+#EXTINF:-1,Melody
+https://stream.funradio.sk/cs128.mp3
+#EXTINF:-1,Fresh Radio EU
+https://icecast.beatzone.cz/radio/8000/128.mp3
+#EXTINF:-1,Fun Radio - Chill
+http://stream.funradio.sk:8000/chill128.mp3
+#EXTINF:-1,Radio Rogla
+http://193.105.67.24:8010
+#EXTINF:-1,Rádio Lokál
+http://mpc1.mediacp.eu:8062/stream/
+#EXTINF:-1,Fun Rádio - Radio CZ-SK
+https://epanel.mediacp.eu:7661/stream/
+#EXTINF:-1,Radio Tatras International - RTI Live
+http://s2.myradiostream.com:4870/
+#EXTINF:-1,Fun Rádio - Dance
+http://dreamsiteradiocp5.com:8012/stream/
+#EXTINF:-1,Radio Maria Slovakia - Hungarian Service
+http://dreamsiteradiocp5.com:8092/stream/
+#EXTINF:-1,Fun Rádio – Radio CZ-SK
+https://stream.bauermedia.sk/expres-lo.mp3
+#EXTINF:-1,Rádio KIKS - Rock Music
+https://online.radiokiks.sk:8000/kiks_rock.mp3
+#EXTINF:-1,Radio Viva Metropol
+http://s1-fmt2.liveatc.net/lzkz?nocache=2025083100201534883

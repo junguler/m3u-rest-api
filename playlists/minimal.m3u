@@ -1,4 +1,80 @@
 #EXTM3U
+#EXTINF:-1,Deep Depot
+http://deepdepot.stream.laut.fm/deep_depot
+#EXTINF:-1,ClubTime FM
+http://listener2.aacl.tb-group.fm/clt-low.aac
+#EXTINF:-1,Esounds
+http://esounds.stream.laut.fm/esounds
+#EXTINF:-1,Digital Room Radio
+https://digitalroomradio.stream.laut.fm/digitalroomradio
+#EXTINF:-1,viennasoundz
+https://viennasoundz.stream.laut.fm/viennasoundz?ref=radiode&t302=2025-09-06_23-05-04&uuid=e4ad01d0-1537-413a-a6a3-15cc018adba8
+#EXTINF:-1,Radio Record Minimal Tech
+https://radiorecord.hostingradio.ru/mini96.aacp
+#EXTINF:-1,mnmlme-offical
+https://mnmlme-offical.stream.laut.fm/mnmlme-offical?ref=radiode&t302=2025-09-06_23-05-04&uuid=3350f736-80c7-4e4c-9752-3db1e5745b1e
+#EXTINF:-1,djex-tc
+https://djex-tc.stream.laut.fm/djex-tc?ref=radiode&t302=2025-09-06_23-05-04&uuid=e3874c6c-2cae-4a38-8609-9c7f2195d2c4
+#EXTINF:-1,The-Best-Sound-House-Radio
+https://stream2-alfacast-hosting.com/8004/stream
+#EXTINF:-1,Techno Underground
+https://162-19-223-151-a47d94.sfn.edge-ovh-de1.streams.radiosphere.io/557b7263-9216-46b5-a813-a156ffbc9acb/channels/39773beb-7f28-4c18-9b8b-2bad32190ce9/stream.aac?source=channels.fluxfm.de
+#EXTINF:-1,Sound Of Berlin
+https://streams.fluxfm.de/soundofberlin/aac-64/radiode/play.m3u
+#EXTINF:-1,D.M.G Electro Deep Radio
+https://dmg.stream.laut.fm/dmg?ref=radiode&t302=2025-09-06_23-05-05&uuid=c516edd6-9c67-470f-9056-ddfc906bb360
+#EXTINF:-1,320 FM
+https://stream.weblygo.de:1030/api/links/?t=winamp&l=stream&c=4
+#EXTINF:-1,bleak radio
+https://bleakradio.stream.laut.fm/bleakradio?ref=radiode&t302=2025-09-06_23-05-06&uuid=487031fe-a58d-4290-81f6-79651f6b2944
+#EXTINF:-1,RevolutionofSounds
+https://revolution-of-sounds.stream.laut.fm/revolution-of-sounds?ref=radiode&t302=2025-09-06_23-05-06&uuid=f798af32-d7c7-43e1-8d7c-a4cb9b04b9bb
+#EXTINF:-1,egoFLASH
+https://cast.egofm.de/egoflash.mp3?ar-distributor=f0a2&aw_0_req.gdpr=true
+#EXTINF:-1,clubbeats
+https://clubbeats.stream.laut.fm/clubbeats?ref=radiode&t302=2025-09-06_23-05-06&uuid=07265368-2acb-4b1f-9de3-0f7d9840e3a8
+#EXTINF:-1,minimalmix radio
+https://minimalmix.radioca.st/media?type=httpu0026nocache=1648820836037
+#EXTINF:-1,lounge
+https://lounge.stream.laut.fm/lounge?ref=radiode&t302=2025-09-06_23-05-06&uuid=8852597d-1255-44ca-9e5a-a8d4dd4ed8d6
+#EXTINF:-1,Sound-of-FFM
+https://sound-of-ffm.stream.laut.fm/sound-of-ffm?ref=radiode&t302=2025-09-06_23-05-07&uuid=8854dae8-6f7c-4185-97ca-b426cfedf1a7
+#EXTINF:-1,Hirschmilch Progressive Channel
+https://hirschmilch.de:7001/progressive.mp3
+#EXTINF:-1,nonpop
+https://nonpop.stream.laut.fm/nonpop?ref=radiode&t302=2025-09-06_23-05-07&uuid=019f2c61-8d95-4fce-9758-417461037071
+#EXTINF:-1,ClubTime.FM
+https://listener1.aacl.tb-group.fm/clt-low.aac
+#EXTINF:-1,Techhouse by rautemusik
+https://rautemusik.stream37.radiohost.de/techhouse?ref=radiode&upd-meta=0&upd-scheme=https&_art=dD0xNzU3MjAwMjA4JmQ9ZjhhZjFjYjMzNDc4YWRhMTIxMzg
+#EXTINF:-1,Traxx.FM Tech-Minimal
+https://traxx020.ice.infomaniak.ch/traxx020-low.mp3
+#EXTINF:-1,Proton Radio
+https://shoutcast.protonradio.com/
+#EXTINF:-1,decoderfm
+https://decoderfm.stream.laut.fm/decoderfm?ref=radiode&t302=2025-09-06_23-05-08&uuid=9ccf01dd-86c3-480c-bc43-fe28f4a99e04
+#EXTINF:-1,itsours
+https://itsours.stream.laut.fm/itsours?ref=radiode&t302=2025-09-06_23-05-08&uuid=7f5ae79a-c9c6-4ebb-bc13-add63536a849
+#EXTINF:-1,HOUSEBOMB-FN
+https://housebomb-fn.stream.laut.fm/housebomb-fn?ref=radiode&t302=2025-09-06_23-05-08&uuid=59b9ef49-6513-4337-9624-d8dff7e8e3e2
+#EXTINF:-1,MINIMALRADIO
+https://minimalradio.de:7000/stream/1/
+#EXTINF:-1,House Industry Radio
+https://listen.radionomy.com/houseindustry.m3u
+#EXTINF:-1,elektronisch_querbeat
+https://elektronischquerbeat.stream.laut.fm/elektronisch_querbeat?ref=radiode&t302=2025-09-07_00-35-48&uuid=9dcbde6d-acae-45e3-9699-697ad19e2d84
+#EXTINF:-1,dj-hdready
+https://dj-hdready.stream.laut.fm/dj-hdready?ref=radiode&t302=2025-09-07_00-35-49&uuid=6937acf9-d37e-4030-a85a-9cec4005a79e
+#EXTINF:-1,exaktneutral
+https://exaktneutral.stream.laut.fm/exaktneutral?ref=radiode&t302=2025-09-07_00-35-49&uuid=a4038b85-dd5a-464b-aecf-2c6ed5e08bc2
+#EXTINF:-1,#Musik TechHouse
+https://rautemusik.stream43.radiohost.de/techhouse?ref=radiode&upd-meta=0&upd-scheme=https&_art=dD0xNzU3MjA1NjUwJmQ9NTE5NDA4OWRkYzhhZjkzNzVhZDg
+#EXTINF:-1,iamthedj_radio
+https://iamthedjradio.stream.laut.fm/iamthedj_radio?ref=radiode&t302=2025-09-07_00-35-50&uuid=8ef82f7a-ed1b-48b6-978e-bda5ccda4ac1
+#EXTINF:-1,XWAVE RADIO
+https://xwaveradio.org/wp-content/plugins/shoutcast/listen.pls
+#EXTINF:-1,eRadio One - Stage Blue
+https://eradio-one.de/stage-blue-high.m3u
 #EXTINF:-1,Mixaradio Electro Paradise
 http://manager7.streamradio.fr:1250/stream
 #EXTINF:-1,Livesets Radio
@@ -7,3 +83,491 @@ http://djuplink.com:80/livesets-radio.mp3
 http://stream.gradio.lv:80/gradio-mix.mp3
 #EXTINF:-1,gradio.lv MIX aac
 http://stream.gradio.lv:80/gradio-mix.mp4a
+#EXTINF:-1,Techno Paradize
+https://techno-paradize.stream.laut.fm/techno-paradize
+#EXTINF:-1,Radio Minimal mix
+https://minimalmix.radioca.st/media
+#EXTINF:-1,Panorama80
+https://panorama80.stream.laut.fm/panorama80
+#EXTINF:-1,Best Of Techno
+https://best-of-techno.stream.laut.fm/best-of-techno?t302=2023-04-25_19-40-01&uuid=c2ac93d5-6918-488e-bee3-cb47c02e4f27
+#EXTINF:-1,Darksynthradio
+https://darksynthradio.stream.laut.fm/darksynthradio?t302=2023-04-25_19-33-24&uuid=25223a77-eb06-4eb8-b7ad-f0df309683fd
+#EXTINF:-1,EBM Radio
+http://www.ebm-radio.org:7000/;537270416216132stream.nsv
+#EXTINF:-1,Soundsystem Synthetic Radio
+https://soundsystem.stream.laut.fm/soundsystem?t302=2023-04-25_19-33-44&uuid=582484fd-2424-48f5-a27a-5c8edb1e502c
+#EXTINF:-1,beFREItE-MUSIK
+https://befreite-musik.stream.laut.fm/befreite-musik?t302=2023-04-25_19-41-37&uuid=64159a3e-635b-48c9-965b-6086259258fc
+#EXTINF:-1,Netlabel.org
+https://netlabelorg.stream.laut.fm/netlabel_org?t302=2023-04-25_19-39-09&uuid=39296429-9bcc-4022-8182-e5c1f23d932e
+#EXTINF:-1,Die Club Night
+https://clubnight.stream.laut.fm/clubnight
+#EXTINF:-1,The Tube | NTS
+https://stream-mixtape-geo.ntslive.net/mixtape26
+#EXTINF:-1,Culture Failure
+http://culturefailure.com:8000/;
+#EXTINF:-1,Thegooshradio Monochrome
+http://eu2.fastcast4u.com:3662/stream/1/
+#EXTINF:-1,OEM Radio
+http://148.251.92.113:8454/stream
+#EXTINF:-1,chronisch_elektronisch-laut-fm
+https://chronischelektronisch.stream.laut.fm/chronisch_elektronisch?pl=m3u&t302=2023-05-10_13-17-15&uuid=10b0e92d-60af-4a6b-898d-6389748dccd5
+#EXTINF:-1,laut.fm - Greyarea
+http://greyarea.stream.laut.fm/greyarea?t302=2023-04-25_19-37-29&uuid=885576aa-b47b-4af8-898e-1d23d618fc84
+#EXTINF:-1,Technolovers - IBIZA HOUSE
+https://0nlineradio.stream42.radiohost.de/technolovers-ibiza-house?ref=radiobrowser&upd-meta=0&upd-scheme=https&_art=dD0xNzU2OTMxMDAxJmQ9Mjc3OWQzYzI0ZGM4ZDQ0MTRkM2Q
+#EXTINF:-1,Technolovers - MINIMAL
+https://0nlineradio.stream42.radiohost.de/technolovers-minimal?ref=radiobrowser&upd-meta=0&upd-scheme=https&_art=dD0xNzU2OTMxMDAxJmQ9Y2QwOWFlNWU3ODg0MjE0YzdjNjM
+#EXTINF:-1,Technolovers - TECHNO
+https://0nlineradio.stream42.radiohost.de/technolovers-techno?ref=radiobrowser&upd-meta=0&upd-scheme=https&_art=dD0xNzU2OTMxMDAyJmQ9M2YxZmVjZDM2ZTdjM2JkZmMzYjA
+#EXTINF:-1,Technolovers - TECHHOUSE
+https://0nlineradio.stream42.radiohost.de/technolovers-techhouse?ref=radiobrowser&upd-meta=0&upd-scheme=https&_art=dD0xNzU2OTMxMDAyJmQ9NDA5MzAyZmIzNjBmOWQ0NjQ0MDg
+#EXTINF:-1,NEU RADIO
+https://nr9.newradio.it/proxy/ebaruffa?mp=/stream
+#EXTINF:-1,1LIVE Fiehe
+http://d131.rndfnk.com/ard/wdr/1live/chillout/mp3/128/stream.mp3?cid=01GRBW9YMFF3AKBC3JQ513E69J&sid=2R8xbmrjVGTxchm1HrD3Pzub5y7&token=NCiF1Ti5m7qLACdXj8jEmbKAc_6QfJbGrS8v7DTWjwI&tvf=wnrPsd0-aBdkMTMxLnJuZGZuay5jb20
+#EXTINF:-1,ProgAlley
+http://progalley.stream.laut.fm/progalley?t302=2023-04-25_19-39-02&uuid=1b5ffa25-5b48-4dc2-8793-b6e4a3ec4cec
+#EXTINF:-1,enationFM
+http://198.58.98.83:8308/;
+#EXTINF:-1,Sunshine Live - Focus
+https://sunsl.streamabc.net/sunsl-sunslxzzupaaj5xv63-mp3-192-2213578?sABC=64481249%230%23n1q9s1ns4osoonq326452q0po510q6pp%23fgernz.fhafuvar-yvir.qr&aw_0_1st.playerid=stream.sunshine-live.de&amsparams=playerid:stream.sunshine-live.de;skey:1682444873
+#EXTINF:-1,Laut.fm Minidisco im Urlaub
+https://minidisco.stream.laut.fm/minidisco?pl=m3u&t302=2023-05-10_13-18-53&uuid=b466b3dd-de81-4199-9be1-38a93bc9277d
+#EXTINF:-1,TAKE A DJ - RADIO
+https://takeadj-radio.stream.laut.fm/takeadj-radio
+#EXTINF:-1,djex tc
+http://djex-tc.stream.laut.fm/djex-tc
+#EXTINF:-1,progalley
+http://progalley.stream.laut.fm/progalley
+#EXTINF:-1,hotmusic
+http://hotmusic.stream.laut.fm/hotmusic
+#EXTINF:-1,goanight
+http://goanight.stream.laut.fm/goanight
+#EXTINF:-1,double bass fm
+http://double-bass-fm.stream.laut.fm/double-bass-fm
+#EXTINF:-1,minimalcalling
+http://minimalcalling.stream.laut.fm/minimalcalling
+#EXTINF:-1,defender
+http://defender.stream.laut.fm/defender
+#EXTINF:-1,suedstadt techno
+http://suedstadt-techno.stream.laut.fm/suedstadt-techno
+#EXTINF:-1,elektrobude
+http://elektrobude.stream.laut.fm/elektrobude
+#EXTINF:-1,digitalroomradio
+http://digitalroomradio.stream.laut.fm/digitalroomradio
+#EXTINF:-1,spontis
+http://spontis.stream.laut.fm/spontis
+#EXTINF:-1,beatworkclub
+http://beatworkclub.stream.laut.fm/beatworkclub
+#EXTINF:-1,techno classics
+http://techno_classics.stream.laut.fm/techno_classics
+#EXTINF:-1,clubnubid
+http://clubnubid.stream.laut.fm/clubnubid
+#EXTINF:-1,techtronic
+http://techtronic.stream.laut.fm/techtronic
+#EXTINF:-1,techno paradize
+http://techno-paradize.stream.laut.fm/techno-paradize
+#EXTINF:-1,deep depot
+http://deep_depot.stream.laut.fm/deep_depot
+#EXTINF:-1,djaingeeonair
+http://djaingeeonair.stream.laut.fm/djaingeeonair
+#EXTINF:-1,dj ds
+http://dj_ds.stream.laut.fm/dj_ds
+#EXTINF:-1,trance house chill
+http://trance-house-chill.stream.laut.fm/trance-house-chill
+#EXTINF:-1,wavebreaker
+http://wavebreaker.stream.laut.fm/wavebreaker
+#EXTINF:-1,chronisch elektronisch
+http://chronisch_elektronisch.stream.laut.fm/chronisch_elektronisch
+#EXTINF:-1,sb events
+http://sb-events.stream.laut.fm/sb-events
+#EXTINF:-1,mnmltech
+http://mnmltech.stream.laut.fm/mnmltech
+#EXTINF:-1,powerhouse
+http://powerhouse.stream.laut.fm/powerhouse
+#EXTINF:-1,generation of sounds
+http://generation-of-sounds.stream.laut.fm/generation-of-sounds
+#EXTINF:-1,stayathome
+http://stayathome.stream.laut.fm/stayathome
+#EXTINF:-1,ground zero
+http://ground-zero.stream.laut.fm/ground-zero
+#EXTINF:-1,soundfabrik 90to2k
+http://soundfabrik_90to2k.stream.laut.fm/soundfabrik_90to2k
+#EXTINF:-1,keepitsucuk electro
+http://keepitsucuk-electro.stream.laut.fm/keepitsucuk-electro
+#EXTINF:-1,badmaticrecords
+http://badmaticrecords.stream.laut.fm/badmaticrecords
+#EXTINF:-1,gehirn treiber beat radio
+http://gehirn-treiber-beat-radio.stream.laut.fm/gehirn-treiber-beat-radio
+#EXTINF:-1,house beatz and waves
+http://house_beatz_and_waves.stream.laut.fm/house_beatz_and_waves
+#EXTINF:-1,mnmlme offical
+http://mnmlme-offical.stream.laut.fm/mnmlme-offical
+#EXTINF:-1,dj hdready
+http://dj-hdready.stream.laut.fm/dj-hdready
+#EXTINF:-1,fbradio
+http://fbradio.stream.laut.fm/fbradio
+#EXTINF:-1,additan
+http://additan.stream.laut.fm/additan
+#EXTINF:-1,soundconcierge
+http://soundconcierge.stream.laut.fm/soundconcierge
+#EXTINF:-1,sothitsradio
+http://sothitsradio.stream.laut.fm/sothitsradio
+#EXTINF:-1,sound of ffm
+http://sound-of-ffm.stream.laut.fm/sound-of-ffm
+#EXTINF:-1,power partybunker
+http://power-partybunker.stream.laut.fm/power-partybunker
+#EXTINF:-1,flk music
+http://flk_music.stream.laut.fm/flk_music
+#EXTINF:-1,mycastingradio
+http://mycastingradio.stream.laut.fm/mycastingradio
+#EXTINF:-1,musicity eletricity
+http://musicity-eletricity.stream.laut.fm/musicity-eletricity
+#EXTINF:-1,grooveradio
+http://grooveradio.stream.laut.fm/grooveradio
+#EXTINF:-1,schwarzewelten
+http://schwarzewelten.stream.laut.fm/schwarzewelten
+#EXTINF:-1,klinikradio
+http://klinikradio.stream.laut.fm/klinikradio
+#EXTINF:-1,smrteam
+http://smrteam.stream.laut.fm/smrteam
+#EXTINF:-1,space night radio
+http://space-night-radio.stream.laut.fm/space-night-radio
+#EXTINF:-1,klangruinen
+http://klangruinen.stream.laut.fm/klangruinen
+#EXTINF:-1,jayswebradio
+http://jayswebradio.stream.laut.fm/jayswebradio
+#EXTINF:-1,miss aehmes
+http://miss_aehmes.stream.laut.fm/miss_aehmes
+#EXTINF:-1,flatlines
+http://flatlines.stream.laut.fm/flatlines
+#EXTINF:-1,die schwarze kunst
+http://die-schwarze-kunst.stream.laut.fm/die-schwarze-kunst
+#EXTINF:-1,mindestverzehr radio
+http://mindestverzehr-radio.stream.laut.fm/mindestverzehr-radio
+#EXTINF:-1,moods
+http://moods.stream.laut.fm/moods
+#EXTINF:-1,djtios
+http://djtios.stream.laut.fm/djtios
+#EXTINF:-1,gtlive
+http://gtlive.stream.laut.fm/gtlive
+#EXTINF:-1,anderswelt
+http://anderswelt.stream.laut.fm/anderswelt
+#EXTINF:-1,zeitsprung
+http://zeitsprung.stream.laut.fm/zeitsprung
+#EXTINF:-1,electrofreaks
+http://electrofreaks.stream.laut.fm/electrofreaks
+#EXTINF:-1,cityradio
+http://cityradio.stream.laut.fm/cityradio
+#EXTINF:-1,morksrohlingen
+http://morksrohlingen.stream.laut.fm/morksrohlingen
+#EXTINF:-1,basstitude
+http://basstitude.stream.laut.fm/basstitude
+#EXTINF:-1,light and storm music
+http://light-and-storm-music.stream.laut.fm/light-and-storm-music
+#EXTINF:-1,takeadj radio
+http://takeadj-radio.stream.laut.fm/takeadj-radio
+#EXTINF:-1,suchtikeller
+http://suchtikeller.stream.laut.fm/suchtikeller
+#EXTINF:-1,rhythm and tone
+http://rhythm_and_tone.stream.laut.fm/rhythm_and_tone
+#EXTINF:-1,pronoize radio
+http://pronoize-radio.stream.laut.fm/pronoize-radio
+#EXTINF:-1,berlin calling
+http://berlin_calling.stream.laut.fm/berlin_calling
+#EXTINF:-1,bunker radio
+http://bunker-radio.stream.laut.fm/bunker-radio
+#EXTINF:-1,electronicsoundsfm
+http://electronicsoundsfm.stream.laut.fm/electronicsoundsfm
+#EXTINF:-1,batroom
+http://batroom.stream.laut.fm/batroom
+#EXTINF:-1,hafensound
+http://hafensound.stream.laut.fm/hafensound
+#EXTINF:-1,sounphoenix
+http://sounphoenix.stream.laut.fm/sounphoenix
+#EXTINF:-1,plaste und elaste
+http://plaste_und_elaste.stream.laut.fm/plaste_und_elaste
+#EXTINF:-1,silberp
+http://silberp.stream.laut.fm/silberp
+#EXTINF:-1,meggpool
+http://meggpool.stream.laut.fm/meggpool
+#EXTINF:-1,befreite musik
+http://befreite-musik.stream.laut.fm/befreite-musik
+#EXTINF:-1,gearfm
+http://gearfm.stream.laut.fm/gearfm
+#EXTINF:-1,BleakRadio Listen live
+https://bleakradio.stream.laut.fm/bleakradio?ref=radiode&t302=2025-09-17_22-44-03&uuid=29b0d55b-395c-4fc8-9a8b-df6b44dfb58c
+#EXTINF:-1,Clubbeats Listen live
+https://clubbeats.stream.laut.fm/clubbeats?t302=2025-09-17_22-44-03&uuid=54660005-32a1-4ecc-8491-34331f73b28b
+#EXTINF:-1,ClubTime.FM Listen live
+https://listener2.mp3.tb-group.fm/clt.mp3
+#EXTINF:-1,DecoderFM Listen live
+https://decoderfm.stream.laut.fm/decoderfm?t302=2025-09-17_22-44-04&uuid=f47ecab7-0bf9-447f-b25d-d24db868f5bd
+#EXTINF:-1,Radio Espérance - Louange Listen live
+https://esperance.streamakaci.com/louange.mp3
+#EXTINF:-1,Digital Room Radio Listen live
+https://digitalroomradio.stream.laut.fm/digitalroomradio?ref=radiode&t302=2025-09-17_22-44-04&uuid=496fd01a-cb7c-425b-a371-9129fa21d620
+#EXTINF:-1,Djex TC Listen live
+https://djex-tc.stream.laut.fm/djex-tc?t302=2025-09-17_22-44-04&uuid=2deae5a9-05dc-4831-8e2d-b13f06d137d4
+#EXTINF:-1,DMG Radio Listen live
+https://dmg.stream.laut.fm/dmg?t302=2025-09-17_22-44-04&uuid=846f2c22-a6bd-4a7c-a29f-a16aba92c1b2
+#EXTINF:-1,egoFM - egoFLASH Listen live
+https://cast.egofm.de/egoflash.mp3?ar-distributor=ffa0&aw_0_req.gdpr=true
+#EXTINF:-1,VolksmusikRadio Listen live
+https://volksmusikradio.stream.laut.fm/volksmusikradio?ref=radiode&t302=2025-09-17_22-44-04&uuid=5454fc23-710d-44a1-a8dd-b5bbd3bbf4b7
+#EXTINF:-1,90er Radio Listen live
+https://90er.stream.laut.fm/90er?t302=2025-09-17_22-44-04&uuid=3d9e0874-82db-4021-86ec-59dc2b14634c
+#EXTINF:-1,HOUSEBOMB-FN Listen live
+https://housebomb-fn.stream.laut.fm/housebomb-fn?ref=radiode&t302=2025-09-17_22-44-04&uuid=dae11897-eaf4-4521-8131-fc3914bd2957
+#EXTINF:-1,iamthedj_radio Listen live
+https://iamthedjradio.stream.laut.fm/iamthedj_radio?ref=radiode&t302=2025-09-17_22-44-04&uuid=5593f589-7858-4375-bde6-ee2f8a244018
+#EXTINF:-1,itsours Listen live
+https://itsours.stream.laut.fm/itsours?ref=radiode&t302=2025-09-17_22-44-04&uuid=b4a37b81-a878-4f5a-8d22-061e837e6162
+#EXTINF:-1,lounge  Listen live
+https://lounge.stream.laut.fm/lounge?ref=radiode&t302=2025-09-17_22-44-05&uuid=a0aaba0a-244b-4590-b2b1-dbabec77f727
+#EXTINF:-1,Mainstream - 101.ru Listen live
+https://pub0201.101.ru/stream/pro/aac/64/87
+#EXTINF:-1,2 Lvmr Fm Listen live
+https://2lvmr-fm.stream.laut.fm/2lvmr-fm?t302=2025-09-17_22-44-06&uuid=2081d877-9206-4fb8-9440-eab466c4e9c9
+#EXTINF:-1,RauteMusik - TechHouse Listen live
+https://rautemusik.stream38.radiohost.de/techhouse?upd-meta&upd-scheme=https&_art=dD0xNzU4MTQ5MzQ2JmQ9NDc1NGYyYWM5MzBmYmEwMjkzM2I
+#EXTINF:-1,RevolutionofSounds Listen live
+https://revolution-of-sounds.stream.laut.fm/revolution-of-sounds?ref=radiode&t302=2025-09-17_22-44-06&uuid=f141ac2d-aa76-4531-8bc3-2a5bdf4b39de
+#EXTINF:-1,Sound-of-FFM  Listen live
+https://sound-of-ffm.stream.laut.fm/sound-of-ffm?ref=radiode&t302=2025-09-17_22-44-06&uuid=529580e6-5027-4365-9c6e-bdefbf59abb5
+#EXTINF:-1,KISS FM - Latin Listen live
+https://topradio.stream01.radiohost.de/kissfm-latin_mp3-192?ref=radioplayer&agend=true&upd-meta&upd-scheme=https&_art=dD0xNzU4MTQ5MzQ3JmQ9MmE3NWYxMjY5ZTgzODFkOGIxNWY
+#EXTINF:-1,Хиты 90х Зарубежка Радио - RadioSpinner Listen live
+https://live.radiospinner.com/90hs-64
+#EXTINF:-1,FFH Weihnachtsradio Listen live
+https://mp3.ffh.de/ffhchannels/hqxmas.mp3
+#EXTINF:-1,viennasoundz Listen live
+https://viennasoundz.stream.laut.fm/viennasoundz?ref=radiode&t302=2025-09-17_22-44-06&uuid=4c601d85-373e-4348-81ae-233b199ff4e5
+#EXTINF:-1,Минимал Техно Радио - RadioSpinner Listen live
+https://live.radiospinner.com/minimal-techno-64
+#EXTINF:-1,Радио Ваня - Свежий бит Listen live
+https://icecast-radiovanya.cdnvideo.ru/rv_hit
+#EXTINF:-1,KpopHits Listen live
+https://kpophits.stream.laut.fm/kpophits?t302=2025-09-17_22-44-07&uuid=e7d9ee49-c12f-441b-b406-31d87636b2e3
+#EXTINF:-1,House Music Radio Listen live
+https://uk4-vn.mixstream.net/:8128/listen.mp3
+#EXTINF:-1,101FM - 80er Listen live
+https://0-2480erpoprock.stream.laut.fm/0-24_80er_pop_rock?t302=2025-09-17_22-44-07&uuid=e207aec7-8d2a-4d3d-9af1-8ba7a0120753
+#EXTINF:-1,RauteMusik - Christmas Chor Listen live
+https://rautemusik.stream38.radiohost.de/rm-christmas-chor_mp3-192?ref=rm5beta&upd-meta&upd-scheme=https&_art=dD0xNzU4MTQ5MzQ4JmQ9YzJhOWZlZGI0NTU3NjdkMzdiMWI
+#EXTINF:-1,ETS-Radio Listen live
+https://etsradio-2.stream.laut.fm/etsradio-2?t302=2025-09-17_22-44-08&uuid=b9af7404-d4a6-447b-b6f1-6e15d28d2243
+#EXTINF:-1,Radio Digital Birigui Listen live
+https://s44.maxcast.com.br:8014/live
+#EXTINF:-1,Cats & Dogs - 101.ru Listen live
+https://pub0201.101.ru/stream/pro/aac/64/281
+#EXTINF:-1,ToXoRs minimal RADIO
+http://95.216.245.239:8000/
+#EXTINF:-1,Mnmltech
+https://mnmltech.stream.laut.fm/mnmltech
+#EXTINF:-1,Minimal Calling
+https://minimalcalling.stream.laut.fm/minimalcalling
+#EXTINF:-1,Deep_Depot
+https://deepdepot.stream.laut.fm/deep_depot
+#EXTINF:-1,DJ Dennis-S
+https://djds.stream.laut.fm/dj_ds?t302=2025-09-12_03-16-39&uuid=65ab3264-4861-49eb-b6fd-58682a2dcbe2
+#EXTINF:-1,Downbeat
+https://lounge.stream.laut.fm/lounge
+#EXTINF:-1,Sound of FFM
+https://sound-of-ffm.stream.laut.fm/sound-of-ffm?
+#EXTINF:-1,Elektronisch Querbeat
+https://elektronischquerbeat.stream.laut.fm/elektronisch_querbeat
+#EXTINF:-1,Terahertzwellen
+https://terahertzwellen.stream.laut.fm/terahertzwellen
+#EXTINF:-1,It's Ours
+https://itsours.stream.laut.fm/itsours?t302=2025-09-12_03-16-41&uuid=9e4314d3-f271-4a0a-ae14-6fbaacde7ff5
+#EXTINF:-1,Revolution of Sounds
+https://revolution-of-sounds.stream.laut.fm/revolution-of-sounds
+#EXTINF:-1,DJ EX-TC
+https://djex-tc.stream.laut.fm/djex-tc?t302=2025-09-12_03-16-41&uuid=4bbc0020-cce4-48e1-9f78-302d6d5dd653
+#EXTINF:-1,Soundsystem
+https://soundsystem.stream.laut.fm/soundsystem
+#EXTINF:-1,Al Dente
+https://al-dente.stream.laut.fm/al-dente
+#EXTINF:-1,Douala
+https://doualaradio.stream.laut.fm/doualaradio
+#EXTINF:-1,Radio Auerhahn
+https://radio-auerhahn.stream.laut.fm/radio-auerhahn
+#EXTINF:-1,Klang Ruinen
+https://klangruinen.stream.laut.fm/klangruinen
+#EXTINF:-1,Elektrobude
+https://elektrobude.stream.laut.fm/elektrobude
+#EXTINF:-1,PsyStation - The Techno Show
+https://fr1-play.adtonos.com/8108/psystation-the-techno-show-1
+#EXTINF:-1,DEEP KULTURE
+https://listen.radioking.com/radio/8792/stream/18902
+#EXTINF:-1,Cool Deep
+https://str3.openstream.co/708?aw_0_1st.collectionid%3D6782%26stationId%3D6782%26publisherId%3D732%26k%3D1757825168
+#EXTINF:-1,Cool Chill House
+https://str3.openstream.co/1449?aw_0_1st.collectionid%3D6620%26stationId%3D6620%26publisherId%3D1473%26k%3D1757825168
+#EXTINF:-1,UZIC - Techno Minimal
+http://uzic.ice.infomaniak.ch/uzic-128.mp3
+#EXTINF:-1,globalbeats green channel
+http://www.globalbeats.fm/gbfm_green_mp3.pls
+#EXTINF:-1,Radio Caprice - Minimal Techno
+http://79.120.39.202:8000/mintechno
+#EXTINF:-1,Radio Caprice - Minimal Tech House
+http://79.111.119.111:8000/mintechhouse
+#EXTINF:-1,cliqhop idm
+https://ice2.somafm.com/cliqhop-128-mp3
+#EXTINF:-1,Deejay RiMa
+https://equinox.shoutca.st/tunein/djrima-stream.pls
+#EXTINF:-1,Intergalactic FM 1 - Murdercapital FM
+https://intergalactic.tv/live/smil:tv.smil/playlist.m3u8
+#EXTINF:-1,Power-PartyBunker
+https://power-partybunker.stream.laut.fm/power-partybunker
+#EXTINF:-1,ToXoRs minimalRADIO
+http://toxor.de:8000/stream/2/
+#EXTINF:-1,GrooveX Radio
+http://sr11.inmystream.it:8164/stream
+#EXTINF:-1,Basstitude
+https://basstitude.stream.laut.fm/basstitude?ref=radiode&t302=2025-09-07_18-05-06&uuid=2c7bbb51-0700-4c33-ad4a-7c6571532aa1
+#EXTINF:-1,Technolovers DEEP HOUSE
+https://0nlineradio.stream42.radiohost.de/technolovers-deep-house?ref=radiode&upd-meta=0&upd-scheme=https&_art=dD0xNzU3MjY4NjA3JmQ9ZjhlYzMzN2Q0NThlZWJhMmYzMDI
+#EXTINF:-1,Technolovers MINIMAL
+https://0nlineradio.stream42.radiohost.de/technolovers-minimal?ref=radiode&upd-meta=0&upd-scheme=https&_art=dD0xNzU3MjY4NjA3JmQ9MTY3ZmVlZDFiNzQ5NjhlMmMwY2E
+#EXTINF:-1,Radio DeinFM
+https://deinfmowl--di--nacs-ais-lgc--0b--cdn.cast.addradio.de/deinfmowl/live/mp3/high?_art=dj0yJmlwPTIwLjUxLjE5OC4xOTcmaWQ9aWNzY3hsLWEyd2Zhc2ltYiZ0PTE3NTczNTQ3MDcmcz03ODY2ZjI5YyMzODk0OGMzOTFkZmFkOTQ0MTM0MDI1MjAxMjQxOGRiOQ
+#EXTINF:-1,Rave Satellite
+https://ravesatellite.stream.laut.fm/rave_satellite?ref=radiode&t302=2025-09-07_18-05-07&uuid=9b737e66-0fef-41aa-af55-7050d0b7d94d
+#EXTINF:-1,CLUB NUBID FM
+https://clubnubid.stream.laut.fm/clubnubid?ref=radiode&t302=2025-09-07_18-05-07&uuid=2603924a-fe4a-4363-b18a-9e129ae65ab6
+#EXTINF:-1,Berlin Calling
+https://berlincalling.stream.laut.fm/berlin_calling?ref=radiode&t302=2025-09-07_18-05-07&uuid=6595a34c-8404-434c-829d-bf20b0522df7
+#EXTINF:-1,Crop of music Radio
+https://s55.radiolize.com/radio/8010/radio.mp3
+#EXTINF:-1,Anima Amoris Minimal Deep Techno - 160 - The Russian Federation - minimal - minimal techno - techno
+https://amoris.sknt.ru/minimal.mp3
+#EXTINF:-1,Minimal Mix Radio - 320 - Poland - dub - electro - minimal - techno
+https://minimalmix.com/minimalmixradio.pls
+#EXTINF:-1,Radio Caprice Minimalism - 320 - The Russian Federation - instrumental - minimalism
+http://213.141.131.10:8000/minimalism
+#EXTINF:-1,Technolovers - MINIMAL - 192 - Germany - #minimal - deep house - house - minimal - tech minimal
+https://0nlineradio.stream13.radiohost.de/technolovers-minimal?ref=radiobrowser&upd-meta&upd-scheme=https&_art=dD0xNzU3NTI2OTUzJmQ9NTU2NDc0ZWQ3YWFlYTA1YTM4YjM
+#EXTINF:-1,Technolovers.fm - Minimal - 192 - Germany - electro - house - minimal
+https://0nlineradio.stream13.radiohost.de/technolovers-minimal?upd-meta&upd-scheme=https&_art=dD0xNzU3NTI2OTUzJmQ9NTU2NDc0ZWQ3YWFlYTA1YTM4YjM
+#EXTINF:-1,Anderswelt Radio
+https://anderswelt.stream.laut.fm/anderswelt?t302=2025-09-14_21-36-48&uuid=4a2facd7-dfba-47fc-ae4c-b15ca23bc858
+#EXTINF:-1,AtmotraxxRadio
+https://radio.atmotraxx.de/stream/247.php
+#EXTINF:-1,Deeptech Soundsystem
+https://ec4.yesstreaming.net:1805/stream
+#EXTINF:-1,Hard FM Radio
+https://s5.radio.co/s69e02764f/listen
+#EXTINF:-1,Line Out Radio
+https://listen.radioking.com/radio/416299/stream/469237
+#EXTINF:-1,Minimal Mix Radio
+http://orion.shoutca.st:8750/
+#EXTINF:-1,NRG.DJ
+http://stream.electroradio.fm/192
+#EXTINF:-1,Seduction Dance Tunes Radio
+https://24streams.gr:8057/stream
+#EXTINF:-1,Spontis FM
+https://spontis.stream.laut.fm/spontis?t302=2025-09-14_21-36-54&uuid=6a171802-a58c-43e8-ba86-124762e00c8a
+#EXTINF:-1,MINIMALRADIO.DE
+https://azurafallback.de:8010/320.mp3
+#EXTINF:-1,Minimal, Techno, Electro Sets @ radio.lclhst.net
+https://free.rcast.net/247182
+#EXTINF:-1,Minimal, Techno, Electro Sets @ http://radio.lclhst.net/
+https://free.rcast.net/234904
+#EXTINF:-1,TL_minimal
+https://0nlineradio.stream13.radiohost.de/technolovers-minimal?upd-meta=0&upd-scheme=https&_art=dD0xNzU3MzA0Mjk4JmQ9OGZjZWE4MmU2YmI2NWQ0YjJhZTQ
+#EXTINF:-1,THE RAVE ZONE 24h (DE) (MP3 256 kbps)
+https://free.rcast.net/207254
+#EXTINF:-1,Anima Amoris [Minimal Deep Techno]
+https://free.rcast.net/207032
+#EXTINF:-1,THE RAVE ZONE 24h (NL) (MP3 256 kbps)
+https://free.rcast.net/206918
+#EXTINF:-1,UZIC.CH :: TECHNO-MINIMAL
+https://free.rcast.net/15118
+#EXTINF:-1,Minimal Mix Radio Stream
+https://free.rcast.net/16972
+#EXTINF:-1,Minimal & Techno on MixLive.ie
+https://free.rcast.net/14929
+#EXTINF:-1,sonus.fm ::: MINIMAL, TECHHOUSE, TECHNO
+https://free.rcast.net/977
+#EXTINF:-1,Minimal & Deep-tech on MixLive.net
+https://strw3.openstream.co/574?aw_0_1st.collectionid%3D7031%26stationId%3D7031%26publisherId%3D598%26k%3D1757304001
+#EXTINF:-1,Minimal & Techno on MixLive.net
+https://strw3.openstream.co/940?aw_0_1st.collectionid%3D6521%26stationId%3D6521%26publisherId%3D964%26k%3D1757304001
+#EXTINF:-1,Deep Mix Moscow Radio
+http://radio.deepmix.ru:7620/
+#EXTINF:-1,UZIC
+http://techno-paradize.stream.laut.fm/techno-paradize?t302=2025-09-06_17-36-17&uuid=f1e5a47d-dd7d-4053-bd8b-8b8d63e1cd32
+#EXTINF:-1,Additan Radio
+http://additan.stream.laut.fm/additan?t302=2025-09-06_17-36-17&uuid=cc45cbb9-a0d9-4de9-bff7-eb1292ee9281
+#EXTINF:-1,playground
+http://playground.stream.laut.fm/playground?t302=2025-09-06_17-36-18&uuid=9bcb6f3a-a359-4a49-82f8-ea57dd7a3964
+#EXTINF:-1,France Musique - Webradio La Contemporaine
+http://icecast.radiofrance.fr/francemusiquelacontemporaine-midfi.mp3
+#EXTINF:-1,RauteMusik - BigCityBeats
+https://bcb.stream41.radiohost.de/bcb-radio_mp3-192?upd-meta=0&upd-scheme=https&ref=streema&amsparams=streema&_art=dD0xNzU3MTgwNDgwJmQ9MzM1YjQyMDA3YTBhZWI1OTFlM2M
+#EXTINF:-1,RauteMusik - House
+https://rautemusik.stream39.radiohost.de/house?ref=streema&upd-meta=0&upd-scheme=https&_art=dD0xNzU3MTgwNDgwJmQ9NjgxMTBkMDU2OTBiNGVmNGM5OWM
+#EXTINF:-1,Random.FM
+http://radio.random.fm:8000/radio256.mp3
+#EXTINF:-1,PsyBrazil Radio
+https://radio.psybrazil.com.br/
+#EXTINF:-1,RauteMusik -TechHouse
+https://rautemusik.stream37.radiohost.de/techhouse?ref=streema&upd-meta=0&upd-scheme=https&_art=dD0xNzU3MTgwNDgxJmQ9Mzk0ZDMwYjQ0ZjI1Y2JkZjRjNjk
+#EXTINF:-1,prog alley
+http://progalley.stream.laut.fm/progalley?t302=2025-09-06_17-36-21&uuid=c01c0aae-5953-47ef-9f83-a710a725774e
+#EXTINF:-1,DecoderFM
+http://decoderfm.stream.laut.fm/decoderfm?t302=2025-09-06_17-36-22&uuid=38eb16ab-10d9-49ae-a6b2-73ee5ae5cb69
+#EXTINF:-1,Double-Bass-FM
+http://double-bass-fm.stream.laut.fm/double-bass-fm?t302=2025-09-06_17-36-22&uuid=e7baafe8-5cde-4f59-a14e-805bfd01792a
+#EXTINF:-1,Nonpop
+http://nonpop.stream.laut.fm/nonpop?t302=2025-09-06_17-36-22&uuid=cd250e73-d750-4c63-bd58-40c5b2ddec6e
+#EXTINF:-1,Jazzthing
+http://jazzthing.stream.laut.fm/jazzthing?t302=2025-09-06_17-36-24&uuid=1f76b2b5-bac5-4447-b2c2-de13860df93d
+#EXTINF:-1,bleakradio
+http://bleakradio.stream.laut.fm/bleakradio?t302=2025-09-06_17-36-24&uuid=c5c21e3a-fb16-4765-bdb2-66d39dd02620
+#EXTINF:-1,caprice247
+http://caprice247.stream.laut.fm/caprice247?t302=2025-09-06_17-36-24&uuid=2cc28470-ae87-40c0-a12d-d7913a41b84b
+#EXTINF:-1,sound-of-ffm
+http://sound-of-ffm.stream.laut.fm/sound-of-ffm?t302=2025-09-06_17-36-24&uuid=3a493059-c0ff-40da-ad24-df2bf9181195
+#EXTINF:-1,Befreite Musik
+https://befreite-musik.stream.laut.fm/befreite-musik?t302=2025-09-06_17-36-25&uuid=8c012846-3a54-4199-8bff-73619f275e24
+#EXTINF:-1,Radio Record - Minimal/Tech
+http://radiorecord.hostingradio.ru/mini96.aacp
+#EXTINF:-1,Traxx FM - Tech-Minimal
+http://traxx020.ice.infomaniak.ch/traxx020-low.mp3
+#EXTINF:-1,MRG.fm - Ambient Radio
+http://str3.openstream.co/1808
+#EXTINF:-1,UNDR
+https://n14a-eu.rcs.revma.com/cmrzxrv3q98uv
+#EXTINF:-1,a.m. ambient
+http://radio.stereoscenic.com:443/ama-h/
+#EXTINF:-1,Ibiza Stardust Radio
+http://listen.radioking.com/radio/260965/stream/305884
+#EXTINF:-1,Underground Kollektiv Radio
+https://s2.radio.co/s12ef3f65a/listen
+#EXTINF:-1,InClub Radio
+http://conectperu.com:8018/stream/
+#EXTINF:-1,Galaxie Radio
+http://listen.radioking.com/radio/15684/stream/63517
+#EXTINF:-1,In2Mixx Radio
+http://listen.radioking.com/radio/384/stream/62761
+#EXTINF:-1,Like That Underground (LTU)
+http://ltu.radioca.st:8091/stream/
+#EXTINF:-1,Electro Colombia Radio - Underground
+http://servers58.com:9342/live
+#EXTINF:-1,MixLive.ie - Minimal & Techno
+http://2.58.194.54:8858/stream/
+#EXTINF:-1,MixLive.ie - Deep Planet
+http://2.58.194.54:8852/stream/
+#EXTINF:-1,RadioSpinner - Minimal Techno
+http://live.radiospinner.com/minimal-techno-96
+#EXTINF:-1,France Musique – Webradio La Contemporaine
+https://stream.radiofrance.fr/francemusiquelacontemporaine/francemusiquelacontemporaine_hifi.m3u8
+#EXTINF:-1,MRG.fm – Ambient Radio
+http://62.149.196.16:8888/stream/
+#EXTINF:-1,RauteMusik – TechHouse
+http://rautemusik.stream37.radiohost.de/techhouse?upd-meta&upd-scheme=http&_art=dD0xNzU4MjU4MDc1JmQ9ZDI4YzY0ZGQ3ZDZkZTE3Y2NlNjM

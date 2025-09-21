@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1,K-LOVE Radio
+https://emf-seg001222.cdnstream1.com/seg001222-i64.aac?platform=airable&city=san-jose&country=united-states&geo_api=abstract_ip&latitude=37.3361663&longitude=-121.890591&opawg_result=false&region=california&segment=001222&t=1&k=NV2NOy1AUWTNSxuJgEOx2z0u2IAcIeZ0UEUDFgwZeuClGVloI31GcSDZsJRcfhP2DOuJENTMDHiJA5Yx6n6gMz9o4uuPssJXjaOUJQE8WzdFKJbsRCk-FNispMMhPUGZ8lowsA
+#EXTINF:-1,Relevant Radio
+https://20603.live.streamtheworld.com/RR_MAINAAC_SC
+#EXTINF:-1,Seacoast Oldies
+https://ais-sa1.streamon.fm/7671_48k.aac
+#EXTINF:-1,104.3 The Legends
+https://ais-sa1.streamon.fm/7674_48k.aac
+#EXTINF:-1,Maine Public Classical
+https://26423.live.streamtheworld.com/WMEA_CLASSICAL.mp3
+#EXTINF:-1,Maine Public Radio
+https://14833.live.streamtheworld.com/WMEAFM.mp3

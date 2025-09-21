@@ -9,3 +9,11 @@ http://stream.fzo.nu:80/studio.mp3
 http://mediacp.audiostreamen.nl:8174/stream
 #EXTINF:-1,Oke FM
 http://quincy.torontocast.com:3220/stream
+#EXTINF:-1,smusic
+http://smusic.stream.laut.fm/smusic
+#EXTINF:-1,goedverstaanbaar
+http://goedverstaanbaar.stream.laut.fm/goedverstaanbaar
+#EXTINF:-1,troostradio
+http://troostradio.stream.laut.fm/troostradio
+#EXTINF:-1,studionl
+http://studionl.stream.laut.fm/studionl

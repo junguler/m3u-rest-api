@@ -1,0 +1,541 @@
+#EXTM3U
+#EXTINF:-1,Radio Veronika
+http://149.13.0.80/veronika.ogg
+#EXTINF:-1,Radio Tangra Mega Rock
+http://stream-03.radiotangra.com/Tangra-middle
+#EXTINF:-1,All In One Music Radio
+https://streaming.brol.tech/rtfmlounge
+#EXTINF:-1,Radio City
+http://149.13.0.80/city64
+#EXTINF:-1,Radio Vega Blagoevgrad
+http://88.80.96.25:3050/
+#EXTINF:-1,BG Radio
+http://149.13.0.80/bgradio128
+#EXTINF:-1,DJ Zone House Radio
+http://162.244.80.106:11181/&amptype=mp3
+#EXTINF:-1,Diana Oldies Radio
+http://streamingp.shoutcast.com/JamendoLounge?lang=*
+#EXTINF:-1,Radio Vega Sandanski and Petrich
+http://88.80.96.25:8040/
+#EXTINF:-1,Radio 1 Rock
+http://149.13.0.81/radio1rock.ogg
+#EXTINF:-1,Deep Radio Europe
+http://79.98.108.174:8000/stream
+#EXTINF:-1,BG Radio Estrada
+http://149.13.0.81/bgestrada
+#EXTINF:-1,DJ Zone House
+http://162.244.80.106:11181/stream
+#EXTINF:-1,Easy Radio
+http://live.easyradio.bg/192
+#EXTINF:-1,Energy Bulgaria
+http://149.13.0.80/nrj128
+#EXTINF:-1,Energy Sofia (NRJ)
+http://stream.radioreklama.bg/energy-90s.ogg
+#EXTINF:-1,Lele Male
+http://79.98.108.170:8332/
+#EXTINF:-1,MAGIC FM
+https://bss1.neterra.tv/magicfm/magicfm.m3u8
+#EXTINF:-1,NJS Radio - New Jack Swing
+http://162.244.80.106:11198/
+#EXTINF:-1,Nova
+http://stream.metacast.eu/nova.ogg
+#EXTINF:-1,Nova News
+http://stream.radioreklama.bg/novanews.aac
+#EXTINF:-1,QFT.fm
+https://qft.monster/listen/radio_qfte/radio.mp3
+#EXTINF:-1,Radio 1
+http://stream.metacast.eu/radio1128
+#EXTINF:-1,Radio 1 (Bulgaria)
+http://149.13.0.81/radio1.ogg
+#EXTINF:-1,Radio 1 радио 1 класическите хитове
+http://stream.radioreklama.bg/radio164
+#EXTINF:-1,Radio Aurea
+http://93.123.123.7:8000/
+#EXTINF:-1,Radio BD 1
+http://87.252.182.193:8000/
+#EXTINF:-1,Radio BG London 2
+https://stream.radio.co/s53f1b7497/listen
+#EXTINF:-1,Radio Contact
+https://listen.radioking.com/radio/490082/stream/546899
+#EXTINF:-1,Radio Hushove
+http://79.98.108.173:8006/radioxaschove
+#EXTINF:-1,radio Maia
+https://radiomaia.com/player/index.php?pl=winamp&c=%D0%A0%D0%B0%D0%B4%D0%B8%D0%BE%20%D0%9C%D0%B0%D1%8F%20%D0%91%D1%83%D1%80%D0%B3%D0%B0%D1%81
+#EXTINF:-1,Radio Nova News
+https://25693.live.streamtheworld.com/RADIO_NOVANEWSAAC_L.aac
+#EXTINF:-1,Radio Nova Zagora
+http://80.253.48.162:8090/nova.mp3
+#EXTINF:-1,Radio Sunny Beach
+https://sunny-beachradio.stream.laut.fm/sunny-beachradio
+#EXTINF:-1,Radio Tatkovina
+http://www.tatkovina.eu:8000/stream
+#EXTINF:-1,Radio The Voice
+https://bss1.neterra.tv/thevoicefm/thevoicefm.m3u8
+#EXTINF:-1,Radio Venseremos
+https://listen7.myradio24.com/venceremos
+#EXTINF:-1,Radio Veselina
+https://bss1.neterra.tv/veselina/veselina.m3u8
+#EXTINF:-1,Radio Vitosha
+https://bss1.neterra.tv/vitosha/vitosha.m3u8
+#EXTINF:-1,Tangra
+http://stream-bg-01.radiotangra.com:8000/Tangra-high
+#EXTINF:-1,Test NRJ Sergio IP
+http://149.13.0.80/energy-90s
+#EXTINF:-1,Ultra Blagoevgrad
+https://www.ultranet.biz/ultrablagoevgrad.m3u
+#EXTINF:-1,Ultra Pernik
+http://88.80.96.25:8000/
+#EXTINF:-1,Vega+ Sandaski
+https://www.ultranet.biz/vegasandanski.m3u
+#EXTINF:-1,Veronika
+http://stream.metacast.eu/veronika.ogg
+#EXTINF:-1,Авторадио
+http://play.global.audio/avtoradio.opus
+#EXTINF:-1,БГ радио (opus)
+http://stream.radioreklama.bg/bgradio.opus
+#EXTINF:-1,Енерджи (opus)
+http://stream.radioreklama.bg/nrj.opus
+#EXTINF:-1,Рила Фолк
+http://79.98.108.176:8016/
+#EXTINF:-1,DanPen Radio
+https://server.danpenradio.net/radio/8000/radio.mp3
+#EXTINF:-1,Radio Energy (Sofia)
+https://stream02.pcradio.biz/nrj_bg_sofia-med
+#EXTINF:-1,Classic FM (Sofia) Radio
+https://stream02.pcradio.biz/classicfm_bg-med
+#EXTINF:-1,Jazz FM (Sofia) Radio
+https://stream02.pcradio.biz/jazzfm_bg-med
+#EXTINF:-1,Radio Kanon
+https://stream02.pcradio.biz/radio_kanon-med
+#EXTINF:-1,BNR Hristo Botev Radio
+https://stream02.pcradio.biz/bnr_bg_hrist-med
+#EXTINF:-1,BNR Horizont Radio
+https://stream02.pcradio.biz/bnr_bg_hori-med
+#EXTINF:-1,BNR Radio Sofia
+https://stream02.pcradio.biz/bnr_sofia-med
+#EXTINF:-1,Radio Pianica (Bulgaria)
+https://stream02.pcradio.biz/rad_pnc-med
+#EXTINF:-1,N-Joy (Sofia) Radio
+https://stream02.pcradio.biz/njoy_bg-med
+#EXTINF:-1,Radio NET Bulgaria
+https://stream02.pcradio.biz/rad_rdnetbulgr-med
+#EXTINF:-1,Radio Veronika 96.7
+https://stream02.pcradio.biz/rad_rdvrnk-med
+#EXTINF:-1,Extreme Deep House Radio
+https://stream02.pcradio.biz/rad_xtrmdphs-med
+#EXTINF:-1,Radio Ultra
+https://stream02.pcradio.biz/rad_rdltrbg-med
+#EXTINF:-1,Radio Veselina 99.1 FM
+https://stream02.pcradio.biz/rad_vselinbg-med
+#EXTINF:-1,Power FM BG Radio
+https://stream02.pcradio.biz/rad_powerfmbrgs-med
+#EXTINF:-1,Rusko Radio
+https://stream02.pcradio.biz/rad_ruskrdbg-med
+#EXTINF:-1,Djent Core
+https://a6.asurahosting.com:7350/radio.mp3
+#EXTINF:-1,Radio 1 FM 106
+http://149.13.0.80/radio1128
+#EXTINF:-1,Radio City FM 99.7
+http://149.13.0.80:8000/city64
+#EXTINF:-1,Radio NOVA 101.7 FM
+http://149.13.0.80/nova128
+#EXTINF:-1,Radio NRJ ENERGY 89.5 FM
+http://149.13.0.81:80/nrj128
+#EXTINF:-1,Radio Veronika 96.7 FM
+http://149.13.0.80:8000/veronika64
+#EXTINF:-1,Taganka
+http://streaming.radio.co:80/se0886fc22/listen
+#EXTINF:-1,Radio 1 Rock 98.3 FM
+http://149.13.0.81:80/radio1rock128
+#EXTINF:-1,Tangra Mega Rock
+http://stream-bg-02.radiotangra.com:8000/Tangra-high
+#EXTINF:-1,BNR Horizont - Програма Хоризонт
+https://e106-ts.cdn.bg/regstations/fls/Horizont.stream/playlist.m3u8
+#EXTINF:-1,BNR Radio Blagoevgrad - БНР Радио Благоевград
+https://e106-ts.cdn.bg/regstations/fls/Blagoevgrad.stream/playlist.m3u8
+#EXTINF:-1,BNR Programa Hristo Botev - Програма Христо Ботев
+https://e106-ts.cdn.bg/regstations/fls/HrBotev.stream/playlist.m3u8
+#EXTINF:-1,BNR Radio Varna - Радио Варна
+https://e106-ts.cdn.bg/regstations/fls/Varna.stream/playlist.m3u8
+#EXTINF:-1,BG Estrada - Бг Естрада
+https://25353.live.streamtheworld.com/BG_ESTRADAAAC_L.aac?dist=keepone.net
+#EXTINF:-1,BG Radio - БГ Радио
+https://25453.live.streamtheworld.com/BG_RADIOAAC_L.aac
+#EXTINF:-1,Binar  Duende - Бинар Дуенде
+https://e106-ts.cdn.bg/bnr/fls/BINAR-Duende.stream/playlist.m3u8
+#EXTINF:-1,Binar BG Pop - Бинар - БГ Поп
+https://e106-ts.cdn.bg/bnr/fls/BINAR-BgPop.stream/playlist.m3u8
+#EXTINF:-1,Binar Indie - Бинар Инди
+https://e106-ts.cdn.bg/bnr/fls/BINAR-Indie.stream/playlist.m3u8
+#EXTINF:-1,Binary - Punk Jazz - Бинар Пънк Джазз
+https://e106-ts.cdn.bg/bnr/fls/BINAR-PunkJazz.stream/playlist.m3u8
+#EXTINF:-1,Binary Classic - Бинар Класика
+https://e106-ts.cdn.bg/bnr/fls/BINAR-Classic.stream/playlist.m3u8
+#EXTINF:-1,Binary Folklore - Бинар Фолклор
+https://e106-ts.cdn.bg/bnr/fls/BINAR-Folk.stream/playlist.m3u8
+#EXTINF:-1,BNR Radio Burgas - Радио Бургас
+https://e106-ts.cdn.bg/regstations/fls/Burgas.stream/playlist.m3u8
+#EXTINF:-1,BNR Radio Kardzhali - Радио Кърджали
+https://e106-ts.cdn.bg/regstations/fls/Kardzhali.stream/playlist.m3u8
+#EXTINF:-1,BNR Radio Plovdiv - Радио Пловдив
+https://e106-ts.cdn.bg/regstations/fls/Plovdiv.stream/playlist.m3u8
+#EXTINF:-1,BNR Radio Shumen - Радио Шумен
+https://e106-ts.cdn.bg/regstations/fls/Shumen.stream/playlist.m3u8
+#EXTINF:-1,BNR Radio Sofia - Радио София
+https://e106-ts.cdn.bg/regstations/fls/Sofia.stream/playlist.m3u8
+#EXTINF:-1,BNR Radio Stara Zagora - Радио Стара Загора
+https://e106-ts.cdn.bg/regstations/fls/StZagora.stream/playlist.m3u8
+#EXTINF:-1,BNR Radio Vidin - Радио Видин
+https://e106-ts.cdn.bg/regstations/fls/Vidin.stream/playlist.m3u8
+#EXTINF:-1,DJ ZONE House Radio
+http://162.244.80.106:11181/
+#EXTINF:-1,Magic FM
+http://162.244.80.106:11198/stream
+#EXTINF:-1,Radio 1 - Радио 1
+http://149.13.0.81/radio1rock128
+#EXTINF:-1,Radio 999
+https://radio999bg.com/live.php
+#EXTINF:-1,Radio Kesarevo
+https://ssl22.radyotelekom.com/8136/stream
+#EXTINF:-1,Radio Nova
+http://149.13.0.81/nova128
+#EXTINF:-1,Radio Org Bulgaria
+https://ams-pioneer02.dedicateware.com:1185/stream
+#EXTINF:-1,Radio Tangra
+http://stream-02.radiotangra.com:8000/Tangra-middle
+#EXTINF:-1,Radio Ultra Bllagoevgrad
+http://88.80.96.25:3060/
+#EXTINF:-1,Radio Ultra Pernik
+http://88.80.96.25:8020/
+#EXTINF:-1,Radio Veronika - Радио Вероника
+http://149.13.0.80/veronika64
+#EXTINF:-1,Taganka - радио Таганка
+https://streaming.radio.co/se0886fc22/listen
+#EXTINF:-1,Детското.БНР - Childrens BRD
+https://e106-ts.cdn.bg/regstations/fls/Hlapeta.stream/playlist.m3u8
+#EXTINF:-1,Интернет радио Леле Мале
+http://79.98.108.170:8332/stream
+#EXTINF:-1,Радио Беинса Дуно
+http://87.252.182.193:8000/stream.mp3
+#EXTINF:-1,Радио Плевен
+http://stream.metacast.eu/radio1.opus
+#EXTINF:-1,Радио Севтополис - Radio Sevtopolis
+http://79.98.108.170:8068/stream
+#EXTINF:-1,Тангра Мега Рок
+http://162.244.80.106:11181/;
+#EXTINF:-1,Hot Hits FM
+https://play5.hothitsfm.com/stream
+#EXTINF:-1,Радио Вероника
+https://29073.live.streamtheworld.com/RADIO_VERONIKAAAC_H.aac
+#EXTINF:-1,Радио 1 (Едно)
+https://25583.live.streamtheworld.com/RADIO_1AAC_L.aac
+#EXTINF:-1,Shine Radio
+http://caster05.streampakket.com:9320/stream
+#EXTINF:-1,Бинар - Фолклор
+https:/http:/adio.jump.bg/proxy/feed11?mp=/UHRAAC
+#EXTINF:-1,Радио Fresh!
+https://fresh.amgradio.ru/Fresh?4ebe
+#EXTINF:-1,Бинар - Пънк Джазз
+https:/http:/adio.jump.bg/proxyhttp:/adio12/stream
+#EXTINF:-1,Радио Фокус
+https://focusradio.dataserv.cc/1
+#EXTINF:-1,Радио Антена
+https://stream.antenne1.de/a1stg/livestream2.mp3
+#EXTINF:-1,Радио Веселина - Ретро
+https://bss2.neterra.tv/veselinaretro/veselinaretro_0.m3u8
+#EXTINF:-1,Радио TV9
+http://88.80.96.25:30500/;stream.nsv
+#EXTINF:-1,Радио Веселина - Фолк
+https://bss2.neterra.tv/veselinafolk/veselinafolk_0.m3u8
+#EXTINF:-1,SoulFreak - Soulful House Radio
+http://162.244.80.106:11177/stream
+#EXTINF:-1,Радио The Voice
+https://live-bauerdk.sharp-stream.com/thevoice_dk_mp3
+#EXTINF:-1,Hit Radio Ultra
+http://88.80.96.25:30048/;
+#EXTINF:-1,Общинско радио Чепеларе
+http://play.chepelare.bg/media/30-09-2021.mp3
+#EXTINF:-1,Kiss Lounge Radio
+https://bss2.neterra.tv/kiss/index.m3u8
+#EXTINF:-1,Радио Витоша Club Classics
+https://bss2.neterra.tv/vitoshaclassics/vitoshaclassics_0.m3u8
+#EXTINF:-1,Ultra Sandanski
+http://88.80.96.25:8000/;
+#EXTINF:-1,Radio ENERGY Bulgaria
+https:/http:/adio.jump.bg:7260/live
+#EXTINF:-1,Радио Татковина
+https:/http:/adio.jump.bg:2199/proxy/bilyan/stream
+#EXTINF:-1,The Voice of Bulgaria
+https://bss2.neterra.tv/voiceofbg/index.m3u8
+#EXTINF:-1,Radio Net
+http://s10.myradiostream.com:15272/;stream.nsv
+#EXTINF:-1,Радио Вероника radio
+https://22593.live.streamtheworld.com/RADIO_VERONIKAAAC_L.aac?dist=onlineradiobox
+#EXTINF:-1,Avto Radio
+https://27743.live.streamtheworld.com/AVTORADIOAAC_L.aac?dist=onlineradiobox
+#EXTINF:-1,Радио 1 radio
+https://28933.live.streamtheworld.com/RADIO_1AAC_L.aac?dist=onlineradiobox
+#EXTINF:-1,Radio Nova 101.7 FM radio
+https://23543.live.streamtheworld.com/RADIO_NOVAAAC_L.aac?dist=onlineradiobox
+#EXTINF:-1,БГ Радио radio
+https://29083.live.streamtheworld.com/BG_RADIOAAC_L.aac?dist=onlineradiobox
+#EXTINF:-1,Nova News radio
+https://radio.nova.bg/novanews.aac
+#EXTINF:-1,Hot Hits FM radio
+https://live.hothitsfm.com/stream
+#EXTINF:-1,Radyo Yonika radio
+https://radyo1.radyo-dinle.tc/8222/stream
+#EXTINF:-1,Радио TV9  radio
+http://88.80.96.25:30500/stream.nsv
+#EXTINF:-1,Radio Net 106.9 FM radio
+http://s10.myradiostream.com:15272/stream.nsv
+#EXTINF:-1,Radio Party Mix BG
+http://65.108.198.245:9101/stream
+#EXTINF:-1,Radio NOVA Bulgaria
+http://149.13.0.80/nova.ogg
+#EXTINF:-1,BG Hip Hop Radio
+http://play.global.audio/bgradio.opus
+#EXTINF:-1,NJS Radio New Jack Swing
+http://listen.radionomy.com/dianaoldies?type=.mp3
+#EXTINF:-1,Radio Blagoevgrad
+https://e106-ts.cdn.bg/regstations/fls/Blagoevgrad.stream/chunklist.m3u8
+#EXTINF:-1,Radio Burgas
+https://e106-ts.cdn.bg/regstations/fls/Burgas.stream/chunklist.m3u8
+#EXTINF:-1,Taganka Radio
+http://streaming.radio.co/se0886fc22/listen
+#EXTINF:-1,Binar BG Pop
+http://streaming.radionomy.com/JamendoLounge?lang=en-US,enq=0.9,esq=0.8
+#EXTINF:-1,Dance Size
+http://streaming.radionomy.com/DanceSize
+#EXTINF:-1,Radio FOCUS Pazardjik
+https://focusradio.dataserv.cc/stream/1/
+#EXTINF:-1,Radio R1
+http://listen.radionomy.com/radio-r1?type=.mp3
+#EXTINF:-1,Binar Folk
+https://lb-hls.cdn.bg/2003/fls/BINAR-Folk.stream/playlist.m3u8
+#EXTINF:-1,Easy Radio Bulgaria
+https://live.easyradio.bg/flac
+#EXTINF:-1,Magic FM Bulgaria
+https://bss1.neterra.tv/magicfm/stream_0.m3u8
+#EXTINF:-1,Breaking Barriers Bulgaria
+http://streaming.radionomy.com/BreakingBarriers
+#EXTINF:-1,Vibee Radio
+https://de1se01.v2beat.live/icecast.audio
+#EXTINF:-1,RadioTotal
+http://radiototal.radioca.st/stream/
+#EXTINF:-1,Binar Indie
+http://pri.cdn.bg:2003/fls//BINAR-Indie.stream
+#EXTINF:-1,Radio Hotspot
+https://c5.radioboss.fm:18076/stream
+#EXTINF:-1,Mangle Music Radio
+http://stream.shoutcastservices.com:8095/
+#EXTINF:-1,Zig-Zag Radio
+https://radyo.yayin.com.tr:4474/
+#EXTINF:-1,Balkan Radio
+https://26343.live.streamtheworld.com/SAM03AAC20_SC
+#EXTINF:-1,Radyo Yonika
+http://149.13.0.80/bgradio.ogg
+#EXTINF:-1,Tatkovina
+http://www.tatkovina.eu:8000/bg
+#EXTINF:-1,Greek Web Radio
+http://gwr.no-ip.biz:8000/
+#EXTINF:-1,NRJ Bulgaria
+https://22653.live.streamtheworld.com/RADIO_ENERGYAAC_L.aac
+#EXTINF:-1,MM TV
+https://27063.live.streamtheworld.com/XHTPOFM_SC
+#EXTINF:-1,Music Space Radio
+http://62.149.196.16:8888/stream1
+#EXTINF:-1,Note FM
+https://radiozender.mpbnetwerken.nl/notefmbg.mp3
+#EXTINF:-1,Radio Vega
+http://88.80.96.25:3050/stream.mp3
+#EXTINF:-1,Vega
+http://88.80.96.25:3050/?1358938480247.mp3
+#EXTINF:-1,tangra-mega-rok
+http://stream-02.radiotangra.com/Tangra-high
+#EXTINF:-1,Deep Radio Europe Listen live
+https://play-radio4.jump.bg:7000/stream
+#EXTINF:-1,Makenoisech Listen live
+https://makenoisech.stream.laut.fm/makenoisech?t302=2025-09-17_22-13-26&uuid=a6153d76-ddbc-4f66-bd09-48779911929b
+#EXTINF:-1,rockvibes Listen live
+https://rockvibes.stream.laut.fm/rockvibes?ref=radiode&t302=2025-09-17_22-13-26&uuid=f30d57fc-de56-42a5-9b6f-04557934edc0
+#EXTINF:-1,Exclusively Beastie Boys Listen live
+https://2.mystreaming.net/er/beastieboys/icecast.audio
+#EXTINF:-1,Exa FM Ciudad Obregón Listen live
+https://streamingcwsradio30.com:7056/
+#EXTINF:-1,CoreTime.FM Listen live
+https://listener1.mp3.tb-group.fm/ct.mp3
+#EXTINF:-1,Exclusively Duke Ellington Listen live
+https://2.mystreaming.net/er/dukeellington/icecast.audio
+#EXTINF:-1,R101 Urban Night Listen live
+https://icy.unitedradio.it/101UrbanNight.aac
+#EXTINF:-1,nrtt4 Listen live
+https://nrtt4.stream.laut.fm/nrtt4?ref=radiode&t302=2025-09-17_22-13-27&uuid=99202f9a-79f7-48b9-ba11-08f0dd3c3f5c
+#EXTINF:-1,Exclusively Barbra Streisand Listen live
+https://2.mystreaming.net/er/streisand/icecast.audio
+#EXTINF:-1,P4 Sjuhärad Listen live
+https://http-live.sr.se/p4sjuharad-mp3-128
+#EXTINF:-1,105'5 Spreeradio Live Listen live
+https://rtlberlin.streamabc.net/rtlb-spreeradiolive-mp3-128-6206893
+#EXTINF:-1,Exclusively The Doors Listen live
+https://2.mystreaming.net/er/doors/icecast.audio
+#EXTINF:-1,RauteMusik - ChartHits Listen live
+https://rautemusik.stream37.radiohost.de/charthits?upd-meta&upd-scheme=https&_art=dD0xNzU4MTQ3NTA4JmQ9MmYwYTQyNmMzYjQ3ODE3M2Y2MTk
+#EXTINF:-1,Radio Norte 104.1 FM Listen live
+https://ice42.securenetsystems.net/NORTE
+#EXTINF:-1,The Breeze 93.9FM Listen live
+https://www.ophanim.net:8444/s/8370
+#EXTINF:-1,baden.fm relax Listen live
+https://edge68.streamonkey.net/badenfm-relax?aggregator=hofmeir
+#EXTINF:-1,Pure Radio Holland - Live Party Channel Listen live
+https://streamproxy.live.pureradio.eu/high
+#EXTINF:-1,muke-by-ink Listen live
+https://muke-by-ink.stream.laut.fm/muke-by-ink?ref=radiode&t302=2025-09-17_22-13-28&uuid=7d551990-3623-4d9c-a785-d8b60a855c0f
+#EXTINF:-1,Electro - Radio Record Listen live
+https://radiorecord.hostingradio.ru/elect96.aacp
+#EXTINF:-1,LCR - Linedance & Country Radio Listen live
+https://streaming.radio.co/sba5c95896/listen
+#EXTINF:-1,Soundtracks FM Listen live
+https://soundtracksfm.stream.laut.fm/soundtracksfm?ref=radiode&t302=2025-09-17_22-13-29&uuid=dfdb025b-c640-4428-b760-bd9c28dfb6d4
+#EXTINF:-1,Вечерний Бриз Listen live
+https://listen6.myradio24.com/82666
+#EXTINF:-1,radiodigital Listen live
+https://radiodigital.stream.laut.fm/radiodigital?ref=radiode&t302=2025-09-17_22-13-30&uuid=2c33a3e0-be1c-4dc0-af33-297312f42429
+#EXTINF:-1,Metro Dance Radio
+http://5.63.151.52:7017/MDR
+#EXTINF:-1,R1 Dubstep
+https://27743.live.streamtheworld.com/AVTORADIOAAC_H.aac
+#EXTINF:-1,Avto
+https://27823.live.streamtheworld.com/AVTORADIOAAC_L.aac
+#EXTINF:-1,Shine
+https://lowstream.hothitsfm.com/stream
+#EXTINF:-1,Radio „Южен бряг“ - Бургас : Style Of Life
+https://listen.radioking.com/radio/454916/stream/524027
+#EXTINF:-1,Radio Ultra Pazardzhik
+http://88.80.96.25:30500/
+#EXTINF:-1,BG Estrada
+http://25633.live.streamtheworld.com/BG_ESTRADAAAC_L.aac
+#EXTINF:-1,City Radio
+http://stream.metacast.eu/bgradio.opus
+#EXTINF:-1,Радио ENERGY
+http://149.13.0.80:80/nrj64
+#EXTINF:-1,BNR Radio
+https://e106-ts.cdn.bg/regstations/fls/Vidin.stream/chunklist.m3u8
+#EXTINF:-1,Витоша
+https://e106-ts.cdn.bg/regstations/fls/Sofia.stream/chunklist.m3u8
+#EXTINF:-1,Radio Parallel 48
+https://s3.radio.co/sc8688da65/listen
+#EXTINF:-1,Radio Aurea 90,4 FM
+http://edge-audio-03-gos2.sharp-stream.com/ssvcbfbs3.mp3
+#EXTINF:-1,MAGIC BULGARIA
+http://play.global.audio/bgradio128
+#EXTINF:-1,WXM ONE STATION
+https://jm8n.net/8024/stream
+#EXTINF:-1,Horizont Bnr
+https://e106-ts.cdn.bg/regstations/fls/Horizont.stream/chunklist.m3u8
+#EXTINF:-1,Alpha Radio
+http://89.163.217.252:9336/
+#EXTINF:-1,Internet Radio Lele Male
+https://play-radio0.jump.bg:7332/stream
+#EXTINF:-1,Radio Balkanika
+https://ssl120.radyotelekom.com.tr:8122/stream
+#EXTINF:-1,Goldenrose
+http://www.listen2myradio.com/
+#EXTINF:-1,Easy Radio.Bg
+http://play.global.audio:80/city128
+#EXTINF:-1,Пети Полк Студио
+http://65.109.81.84:8684/stream
+#EXTINF:-1,Радио 1
+http://play.global.audio:80/radio1128
+#EXTINF:-1,БГ Радио
+http://play.global.audio:80/bgradio128
+#EXTINF:-1,БГ Радио - Естрада
+http://play.global.audio:80/bgestrada
+#EXTINF:-1,РАДИО 1 РОК
+http://play.global.audio:80/radio1rock64
+#EXTINF:-1,TLIG Radio - Bulgarian
+http://stream.tligradio.org/listen/bulgarian/radio.mp3
+#EXTINF:-1,AVTORADIO
+http://28933.live.streamtheworld.com/AVTORADIOAAC_L.aac
+#EXTINF:-1,Веселина Ретро
+https://bss2.neterra.tv/veselinaretro/veselinaretro_1.m3u8
+#EXTINF:-1,Radio Energy 89.5
+http://play.global.audio:80/nrj.aac
+#EXTINF:-1,Radio ENERGY - Hits 90s
+http://play.global.audio:80/energy-90s
+#EXTINF:-1,Magic Party
+https://bss2.neterra.tv/magicparty/index.m3u8
+#EXTINF:-1,Radioxaschove.com
+http://79.98.108.173:8006/stream
+#EXTINF:-1,Radio ENERGY - 00s Only
+http://play.global.audio/energy-00shi.aac
+#EXTINF:-1,R1 Melodic Dubstep – Sofia – Sofia-Capital – BG
+https://stream.zeno.fm/sgpeqtzkmzauv.m3u
+#EXTINF:-1,Radio Nova News – 95.7 FM – Sofia – Sofia-Capital – BG
+https://25533.live.streamtheworld.com/RADIO_NOVANEWSAAC_H_SC
+#EXTINF:-1,авто радио – Sofia – Sofia-Capital – BG
+https://20103.live.streamtheworld.com/AVTORADIOAAC_L_SC?dist=DESKTOP
+#EXTINF:-1,Metro Virtuoso Radio – Sofia – Sofia-Capital – BG
+http://eu1.reliastream.com:7092/MVR
+#EXTINF:-1,Радио 1 (Radio 1) – 106.0 FM – Sofia – Sofia-Capital – BG
+https://27743.live.streamtheworld.com/RADIO_1AAC_L_SC?dist=DESKTOP
+#EXTINF:-1,Metro Hits Radio – Sofia – Sofia-Capital – BG
+http://eu1.reliastream.com:7178/MHR
+#EXTINF:-1,NRJ Radio ENERGY – Sofia – Sofia-Capital – BG
+https://27793.live.streamtheworld.com/RADIO_ENERGYAAC_L_SC?dist=DESKTOP
+#EXTINF:-1,Радио1Rock 98.3 FM ( Radio 1 Rock ) – 98.3 FM – Sofia – Sofia-Capital – BG
+https://25443.live.streamtheworld.com/RADIO_1_ROCKAAC_L_SC?dist=DESKTOP
+#EXTINF:-1,Radio Nova 101.7 FM – 101.7 FM – Sofia – Sofia-Capital – BG
+https://27783.live.streamtheworld.com/RADIO_NOVAAAC_L_SC?dist=DESKTOP
+#EXTINF:-1,Радио Вероника 96.7 (Radio Veronika) – 96.7 FM – Sofia – Sofia-Capital – BG
+https://25633.live.streamtheworld.com/RADIO_VERONIKAAAC_L_SC?dist=DESKTOP
+#EXTINF:-1,БГ Радио 91.9 ( BG Radio ) – 91.9 FM – Sofia – Sofia-Capital – BG
+https://25653.live.streamtheworld.com/BG_RADIOAAC_L_SC?dist=DESKTOP
+#EXTINF:-1,Radio Lelemale (Леле Мале) – Sofia – Sofia-Capital – BG
+https://play-radio0.jump.bg:7332
+#EXTINF:-1,Радио Веселина 99.1 FM – 99.1 FM – Sofia – Sofia-Capital – BG
+https://bss1.neterra.tv/veselina/stream_0.m3u8
+#EXTINF:-1,Радио Витоша 97.6 FM – 97.6 FM – Sofia – Sofia-Capital – BG
+http://stream.radioreklama.bg/avtoradio.mp3
+#EXTINF:-1,Radio Ultra Blagoevgrad
+http://play.global.audio:80/bgradio.ogg
+#EXTINF:-1,Radio Nova News Онлайн
+https://27753.live.streamtheworld.com/RADIO_NOVANEWSAAC_H_SC
+#EXTINF:-1,Radio Retro Folk
+http://79.98.108.170:8053/
+#EXTINF:-1,NRJ Radio ENERGY Онлайн
+https://22603.live.streamtheworld.com/RADIO_ENERGYAAC_L_SC?dist=DESKTOP
+#EXTINF:-1,Radio BG Voice Bslkan
+https://streams.radio.co/sd38725529/listen
+#EXTINF:-1,Radio Strimonika
+https://play-radio0.jump.bg:7666/stream
+#EXTINF:-1,Радио 1 (Radio 1) Онлайн
+https://22183.live.streamtheworld.com/RADIO_1AAC_L_SC?dist=DESKTOP
+#EXTINF:-1,Радио Вероника 96.7 (Radio Veronika) Онлайн
+http://149.13.0.81/veronika64
+#EXTINF:-1,Радио City 99.7 FM Онлайн
+http://149.13.0.80/city.ogg
+#EXTINF:-1,авто радио Онлайн
+https://28953.live.streamtheworld.com/AVTORADIOAAC_L_SC?dist=DESKTOP
+#EXTINF:-1,Radio Favorit
+http://79.98.108.170:8235/stream
+#EXTINF:-1,Bg Estrada
+https://23603.live.streamtheworld.com/BG_ESTRADAAAC_L.aac?dist=onlineradiobox
+#EXTINF:-1,Metro Love Radio Онлайн
+http://eu1.reliastream.com:7002/service
+#EXTINF:-1,Рила Фолк Онлайн
+https://play-radio6.jump.bg:7016/play
+#EXTINF:-1,Радио1Rock 98.3 FM ( Radio 1 Rock ) Онлайн
+https://25703.live.streamtheworld.com/RADIO_1_ROCKAAC_L_SC?dist=DESKTOP
+#EXTINF:-1,easyradio
+http://live.easyradio.bg/aac
+#EXTINF:-1,Radio Orgazam BG Онлайн
+http://ams-pioneer02.dedicateware.com:1180/stream
+#EXTINF:-1,БГ Радио 91.9 ( BG Radio ) Онлайн
+https://29053.live.streamtheworld.com/BG_RADIOAAC_L_SC?dist=DESKTOP
+#EXTINF:-1,Radio Music BG
+http://79.98.108.170:8243/stream
+#EXTINF:-1,Metro Love 2k Radio Онлайн
+http://eu1.reliastream.com:7048/MLR2K
+#EXTINF:-1,Metro Dance Radio Онлайн
+http://eu1.reliastream.com:7017/MDR

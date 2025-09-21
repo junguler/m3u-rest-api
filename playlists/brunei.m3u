@@ -1,0 +1,41 @@
+#EXTM3U
+#EXTINF:-1,BFBS Radio 1 Brunei
+https://icy-e-05-gos.sharp-stream.com/ssvcbfbs10.mp3
+#EXTINF:-1,Radio BFBS Brunei
+https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs10.aac
+#EXTINF:-1,Radio Pelangi FM radio
+https://d2kziuzkf9oizb.cloudfront.net/rd001/playlist.m3u8
+#EXTINF:-1,RTB Nasional FM radio
+https://d2kziuzkf9oizb.cloudfront.net/rd005/playlist.m3u8
+#EXTINF:-1,RTB Nur Islam FM radio
+https://d2kziuzkf9oizb.cloudfront.net/rd004/playlist.m3u8
+#EXTINF:-1,RTB Harmoni FM radio
+https://d2kziuzkf9oizb.cloudfront.net/rd002/playlist.m3u8
+#EXTINF:-1,RTB Pilihan FM radio
+https://d2kziuzkf9oizb.cloudfront.net/rd003/playlist.m3u8
+#EXTINF:-1,BFBS Brunei
+https://edge-audio-01-cr.sharp-stream.com/ssvcbfbs10.mp3
+#EXTINF:-1,1 4 1 Progressive Listen live
+https://1-4-1-progressive.stream.laut.fm/1-4-1-progressive?t302=2025-09-17_21-54-31&uuid=7e0b31e2-0592-4a8c-9463-ab5528a0de5e
+#EXTINF:-1,RauteMusik - Trance Listen live
+https://rautemusik.stream39.radiohost.de/trance?ref=rm5beta&upd-meta&upd-scheme=https&_art=dD0xNzU4MTQ2MzcyJmQ9OWJkMTc0M2RiZjIzNjYxN2NkODY
+#EXTINF:-1,AutoLife Radio Listen live
+https://radio.autoliferadio.com:8005/radio
+#EXTINF:-1,Ghana Music Radio Listen live
+https://streaming.radio.co/s92f890821/listen
+#EXTINF:-1,Pelangi 91.4 FM
+https://edge-audio-01-cr.sharp-stream.com/ssvcbfbs10.aac
+#EXTINF:-1,Nosional 92.3 FM
+https://d2kziuzkf9oizb.cloudfront.net/rd005/chunklist.m3u8
+#EXTINF:-1,Nur Islam 93.3 FM
+https://d2kziuzkf9oizb.cloudfront.net/rd004/chunklist.m3u8
+#EXTINF:-1,Pilihan 95.9 FM
+https://d2kziuzkf9oizb.cloudfront.net/rd003/chunklist.m3u8
+#EXTINF:-1,Harmoni 94.1 FM
+https://d2kziuzkf9oizb.cloudfront.net/rd002/chunklist.m3u8
+#EXTINF:-1,Kristal FM
+https://play.thestreamtech.com:7038/index.html
+#EXTINF:-1,Antenna Web Belait
+https://italiavera.radioca.st/stream
+#EXTINF:-1,BFBS Brunei – Seria – Belait – Brunei
+https://edge-audio-05-gos2.sharp-stream.com/ssvcbfbs10.aac

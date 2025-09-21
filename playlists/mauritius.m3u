@@ -1,0 +1,81 @@
+#EXTM3U
+#EXTINF:-1,Radio Plus
+https://stream.radio.co/s8cc7a5da4/listen
+#EXTINF:-1,SENSUELLE RADIO
+https://radio10.pro-fhi.net/radio/9169/stream.mp3
+#EXTINF:-1,Radio Mystère
+https://s3.free-shoutcast.com/stream/18150
+#EXTINF:-1,Zero Alpha
+https://15113.live.streamtheworld.com/SAM10AAC079.mp3
+#EXTINF:-1,Faith Radio
+http://mu1stream.mushost.com:8230/stream.nsv
+#EXTINF:-1,MBC Best FM
+https://radio.mbconline.xyz/hls/bestfm.m3u8
+#EXTINF:-1,MBC Kool FM
+https://radio.mbconline.xyz/hls/koolfm.m3u8
+#EXTINF:-1,MBC Radio Maurice
+https://radio.mbconline.xyz/hls/radiomaurice.m3u8
+#EXTINF:-1,MBC Radio Mauritius
+https://radio.mbconline.xyz/hls/radiomauritus.m3u8
+#EXTINF:-1,MBC Taal FM
+https://radio.mbconline.xyz/hls/tallfm.m3u8
+#EXTINF:-1,OUI Radio
+http://mu1stream.mushost.com:8080/stream.nsv
+#EXTINF:-1,Radio Moris
+https://azc.radiomoris.com:8010/radio.mp3
+#EXTINF:-1,Radio ADO Reggae
+http://mu1stream.mushost.com:8230/;
+#EXTINF:-1,Tamizen Radio
+https://c34.radioboss.fm:18023/stream
+#EXTINF:-1,Radio230 radio
+https://listen.radio230.com/listen/radio230/radio.mp3
+#EXTINF:-1,Zero Alpha Radio
+https://15113.live.streamtheworld.com/SAM10AAC078_SC?dist=onlineradiobox
+#EXTINF:-1,Radiocity Mauritius radio
+https://s3.free-shoutcast.com/stream/18150/
+#EXTINF:-1,World Tamil FM
+https://ec2.yesstreaming.net:2540/stream
+#EXTINF:-1,Andalucia Chill Radio
+https://stream.beachgrooves.com:9110/stream.mp3
+#EXTINF:-1,Dipolair Radio
+http://listen.radionomy.com/DIPOLAIRRADIO?type=.mp3
+#EXTINF:-1,Antenna Web Port Louis
+https://italiavera.radioca.st/stream
+#EXTINF:-1,Musiqu-e
+https://listen.radioking.com/radio/698681/stream/763661
+#EXTINF:-1,Exclusively Pet Shop Boys Listen live
+https://nl4.mystreaming.net/er/petshopboys/icecast.audio
+#EXTINF:-1,Klassik Radio - Klassik zum Weinabend Listen live
+https://klassikr.streamabc.net/klr_5l7umldw02n_p4gf-mp3-192-6346675?sABC=68po3993%230%23nqnp6r73387r288518398p9pp3s10qr7%23&aw_0_1st.playerid=&amsparams=playerid:;skey:1758149011
+#EXTINF:-1,Mio Radio Listen live
+https://s2.myradiostream.com/:13662/
+#EXTINF:-1,RadioMoris Roots
+https://azc.radiomoris.com:8000/radio.mp3
+#EXTINF:-1,RFI Afrique
+https://rfiafrique64k.ice.infomaniak.ch/rfiafrique-64.mp3
+#EXTINF:-1,NRJ Maurice
+https://radio.mbconline.xyz/hls/musicfm.m3u8
+#EXTINF:-1,Rodrigues FM
+https://radio.mbconline.xyz/hls/rodrigusfm.m3u8
+#EXTINF:-1,Taal FM Mauritius
+http://streamingp.shoutcast.com/JamendoLounge?lang=*
+#EXTINF:-1,Radio ADO
+http://mu1stream.mushost.com:8230/
+#EXTINF:-1,MBC - Best FM
+http://azc.radiomoris.com:8010/radio.mp3
+#EXTINF:-1,Radio Plus - Hits
+http://s3.radio.co/s1769ca1ac/listen
+#EXTINF:-1,Radio Plus - Indiz
+http://streamer.radio.co/sed5c5a375/listen
+#EXTINF:-1,Radio Plus - Fever
+http://streamer.radio.co/s3fe39a4a4/listen
+#EXTINF:-1,Biltong.mu Radio
+http://s3.radio.co/s135e9edde/listen
+#EXTINF:-1,MBC Rodrigues FM
+http://mu1stream.mushost.com:8080/stream2
+#EXTINF:-1,OUi Radio
+http://mu1stream.mushost.com:8080/stream
+#EXTINF:-1,MBC – Music FM
+https://mbcradio.tv/sites/all/themes/mbcradiotv/radiostreams/musicfm.m3u8
+#EXTINF:-1,MBC – Taal FM
+https://mbcradio.tv/sites/all/themes/mbcradiotv/radiostreams/taalfm.m3u8

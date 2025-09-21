@@ -11,3 +11,7 @@ http://mediacp.audiostreamen.nl:8160/stream
 http://live.hostingbudget.nl:1800/stream
 #EXTINF:-1,radioflamingo
 http://live.hostingbudget.nl:4920/stream
+#EXTINF:-1,Happy Sound Music Limburg  - 192 - The Netherlands - dance - disco - dutch - schlagers - top40
+http://schlagerschweinchen.stream.laut.fm/schlagerschweinchen?t302=2025-09-10_17-26-05&uuid=26308009-7f66-4ec1-bbc6-4c78ef26de81
+#EXTINF:-1,ANTENNE BAYERN Schlagersahne
+http://s2-webradio.antenne.de/das-schlager-karussell/stream/aacp

@@ -1,5 +1,1261 @@
 #EXTM3U
+#EXTINF:-1,Dark Mythos
+http://dark-mythos.stream.laut.fm/dark-mythos
+#EXTINF:-1,Riot Radio
+http://riotradio.stream.laut.fm/riotradio
+#EXTINF:-1,Wave Breaker
+https://wavebreaker.stream.laut.fm/wavebreaker?t302=2019-03-07_12-35-05&ampuuid=e32d564e-0b4c-4d89-af0a-40404406e7a6
+#EXTINF:-1,Rock The Bones Radio
+https://srv6.sonicpanel.cl/8278/stream
+#EXTINF:-1,Gothic
+https://gothic.stream.laut.fm/gothic?ref=radiode&t302=2025-09-06_22-53-11&uuid=047eab74-8551-49fe-80dc-c14063dd15f9
+#EXTINF:-1,Metal Rock Radio
+https://kathy.torontocast.com:2800/stream/1/
+#EXTINF:-1,gothica
+https://gothica.stream.laut.fm/gothica?ref=radiode&t302=2025-09-06_22-53-11&uuid=21d62767-13bd-44f0-a240-707ffb9d6b2a
+#EXTINF:-1,DARK TEMPTATION RADIO
+https://dark-temptation-radio.stream.laut.fm/dark-temptation-radio?ref=radiode&t302=2025-09-06_22-53-11&uuid=65ad8da0-b05e-46c5-8369-b7e758c0e72b
+#EXTINF:-1,Session
+https://session.stream.laut.fm/session?ref=radiode&t302=2025-09-06_22-53-11&uuid=d97457ac-0ef3-48e9-ae15-7eadf510bab8
+#EXTINF:-1,Dark Sound Radio
+https://darksoundradio.stream.laut.fm/darksoundradio?ref=radiode&t302=2025-09-06_22-53-11&uuid=01c77f1b-65eb-4ec9-8f38-10ef323f655c
+#EXTINF:-1,hellschwarz
+https://hellschwarz.stream.laut.fm/hellschwarz?ref=radiode&t302=2025-09-06_22-53-11&uuid=0e63794c-61f0-4c42-9926-3b67ca78ca36
+#EXTINF:-1,Flatlines
+https://flatlines.stream.laut.fm/flatlines?ref=radiode&t302=2025-09-06_22-53-11&uuid=521ce9ad-1466-41b7-9218-66aff1480f35
+#EXTINF:-1,80s80s Wave
+https://regiocast.streamabc.net/regc-80s80swave1065742-mp3-192-3582815?sABC=68opoo57%230%23722rsp326n6o0q50346215r0p895q6r0%23enqvb.qr&aw_0_1st.playerid=radio.de&amsparams=playerid:radio.de;skey:1757199191
+#EXTINF:-1,eigengrau
+https://eigengrau.stream.laut.fm/eigengrau?ref=radiode&t302=2025-09-06_22-53-11&uuid=6b455d99-8389-42d0-ad61-16b7472d9ea7
+#EXTINF:-1,german-gothic-radio
+https://german-gothic-radio.stream.laut.fm/german-gothic-radio?ref=radiode&t302=2025-09-06_22-53-11&uuid=be55507c-4c23-4952-a658-f6093f78d4e1
+#EXTINF:-1,radio-schwarzeseele
+https://radio-schwarzeseele.stream.laut.fm/radio-schwarzeseele?ref=radiode&t302=2025-09-06_22-53-12&uuid=fa4f9aa9-60b3-4ae3-a215-14de7c17c58b
+#EXTINF:-1,RADIO BOB! BOBs Gothic Rock
+https://regiocast.streamabc.net/regc-radiobobgothic6924976-mp3-192-2500754?sABC=68opoo58%230%23722rsp326n6o0q50346215r0p895q6r0%23enqvbqr&aw_0_1st.playerid=radiode&amsparams=playerid:radiode;skey:1757199192
+#EXTINF:-1,radio-freitag-der-13te
+https://radio-freitag-der-13te.stream.laut.fm/radio-freitag-der-13te?ref=radiode&t302=2025-09-06_22-53-12&uuid=ecd2dca0-dc92-4b31-b8ad-11a113a92f87
+#EXTINF:-1,schattenspiel
+https://schattenspiel.stream.laut.fm/schattenspiel?ref=radiode&t302=2025-09-06_22-53-12&uuid=4e95ff90-40cb-4247-be71-e8762f2e71b6
+#EXTINF:-1,international-dark-radio
+https://international-dark-radio.stream.laut.fm/international-dark-radio?ref=radiode&t302=2025-09-06_22-53-12&uuid=8b855087-6d34-4b35-8648-50c8c559d3ab
+#EXTINF:-1,best-mix-radio
+https://best-mix-radio.stream.laut.fm/best-mix-radio?ref=radiode&t302=2025-09-06_22-53-12&uuid=00fbd6d5-303d-4bdb-8c42-9c381b6ea306
+#EXTINF:-1,dunklewelle
+https://dunklewelle.stream.laut.fm/dunklewelle?ref=radiode&t302=2025-09-06_22-53-12&uuid=1a60a7a6-afcb-4db3-b3ba-af05e71755f2
+#EXTINF:-1,moshhead-gothic
+https://moshhead-gothic.stream.laut.fm/moshhead-gothic?ref=radiode&t302=2025-09-06_22-53-12&uuid=ce9659bc-789b-4ca7-abce-033872f42fce
+#EXTINF:-1,Radio Nachtflug
+https://server26265.streamplus.de/stream/1/
+#EXTINF:-1,abyss
+https://abyss.stream.laut.fm/abyss?ref=radiode&t302=2025-09-06_22-53-12&uuid=7c76553d-fb1b-429c-8658-1ce198579d21
+#EXTINF:-1,dark-sound-united
+https://dark-sound-united.stream.laut.fm/dark-sound-united?ref=radiode&t302=2025-09-06_22-53-12&uuid=57ad028b-f7c8-44e6-a6a5-3f5b6e661d90
+#EXTINF:-1,radiodarkpulse
+https://radiodarkpulse.stream.laut.fm/radiodarkpulse?ref=radiode&t302=2025-09-06_22-53-12&uuid=7524e80b-e2b5-4fb9-9348-8897feae2831
+#EXTINF:-1,Dark Wave Sounds
+https://darkwave-sounds.stream.laut.fm/darkwave-sounds?ref=radiode&t302=2025-09-06_22-53-12&uuid=b5c19a7e-3f10-4fe2-bffb-4ccb873d6e25
+#EXTINF:-1,BlackSpot
+https://blackspot.stream.laut.fm/blackspot?ref=radiode&t302=2025-09-06_22-53-13&uuid=bc0ce0bc-59d1-4cfc-b7b3-1f3533ccf19d
+#EXTINF:-1,dark-mythos
+https://dark-mythos.stream.laut.fm/dark-mythos?ref=radiode&t302=2025-09-06_22-53-13&uuid=4d253872-7c61-400c-9ddd-60077fa28519
+#EXTINF:-1,fantasyradio
+https://fantasyradio.stream.laut.fm/fantasyradio?ref=radiode&t302=2025-09-06_22-53-13&uuid=d7fbb66d-f5d1-4e76-bfe5-ef6fcf3d23dd
+#EXTINF:-1,MedusaFM
+https://medusafm.stream.laut.fm/medusafm?ref=radiode&t302=2025-09-06_22-53-13&uuid=f0880cda-696f-4d7c-b8b7-daa0f1cd0ab2
+#EXTINF:-1,Black-Neon-Radio
+https://blackneonradio.stream.laut.fm/blackneonradio?ref=radiode&t302=2025-09-06_22-53-13&uuid=8f68b619-ded5-4c2c-8a57-6d14f8578c1e
+#EXTINF:-1,darkclubradio
+https://darkclubradio.stream.laut.fm/darkclubradio?ref=radiode&t302=2025-09-06_22-53-13&uuid=913c51ae-db90-47d1-9be4-bcd17109187b
+#EXTINF:-1,Music-is-my-life
+https://music-is-my-life.stream.laut.fm/music-is-my-life?ref=radiode&t302=2025-09-06_22-53-13&uuid=b8181fc8-a4c4-49d6-9670-3b8c983a8b76
+#EXTINF:-1,flyflew
+https://flyflew.stream.laut.fm/flyflew?ref=radiode&t302=2025-09-06_22-53-13&uuid=3e80706b-afde-4e2f-9ae2-c9af55497e0a
+#EXTINF:-1,Radio Schattenwelt
+https://radiopuettlingen.stream.laut.fm/radiopuettlingen?ref=web-appu0026start_time=1652189757412u0026t302=2022-05-10_15-35-57u0026uuid=19754737-b5a1-43d0-af95-766747721a76
+#EXTINF:-1,RadioSinnflut
+https://sinnflut.stream.laut.fm/sinnflut?ref=radiode&t302=2025-09-06_22-53-14&uuid=ddf0bb00-0a06-4260-926d-5f3959ec4a60
+#EXTINF:-1,romance
+https://romance.stream.laut.fm/romance?ref=radiode&t302=2025-09-06_22-53-14&uuid=6cb3a04e-b2cd-49a2-855a-464c2f3c3267
+#EXTINF:-1,radio-headshot
+https://radio-headshot.stream.laut.fm/radio-headshot?ref=radiode&t302=2025-09-06_22-53-14&uuid=b33ea682-098f-4187-a249-777e6e873847
+#EXTINF:-1,rosenland
+https://rosenland.stream.laut.fm/rosenland?ref=radiode&t302=2025-09-06_22-53-14&uuid=7104ac66-bba8-47ee-96e2-465f15e33bb9
+#EXTINF:-1,Zwischen-Welten Radio
+https://radio.zwischen-welten.info/midd.mp3?type=http
+#EXTINF:-1,darksynthradio
+https://darksynthradio.stream.laut.fm/darksynthradio?ref=radiode&t302=2025-09-06_22-53-14&uuid=a085962c-d5b2-4b67-96f1-ea57654d3631
+#EXTINF:-1,dark-bites
+https://dark-bites.stream.laut.fm/dark-bites?ref=radiode&t302=2025-09-06_22-53-14&uuid=2c7e9af4-8787-4e92-abcf-1d15ec2f0baf
+#EXTINF:-1,radio-darkstar
+https://radio-darkstar.stream.laut.fm/radio-darkstar?ref=radiode&t302=2025-09-06_22-53-14&uuid=33c6e422-22f1-4d63-a7f5-a0bf4b14eda6
+#EXTINF:-1,promofabrikamerica
+https://promofabrikamerica.stream.laut.fm/promofabrikamerica?ref=radiode&t302=2025-09-06_22-53-14&uuid=808b954b-6868-44a9-95e3-57f27852ae20
+#EXTINF:-1,80er-zone
+https://80er-zone.stream.laut.fm/80er-zone?ref=radiode&t302=2025-09-06_22-53-14&uuid=2349a469-6a5d-49e9-a7ed-ce623f7336e2
+#EXTINF:-1,schwarzeszene
+https://schwarzeszene.stream.laut.fm/schwarzeszene?ref=radiode&t302=2025-09-06_22-53-14&uuid=818ed5f6-1c30-4aa3-b22b-d5992d6e3277
+#EXTINF:-1,promofabrik-radio
+https://promofabrik-radio.stream.laut.fm/promofabrik-radio?ref=radiode&t302=2025-09-06_22-53-14&uuid=ad57460c-3af3-4755-9927-5857ae9400f3
+#EXTINF:-1,schwarzlauscher
+https://schwarzlauscher.stream.laut.fm/schwarzlauscher?ref=radiode&t302=2025-09-06_22-53-14&uuid=045dbbc7-07aa-47aa-aa51-b376caec2af6
+#EXTINF:-1,schattenreich
+https://schattenreich.stream.laut.fm/schattenreich?ref=radiode&t302=2025-09-06_22-53-15&uuid=1947977f-7d93-4d64-8f20-d9ceedaa5db3
+#EXTINF:-1,rockvibes
+https://rockvibes.stream.laut.fm/rockvibes?ref=radiode&t302=2025-09-06_22-53-15&uuid=d6bfa803-4f91-440c-ad3b-60e2085b4c19
+#EXTINF:-1,gothwritershome
+https://gothwritershome.stream.laut.fm/gothwritershome?ref=radiode&t302=2025-09-06_22-53-15&uuid=5a78d12d-a80c-4798-9f9f-ed0986755786
+#EXTINF:-1,Metal-FM.com
+https://metal-fm-com.stream.laut.fm/metal-fm-com?ref=radiode&t302=2025-09-06_22-53-15&uuid=f473fa3c-0015-4d8b-a8a1-421ce35df76a
+#EXTINF:-1,Radio-Dark-Universe
+https://radio-dark-universe.stream.laut.fm/radio-dark-universe?ref=radiode&t302=2025-09-07_00-26-12&uuid=ed4a97e1-55ac-4fd9-a17f-827d48d85639
+#EXTINF:-1,up_the_irons
+https://uptheirons.stream.laut.fm/up_the_irons?ref=radiode&t302=2025-09-07_00-26-12&uuid=8b7fc7d2-a12b-4553-aba0-f7c90107e18b
+#EXTINF:-1,Radio Eigengrau
+https://eigengrau.stream.laut.fm/eigengrau?ref=radiode&t302=2025-09-07_00-26-13&uuid=981c1b37-1f9c-433d-a8b2-a20ddd1d7cbc
+#EXTINF:-1,thegloomyculture
+https://thegloomyculture.stream.laut.fm/thegloomyculture?ref=radiode&t302=2025-09-07_00-26-13&uuid=eb46bbb8-36b3-4e7b-a553-126ae08c91e8
+#EXTINF:-1,Metal Power
+https://listen.radionomy.com/metalpower.m3u
+#EXTINF:-1,arie_of_the_raven
+https://arieoftheraven.stream.laut.fm/arie_of_the_raven?ref=radiode&t302=2025-09-07_00-26-14&uuid=cf705833-8afd-468f-8583-324dff16686b
+#EXTINF:-1,CIA Radio
+https://cia-radio.stream.laut.fm/cia-radio?ref=radiode&t302=2025-09-07_00-26-14&uuid=c68c0932-be73-4d27-b07a-d8a6de4beb2e
+#EXTINF:-1,CrazyFire-Radio
+https://crazyfire-radio.stream.laut.fm/crazyfire-radio?ref=radiode&t302=2025-09-07_00-26-14&uuid=dbfb09fd-00e0-4970-80b5-2956ca270e55
+#EXTINF:-1,dunkle_welten
+https://dunklewelten.stream.laut.fm/dunkle_welten?ref=radiode&t302=2025-09-07_00-26-14&uuid=1d2edaab-a777-41fd-99ce-bbeaeee2cced
+#EXTINF:-1,eastend
+https://eastend.stream.laut.fm/eastend?ref=radiode&t302=2025-09-07_00-26-14&uuid=dfe080f7-324f-4c57-8b93-d14c33a2a0f5
+#EXTINF:-1,Hobbits-Welt
+https://hobbits-welt.stream.laut.fm/hobbits-welt?ref=radiode&t302=2025-09-07_00-26-15&uuid=3ee23ae5-734d-4076-a537-6a6c70f84f52
+#EXTINF:-1,nachtflug
+https://nachtflug.stream.laut.fm/nachtflug?ref=radiode&t302=2025-09-07_00-26-15&uuid=0884c07a-1e47-4689-a10f-3de8d789e7ed
+#EXTINF:-1,nachtstahlschmiede
+https://nachtstahlschmiede.stream.laut.fm/nachtstahlschmiede?ref=radiode&t302=2025-09-07_00-26-15&uuid=900e1c98-85f4-4bcb-9d08-f716c684a9b5
+#EXTINF:-1,Schwarzer Kanal
+https://schwarzerkanal.stream.laut.fm/schwarzer_kanal?ref=radiode&t302=2025-09-07_00-26-16&uuid=758826fc-e580-4c76-9385-03526d8ceead
+#EXTINF:-1,schwarzes-nrw
+https://schwarzes-nrw.stream.laut.fm/schwarzes-nrw?ref=radiode&t302=2025-09-07_00-26-16&uuid=0c0c9ead-dfd9-4117-8f93-0aaf162eccb9
+#EXTINF:-1,wavegotik
+https://wavegotik.stream.laut.fm/wavegotik?ref=radiode&t302=2025-09-07_00-26-16&uuid=9178b55b-f47d-4358-a206-2fed4f059729
+#EXTINF:-1,uselinks
+https://uselinks.stream.laut.fm/uselinks?ref=radiode&t302=2025-09-07_00-26-17&uuid=72fddec3-7513-49b5-a12e-689898f81490
+#EXTINF:-1,darkradio-finetunez
+https://darkradio-finetunez.stream.laut.fm/darkradio-finetunez?ref=radiode&t302=2025-09-07_00-26-17&uuid=d0f8ddf8-9e3e-4a70-a882-9c0a5103d411
+#EXTINF:-1,dj-falke
+https://dj-falke.stream.laut.fm/dj-falke?ref=radiode&t302=2025-09-07_00-26-17&uuid=1bcad975-f139-45c0-9ebd-8f0bb120ba32
+#EXTINF:-1,fruehling
+https://fruehling.stream.laut.fm/fruehling?ref=radiode&t302=2025-09-07_00-26-18&uuid=750b13c9-561f-4b5b-9848-347ef64ad8d5
+#EXTINF:-1,thedarkbluhell
+https://thedarkbluhell.stream.laut.fm/thedarkbluhell?ref=radiode&t302=2025-09-07_00-26-19&uuid=a85635a3-a1d4-4a18-85de-b9d9698d29b7
+#EXTINF:-1,thedarknight
+https://thedarknight.stream.laut.fm/thedarknight?ref=radiode&t302=2025-09-07_00-26-19&uuid=4d01029a-9e7a-4aff-883d-8fe388872580
 #EXTINF:-1,FreshRock Internet Radio Station
 http://stream.freshrock.net:8000/128.mp3
 #EXTINF:-1,Radio Arcane
 http://quincy.torontocast.com:1100/stream
+#EXTINF:-1,Punk Radio Underground
+http://s1.slotex.pl:7604/
+#EXTINF:-1,radio middleages
+http://radio-middleages.stream.laut.fm/radio-middleages
+#EXTINF:-1,thevision
+http://thevision.stream.laut.fm/thevision
+#EXTINF:-1,darkzeroradio
+http://darkzeroradio.stream.laut.fm/darkzeroradio
+#EXTINF:-1,darkrave radio
+http://darkrave_radio.stream.laut.fm/darkrave_radio
+#EXTINF:-1,gothic
+http://gothic.stream.laut.fm/gothic
+#EXTINF:-1,khasandria
+http://khasandria.stream.laut.fm/khasandria
+#EXTINF:-1,dark bites
+http://dark-bites.stream.laut.fm/dark-bites
+#EXTINF:-1,vladsradio darkinside
+http://vladsradio-darkinside.stream.laut.fm/vladsradio-darkinside
+#EXTINF:-1,darkmix
+http://darkmix.stream.laut.fm/darkmix
+#EXTINF:-1,darklupu
+http://darklupu.stream.laut.fm/darklupu
+#EXTINF:-1,electropop
+http://electropop.stream.laut.fm/electropop
+#EXTINF:-1,radio rock fm
+http://radio-rock-fm.stream.laut.fm/radio-rock-fm
+#EXTINF:-1,ghosttrain chemnitz
+http://ghosttrain-chemnitz.stream.laut.fm/ghosttrain-chemnitz
+#EXTINF:-1,ultradarkradio
+http://ultradarkradio.stream.laut.fm/ultradarkradio
+#EXTINF:-1,mmorpg
+http://mmorpg.stream.laut.fm/mmorpg
+#EXTINF:-1,klangwelt
+http://klangwelt.stream.laut.fm/klangwelt
+#EXTINF:-1,darkradio finetunez
+http://darkradio-finetunez.stream.laut.fm/darkradio-finetunez
+#EXTINF:-1,mittelalter net
+http://mittelalter-net.stream.laut.fm/mittelalter-net
+#EXTINF:-1,gothic radio saar
+http://gothic-radio-saar.stream.laut.fm/gothic-radio-saar
+#EXTINF:-1,rockhouse
+http://rockhouse.stream.laut.fm/rockhouse
+#EXTINF:-1,darkstarfm
+http://darkstarfm.stream.laut.fm/darkstarfm
+#EXTINF:-1,all time independent classics
+http://all-time-independent-classics.stream.laut.fm/all-time-independent-classics
+#EXTINF:-1,postpunk
+http://postpunk.stream.laut.fm/postpunk
+#EXTINF:-1,session
+http://session.stream.laut.fm/session
+#EXTINF:-1,darkzdream
+http://darkzdream.stream.laut.fm/darkzdream
+#EXTINF:-1,spontis
+http://spontis.stream.laut.fm/spontis
+#EXTINF:-1,odinsmetalrockclub
+http://odinsmetalrockclub.stream.laut.fm/odinsmetalrockclub
+#EXTINF:-1,arie of the raven
+http://arie_of_the_raven.stream.laut.fm/arie_of_the_raven
+#EXTINF:-1,radioeuro
+http://radioeuro.stream.laut.fm/radioeuro
+#EXTINF:-1,chaoswg
+http://chaoswg.stream.laut.fm/chaoswg
+#EXTINF:-1,electrozombies
+http://electrozombies.stream.laut.fm/electrozombies
+#EXTINF:-1,dunkle welten
+http://dunkle_welten.stream.laut.fm/dunkle_welten
+#EXTINF:-1,german gothic radio
+http://german-gothic-radio.stream.laut.fm/german-gothic-radio
+#EXTINF:-1,metal oldies rock
+http://metal-oldies-rock.stream.laut.fm/metal-oldies-rock
+#EXTINF:-1,area obscura
+http://area-obscura.stream.laut.fm/area-obscura
+#EXTINF:-1,dark metal radio
+http://dark-metal-radio.stream.laut.fm/dark-metal-radio
+#EXTINF:-1,international dark radio
+http://international-dark-radio.stream.laut.fm/international-dark-radio
+#EXTINF:-1,radio darkstar
+http://radio-darkstar.stream.laut.fm/radio-darkstar
+#EXTINF:-1,blackspot
+http://blackspot.stream.laut.fm/blackspot
+#EXTINF:-1,rabenwind
+http://rabenwind.stream.laut.fm/rabenwind
+#EXTINF:-1,crossfire
+http://crossfire.stream.laut.fm/crossfire
+#EXTINF:-1,kamakura
+http://kamakura.stream.laut.fm/kamakura
+#EXTINF:-1,metaltime
+http://metaltime.stream.laut.fm/metaltime
+#EXTINF:-1,rmgradio
+http://rmgradio.stream.laut.fm/rmgradio
+#EXTINF:-1,radio steammachine
+http://radio-steammachine.stream.laut.fm/radio-steammachine
+#EXTINF:-1,worldofdarkness
+http://worldofdarkness.stream.laut.fm/worldofdarkness
+#EXTINF:-1,musikpark
+http://musikpark.stream.laut.fm/musikpark
+#EXTINF:-1,wavebreaker
+http://wavebreaker.stream.laut.fm/wavebreaker
+#EXTINF:-1,hammer
+http://hammer.stream.laut.fm/hammer
+#EXTINF:-1,bizarre radio
+http://bizarre-radio.stream.laut.fm/bizarre-radio
+#EXTINF:-1,isnradio
+http://isnradio.stream.laut.fm/isnradio
+#EXTINF:-1,silent darkangel
+http://silent-darkangel.stream.laut.fm/silent-darkangel
+#EXTINF:-1,illusion castle
+http://illusion-castle.stream.laut.fm/illusion-castle
+#EXTINF:-1,medusafm
+http://medusafm.stream.laut.fm/medusafm
+#EXTINF:-1,darkwave sounds
+http://darkwave-sounds.stream.laut.fm/darkwave-sounds
+#EXTINF:-1,radiovg
+http://radiovg.stream.laut.fm/radiovg
+#EXTINF:-1,wirsinddeinradio
+http://wirsinddeinradio.stream.laut.fm/wirsinddeinradio
+#EXTINF:-1,rothenburg
+http://rothenburg.stream.laut.fm/rothenburg
+#EXTINF:-1,abglanz fm
+http://abglanz-fm.stream.laut.fm/abglanz-fm
+#EXTINF:-1,gaslicht
+http://gaslicht.stream.laut.fm/gaslicht
+#EXTINF:-1,altrockmetal radioband
+http://altrockmetal-radioband.stream.laut.fm/altrockmetal-radioband
+#EXTINF:-1,sinnflut
+http://sinnflut.stream.laut.fm/sinnflut
+#EXTINF:-1,musicpowerbeat
+http://musicpowerbeat.stream.laut.fm/musicpowerbeat
+#EXTINF:-1,radio shadowplay
+http://radio-shadowplay.stream.laut.fm/radio-shadowplay
+#EXTINF:-1,moshhead gothic
+http://moshhead-gothic.stream.laut.fm/moshhead-gothic
+#EXTINF:-1,darkmuzic
+http://darkmuzic.stream.laut.fm/darkmuzic
+#EXTINF:-1,radio dark universe
+http://radio-dark-universe.stream.laut.fm/radio-dark-universe
+#EXTINF:-1,moshhead blackmetal
+http://moshhead-blackmetal.stream.laut.fm/moshhead-blackmetal
+#EXTINF:-1,htd radio
+http://htd-radio.stream.laut.fm/htd-radio
+#EXTINF:-1,darkmotion
+http://darkmotion.stream.laut.fm/darkmotion
+#EXTINF:-1,hardandheavy
+http://hardandheavy.stream.laut.fm/hardandheavy
+#EXTINF:-1,metalcrashradio
+http://metalcrashradio.stream.laut.fm/metalcrashradio
+#EXTINF:-1,planet80s
+http://planet80s.stream.laut.fm/planet80s
+#EXTINF:-1,fire and ice radio
+http://fire-and-ice-radio.stream.laut.fm/fire-and-ice-radio
+#EXTINF:-1,ongard
+http://ongard.stream.laut.fm/ongard
+#EXTINF:-1,darklight
+http://darklight.stream.laut.fm/darklight
+#EXTINF:-1,schallgrenzen
+http://schallgrenzen.stream.laut.fm/schallgrenzen
+#EXTINF:-1,play4today
+http://play4today.stream.laut.fm/play4today
+#EXTINF:-1,feierabendbier
+http://feierabendbier.stream.laut.fm/feierabendbier
+#EXTINF:-1,yugotopia beat club
+http://yugotopia-beat-club.stream.laut.fm/yugotopia-beat-club
+#EXTINF:-1,hits4you
+http://hits4you.stream.laut.fm/hits4you
+#EXTINF:-1,beats for weekend
+http://beats-for-weekend.stream.laut.fm/beats-for-weekend
+#EXTINF:-1,crazy4live
+http://crazy4live.stream.laut.fm/crazy4live
+#EXTINF:-1,onlinetreff
+http://onlinetreff.stream.laut.fm/onlinetreff
+#EXTINF:-1,digital gunfire
+http://digital_gunfire.stream.laut.fm/digital_gunfire
+#EXTINF:-1,witchhouse music
+http://witchhouse-music.stream.laut.fm/witchhouse-music
+#EXTINF:-1,ferulas giftkueche
+http://ferulas_giftkueche.stream.laut.fm/ferulas_giftkueche
+#EXTINF:-1,chat fire
+http://chat-fire.stream.laut.fm/chat-fire
+#EXTINF:-1,rmh radio music house
+http://rmh-radio-music-house.stream.laut.fm/rmh-radio-music-house
+#EXTINF:-1,music is my life
+http://music-is-my-life.stream.laut.fm/music-is-my-life
+#EXTINF:-1,chaos station
+http://chaos-station.stream.laut.fm/chaos-station
+#EXTINF:-1,drachenherz
+http://drachenherz.stream.laut.fm/drachenherz
+#EXTINF:-1,indiego
+http://indiego.stream.laut.fm/indiego
+#EXTINF:-1,musiksofafm
+http://musiksofafm.stream.laut.fm/musiksofafm
+#EXTINF:-1,greyarea
+http://greyarea.stream.laut.fm/greyarea
+#EXTINF:-1,easymix radio
+http://easymix-radio.stream.laut.fm/easymix-radio
+#EXTINF:-1,outland fm
+http://outland-fm.stream.laut.fm/outland-fm
+#EXTINF:-1,zuegellos
+http://zuegellos.stream.laut.fm/zuegellos
+#EXTINF:-1,radio gartentreff
+http://radio-gartentreff.stream.laut.fm/radio-gartentreff
+#EXTINF:-1,flyingangels
+http://flyingangels.stream.laut.fm/flyingangels
+#EXTINF:-1,uferfunk
+http://uferfunk.stream.laut.fm/uferfunk
+#EXTINF:-1,bpm
+http://bpm.stream.laut.fm/bpm
+#EXTINF:-1,goldis hotfunradio
+http://goldis-hotfunradio.stream.laut.fm/goldis-hotfunradio
+#EXTINF:-1, a u r a t o n
+http://_a_u_r_a_t_o_n_.stream.laut.fm/_a_u_r_a_t_o_n_
+#EXTINF:-1,dream of music
+http://dream-of-music.stream.laut.fm/dream-of-music
+#EXTINF:-1,rocknmetal de
+http://rocknmetal_de.stream.laut.fm/rocknmetal_de
+#EXTINF:-1,boomradio
+http://boomradio.stream.laut.fm/boomradio
+#EXTINF:-1,corvusnigrum
+http://corvusnigrum.stream.laut.fm/corvusnigrum
+#EXTINF:-1,hallofmusic2
+http://hallofmusic2.stream.laut.fm/hallofmusic2
+#EXTINF:-1,80er zone
+http://80er-zone.stream.laut.fm/80er-zone
+#EXTINF:-1,radio bude
+http://radio-bude.stream.laut.fm/radio-bude
+#EXTINF:-1,promofabrik radio
+http://promofabrik-radio.stream.laut.fm/promofabrik-radio
+#EXTINF:-1,radio phoenixsystem
+http://radio-phoenixsystem.stream.laut.fm/radio-phoenixsystem
+#EXTINF:-1,schwarzewelten
+http://schwarzewelten.stream.laut.fm/schwarzewelten
+#EXTINF:-1,b 9
+http://b_9.stream.laut.fm/b_9
+#EXTINF:-1,vega
+http://vega.stream.laut.fm/vega
+#EXTINF:-1,cia rock
+http://cia-rock.stream.laut.fm/cia-rock
+#EXTINF:-1,sonderfunk
+http://sonderfunk.stream.laut.fm/sonderfunk
+#EXTINF:-1,black generation
+http://black-generation.stream.laut.fm/black-generation
+#EXTINF:-1,w o d
+http://w-o-d.stream.laut.fm/w-o-d
+#EXTINF:-1,dealkollektiv
+http://dealkollektiv.stream.laut.fm/dealkollektiv
+#EXTINF:-1,livezwei
+http://livezwei.stream.laut.fm/livezwei
+#EXTINF:-1,flatlines
+http://flatlines.stream.laut.fm/flatlines
+#EXTINF:-1,radio jack
+http://radio-jack.stream.laut.fm/radio-jack
+#EXTINF:-1,s o b
+http://s-o-b.stream.laut.fm/s-o-b
+#EXTINF:-1,dj falke
+http://dj-falke.stream.laut.fm/dj-falke
+#EXTINF:-1,nightclubfm
+http://nightclubfm.stream.laut.fm/nightclubfm
+#EXTINF:-1,rebel bell
+http://rebel-bell.stream.laut.fm/rebel-bell
+#EXTINF:-1,amboss radio
+http://amboss-radio.stream.laut.fm/amboss-radio
+#EXTINF:-1,cia radio
+http://cia-radio.stream.laut.fm/cia-radio
+#EXTINF:-1,dark sound united
+http://dark-sound-united.stream.laut.fm/dark-sound-united
+#EXTINF:-1,neue burg radio
+http://neue-burg-radio.stream.laut.fm/neue-burg-radio
+#EXTINF:-1,radiorockxy
+http://radiorockxy.stream.laut.fm/radiorockxy
+#EXTINF:-1,rdt
+http://rdt.stream.laut.fm/rdt
+#EXTINF:-1,schwarzes nrw
+http://schwarzes-nrw.stream.laut.fm/schwarzes-nrw
+#EXTINF:-1,pitbull radio
+http://pitbull-radio.stream.laut.fm/pitbull-radio
+#EXTINF:-1,thedarkside
+http://thedarkside.stream.laut.fm/thedarkside
+#EXTINF:-1,grimyhell
+http://grimyhell.stream.laut.fm/grimyhell
+#EXTINF:-1,radio schwarzeseele
+http://radio-schwarzeseele.stream.laut.fm/radio-schwarzeseele
+#EXTINF:-1,ecbsend
+http://ecbsend.stream.laut.fm/ecbsend
+#EXTINF:-1,blueheartradio
+http://blueheartradio.stream.laut.fm/blueheartradio
+#EXTINF:-1,irrlichts welt
+http://irrlichts-welt.stream.laut.fm/irrlichts-welt
+#EXTINF:-1,dansemacabre
+http://dansemacabre.stream.laut.fm/dansemacabre
+#EXTINF:-1,livingdead
+http://livingdead.stream.laut.fm/livingdead
+#EXTINF:-1,exaktneutral
+http://exaktneutral.stream.laut.fm/exaktneutral
+#EXTINF:-1,zeitsprung
+http://zeitsprung.stream.laut.fm/zeitsprung
+#EXTINF:-1,technik links
+http://technik-links.stream.laut.fm/technik-links
+#EXTINF:-1,true mania
+http://true-mania.stream.laut.fm/true-mania
+#EXTINF:-1,gmstream
+http://gmstream.stream.laut.fm/gmstream
+#EXTINF:-1,radioextratour
+http://radioextratour.stream.laut.fm/radioextratour
+#EXTINF:-1,666darksociety666
+http://666darksociety666.stream.laut.fm/666darksociety666
+#EXTINF:-1,saarwoodelectro
+http://saarwoodelectro.stream.laut.fm/saarwoodelectro
+#EXTINF:-1,bnds
+http://bnds.stream.laut.fm/bnds
+#EXTINF:-1,mukkefukk
+http://mukkefukk.stream.laut.fm/mukkefukk
+#EXTINF:-1,nosw podcast
+http://nosw-podcast.stream.laut.fm/nosw-podcast
+#EXTINF:-1,radio fire dance
+http://radio-fire-dance.stream.laut.fm/radio-fire-dance
+#EXTINF:-1,rudelfunk
+http://rudelfunk.stream.laut.fm/rudelfunk
+#EXTINF:-1,morksrohlingen
+http://morksrohlingen.stream.laut.fm/morksrohlingen
+#EXTINF:-1,nightshift alternative
+http://nightshift_alternative.stream.laut.fm/nightshift_alternative
+#EXTINF:-1,polyprisma
+http://polyprisma.stream.laut.fm/polyprisma
+#EXTINF:-1,19 quer beet 80
+http://19-quer-beet-80.stream.laut.fm/19-quer-beet-80
+#EXTINF:-1,darkzone
+http://darkzone.stream.laut.fm/darkzone
+#EXTINF:-1,mega sound radio
+http://mega-sound-radio.stream.laut.fm/mega-sound-radio
+#EXTINF:-1,dark noir
+http://dark_noir.stream.laut.fm/dark_noir
+#EXTINF:-1,pronoize radio
+http://pronoize-radio.stream.laut.fm/pronoize-radio
+#EXTINF:-1,ohrenauf
+http://ohrenauf.stream.laut.fm/ohrenauf
+#EXTINF:-1,radiowelle ehrenfeld
+http://radiowelle-ehrenfeld.stream.laut.fm/radiowelle-ehrenfeld
+#EXTINF:-1,filiinoctis
+http://filiinoctis.stream.laut.fm/filiinoctis
+#EXTINF:-1,gernex
+http://gernex.stream.laut.fm/gernex
+#EXTINF:-1,musikofgalaxy
+http://musikofgalaxy.stream.laut.fm/musikofgalaxy
+#EXTINF:-1,fantasy sound
+http://fantasy_sound.stream.laut.fm/fantasy_sound
+#EXTINF:-1,freetapes
+http://freetapes.stream.laut.fm/freetapes
+#EXTINF:-1,rer
+http://rer.stream.laut.fm/rer
+#EXTINF:-1,radio kingdom of darkness
+http://radio-kingdom-of-darkness.stream.laut.fm/radio-kingdom-of-darkness
+#EXTINF:-1,muensterradio
+http://muensterradio.stream.laut.fm/muensterradio
+#EXTINF:-1,ripmav666
+http://ripmav666.stream.laut.fm/ripmav666
+#EXTINF:-1,hsr
+http://hsr.stream.laut.fm/hsr
+#EXTINF:-1,radio musikmomente1
+http://radio-musikmomente1.stream.laut.fm/radio-musikmomente1
+#EXTINF:-1,peppi60
+http://peppi60.stream.laut.fm/peppi60
+#EXTINF:-1,crimson fm
+http://crimson-fm.stream.laut.fm/crimson-fm
+#EXTINF:-1,bluenightshadow
+http://bluenightshadow.stream.laut.fm/bluenightshadow
+#EXTINF:-1,bluemoonlagune
+http://bluemoonlagune.stream.laut.fm/bluemoonlagune
+#EXTINF:-1,batroom
+http://batroom.stream.laut.fm/batroom
+#EXTINF:-1,special sound radio
+http://special-sound-radio.stream.laut.fm/special-sound-radio
+#EXTINF:-1,dancepartyradio
+http://dancepartyradio.stream.laut.fm/dancepartyradio
+#EXTINF:-1,luzi
+http://luzi.stream.laut.fm/luzi
+#EXTINF:-1,wgm
+http://wgm.stream.laut.fm/wgm
+#EXTINF:-1,schwarzer kanal
+http://schwarzer_kanal.stream.laut.fm/schwarzer_kanal
+#EXTINF:-1,dancerevolution
+http://dancerevolution.stream.laut.fm/dancerevolution
+#EXTINF:-1,nachtfalter
+http://nachtfalter.stream.laut.fm/nachtfalter
+#EXTINF:-1,partyline studio2
+http://partyline-studio2.stream.laut.fm/partyline-studio2
+#EXTINF:-1,musicpassion
+http://musicpassion.stream.laut.fm/musicpassion
+#EXTINF:-1,dme radio
+http://dme-radio.stream.laut.fm/dme-radio
+#EXTINF:-1,power friends radio
+http://power-friends-radio.stream.laut.fm/power-friends-radio
+#EXTINF:-1,streetteam berlin on air
+http://streetteam-berlin-on-air.stream.laut.fm/streetteam-berlin-on-air
+#EXTINF:-1,radio freitag der 13te
+http://radio-freitag-der-13te.stream.laut.fm/radio-freitag-der-13te
+#EXTINF:-1,unitedstarfireradio
+http://unitedstarfireradio.stream.laut.fm/unitedstarfireradio
+#EXTINF:-1,radio soundstadl
+http://radio-soundstadl.stream.laut.fm/radio-soundstadl
+#EXTINF:-1,devil blood club
+http://devil-blood-club.stream.laut.fm/devil-blood-club
+#EXTINF:-1,black raven
+http://black-raven.stream.laut.fm/black-raven
+#EXTINF:-1,Metal-FM.com radio
+https://metal-fm-com.stream.laut.fm/metal-fm-com
+#EXTINF:-1,DarkClubRadio radio
+https://darkclubradio.stream.laut.fm/darkclubradio
+#EXTINF:-1,Dark-Metal-radio radio
+https://dark-metal-radio.stream.laut.fm/dark-metal-radio?t302=2025-09-01_09-29-30&uuid=e19c778c-709e-493e-8f03-a1e4069e2ce7
+#EXTINF:-1,Dark Lupu radio
+https://darklupu.stream.laut.fm/darklupu
+#EXTINF:-1,DARK ZERO RADIO
+https://darkzeroradio.stream.laut.fm/darkzeroradio?t302=2025-09-01_09-29-31&uuid=a6b5f941-0646-411c-8ad5-aafd9239477e
+#EXTINF:-1,Radio Dark Romance radio
+https://romance.stream.laut.fm/romance
+#EXTINF:-1,Dark Bites radio
+https://dark-bites.stream.laut.fm/dark-bites
+#EXTINF:-1,Radio DarkFire radio
+https://s9.streamcaster.eu:8346/stream.mp3
+#EXTINF:-1,Dark Sound United radio
+https://dark-sound-united.stream.laut.fm/dark-sound-united
+#EXTINF:-1,Fallout Radio
+https://fallout.stream.laut.fm/fallout?t302=2025-09-01_09-29-33&uuid=edbbff04-391d-40dd-a5d8-9f0d7dd40ec6
+#EXTINF:-1,Dark Mythos radio
+https://dark-mythos.stream.laut.fm/dark-mythos
+#EXTINF:-1,Radio Dark Pulse radio
+https://radiodarkpulse.stream.laut.fm/radiodarkpulse
+#EXTINF:-1,ProNoize Radio
+https://pronoize-radio.stream.laut.fm/pronoize-radio?t302=2025-09-01_09-29-33&uuid=c391c663-f96b-4f0a-8a54-8d5e4e8058be
+#EXTINF:-1,Enter The Shadows Radio
+https://radio.stmsrv.com:8266/
+#EXTINF:-1,Radio Schwarzeseele radio
+https://radio-schwarzeseele.stream.laut.fm/radio-schwarzeseele?t302=2025-09-01_09-29-35&uuid=e446bef6-89a5-4802-b7b7-a8d18fe7657e
+#EXTINF:-1,Narrenwut radio
+https://mittelalter-net.stream.laut.fm/mittelalter-net
+#EXTINF:-1,Rock Feuer radio
+https://rockfeuer.stream.laut.fm/rockfeuer?t302=2025-09-01_09-29-35&uuid=595e8882-6610-48b9-b695-39fc2d68c180
+#EXTINF:-1,Hammer radio
+https://hammer.stream.laut.fm/hammer
+#EXTINF:-1,Dark Star FM radio
+https://darkstarfm.stream.laut.fm/darkstarfm
+#EXTINF:-1,Radio Dragon Flame radio
+https://rdfstream.de/listen/radio_dragon_flame/radio.mp3
+#EXTINF:-1,FlyFlew radio
+https://flyflew.stream.laut.fm/flyflew
+#EXTINF:-1,Radio Schattenreich radio
+https://schattenreich.stream.laut.fm/schattenreich
+#EXTINF:-1,Mindestverzehr Radio
+https://mindestverzehr-radio.stream.laut.fm/mindestverzehr-radio
+#EXTINF:-1,Abyss radio
+https://abyss.stream.laut.fm/abyss
+#EXTINF:-1,Fantasy Radio, Erlangen
+https://fantasyradio.stream.laut.fm/fantasyradio
+#EXTINF:-1,Radio-Darkstar radio
+https://radio-darkstar.stream.laut.fm/radio-darkstar
+#EXTINF:-1,Rock House radio
+https://rockhouse.stream.laut.fm/rockhouse?t302=2025-09-01_09-29-37&uuid=7cebc9fa-c653-4eeb-8e56-9ff8a956077d
+#EXTINF:-1,Schwarze Szene radio
+https://schwarzeszene.stream.laut.fm/schwarzeszene
+#EXTINF:-1,Wavebreaker radio
+https://wavebreaker.stream.laut.fm/wavebreaker?t302=2025-09-01_09-29-37&uuid=c48e365f-b13f-4066-b504-81acd7adb880
+#EXTINF:-1,Alibi Radio
+https://das-edge12-live365-dal02.cdnstream.com/a86183
+#EXTINF:-1,Nachtfalter radio
+https://nachtfalter.stream.laut.fm/nachtfalter
+#EXTINF:-1,Schwarz Lauscher radio
+https://schwarzlauscher.stream.laut.fm/schwarzlauscher
+#EXTINF:-1,Radio Rock FM, Menden radio
+https://radio-rock-fm.stream.laut.fm/radio-rock-fm
+#EXTINF:-1,Rosenland radio
+https://rosenland.stream.laut.fm/rosenland
+#EXTINF:-1,Rockvibes radio
+https://rockvibes.stream.laut.fm/rockvibes
+#EXTINF:-1,Gothwriter's Home radio
+https://gothwritershome.stream.laut.fm/gothwritershome?t302=2025-09-01_09-29-38&uuid=ac6b9b01-e8e9-4724-970b-e0f5ca2e997b
+#EXTINF:-1,Ferulas Giftküche radio
+https://ferulasgiftkueche.stream.laut.fm/ferulas_giftkueche
+#EXTINF:-1,Musik4you-Radio radio
+https://s10.streamingcloud.online/stream/13204
+#EXTINF:-1,Blue Crazy Radio
+https://stream2-alfacast-hosting.com/8022/stream
+#EXTINF:-1,Klang Ruinen radio
+https://klangruinen.stream.laut.fm/klangruinen
+#EXTINF:-1,Medusa FM radio
+https://medusafm.stream.laut.fm/medusafm?t302=2025-09-01_09-29-38&uuid=00056059-e391-4089-85a1-f795d1a8e074
+#EXTINF:-1,Radio Sinnflut radio
+https://sinnflut.stream.laut.fm/sinnflut
+#EXTINF:-1,Black Neon Radio
+https://blackneonradio.stream.laut.fm/blackneonradio?t302=2025-09-01_09-29-38&uuid=3e37a51f-33dc-4657-9238-df455735eb90
+#EXTINF:-1,Promo.Fabrik America radio
+https://promofabrikamerica.stream.laut.fm/promofabrikamerica?t302=2025-09-01_09-29-38&uuid=743f6689-8298-4f45-97bc-f54872f58669
+#EXTINF:-1,BlackSpot radio
+https://blackspot.stream.laut.fm/blackspot
+#EXTINF:-1,Sound_Eff-3KT-_-Mix radio
+https://soundeff-3kt--mix.stream.laut.fm/sound_eff-3kt-_-mix
+#EXTINF:-1,Escalofríos radio
+https://mx.hdaudiostreaming.com/8388/stream
+#EXTINF:-1,Dravens Radio from the Crypt
+https://dravenstales.stream.laut.fm/dravenstales
+#EXTINF:-1,Uselinks radio
+https://uselinks.stream.laut.fm/uselinks?t302=2025-09-01_09-29-39&uuid=46d9a745-22ea-465a-b504-352a9b14c219
+#EXTINF:-1,N.A.R. radio
+https://na-radio.stream.laut.fm/na-radio?t302=2025-09-01_09-29-39&uuid=190e77d5-a823-49a4-958c-bd34fa74c367
+#EXTINF:-1,Radio Headshot radio
+https://radio-headshot.stream.laut.fm/radio-headshot?t302=2025-09-01_09-29-39&uuid=db1ec667-df47-4efa-b04c-1937a20f6846
+#EXTINF:-1,DunkleWelle radio
+https://dunklewelle.stream.laut.fm/dunklewelle
+#EXTINF:-1,Radio Euro radio
+https://radioeuro.stream.laut.fm/radioeuro
+#EXTINF:-1,Easymix Radio
+https://easymix-radio.stream.laut.fm/easymix-radio?t302=2025-09-01_09-29-40&uuid=a1d5f15f-28ab-4bc7-a656-9b713cc3643f
+#EXTINF:-1,The-Devils-Fun-Radio radio
+https://the-devils-fun-radio.stream.laut.fm/the-devils-fun-radio?t302=2025-09-01_09-29-40&uuid=388e8c50-f2b6-41c3-bec3-de82887f34f2
+#EXTINF:-1,Promo.Fabrik-Radio radio
+https://promofabrik-radio.stream.laut.fm/promofabrik-radio?t302=2025-09-01_09-29-40&uuid=01fe8f95-62da-4e81-9660-958d35e04f50
+#EXTINF:-1,Music For Friends radio
+https://c01.lexycast.de:2840/listen1
+#EXTINF:-1,Donnerfeuer radio
+https://donnerfeuer.stream.laut.fm/donnerfeuer
+#EXTINF:-1,Radio Eastend radio
+https://eastend.stream.laut.fm/eastend
+#EXTINF:-1,KulturRadio radio
+https://0nlineradio.stream13.radiohost.de/0r-trending-charts?ref=tiny&path=addrad.io%2F4WRN_y&upd-meta=0&upd-scheme=https&_art=dD0xNzU2NzE5MjgyJmQ9M2VjMzc1MzQ2ODk4MWMxMGE0MDI
+#EXTINF:-1,Radio Magic Firebird radio
+https://radio-magic-firebird.stream.laut.fm/radio-magic-firebird
+#EXTINF:-1,Radio-Metronom radio
+https://free.rcast.net/69203
+#EXTINF:-1,Radio Nachtflug radio
+http://server26265.streamplus.de/stream.mp3
+#EXTINF:-1,Thorsradio2 radio
+https://thorsradio2.stream.laut.fm/thorsradio2?t302=2025-09-01_09-29-41&uuid=4d7d8c96-97bb-427c-a534-b1fab2907e10
+#EXTINF:-1,Music is my Life radio
+https://music-is-my-life.stream.laut.fm/music-is-my-life
+#EXTINF:-1,DJ Falke radio
+https://dj-falke.stream.laut.fm/dj-falke?t302=2025-09-01_09-29-42&uuid=91bdfbba-db59-4784-96e3-46a4bd244cfe
+#EXTINF:-1,Musicpassion radio
+https://musicpassion.stream.laut.fm/musicpassion?t302=2025-09-01_09-29-42&uuid=bffb64f0-acba-42c7-aa14-51a9b932dddd
+#EXTINF:-1,Promo.Fabrik America
+https://promofabrikamerica.stream.laut.fm/promofabrikamerica?t302=2025-09-09_00-23-33&uuid=aa9e1312-561f-4e8e-8e99-1052b64b850c
+#EXTINF:-1,X Factor Radio
+https://cdn-web.tunein.com/assets/media/blank.mp3
+#EXTINF:-1,Mittelalter-net
+http://mittelalter-net.stream.laut.fm/mittelalter-net?t302=2025-09-09_00-23-33&uuid=663ba1f2-3784-4207-9d70-093c34990119
+#EXTINF:-1,Radio Schwarze Welle
+http://www.schwarze-welle.de:7500
+#EXTINF:-1,metal-oldies-rock
+http://metal-oldies-rock.stream.laut.fm/metal-oldies-rock?t302=2025-09-09_00-23-33&uuid=210b7b82-8858-4655-b8c6-e15cc27a73e2
+#EXTINF:-1,rocknmetal_de
+http://rocknmetalde.stream.laut.fm/rocknmetal_de?t302=2025-09-09_00-23-33&uuid=6e7f96a6-fbde-4586-a0c2-f82e7a48f49d
+#EXTINF:-1,dark-metal-radio
+http://dark-metal-radio.stream.laut.fm/dark-metal-radio?t302=2025-09-09_00-23-33&uuid=b45b32f9-94b6-4d93-9341-05250c607de9
+#EXTINF:-1,metal-fm-com
+http://metal-fm-com.stream.laut.fm/metal-fm-com?t302=2025-09-09_00-23-34&uuid=d5c01033-eed0-455e-b1d3-78f69adc9880
+#EXTINF:-1,guitarworld
+http://guitarworld.stream.laut.fm/guitarworld?t302=2025-09-09_00-23-34&uuid=12f85151-4ef0-4514-8535-83872a018d2d
+#EXTINF:-1,plattenkeller
+http://plattenkeller.stream.laut.fm/plattenkeller?t302=2025-09-09_00-23-34&uuid=33308f1d-4c24-4ff2-b4a0-d9d869e2f94d
+#EXTINF:-1,mma-radio
+http://mma-radio.stream.laut.fm/mma-radio?t302=2025-09-09_00-23-34&uuid=c8da1db0-64c2-49b4-b832-fa5386c76c7b
+#EXTINF:-1,fallout
+http://fallout.stream.laut.fm/fallout?t302=2025-09-09_00-23-35&uuid=1295371e-aecc-437e-a9ac-4f4b372883d7
+#EXTINF:-1,booomb
+http://booomb.stream.laut.fm/booomb?t302=2025-09-09_00-23-35&uuid=154a6560-9788-4787-a0b6-53e2bce14d6f
+#EXTINF:-1,moshhead
+http://moshhead.stream.laut.fm/moshhead?t302=2025-09-09_00-23-35&uuid=efd0ba59-25e4-4468-9678-90636f17e96b
+#EXTINF:-1,musikzirkus
+http://musikzirkus.stream.laut.fm/musikzirkus?t302=2025-09-09_00-23-35&uuid=df5c74ed-0d1e-4f75-a248-ff06e3321667
+#EXTINF:-1,raus
+http://raus.stream.laut.fm/raus?t302=2025-09-09_00-23-36&uuid=b87b8d64-e325-438c-8059-7f9497b7858e
+#EXTINF:-1,traveller
+http://traveller.stream.laut.fm/traveller?t302=2025-09-09_00-23-36&uuid=58f8960c-c5e5-41e4-b405-f32bbc2ab765
+#EXTINF:-1,yugotopia-beat-club
+http://yugotopia-beat-club.stream.laut.fm/yugotopia-beat-club?t302=2025-09-09_00-23-36&uuid=e2807020-9c42-4810-abc1-c120a58d5afa
+#EXTINF:-1,streetfighter
+http://streetfighter.stream.laut.fm/streetfighter?t302=2025-09-09_00-23-37&uuid=b61ad648-f2b4-4b71-b02b-229f5f16ef7f
+#EXTINF:-1,Abyss
+http://abyss.stream.laut.fm/abyss?t302=2025-09-09_00-23-37&uuid=1a64c61d-1642-4403-8fa0-8450691fce18
+#EXTINF:-1,burnyourears
+http://burnyourears.stream.laut.fm/burnyourears?t302=2025-09-09_00-23-37&uuid=333acfbf-e474-4d76-bc25-177be4df036c
+#EXTINF:-1,AURATON
+http://auraton.stream.laut.fm/_a_u_r_a_t_o_n_?t302=2025-09-09_00-23-37&uuid=b6597c29-6e9c-4eec-a41d-a502c9a6a376
+#EXTINF:-1,bang
+http://bang.stream.laut.fm/bang?t302=2025-09-09_00-23-37&uuid=723bd66f-f042-4938-aadc-7ac3db02073f
+#EXTINF:-1,radio-shadowplay
+http://radio-shadowplay.stream.laut.fm/radio-shadowplay?t302=2025-09-09_00-23-38&uuid=822f8443-5637-4c1d-badf-42e387c1ce95
+#EXTINF:-1,sound_eff-3kt-_-mix
+http://soundeff-3kt--mix.stream.laut.fm/sound_eff-3kt-_-mix?t302=2025-09-09_00-23-38&uuid=2362b564-a054-4513-8dfd-d68fdc8b4207
+#EXTINF:-1,radiohohenburg
+http://radiohohenburg.stream.laut.fm/radiohohenburg?t302=2025-09-09_00-23-44&uuid=74764c13-e4d6-4c30-a65f-8fe40096d33a
+#EXTINF:-1,septemberwind
+http://septemberwind.stream.laut.fm/septemberwind?t302=2025-09-09_00-23-44&uuid=2f2feb54-feb0-4180-821b-336a68fd47df
+#EXTINF:-1,all-time-independent-classics
+http://all-time-independent-classics.stream.laut.fm/all-time-independent-classics?t302=2025-09-09_00-23-44&uuid=4868e60c-0538-434e-9d65-c16b59f4809c
+#EXTINF:-1,radio-dark-universe
+http://radio-dark-universe.stream.laut.fm/radio-dark-universe?t302=2025-09-09_00-23-44&uuid=df052937-d311-4958-ae79-285b38222984
+#EXTINF:-1,bizarre-radio
+http://bizarre-radio.stream.laut.fm/bizarre-radio?t302=2025-09-09_00-23-44&uuid=d71bbd95-febd-4a03-90fe-d2827d8717f8
+#EXTINF:-1,chat-fire
+http://chat-fire.stream.laut.fm/chat-fire?t302=2025-09-09_00-23-44&uuid=f5f0c74c-d8b9-4d6f-a9b8-b29939f03ff7
+#EXTINF:-1,hotradio
+http://hotradio.stream.laut.fm/hotradio?t302=2025-09-09_00-23-44&uuid=d78daa93-bb53-410e-8cac-437e446e2b7e
+#EXTINF:-1,Abglanz-fm
+http://abglanz-fm.stream.laut.fm/abglanz-fm?t302=2025-09-09_00-23-44&uuid=df4b68e7-ea09-4bf4-a643-98621596da34
+#EXTINF:-1,hasifromhell
+http://hasifromhell.stream.laut.fm/hasifromhell?t302=2025-09-09_00-23-45&uuid=b794dabf-448e-4ad9-8dc6-9aba78ac8cd6
+#EXTINF:-1,neue-burg-radio
+http://neue-burg-radio.stream.laut.fm/neue-burg-radio?t302=2025-09-09_00-23-45&uuid=66b7f62f-d63e-4961-9a09-c01bbd419bee
+#EXTINF:-1,pascal
+http://pascal.stream.laut.fm/pascal?t302=2025-09-09_00-23-45&uuid=49fd770a-291c-4534-831a-4902afa51b8e
+#EXTINF:-1,alpaka-beach-radio
+http://alpaka-beach-radio.stream.laut.fm/alpaka-beach-radio?t302=2025-09-09_00-23-45&uuid=2e22d119-90ed-4acf-857e-51b39fcf2a0f
+#EXTINF:-1,na-radio
+http://na-radio.stream.laut.fm/na-radio?t302=2025-09-09_00-23-45&uuid=2130446f-d6e0-4cca-b1d3-7879c997410c
+#EXTINF:-1,BN-Radio
+http://stream.bn-radio.de:8000/bn-radio.mp3
+#EXTINF:-1,pronoize-radio
+http://pronoize-radio.stream.laut.fm/pronoize-radio?t302=2025-09-09_00-23-46&uuid=49a6276f-1698-4728-a9aa-24abc1f36ad4
+#EXTINF:-1,blackneonradio
+http://blackneonradio.stream.laut.fm/blackneonradio?t302=2025-09-09_00-23-46&uuid=fffc59f2-a4e0-4bb6-8a5b-611ac7353073
+#EXTINF:-1,hechtsuppe
+http://hechtsuppe.stream.laut.fm/hechtsuppe?t302=2025-09-09_00-23-46&uuid=f23b16a6-53fc-42b6-b8da-95af977a844b
+#EXTINF:-1,playground
+http://playground.stream.laut.fm/playground?t302=2025-09-09_00-23-46&uuid=270283dd-4e76-4cc2-9323-3b6149f97e25
+#EXTINF:-1,moshhead-blackmetal
+http://moshhead-blackmetal.stream.laut.fm/moshhead-blackmetal?t302=2025-09-09_00-23-46&uuid=e70122ed-c8bd-4d1e-9160-1e321423e377
+#EXTINF:-1,crimson-fm
+http://crimson-fm.stream.laut.fm/crimson-fm?t302=2025-09-09_00-23-47&uuid=54a931b4-5e92-4fb4-bdc7-51d37880da05
+#EXTINF:-1,mindestverzehr-radio
+http://mindestverzehr-radio.stream.laut.fm/mindestverzehr-radio?t302=2025-09-09_00-23-47&uuid=13b605f2-fbe8-4b2b-a299-11fcd4ebb279
+#EXTINF:-1,0nlineradio METAL
+https://0nlineradio.stream42.radiohost.de/0r-metal?ref=radiofm&upd-meta=0&upd-scheme=https&_art=dD0xNzU3Mzc3NzI3JmQ9ODdmYTNhMzQ2MDYwNzYwZTBhNTM
+#EXTINF:-1,scoteire
+http://scoteire.stream.laut.fm/scoteire?t302=2025-09-09_00-23-47&uuid=03b5d85e-8b27-4c22-8628-ba939368a51b
+#EXTINF:-1,inmotionradio
+http://inmotionradio.stream.laut.fm/inmotionradio?t302=2025-09-09_00-23-47&uuid=d1ef2794-3a0a-49cc-a3cf-acea4ca39866
+#EXTINF:-1,Dark Zero Radio
+http://darkzeroradio.stream.laut.fm/darkzeroradio?t302=2025-09-09_00-23-47&uuid=d2c6fb39-3740-409b-bfe8-b445808b8510
+#EXTINF:-1,otticfm
+http://otticfm.stream.laut.fm/otticfm?t302=2025-09-09_00-23-48&uuid=f19edf1f-7c21-4ce6-805e-c3ea18ef5ca2
+#EXTINF:-1,ferulas_giftkueche
+http://ferulasgiftkueche.stream.laut.fm/ferulas_giftkueche?t302=2025-09-09_00-23-48&uuid=145e7a7e-120a-41e1-9e49-84f792f03ecc
+#EXTINF:-1,radio-deluxe
+https://radiodeluxe.stream.laut.fm/radiodeluxe?ref=web-app&start_time=1660910621795&t302=2022-08-19_14-03-41&uuid=a7852594-2e9b-48e4-b883-a68a7f2333f5
+#EXTINF:-1,beyondbelief
+http://beyondbelief.stream.laut.fm/beyondbelief?t302=2025-09-09_00-23-48&uuid=2f339943-159e-4949-9610-f48e92301d7b
+#EXTINF:-1,Dark Rain
+https://dunkelhost.com:7800/stream
+#EXTINF:-1,workerradio
+https://na-radio.stream.laut.fm/na-radio
+#EXTINF:-1,daffywebradio
+http://daffywebradio.stream.laut.fm/daffywebradio?t302=2025-09-09_00-23-49&uuid=5676e578-b108-406a-965b-1fbcefb047b4
+#EXTINF:-1,Radio Rock FM
+http://rrfm.stream.laut.fm/eins
+#EXTINF:-1,Metal Invasion Radio
+https://radio.metal-invasion.fr/radio/8000/stream96
+#EXTINF:-1,Escalofríos
+https://rtve-mediavod-lote3.rtve.es/resources/TE_SESCALO/mp3/8/8/1698393114588.mp3?idasset=6998893
+#EXTINF:-1,all-in-1
+http://all-in-1.stream.laut.fm/all-in-1?t302=2025-09-09_00-23-50&uuid=577af1a8-e327-4def-bbb2-93d4adeb61bc
+#EXTINF:-1,bleakradio
+http://bleakradio.stream.laut.fm/bleakradio?t302=2025-09-09_00-23-50&uuid=4ccefad8-544b-4652-b77d-ec281fa663c9
+#EXTINF:-1,80s Forever Radio
+https://azuracast.ssl-stream.com/radio/8050/256.mp3
+#EXTINF:-1,Allzic Gothique
+https://allzic27.ice.infomaniak.ch/allzic27.mp3?type=.mp3/stream.mp3
+#EXTINF:-1,Metal-Oldies-Rock
+https://metal-oldies-rock.stream.laut.fm/metal-oldies-rock
+#EXTINF:-1,Dark-Metal-radio
+https://dark-metal-radio.stream.laut.fm/dark-metal-radio?t302=2025-09-16_23-02-02&uuid=ebeec688-edae-4b00-b5ed-f9e4a4fba100
+#EXTINF:-1,80s80s Dark Wave
+https://regiocast.streamabc.net/regc-80s80sdarkwave3426539-mp3-192-3262123
+#EXTINF:-1,MaximusRockFM
+https://maximusrockfm.stream.laut.fm/maximusrockfm?t302=2025-09-16_23-02-02&uuid=90197ada-1ea0-4ff4-9de5-088a0a256d3a
+#EXTINF:-1,Wavebreaker
+https://wavebreaker.stream.laut.fm/wavebreaker?t302=2025-09-16_23-02-02&uuid=edcab472-0823-4e38-a773-e28114de365b
+#EXTINF:-1,Radio Bob! Gothic Rock
+https://regiocast.streamabc.net/regc-radiobobgothic6924976-mp3-192-2500754?sABC=68p9rp6o%230%23p3n6o69035474rp208o85r52n5rr2549%23zrqvncynlre&aw_0_1st.playerid=mediaplayer&amsparams=playerid:mediaplayer;skey:1758063723
+#EXTINF:-1,.977 Today&amp#39s Hits
+https://26343.live.streamtheworld.com/977_HITSAAC_SC?dist=onlineradiobox
+#EXTINF:-1,Allzic Radio Gothique
+https://allzic27.ice.infomaniak.ch/allzic27.mp3
+#EXTINF:-1,Moshhead Gothic
+https://moshhead-gothic.stream.laut.fm/moshhead-gothic
+#EXTINF:-1,UnderProd Radio
+https://premiumserveruk1.listen2myradio.com:8006/stream
+#EXTINF:-1,Gothwriter&amp#39s Home
+https://gothwritershome.stream.laut.fm/gothwritershome?t302=2025-09-16_23-02-05&uuid=1d8a0f15-d31c-48d4-a127-4da43e786410
+#EXTINF:-1,Radio Shadowplay
+https://radio-shadowplay.stream.laut.fm/radio-shadowplay
+#EXTINF:-1,Rock The Bones Radio - Extreme Edition
+https://radio.plandos.com/8052/stream
+#EXTINF:-1,Radio Diabolus
+https://dunkelhost.com:7800/mobil
+#EXTINF:-1,The Dark Blue Hell
+https://apollo.rserve.de/8018/
+#EXTINF:-1,Black Neon Radio - Dark Wave
+https://darkwave-sounds.stream.laut.fm/darkwave-sounds
+#EXTINF:-1,Radio Schwarzeseele
+https://radio-schwarzeseele.stream.laut.fm/radio-schwarzeseele?t302=2025-09-16_23-02-06&uuid=ccdba5a9-2923-4bf9-910b-b64c95f4cab4
+#EXTINF:-1,Radio Dark Universe
+https://radio-dark-universe.stream.laut.fm/radio-dark-universe
+#EXTINF:-1,Hitradio-Breitungen
+https://s10.streamingcloud.online/stream/17358
+#EXTINF:-1,Rock House
+https://rockhouse.stream.laut.fm/rockhouse?t302=2025-09-16_23-02-07&uuid=604ae914-7cda-4a05-9100-bef99fbb8a95
+#EXTINF:-1,Rock &amp#39n&amp#39 Metal
+https://rocknmetalde.stream.laut.fm/rocknmetal_de
+#EXTINF:-1,Radio Rabenwind
+https://rabenwind.stream.laut.fm/rabenwind?t302=2025-09-16_23-02-08&uuid=f63a9b11-24b0-4c2f-93ef-42feedd244df
+#EXTINF:-1,Grimy Hell
+https://grimyhell.stream.laut.fm/grimyhell
+#EXTINF:-1,Promo.Fabrik-Radio
+https://promofabrik-radio.stream.laut.fm/promofabrik-radio?t302=2025-09-16_23-02-08&uuid=e00a2397-1119-4db5-9ed7-4da96cb5bbbd
+#EXTINF:-1,The-Devils-Fun-Radio
+https://the-devils-fun-radio.stream.laut.fm/the-devils-fun-radio?t302=2025-09-16_23-02-08&uuid=fad8b4d4-3526-43cc-b374-5999eeca0818
+#EXTINF:-1,Gothville Radio
+https://streams.radio.co:80/s62583474c/listen
+#EXTINF:-1,N.A.R.
+https://na-radio.stream.laut.fm/na-radio?t302=2025-09-16_23-02-08&uuid=41b3d58a-95bb-4430-a2c8-c4ba399e1101
+#EXTINF:-1,Rock Feuer
+https://rockfeuer.stream.laut.fm/rockfeuer?t302=2025-09-16_23-02-08&uuid=6de7eea8-e8ca-4bb3-ad97-225084c10303
+#EXTINF:-1,Metaltime
+https://metaltime.stream.laut.fm/metaltime?t302=2025-09-16_23-02-08&uuid=11aba552-910c-4dec-bf57-94eec8f2b141
+#EXTINF:-1,Medusa FM
+https://medusafm.stream.laut.fm/medusafm?t302=2025-09-16_23-02-08&uuid=6854a622-40fa-4143-976f-100ac0568c4c
+#EXTINF:-1,Radio Dunkelbunt
+https://server3.streamserver-unlimited.de:10039/.mp3
+#EXTINF:-1,Donnerfeuer
+https://promofabrikamerica.stream.laut.fm/promofabrikamerica?t302=2025-09-16_23-02-09&uuid=cab716ea-1639-4d16-a18a-ef3bf39eb91f
+#EXTINF:-1,Radio Headshot
+https://radio-headshot.stream.laut.fm/radio-headshot?t302=2025-09-16_23-02-09&uuid=c3c07ec9-cd09-4bc4-be0e-1721cbac61c0
+#EXTINF:-1,Musicpassion
+https://musicpassion.stream.laut.fm/musicpassion?t302=2025-09-16_23-02-09&uuid=d60205a5-cd2c-4c3e-9d3c-206f51ef3d70
+#EXTINF:-1,Uselinks
+https://uselinks.stream.laut.fm/uselinks?t302=2025-09-16_23-02-09&uuid=c3e83667-4c1e-435e-98d2-dc058b538d33
+#EXTINF:-1,Radio Drachenherz
+https://drachenherz.stream.laut.fm/drachenherz?t302=2025-09-16_23-02-09&uuid=d724bcc4-e553-45f0-ad52-7694828e155b
+#EXTINF:-1,Ecbsend
+https://ecbsend.stream.laut.fm/ecbsend
+#EXTINF:-1,Neue Burg Radio
+https://neue-burg-radio.stream.laut.fm/neue-burg-radio?t302=2025-09-16_23-02-11&uuid=f4a35217-9470-4e18-9471-f3b652291f75
+#EXTINF:-1,Thorsradio2
+https://thorsradio2.stream.laut.fm/thorsradio2?t302=2025-09-16_23-02-12&uuid=cf8e2800-4be8-49c3-8d0e-801721725101
+#EXTINF:-1,DJ Falke
+https://dj-falke.stream.laut.fm/dj-falke?t302=2025-09-16_23-02-12&uuid=209cc0f2-bcb3-4c6f-91a1-1e7ea0c01be2
+#EXTINF:-1,B-N Radio
+https://blackneonradio.stream.laut.fm/blackneonradio?t302=2025-09-16_23-02-12&uuid=7fc6853a-3c58-45d7-b8d9-2c05a17086db
+#EXTINF:-1,Polyprisma
+https://polyprisma.stream.laut.fm/polyprisma?t302=2025-09-16_23-02-12&uuid=e9d1e40a-76a7-49ac-9da1-a5360a5a56c3
+#EXTINF:-1,Crazy4Live
+https://crazy4live.stream.laut.fm/crazy4live?t302=2025-09-16_23-02-12&uuid=2713c380-50e8-42e0-85bf-cff1e3bda74a
+#EXTINF:-1,Schwarze Welten
+https://schwarzewelten.stream.laut.fm/schwarzewelten?t302=2025-09-16_23-02-12&uuid=837c3232-6f8a-462a-8b8f-97a504c28fd2
+#EXTINF:-1,Radio VG
+https://radiovg.stream.laut.fm/radiovg?t302=2025-09-16_23-02-12&uuid=4792303f-1e14-4232-93a0-3ed6d3a99f97
+#EXTINF:-1,Play4Today
+https://play4today.stream.laut.fm/play4today?t302=2025-09-16_23-02-12&uuid=2a648bae-e991-407b-9671-7883e41e4cc7
+#EXTINF:-1,Ohren auf
+https://ohrenauf.stream.laut.fm/ohrenauf?t302=2025-09-16_23-02-12&uuid=e8826600-af1b-40e6-a91e-39d97a074ae4
+#EXTINF:-1,LunaBlueRadio
+https://bluemoonlagune.stream.laut.fm/bluemoonlagune?t302=2025-09-16_23-02-13&uuid=a2f9d5d1-4852-4e3b-b714-fb5d9bb43938
+#EXTINF:-1,99.9 The Fan
+https://ais-sa8.cdnstream1.com/2750_64.aac
+#EXTINF:-1,80er-zone Listen live
+https://80er-zone.stream.laut.fm/80er-zone?ref=radiode&t302=2025-09-17_21-57-36&uuid=8d7d81e9-57bb-458e-a752-f4b4d39d51ef
+#EXTINF:-1,Abyss Radio Listen live
+https://abyss.stream.laut.fm/abyss?t302=2025-09-17_21-57-36&uuid=cc89dba7-c7c2-4d47-92b2-2079eb91f484
+#EXTINF:-1,Balus-Musikkiste Listen live
+https://balus-musikkiste.stream.laut.fm/balus-musikkiste
+#EXTINF:-1,WXCV - Citrus 95.3 FM Listen live
+https://ice64.securenetsystems.net/WXCVFM
+#EXTINF:-1,Radio 31  Listen live
+https://radio31.stream.laut.fm/radio31?ref=radiode&t302=2025-09-17_21-57-37&uuid=7250c5ba-055b-4dc8-a600-a731edd36da4
+#EXTINF:-1,WVOA-FM - LOVE RADIO 87.7 FM Listen live
+https://ice64.securenetsystems.net/WVOA
+#EXTINF:-1,CIA Radio Listen live
+https://cia-radio.stream.laut.fm/cia-radio?ref=radiode&t302=2025-09-17_21-57-37&uuid=68e50b60-4378-48e2-87d6-bc286666f88c
+#EXTINF:-1,DarK Bites Radio Listen live
+https://dark-bites.stream.laut.fm/dark-bites?t302=2025-09-17_21-57-37&uuid=a566ef3e-2253-45db-a8c6-3f04d1e7e408
+#EXTINF:-1,Dark Sound Radio Listen live
+https://darksoundradio.stream.laut.fm/darksoundradio?t302=2025-09-17_21-57-37&uuid=302ca5b5-810d-4b13-b110-1d50116eb822
+#EXTINF:-1,Dark Sound United Listen live
+https://dark-sound-united.stream.laut.fm/dark-sound-united?t302=2025-09-17_21-57-37&uuid=250a3b99-05f9-42b0-8840-8c2fb1e1fee1
+#EXTINF:-1,Dark Wave Sounds Listen live
+https://darkwave-sounds.stream.laut.fm/darkwave-sounds?t302=2025-09-17_21-57-37&uuid=647562a1-b2ad-44e8-850a-36b312cfdc3a
+#EXTINF:-1,Dark-Mythos Listen live
+https://dark-mythos.stream.laut.fm/dark-mythos?t302=2025-09-17_21-57-37&uuid=662a8cce-05cf-42c8-a6ac-bf95d79b8aee
+#EXTINF:-1,DarkClubRadio Listen live
+https://darkclubradio.stream.laut.fm/darkclubradio?t302=2025-09-17_21-57-37&uuid=37ca41af-6d4a-414f-8618-7f704614b1d8
+#EXTINF:-1,DARKSYNTH-RADIO Listen live
+https://darksynthradio.stream.laut.fm/darksynthradio?ref=radiode&t302=2025-09-17_21-57-37&uuid=e4ad9e11-bd30-4e6f-8501-2b2b38be4d96
+#EXTINF:-1,Eastend Radio Listen live
+https://eastend.stream.laut.fm/eastend?t302=2025-09-17_21-57-37&uuid=a454cf77-c0df-4240-b961-3e6bf77b57a2
+#EXTINF:-1,Fantasy Radio Listen live
+https://fantasyradio.stream.laut.fm/fantasyradio?t302=2025-09-17_21-57-38&uuid=f3929ee4-aa68-41d3-98d6-c5826fff4657
+#EXTINF:-1,Ferulas Giftkueche Listen live
+https://ferulasgiftkueche.stream.laut.fm/ferulas_giftkueche?t302=2025-09-17_21-57-38&uuid=a7269ab3-9a3c-419a-b8e3-5da2d85de43b
+#EXTINF:-1,Flyflewradio Listen live
+https://flyflew.stream.laut.fm/flyflew?t302=2025-09-17_21-57-38&uuid=6448c09f-267b-47da-976b-ec101e1bf231
+#EXTINF:-1,German Gothic Radio Listen live
+https://german-gothic-radio.stream.laut.fm/german-gothic-radio?t302=2025-09-17_21-57-38&uuid=41ba52ce-b5bb-40b7-849b-008c70c75e80
+#EXTINF:-1,Gothwriters home Listen live
+https://gothwritershome.stream.laut.fm/gothwritershome?t302=2025-09-17_21-57-38&uuid=6aa64ec1-4c11-4172-b9ac-49d656ab90f0
+#EXTINF:-1,hellschwarz Listen live
+https://hellschwarz.stream.laut.fm/hellschwarz?ref=radiode&t302=2025-09-17_21-57-38&uuid=07873dab-455e-437d-80c3-7295470e3119
+#EXTINF:-1,international-dark-radio Listen live
+https://international-dark-radio.stream.laut.fm/international-dark-radio?ref=radiode&t302=2025-09-17_21-57-39&uuid=7794ccf1-662d-43c6-9bb5-6629c07615ed
+#EXTINF:-1,DriverRoute66 Listen live
+https://driverroute66.stream.laut.fm/driverroute66
+#EXTINF:-1,MedusaFM Listen live
+https://medusafm.stream.laut.fm/medusafm?ref=radiode&t302=2025-09-17_21-57-39&uuid=c56739b0-6843-423f-948e-6d7ca24cd010
+#EXTINF:-1,Metal-FM.com Listen live
+https://metal-fm-com.stream.laut.fm/metal-fm-com?ref=radiode&t302=2025-09-17_21-57-40&uuid=770e7556-1672-46da-a50e-2fcd3c622a10
+#EXTINF:-1,Radio Corvus Nigrum Listen live
+https://corvusnigrum.stream.laut.fm/corvusnigrum
+#EXTINF:-1,Radio Eigengrau Listen live
+https://eigengrau.stream.laut.fm/eigengrau?ref=radiode&t302=2025-09-17_21-57-40&uuid=51d7ef74-fde0-45c6-8ed8-5f72052620a2
+#EXTINF:-1,Radio Mbox - Kanał ROCK Listen live
+https://panel.radiombox.pl/radio/8090/Rock320kbps
+#EXTINF:-1,Radio-Dark-Universe Listen live
+https://radio-dark-universe.stream.laut.fm/radio-dark-universe?ref=radiode&t302=2025-09-17_21-57-40&uuid=1d90b653-b507-4c3c-b880-6e63be3f1b32
+#EXTINF:-1,radio-darkstar Listen live
+https://radio-darkstar.stream.laut.fm/radio-darkstar?ref=radiode&t302=2025-09-17_21-57-40&uuid=f22a10cb-2833-4bd3-93a2-8651fb99b1d3
+#EXTINF:-1,radio-headshot Listen live
+https://radio-headshot.stream.laut.fm/radio-headshot?ref=radiode&t302=2025-09-17_21-57-41&uuid=7dc3051b-3bcd-400a-a42d-558da3a59153
+#EXTINF:-1,radio-schwarzeseele Listen live
+https://radio-schwarzeseele.stream.laut.fm/radio-schwarzeseele?ref=radiode&t302=2025-09-17_21-57-41&uuid=2d5a7a6b-83ff-4aac-a2d6-3acfb399c9c3
+#EXTINF:-1,radiodarkpulse Listen live
+https://radiodarkpulse.stream.laut.fm/radiodarkpulse?ref=radiode&t302=2025-09-17_21-57-41&uuid=6560c5a5-8fa4-46ac-84fe-520de48d47ad
+#EXTINF:-1,rockvibes Listen live
+https://rockvibes.stream.laut.fm/rockvibes?ref=radiode&t302=2025-09-17_21-57-41&uuid=992b83c4-60cf-4e29-9e9f-31c281cd7e31
+#EXTINF:-1,romance Listen live
+https://romance.stream.laut.fm/romance?ref=radiode&t302=2025-09-17_21-57-42&uuid=b53fd631-4325-4a8a-a78d-ff2194fa27bd
+#EXTINF:-1,rosenland Listen live
+https://rosenland.stream.laut.fm/rosenland?ref=radiode&t302=2025-09-17_21-57-42&uuid=986db068-02cd-4920-bd52-a94668eca027
+#EXTINF:-1,schattenreich Listen live
+https://schattenreich.stream.laut.fm/schattenreich?ref=radiode&t302=2025-09-17_21-57-42&uuid=bdeba009-fd9b-4405-a0d6-3ff96e6a05b9
+#EXTINF:-1,schwarzeszene Listen live
+https://schwarzeszene.stream.laut.fm/schwarzeszene?ref=radiode&t302=2025-09-17_21-57-42&uuid=62dea40b-f626-4839-90aa-e11c44d1bc5f
+#EXTINF:-1,schwarzlauscher Listen live
+https://schwarzlauscher.stream.laut.fm/schwarzlauscher?ref=radiode&t302=2025-09-17_21-57-42&uuid=0614738d-dd7d-4758-aebc-f93cfef6d71c
+#EXTINF:-1,RCI Guadeloupe Listen live
+https://n05a-eu.rcs.revma.com/v4hf7bwspwzuv
+#EXTINF:-1,thedarkbluhell Listen live
+https://thedarkbluhell.stream.laut.fm/thedarkbluhell?ref=radiode&t302=2025-09-17_21-57-42&uuid=e627db3f-dcfa-4771-8825-dd0ea58fca15
+#EXTINF:-1,UP THE IRONS Listen live
+https://uptheirons.stream.laut.fm/up_the_irons?ref=radiode&t302=2025-09-17_21-57-42&uuid=ac86e09f-43f8-46b0-8491-9a57bdfcc692
+#EXTINF:-1,uselinks Listen live
+https://uselinks.stream.laut.fm/uselinks?ref=radiode&t302=2025-09-17_21-57-42&uuid=a7f90aa7-f41f-417b-8f51-00cdae65fbbe
+#EXTINF:-1,Pure Radio Holland - Trance-Electro Channel Listen live
+https://streamproxy.trance.pureradio.eu/high
+#EXTINF:-1,Oktoberfest Listen live
+https://oktoberfest.stream.laut.fm/oktoberfest?ref=radiode&t302=2025-09-17_21-57-43&uuid=7617b4ef-324a-4f38-92c0-8b6efd5e5b66
+#EXTINF:-1,KISS FM - Top 100 US Listen live
+https://topradio.stream31.radiohost.de/kissfm-top100_mp3-192?ref=radioplayer&agend=true&upd-meta&upd-scheme=https&_art=dD0xNzU4MTQ2NTY0JmQ9ZDRjMTY0MTg5NjQxNzgxZDcxYTM
+#EXTINF:-1,egoFM - Soundtrack Listen live
+https://cast.egofm.de/egofmsoundtrack.mp3
+#EXTINF:-1,WMEA - Maine Public Radio 90.1 FM Listen live
+https://19813.live.streamtheworld.com/WMEAFM.mp3
+#EXTINF:-1,ΕΚΧΕ Web Radio Listen live
+https://sonic.streams.ovh/9942/
+#EXTINF:-1,Snake Dance
+https://snakedance.stream.laut.fm/snakedance
+#EXTINF:-1,Dark Metal radio
+https://dark-metal-radio.stream.laut.fm/dark-metal-radio?t302=2025-09-12_03-02-09&uuid=a8b9541a-b4a1-4a66-898f-6b96285e26bc
+#EXTINF:-1,Dark Sound
+http://darksoundradio.stream.laut.fm/darksoundradio?t302=2025-09-12_03-02-11&uuid=29de4e1e-3a83-4827-952c-aaf60509e65b
+#EXTINF:-1,ProNoize
+https://pronoize-radio.stream.laut.fm/pronoize-radio?t302=2025-09-12_03-02-13&uuid=0b503184-0b09-459e-93bb-a631e13625c5
+#EXTINF:-1,Black Neon
+https://blackneonradio.stream.laut.fm/blackneonradio?t302=2025-09-12_03-02-13&uuid=7da41b7d-0b89-4520-9e66-8ab7a9badb56
+#EXTINF:-1,Easymix -
+https://easymix-radio.stream.laut.fm/easymix-radio?t302=2025-09-12_03-02-13&uuid=d5cf8fd9-da94-41d9-bea6-155613e846ad
+#EXTINF:-1,Zwischen-Welten
+https://uselinks.stream.laut.fm/uselinks?t302=2025-09-12_03-02-14&uuid=c649ebda-177a-4dad-aed4-8cd19ab7fbba
+#EXTINF:-1,Cia-Radio
+http://cia-radio.stream.laut.fm/cia-radio?t302=2025-09-12_03-02-14&uuid=76669d4b-7d51-44fe-84ad-40f1041290e3
+#EXTINF:-1,Gothwriter's Home
+https://gothwritershome.stream.laut.fm/gothwritershome?t302=2025-09-12_03-02-15&uuid=452873c6-bf61-4d44-bf01-aa62b0b8c7de
+#EXTINF:-1,KulturRadio
+http://0nlineradio.stream42.radiohost.de/0r-trending-charts?ref=tiny&path=addrad.io%2F4WRN_y&upd-meta&upd-scheme=http&_art=dD0xNzU3NjQ2NDM4JmQ9M2VhZWFjOTlhYmIyYjhiZGY4OWY
+#EXTINF:-1,Rockvibes
+https://radio-headshot.stream.laut.fm/radio-headshot?t302=2025-09-12_03-02-18&uuid=c31365a1-e06d-4e9c-acd0-945575a273fa
+#EXTINF:-1,Fallout
+https://fallout.stream.laut.fm/fallout?t302=2025-09-12_03-02-20&uuid=5fa92101-a301-4b3f-af7d-abc97a6b9397
+#EXTINF:-1,laut.fm / darksynthradio
+https://darksynthradio.stream.laut.fm/darksynthradio?t302=2020-04-23_00-46-43&uuid=b154c49b-32f8-487b-a595-b087cf31473f
+#EXTINF:-1,Sanctuary Radio Retro 80s
+http://192.111.140.6:9772/stream/2/
+#EXTINF:-1,EBM Radio
+http://www.ebm-radio.org:7000/537270416216132stream.nsv
+#EXTINF:-1,Sanctuary Radio Main - Dark Electro
+http://192.111.140.6:9772/stream/1/
+#EXTINF:-1,Darkradio
+http://138.201.234.215:11050/stream/1/
+#EXTINF:-1,UP&DOWN TOP ROCK RADIO
+http://streamingp.shoutcast.com/JamendoLounge?lang=*
+#EXTINF:-1,Balus-Musikkiste
+http://stream04.stream-webradiotechnik.de:8750/stream/1/
+#EXTINF:-1,Radio Caprice - Gothic Rock
+http://79.111.14.76:8000/gothicrock
+#EXTINF:-1,Radio Caprice - Gothic Metal
+http://79.120.77.11:8000/gothicmetal
+#EXTINF:-1,Krutatko
+https://streaming.brol.tech/rtfmlounge
+#EXTINF:-1,Radio No Rest
+http://server7.streamserver24.com:31504/stream/1/
+#EXTINF:-1,Roof-Club-FM
+http://stream1.srvnetplus.com:8175/
+#EXTINF:-1,Cia Rock
+https://cia-rock.stream.laut.fm/cia-rock?ref=radiode&t302=2025-09-07_17-51-32&uuid=2a749e6a-f683-4503-990e-44b22d062059
+#EXTINF:-1,Anderswelt
+https://anderswelt.stream.laut.fm/anderswelt?ref=radiode&t302=2025-09-07_17-51-33&uuid=ef5ad5d1-611d-4310-9989-02e566bc020c
+#EXTINF:-1,Castle Of Darkness
+https://castle-of-darkness.stream.laut.fm/castle-of-darkness?ref=radiode&t302=2025-09-07_17-51-33&uuid=f3df29e7-46c8-4557-90f0-43560b133867
+#EXTINF:-1,Nightshift Alternative
+https://nightshiftalternative.stream.laut.fm/nightshift_alternative?ref=radiode&t302=2025-09-07_17-51-33&uuid=088673a9-2afc-4789-931c-9c797870550b
+#EXTINF:-1,Serenity in Darkness
+https://ripmav666.stream.laut.fm/ripmav666?ref=radiode&t302=2025-09-07_17-51-33&uuid=777e7043-4ebf-49db-be65-00c67a519192
+#EXTINF:-1,Silent Darkangel
+https://silent-darkangel.stream.laut.fm/silent-darkangel?ref=radiode&t302=2025-09-07_17-51-33&uuid=23ff13f4-1bcd-4f82-9219-a5952a424960
+#EXTINF:-1,Illusion-Castle
+https://illusion-castle.stream.laut.fm/illusion-castle?ref=radiode&t302=2025-09-07_17-51-33&uuid=40fb867d-bb19-4930-b23c-ae3d9b23f289
+#EXTINF:-1,Darkrave Radio
+https://darkraveradio.stream.laut.fm/darkrave_radio?ref=radiode&t302=2025-09-07_17-51-33&uuid=78f32d6e-c6da-4416-8411-8239f8f9475c
+#EXTINF:-1,Mittelalter
+https://radio-middleages.stream.laut.fm/radio-middleages?ref=radiode&t302=2025-09-07_17-51-33&uuid=3954b227-aafc-4a28-82d9-ccf9077ff6ed
+#EXTINF:-1,DunkelLaut.de
+https://dunkellaut.site/radio/8015/radio.mp3
+#EXTINF:-1,Silence of Blue Ozean
+https://silence-of-blue-ozean.stream.laut.fm/silence-of-blue-ozean?ref=radiode&t302=2025-09-07_17-51-34&uuid=4f9566b6-dabb-4b5a-9cee-bf57aeb7054e
+#EXTINF:-1,Gothic Radio Saar
+https://gothic-radio-saar.stream.laut.fm/gothic-radio-saar?ref=radiode&t302=2025-09-07_17-51-34&uuid=2c41afbf-2a6a-4aa3-b8e0-d237e5b63b55
+#EXTINF:-1,Filiinoctis
+https://filiinoctis.stream.laut.fm/filiinoctis?ref=radiode&t302=2025-09-07_17-51-34&uuid=193397ec-cd0f-4d1d-9c28-af6af12fa33c
+#EXTINF:-1,Vega
+https://vega.stream.laut.fm/vega?ref=radiode&t302=2025-09-07_17-51-34&uuid=0d85daed-209d-4356-ba7c-eba04a1f7fec
+#EXTINF:-1,Blue-Radio-Balboa
+https://blue-radio-balboa.stream.laut.fm/blue-radio-balboa?ref=radiode&t302=2025-09-07_17-51-35&uuid=c5f800c9-6363-413b-b5a0-6083e9840169
+#EXTINF:-1,Radio Kingdom of Darkness
+https://radio-kingdom-of-darkness.stream.laut.fm/radio-kingdom-of-darkness?ref=radiode&t302=2025-09-07_17-51-35&uuid=cab67eeb-716f-4013-a946-a795aefac716
+#EXTINF:-1,Radio Kingdom Of Darkness
+https://radio-kingdom-of-darkness.stream.laut.fm/radio-kingdom-of-darkness?ref=radiode&t302=2025-09-07_17-51-35&uuid=92997b2c-1140-483c-8630-139eb4d10ec5
+#EXTINF:-1,Gruftgeschichten
+https://gruftgeschichten.stream.laut.fm/gruftgeschichten?ref=radiode&t302=2025-09-07_17-51-35&uuid=92f67169-bd24-46b8-b266-2262863ba691
+#EXTINF:-1,Brbgothic
+https://brbgothic.stream.laut.fm/brbgothic?ref=radiode&t302=2025-09-07_17-51-35&uuid=bbc234b5-bb57-49df-93d9-0b2a5f019cf8
+#EXTINF:-1,Schwarze Rose
+https://schwarze-rose.stream.laut.fm/schwarze-rose?ref=radiode&t302=2025-09-07_17-51-36&uuid=1473569b-795f-4dfa-b722-49c9e6bfad90
+#EXTINF:-1,Darkmotion
+https://darkmotion.stream.laut.fm/darkmotion?ref=radiode&t302=2025-09-07_17-51-36&uuid=e92058f4-1cdb-418e-a3dc-eaff57b0737c
+#EXTINF:-1,Gohtic
+https://gohtic.stream.laut.fm/gohtic?ref=radiode&t302=2025-09-07_17-51-36&uuid=a1ba0b11-20bc-4bff-86f9-7f8ca3460d84
+#EXTINF:-1,Black Raven
+https://black-raven.stream.laut.fm/black-raven?ref=radiode&t302=2025-09-07_17-51-36&uuid=ec79807b-a4ab-40cb-b9b6-6ef25a146987
+#EXTINF:-1,Irrlichts Welt
+https://irrlichts-welt.stream.laut.fm/irrlichts-welt?ref=radiode&t302=2025-09-07_17-51-36&uuid=b42346ae-3755-4b23-9dd7-18a758c550fa
+#EXTINF:-1,666 Darksociety 666
+https://666darksociety666.stream.laut.fm/666darksociety666?ref=radiode&t302=2025-09-07_17-51-36&uuid=5f635671-1666-4e12-b057-ea64334fe962
+#EXTINF:-1,Soundwelten
+https://soundwelten.stream.laut.fm/soundwelten?ref=radiode&t302=2025-09-07_17-51-36&uuid=1199dedf-d2bc-4da9-86ad-bdae16091864
+#EXTINF:-1,ROCK ANTENNE - Gothic
+https://s7-webradio.rockantenne.de/gothic/stream/mp3?aw_0_1st.playerid=radio.de
+#EXTINF:-1,Lugasrockkantine
+https://lugasrockkantine.stream.laut.fm/lugasrockkantine?ref=radiode&t302=2025-09-07_17-51-36&uuid=c5fa747c-7b14-4986-93eb-04b169123c17
+#EXTINF:-1,80s80s DARK WAVE
+https://regiocast.streamabc.net/regc-80s80sdarkwave3426539-mp3-192-3262123?sABC=68oqp629%230%233012o6r0p0n71qooq029r8oo1sr32n16%23enqvbqr&aw_0_1st.playerid=radiode&amsparams=playerid:radiode;skey:1757267497
+#EXTINF:-1,Dme Radio
+https://dme-radio.stream.laut.fm/dme-radio?ref=radiode&t302=2025-09-07_17-51-37&uuid=9bc664a8-f969-4c29-ba68-3e96602d932e
+#EXTINF:-1,Dansemacabre
+https://dansemacabre.stream.laut.fm/dansemacabre?ref=radiode&t302=2025-09-07_17-51-37&uuid=203d2d78-0270-4725-b4e5-8ff33970ec59
+#EXTINF:-1,DrGnu - Gothic - 0 - Germany - 1990s - 20th century - ac/dc - acdc - alternative - anthrax - art rock - avant garde - classic - cream - danzig - drgnu - europe - experimental - festivals - folk rock - foo fighters - garage punk - gig - glam rock - gothic - grunge - heavy metal - heavy rock - hendrix - hits - indie - iron maiden - james taylor - korn - led zeppelin - linkin park - live - livestream - megadeth - metal - metallica - motorhead - motörhead - new age - new wave - nirvana - nu punk - open air - paul simon - pop - pop-rock - prog - psychedelia - punk rock - queen - rainorshine - rhythm and blues - rock - rolling stones - sex pistols - slow rock - soft rock - symphonic rock - system of a down - t-rex - talking heads - wacken - wacken open air - wacken radio - woa
+http://regiocast.streamabc.net/regc-radiobobgothic6924976-mp3-192-2500754?sABC=68p1p13n%230%237nnr9827s1noqs64q9580q80676qn939%23zrqvncynlre&aw_0_1st.playerid=mediaplayer&amsparams=playerid:mediaplayer;skey:1757528378
+#EXTINF:-1,Frühlingsradio - 128 - Germany - 80s - 90s - charts - dance - gothic - party - pop - rock - schlager
+https://german-gothic-radio.stream.laut.fm/german-gothic-radio?fbclid=IwAR3sQsxJ-YgK2YenwqtW4oz qyUGZDL-p7eQTFuTJ8emi0zv-jX-v-pt1OU&t302=2019-06-12 17-37-54&uuid=21afed4f-081f-49bd-a081-7b512b2464c8
+#EXTINF:-1,Gothica – laut.fm - 128 - Germany - gothic
+http://gothica.stream.laut.fm/gothica?t302=2025-09-10_18-19-38&uuid=72fe45b8-1516-40f0-bfa2-7bd8c041df9a
+#EXTINF:-1,Radio Arcane - 320 - The United States Of America - darkwave - goth - gothic - gothic rock
+https://regiocast.streamabc.net/regc-radiobobgothic6924976-mp3-192-2500754?sABC=68p1p13n%231%23p47683ss451oqs8ror068qrn8n897o50%23ubzrcntr&mode=preroll&aw%200%201st.skey=1671671298&cb=786160185&aw%200%201st.playerid=radiobob%20web&aw%200%20req.userConsentV2=CPkIkEAPkIkEAAFADBDECvCsAP%20AAEPAAAYgI9td%20H%20%20bW9j-f5%20aft0eY1P9%20rz7uQzDhfNk-4F3L%20W%20LwX52E7NF36tq4KmR4ku1LBIQNlHMHUDUmwaokVryHsak2cpSNKJ7BEknMZOydYGF9Pmxtj-QKY5v5%20d3bx2D-t%209v-39z338VXn3d53-%2002PDdV599Dfn9fR%20b89KP9958v4v8%20%20%20%20%203%20e%20%203%2074I9gEmGrcQBdmWODNoGEUCIEYVhIRQKACCgGFogIAHBwU7KwCfWECABAKAIwIgQ4AowIBAAAJAEhEAEgRYIAAARAIAAQAIAEIAGBgEFgBYGAQAAgGgYohQACBIAZEBEUpgQFQJBAS2VCCUFUhphAFWWAFAIjYKABEEgIpAAEBYOAYIkBKxYIEmKN8gBGCFAKJUIAgaADAAEEexEAGAAII9ioAMAAQR7GQAYAAgj2AAA.YAAAAAAAAAAA&aw%200%201st.kuid=kppidff%20PQ5ovBN7&aw%200%201st.ksg=[%22vz9c46692%22,%22tcn2pw7tc%22,%22trfvrpkpq%22,%22uo5ss1kr5%22,%22upxsvbudn%22,%22uphudti45%22,%22ual9zjoqj%22,%22uuslgimlz%22,%22ual6nqoj8%22]&listenerid=c47683ff451bdf8ebe068dea8a897b50&aw_0_1st.playerid=homepage&amsparams=playerid:homepage;skey:1757528378
+#EXTINF:-1,RADIO BOB! BOBs Gothic Rock - 0 - Germany - gothic - metal - rock
+http://regiocast.streamabc.net/regc-radiobobgothic6924976-mp3-192-2500754?sABC=68p1p13n%230%237nnr9827s1noqs64q9580q80676qn939%23fgernzf.enqvbobo.qr&aw_0_1st.playerid=streams.radiobob.de&amsparams=playerid:streams.radiobob.de;skey:1757528378
+#EXTINF:-1,Radio Caprice - Gothic Black Metal - 320 - The Russian Federation - black metal - gothic - gothic metal - radcap - radio caprice
+http://79.120.77.11:8002/gothicmetal
+#EXTINF:-1,RadioBOB Gothic Rock (64 kbps AAC) - 0 - Germany - gothic rock - rock
+http://regiocast.streamabc.net/regc-radiobobgothic6924976-aacplus-64-4802329?sABC=68p1p13n%230%237nnr9827s1noqs64q9580q80676qn939%23zrqvncynlre&aw_0_1st.playerid=mediaplayer&amsparams=playerid:mediaplayer;skey:1757528378
+#EXTINF:-1,Rock Antenne - Gothic - 128 - Germany - dark wave - ebm - gothic - metal - punk
+https://s3-webradio.rockantenne.de/gothic
+#EXTINF:-1,Rock Antenne Gothic - 128 - Germany - gothic - gothic rock - metal
+https://s6-webradio.rockantenne.de/gothic/stream/mp3
+#EXTINF:-1,BNR Darkwave Sounds
+http://darkwave-sounds.stream.laut.fm/darkwave-sounds?t302=2018-08-05_07-50-49&ampuuid=4ce29d2d-4552-40a6-a621-829a3879a0a3
+#EXTINF:-1,Musik4you Radio
+https://nightshiftalternative.stream.laut.fm/nightshift_alternative?t302=2025-09-14_21-16-49&uuid=d3723537-cf75-4423-8824-63245fe83b79
+#EXTINF:-1,Radio-Drachengold2
+https://radiodrachengold2.stream.laut.fm/radiodrachengold2?t302=2025-09-14_21-16-50&uuid=1873b579-4bc0-40a4-aaed-ecedaa53d1c6
+#EXTINF:-1,ROCK ANTENNE Gothic
+https://s3-webradio.rockantenne.de/gothic/stream/mp3
+#EXTINF:-1,Schwarze Rose FM
+https://schwarze-rose.stream.laut.fm/schwarze-rose?t302=2025-09-14_21-16-51&uuid=ea1bc304-70e5-476e-a5de-2bdec7002de4
+#EXTINF:-1,Spontis FM
+https://spontis.stream.laut.fm/spontis?t302=2025-09-14_21-16-51&uuid=385668c7-b587-49f9-886f-3ce607e030cb
+#EXTINF:-1,Streetteam Berlin On Air
+https://streetteam-berlin-on-air.stream.laut.fm/streetteam-berlin-on-air?t302=2025-09-14_21-16-51&uuid=d94448bc-e9c4-443e-9b92-02fa0e890d86
+#EXTINF:-1,The Voice Of Doom
+https://streaming.galaxywebsolutions.com:9046/stream
+#EXTINF:-1,UferFunk
+https://uferfunk.stream.laut.fm/uferfunk?t302=2025-09-14_21-16-52&uuid=48ad10a2-d3ff-4a68-949e-6af2c3bacbbe
+#EXTINF:-1,Wave Gothic
+https://wavegotik.stream.laut.fm/wavegotik?t302=2025-09-14_21-16-52&uuid=7a5de77a-5734-4b94-bef8-c13f56af669b
+#EXTINF:-1,Witchhouse Music
+https://witchhouse-music.stream.laut.fm/witchhouse-music?t302=2025-09-14_21-16-52&uuid=7f82696a-0adc-4037-bc27-bf33d2f9a059
+#EXTINF:-1,RADIO BOB - Gothic Rock_neu
+https://regiocast.streamabc.net/regc-radiobobgothic6924976-mp3-192-2500754?sABC=68or5020%230%23995768oo3r5n9638p710n4158qs27n61%23ubzrcntr&aw_0_1st.playerid=homepage&amsparams=playerid:homepage;skey:1757302816
+#EXTINF:-1,GothDimension - Wave Gothic Radio
+https://free.rcast.net/238319
+#EXTINF:-1,Cathedral 13
+http://149.56.157.81:5127/stream/stream/1
+#EXTINF:-1,Mixtress Radio
+http://myradiostream.com/mixtressradio
+#EXTINF:-1,Midnight Madness Metal Radio
+http://midnight-madness.eradioweb.com:8000/live
+#EXTINF:-1,Radio Romance
+https://romance.stream.laut.fm/romance?t302=2025-09-11_04-52-45&uuid=09088900-4b6a-4c57-86a0-9a9342854ba4
+#EXTINF:-1,Radio Gothic
+http://www.radiogothic.net/radiogothic128.m3u
+#EXTINF:-1,Electrobit Radio
+http://electrobit.listen2myradio.com
+#EXTINF:-1,Pagan Radio
+http://relkjfj.listen2myradio.com/
+#EXTINF:-1,Depressive Radio
+http://depressiveradio.listen2myradio.com
+#EXTINF:-1,Radio Monacensis
+https://monacensis.stream.laut.fm/monacensis?t302=2025-09-11_04-52-49&uuid=ebf534c5-dc3b-4eb4-82e4-5deda14ca8f5
+#EXTINF:-1,Paulfredjames
+http://paulfredjames.listen2myradio.com
+#EXTINF:-1,Industrial Underground Electro Ebm Goth
+http://www.radioo.cz/wplay/104
+#EXTINF:-1,DarkRadio
+http://138.201.234.215:11050/stream/
+#EXTINF:-1,German Gothic Radio
+http://german-gothic-radio.stream.laut.fm/german-gothic-radio?t302=2025-09-06_17-08-17&uuid=a98d80cb-360d-4218-bbb7-6b1c20fd356b
+#EXTINF:-1,101.RU - Пикник
+http://pub0101.101.ru:8000/stream/pro/aac/64/157
+#EXTINF:-1,_a_u_r_a_t_o_n_
+http://auraton.stream.laut.fm/_a_u_r_a_t_o_n_?t302=2025-09-06_17-08-18&uuid=bca0bff5-f04b-484f-bd2d-c2fe627d0a9c
+#EXTINF:-1,Radio-Shadowplay
+http://radio-shadowplay.stream.laut.fm/radio-shadowplay?t302=2025-09-06_17-08-18&uuid=83095630-c730-48dd-bacc-94bf3a3456a5
+#EXTINF:-1,Darksynth-Radio
+http://darksynthradio.stream.laut.fm/darksynthradio?t302=2025-09-06_17-08-18&uuid=07e7fdd9-9c67-4a89-b171-586014138d06
+#EXTINF:-1,Electrozombies
+http://electrozombies.stream.laut.fm/electrozombies?t302=2025-09-06_17-08-18&uuid=c857c81b-fa51-41c6-853e-8e2c09941ce3
+#EXTINF:-1,Schallgrenzen
+http://schallgrenzen.stream.laut.fm/schallgrenzen?t302=2025-09-06_17-08-19&uuid=02aceac1-9cde-42e8-807f-9a818ddfa83f
+#EXTINF:-1,Sound_eff-3kt-_-mix
+http://soundeff-3kt--mix.stream.laut.fm/sound_eff-3kt-_-mix?t302=2025-09-06_17-08-19&uuid=5034b011-f1e4-488e-bc4b-25e83ae3531b
+#EXTINF:-1,Planet80s
+http://planet80s.stream.laut.fm/planet80s?t302=2025-09-06_17-08-19&uuid=9c32d657-2ca4-4dde-96df-6d59558b5668
+#EXTINF:-1,Sanctuary Radio
+http://192.111.140.6:9772/stream/
+#EXTINF:-1,Allzic Radio - Gothique
+http://allzic27.ice.infomaniak.ch/allzic27.mp3
+#EXTINF:-1,Hexx 9 Radio
+http://46.105.124.120:8604/stream/
+#EXTINF:-1,80s80s - Wave
+http://regiocast.streamabc.net/regc-80s80swave1065742-mp3-192-3582815?sABC=68op6n85%230%232p81q7n3326478r6740n82q86p4299p3%23fgerrzn&aw_0_1st.playerid=streema&amsparams=playerid:streema;skey:1757178501
+#EXTINF:-1,Daffy Web Radio (DWR)
+http://daffywebradio.stream.laut.fm/daffywebradio?t302=2025-09-06_17-08-21&uuid=afdb9b13-5e7f-4df1-b179-c5fd5071ed45
+#EXTINF:-1,Bloodlit Radio
+http://usa5.fastcast4u.com:5674/stream
+#EXTINF:-1,Durchgehört
+https://1.stream.laut.fm/durchgehoert
+#EXTINF:-1,Goldis Hotfun Radio
+https://goldis-hotfunradio.stream.laut.fm/goldis-hotfunradio
+#EXTINF:-1,ABGLANZ-FM
+http://abglanz-fm.stream.laut.fm/abglanz-fm?pl=m3u&ampt302=2023-04-14_16-47-16&ampuuid=5c987832-4fba-4328-924b-df2e19ee8ac5
+#EXTINF:-1,101.RU - Наутилус Помпилиус
+http://pub0101.101.ru:8000/stream/pro/aac/64/126
+#EXTINF:-1,101.RU - Агата Кристи
+http://pub0101.101.ru:8000/stream/pro/aac/64/139
+#EXTINF:-1,80er Zone
+http://80er-zone.stream.laut.fm/80er-zone?t302=2025-09-06_17-08-23&uuid=5956ffe2-f4c9-4c12-86c7-9435484bf554
+#EXTINF:-1,Schwarzeszene
+http://schwarzeszene.stream.laut.fm/schwarzeszene?t302=2025-09-06_17-08-23&uuid=4366b896-9939-4d87-96f1-2dd43eceeabb
+#EXTINF:-1,Ferulas_Giftkueche
+http://ferulasgiftkueche.stream.laut.fm/ferulas_giftkueche?t302=2025-09-06_17-08-25&uuid=a87e7e52-e9f7-4df2-ab31-ebc33b14c687
+#EXTINF:-1,Crimson-fm
+https://crimson-fm.stream.laut.fm/crimson-fm?t302=2025-09-06_17-08-25&uuid=ed5664e4-bbb7-4c58-9c47-a398bd6c20f3
+#EXTINF:-1,Nonpop
+http://nonpop.stream.laut.fm/nonpop?t302=2025-09-06_17-08-25&uuid=e69b4579-5655-45f0-85c5-0bc46a9b2d15
+#EXTINF:-1,Promofabrikamerica
+https://promofabrikamerica.stream.laut.fm/promofabrikamerica?t302=2025-09-06_17-08-26&uuid=9fab754e-91a9-433f-be1c-fcc0573a5f00
+#EXTINF:-1,Abglanz FM
+http://abglanz-fm.stream.laut.fm/abglanz-fm?t302=2025-09-06_17-08-25&uuid=c6a7a594-ed1e-4895-aab7-b76faef3693c
+#EXTINF:-1,Radio-dark-universe
+https://radio-dark-universe.stream.laut.fm/radio-dark-universe?t302=2025-09-06_17-08-26&uuid=b714f26c-2633-4eb8-b7c8-741011a10d13
+#EXTINF:-1,Promofabrik-Radio
+http://promofabrik-radio.stream.laut.fm/promofabrik-radio?t302=2025-09-06_17-08-26&uuid=9a331570-9043-400d-a8d3-3b30d78a6843
+#EXTINF:-1,Radio-Headshot
+http://radio-headshot.stream.laut.fm/radio-headshot?t302=2025-09-06_17-08-27&uuid=17924d43-dcd1-4025-b618-79f195e0fee3
+#EXTINF:-1,Radio Hohenburg
+https://radiohohenburg.stream.laut.fm/radiohohenburg
+#EXTINF:-1,Allzic Radio – Gothique
+https://blackspot.stream.laut.fm/blackspot?t302=2025-09-19_04-45-09&uuid=ef86aad5-3cdc-4036-b5e9-0906c4e98cd4
+#EXTINF:-1,RADIO BOB! – BOBs Gothic Rock
+http://regiocast.streamabc.net/regc-radiobobgothic6924976-mp3-192-2500754?sABC=68ppqsq7%230%239s82ns4sp9qoo8rsnp8n694n144p1pp2%23fgerrzn&aw_0_1st.playerid=streema&amsparams=playerid:streema;skey:1758257111

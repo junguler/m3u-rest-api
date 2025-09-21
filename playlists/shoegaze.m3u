@@ -5,3 +5,35 @@ http://radio.streemlion.com:2400/stream
 http://radio.streemlion.com:4240/stream
 #EXTINF:-1,DKFM EDGE
 http://radio.streemlion.com:4170/stream
+#EXTINF:-1,DKFM Shoegaze Radio
+https://kathy.torontocast.com:2005/stream
+#EXTINF:-1,supersonic
+http://supersonic.stream.laut.fm/supersonic
+#EXTINF:-1,radio shadowplay
+http://radio-shadowplay.stream.laut.fm/radio-shadowplay
+#EXTINF:-1,schallgrenzen
+http://schallgrenzen.stream.laut.fm/schallgrenzen
+#EXTINF:-1,play4today
+http://play4today.stream.laut.fm/play4today
+#EXTINF:-1,radiomuenster
+http://radiomuenster.stream.laut.fm/radiomuenster
+#EXTINF:-1,popscene
+http://popscene.stream.laut.fm/popscene
+#EXTINF:-1,schattenradio
+http://schattenradio.stream.laut.fm/schattenradio
+#EXTINF:-1,ellis
+http://ellis.stream.laut.fm/ellis
+#EXTINF:-1,bluenightshadow
+http://bluenightshadow.stream.laut.fm/bluenightshadow
+#EXTINF:-1,Radio-Shadowplay
+http://radio-shadowplay.stream.laut.fm/radio-shadowplay?t302=2025-09-06_18-01-44&uuid=cc41d5f2-9b0b-49a7-aaa4-7bb7f6d445d5
+#EXTINF:-1,Schallgrenzen
+http://schallgrenzen.stream.laut.fm/schallgrenzen?t302=2025-09-06_18-01-44&uuid=4e7bc5d4-97fb-4ced-89a0-3cdd1292f174
+#EXTINF:-1,Radio Record - Rave FM
+http://radiorecord.hostingradio.ru/rave96.aacp
+#EXTINF:-1,ESRadioPT
+http://www.esradio.pt:8000/stream4/
+#EXTINF:-1,Ignoreland Radio
+http://uk7.internet-radio.com:8313/stream
+#EXTINF:-1,Sochi Lounge – NEON
+http://listen1.myradio24.com/5790

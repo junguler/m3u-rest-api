@@ -1,0 +1,39 @@
+#EXTM3U
+#EXTINF:-1,RADIO MARIA BURUNDI
+http://dreamsiteradiocp.com:8058/stream
+#EXTINF:-1,Radio Maria
+http://dreamsiteradiocp2.com:8080/
+#EXTINF:-1,Radio Fo-Fe
+http://cast.thiff.com:8012/stream
+#EXTINF:-1,RFI Afrique
+http://live02.rfi.fr/rfiafrique-64.mp3
+#EXTINF:-1,Radio Scolaire Nderagakura  FM 87.9 Listen live
+https://eu10.fastcast4u.com/nderagakura
+#EXTINF:-1,Andy FM Listen live
+https://andyfm.stream.laut.fm/andyfm?t302=2025-09-17_21-54-36&uuid=47995521-dcde-4768-9ba9-5ead7937a06a
+#EXTINF:-1,antenne 1 Neckarburg Rock & Pop Listen live
+https://konsolelabs.streamabc.net/94-a1nbg-aacplus-64-5237770
+#EXTINF:-1,Rádio Feliz FM - Rio de Janeiro Listen live
+https://cloud1.cdnseguro.com:27436/
+#EXTINF:-1,Hardstyle - Radio Record Listen live
+https://radiorecord.hostingradio.ru/teo96.aacp
+#EXTINF:-1,ABC Avril Lavigne Listen live
+https://listen.openstream.co/3185/audio
+#EXTINF:-1,RauteMusik - PartyHits Listen live
+https://rautemusik.stream37.radiohost.de/partyhits?upd-meta&upd-scheme=https&_art=dD0xNzU4MTQ2Mzc3JmQ9NDlhZmJiYzQ3MDkyMzUxYWU1MGU
+#EXTINF:-1,Radio Alex Listen live
+https://frradioq.radioca.st/server
+#EXTINF:-1,Radio Picarona Panguipulli Listen live
+https://sonic.portalfoxmix.cl:7045/
+#EXTINF:-1,Best-Friends-Radio Listen live
+https://stream2-alfacast-hosting.com:10966/
+#EXTINF:-1,Radio TV Buntu
+https://stream2.rcast.net/62581
+#EXTINF:-1,Radio Maria Burundi - 32 - Burundi -
+http://dreamsiteradiocp2.com:2199/tunein/rmburundi2-stream.pls
+#EXTINF:-1,Indundi Radio
+https://indundiculture.com/?wp_radio_play=http://162.213.249.117:8003/radioculture
+#EXTINF:-1,Radio Maria Burundi
+http://eu10.fastcast4u.com:8990/
+#EXTINF:-1,Radio Maria Burundi – BI-BJ
+https://cdn.cloudrad.io/radiomariaburundi/listen.pls

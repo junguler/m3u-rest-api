@@ -1,0 +1,25 @@
+#EXTM3U
+#EXTINF:-1,AFR Talk
+https://mediaserver3.afa.net:8443/talk.mp3
+#EXTINF:-1,K-LOVE Radio
+https://emf-seg001222.cdnstream1.com/seg001222-i64.aac?platform=airable&city=san-jose&country=united-states&geo_api=abstract_ip&latitude=37.3361663&longitude=-121.890591&opawg_result=false&region=california&segment=001222&t=1&k=0iVaS5v8DJD4EFhD3eegT9icjxtylISI1KAAfbHCY4MZA49psH3jBw6_t0lhZbczVzfHR02YSWpewJo2pYaxgXUIDgwzmm0vxbkM8ZXdmERiKldSHOxVi_eIBFANa_KMxQ
+#EXTINF:-1,Air1 Radio
+https://emf-seg001029.cdnstream1.com/seg001029-i64.aac?platform=iheart&city=san-jose&country=united-states&geo_api=abstract_ip&latitude=37.3361663&longitude=-121.890591&opawg_result=false&region=california&segment=001029&t=1&k=6SiWscfNV-qpoFIX6Gw-dtJ-fdmQqtmfn-UTWRrWdmIEeZwUXsGVlFsg8gd4PPA9ZKUlies_yuBEgbufoEId6vSkKK7HA6gyb97ekzS7eaA-0-WTbBzXSO3FycQmCMProMX9
+#EXTINF:-1,Magic 103.3/95.5
+https://26423.live.streamtheworld.com/WMGVFMAAC.aac
+#EXTINF:-1,PRE News & Ideas
+https://22213.live.streamtheworld.com/WTEBFM.mp3
+#EXTINF:-1,PRE Classical
+https://22213.live.streamtheworld.com/WZNBFM.mp3
+#EXTINF:-1,92.3 & 101.1 The River
+https://dbc.streamguys1.com/wqsl-fm.aac
+#EXTINF:-1,99.5/97.5 The Wave
+https://18063.live.streamtheworld.com/WMJVFMAAC.aac
+#EXTINF:-1,101.9 Kiss FM
+https://15313.live.streamtheworld.com/WIKSFM_SC
+#EXTINF:-1,900 WIAM
+https://s33.myradiostream.com:16778/
+#EXTINF:-1,Beach Boogie & Blues
+https://26433.live.streamtheworld.com/WNCTAMAAC.aac
+#EXTINF:-1,106.5 WSFL
+https://24073.live.streamtheworld.com/WSFLFM_SC

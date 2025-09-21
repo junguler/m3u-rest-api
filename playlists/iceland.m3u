@@ -1,0 +1,121 @@
+#EXTM3U
+#EXTINF:-1,Sudurland FM 96.3
+http://178.19.58.119:1818/
+#EXTINF:-1,80's Bylgjan
+http://icecast.365net.is:8000/orb80s.aac.m3u
+#EXTINF:-1,Apparatid
+http://icecast.365net.is:8000/orbApparatid.aac
+#EXTINF:-1,Bylgjan 98.9 Reykjavik
+http://icecast.365net.is:8000/orbbylgjan.aac
+#EXTINF:-1,Gull Bylgjan 90.9 Reykjavik
+http://icecast.365net.is:8000/orbGullBylgjan.aac.m3u
+#EXTINF:-1,Létt Bylgjan
+http://icecast.365net.is:8000/orbLettBylgjan.aac.m3u
+#EXTINF:-1,Rondó
+https://ruv-radio-live.akamaized.net/streymi/rondo/rondo.m3u8
+#EXTINF:-1,Trolli FM 103.7 Siglufjordu
+http://live.trolli.is:8200/
+#EXTINF:-1,Visir "FM 957 Extra" Reykjavik
+http://icecast.365net.is:8000/orbFmExtra.aac
+#EXTINF:-1,Visir "FM957" 95.7 Reykjavik
+http://icecast.365net.is:8000/orbFm957.aac.m3u
+#EXTINF:-1,X977
+http://icecast.365net.is:8000/orbXid.aac.m3u
+#EXTINF:-1,Kiss FM (Reykjavík) Radio
+https://stream02.pcradio.biz/kissfm_is-med
+#EXTINF:-1,K100 Radio
+https://stream02.pcradio.biz/k100_mbl_is-med
+#EXTINF:-1,Flashback 91.9 FM Radio
+https://stream02.pcradio.biz/flashback_919-med
+#EXTINF:-1,FM957 Radio
+https://stream02.pcradio.biz/fm957_is-med
+#EXTINF:-1,Bylgjan FM Radio
+https://stream02.pcradio.biz/rad_blgnvsr-med
+#EXTINF:-1,GusGus Radio
+https://stream02.pcradio.biz/gus_gus-med
+#EXTINF:-1,Beatles, Rock'n'Roll, Italian Best Music
+https://streaming.brol.tech/rtfmlounge
+#EXTINF:-1,Bylgjan FM
+https://live.visir.is/hls-radio/bylgjan/playlist.m3u8
+#EXTINF:-1,FM Extra
+https://live.visir.is/hls-radio/fmextra/playlist.m3u8
+#EXTINF:-1,Apparatid Radio
+https://live.visir.is/hls-radio/apparatid/playlist.m3u8
+#EXTINF:-1,FM957
+https://live.visir.is/hls-radio/fm957/playlist.m3u8
+#EXTINF:-1,RÚV  Rás 1
+https://ruv-radio-live.akamaized.net/streymi/ras1/ras1.m3u8
+#EXTINF:-1,Útvarp Reykjavíkur í beinni
+https://stream2.svrdedicado.org:7127/stream
+#EXTINF:-1,X-id 97.7 FM
+https://live.visir.is/hls-radio/x977/playlist.m3u8
+#EXTINF:-1,3ABN
+http://war.str3am.com:7180/live
+#EXTINF:-1,Gull Bylgjan
+https://live.visir.is/hls-radio/gullbylgjan/playlist.m3u8
+#EXTINF:-1,Bylgjan 80s
+https://live.visir.is/hls-radio/80s/playlist.m3u8
+#EXTINF:-1,Bylgjan Islenska
+https://live.visir.is/hls-radio/fmx/playlist.m3u8
+#EXTINF:-1,Trölli FM
+http://live.trolli.is:8200/;
+#EXTINF:-1,80&#039;s Bylgjan
+http://icecast.365net.is:8000/orb80s.aac
+#EXTINF:-1,Visir &quot;FM 957 Extra&quot; Reykjavik
+http://icecast.365net.is:8000/orbGullBylgjan.aac
+#EXTINF:-1,Bylgjan 98.9
+http://icecast.365net.is:8000/orbXid.aac
+#EXTINF:-1,FMX
+http://icecast.365net.is:8000/orbFMX.aac
+#EXTINF:-1,RETROWELLE  Listen live
+https://retrowelle.stream.laut.fm/retrowelle?ref=radiode&t302=2025-09-17_22-36-32&uuid=3257f8cf-2a5c-4895-b31f-25f99b41959e
+#EXTINF:-1,Goa-Channel-One Listen live
+https://goa-channel-one.stream.laut.fm/goa-channel-one?t302=2025-09-17_22-36-32&uuid=0ee21261-da6a-4f08-b2b6-d6a94d2f3315
+#EXTINF:-1,BB RADIO - Soft Listen live
+https://irmedia.streamabc.net/irm-bbrrelax-mp3-192-3410008?sABC=68po37s0%230%23nqnp6r73387r288518398p9pp3s10qr7%23jro&aw_0_1st.playerid=web&amsparams=playerid:web;skey:1758148592
+#EXTINF:-1,handmade-music Listen live
+https://handmade-music.stream.laut.fm/handmade-music?ref=radiode&t302=2025-09-17_22-36-32&uuid=2035b622-07b8-4060-a9b7-5a5644ca0080
+#EXTINF:-1,Dance Family Radio Listen live
+https://dance-family-radio.stream.laut.fm/dance-family-radio?t302=2025-09-17_22-36-33&uuid=949a0d21-5bc6-422c-8c24-bb00eeeeb24a
+#EXTINF:-1,partyhouse Listen live
+https://partyhouse.stream.laut.fm/partyhouse?ref=radiode&t302=2025-09-17_22-36-33&uuid=f00559e7-a294-4b17-9164-da259d1a3f93
+#EXTINF:-1,welle-nord Listen live
+https://welle-nord.stream.laut.fm/welle-nord?ref=radiode&t302=2025-09-17_22-36-33&uuid=808bb39f-4dd4-483e-aac6-1ba7f680773e
+#EXTINF:-1,Bylgjan
+https://icecast.visir.is/orbbylgjan.aac
+#EXTINF:-1,Ice FM
+http://falcon.shoutca.st:8516/
+#EXTINF:-1,Íslenska Bylgjan
+https://live.visir.is/hls-radio/x977/chunklist_DVR.m3u8
+#EXTINF:-1,Apparatið
+https://live.visir.is/hls-radio/apparatid/chunklist_DVR.m3u8
+#EXTINF:-1,FMX Klassík
+https://live.visir.is/hls-radio/fmx/chunklist_DVR.m3u8
+#EXTINF:-1,RÚV Rondó
+https://ruv-radio-live.akamaized.net/streymi/rondo/rondo/rondo.m3u8
+#EXTINF:-1,80s Bylgjan
+https://live.visir.is/hls-radio/80s/chunklist_DVR.m3u8
+#EXTINF:-1,RÚV Rás 2
+https://ruv-radio-live.akamaized.net/streymi/ras2/ras2/ras2.m3u8
+#EXTINF:-1,98 FM
+https://stream.audioxi.com/98
+#EXTINF:-1,ICE FM Iceland
+https://live.visir.is/hls-radio/fmextra/chunklist.m3u8
+#EXTINF:-1,Suðurland FM
+http://live.visir.is/hls-radio/fm957/playlist.m3u8?DVR
+#EXTINF:-1,Létt Bylgjan – 96.7 FM – Reykjavik – Capital Region – IS
+https://icecast.visir.is/orbLettBylgjan.aac
+#EXTINF:-1,80s BYLGJAN – Reykjavik – Capital Region – IS
+https://icecast.visir.is/orb80s.aac
+#EXTINF:-1,Snow Radio Network – Reykjavik – Capital Region – IS
+https://15113.live.streamtheworld.com/SAM02AAC45_SC?pname=TDSdk
+#EXTINF:-1,X-id 97.7 FM – 97.7 FM – Reykjavik – Capital Region – IS
+https://icecast.visir.is/orbXid.aac
+#EXTINF:-1,Ice FM – Reykjavik – Capital Region – IS
+http://falcon.shoutca.st:8516
+#EXTINF:-1,FM 957 – 957 AM – Reykjavik – Capital Region – IS
+https://icecast.visir.is/orbFm957.aac
+#EXTINF:-1,X 97.7
+http://live.visir.is/hls-radio/lettbylgjan/playlist.m3u8
+#EXTINF:-1,Lindin, kristið útvarp
+https://stream.nfp.is/live/lindin.stream/playlist.m3u8

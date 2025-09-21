@@ -1,0 +1,83 @@
+#EXTM3U
+#EXTINF:-1,Finest Fm
+http://212.47.220.188:8000/listen.mp3
+#EXTINF:-1,Happy U
+http://www.happyu.ee/streaming/happyu.m3u
+#EXTINF:-1,Kuma FM 101.0
+http://5.39.16.62:8004/tre
+#EXTINF:-1,Sky Plus
+https://edge01.cdn.bitflip.ee:8888/SKYPLUS?_i=acb6e2d1
+#EXTINF:-1,Sooviraadio
+http://media.uunox.net:8888/listen.pls
+#EXTINF:-1,Relax Instrumental
+https://edge03.cdn.bitflip.ee:8888/instrumental?_i=40ec8e81
+#EXTINF:-1,Relax Cafe
+https://edge03.cdn.bitflip.ee:8888/cafe?_i=40ec8e81
+#EXTINF:-1,Relax International
+https://edge03.cdn.bitflip.ee:8888/international?_i=40ec8e81
+#EXTINF:-1,Retro FM
+https://edge04.cdn.bitflip.ee:8888/RETRO?_i=5f69097c
+#EXTINF:-1,NRJ
+https://edge02.cdn.bitflip.ee:8888/NRJ?_i=5e295118
+#EXTINF:-1,Radio MyHits
+https://le02.euddn.net/9bdf4ca1e4b0c59ba0f4d0bb9688875d5e07b5e9b85e5b74559f1d3ab6b9183cc1fb2f2e088916b0622289ac304c12298bf4bb355cbc68e86e55fa1b909b15fdbf59646f207f3291aa806ebeda2909f3ca19a8a80534dc19727e17ebbf63688ab878602ba9e7abe7c0538ab9b61af2bc1f1c0368d27531863a80368f6f1658ea13679e3445b88ecb8ecdfba56462e2511ea33f4256bb872bc234737b0ef574f5754ca581a25f9194b208165f19de76bd/myhits.aac
+#EXTINF:-1,Raadio Kuku
+https://le02.euddn.net/0ca60ffac7084608c3a4e5b172d8e55fad53c4604a858bc0ceacf0ad7f0b80781cdfca4ed29f4ce16afba4f3d448ebc2b52b9624ab8c40cce964f645936f86a7e0090652261977588ecefda596b215840f4419c22a73d66d57eb28bd8f2a0ff0dc77be538f84e5bf0f8eb37b14b04a505f7a09e5d04f88a2ff36b10aeda60aed8dd22bb20791c9fc21e47996d2cc21e28430216005a219ff99d3639d4fef5eb0/kuku.aac
+#EXTINF:-1,Hits Radio Online
+http://live.rcast.net:8714/stream
+#EXTINF:-1,Sky Plus DNB
+https://edge02.cdn.bitflip.ee:8888/NRJdnb?_i=5e295118
+#EXTINF:-1,Relax Spa
+https://edge03.cdn.bitflip.ee:8888/spa?_i=40ec8e81
+#EXTINF:-1,Võmba FM
+https://c4.radioboss.fm:18123/stream
+#EXTINF:-1,Xl Radio - Estonia
+http://live.rcast.net:9172/;stream.nsv
+#EXTINF:-1,Raadio Kadi
+https://edge06.cdn.bitflip.ee:8888/kadi
+#EXTINF:-1,Raadio 7
+https://edge05.cdn.bitflip.ee:8888/R7
+#EXTINF:-1,Hard FM Estonia
+http://s5.radio.co/s69e02764f/listen
+#EXTINF:-1,Duo Gold
+https://le01.euddn.net/988cb1ff7f3dcc2a9a180798f11578cc4db0e2283bd9664432a72abb713b119095d77415baa746acbb6f1dcfb8bead6ad5483a99765f0674bb7afd79786ca0ec983fe4da68e4d123dd59621ca31eccc576eb07a60a2affeff05eb79bfcd39adf348b22c3a06fbdf5db42583f5d301ef24c7e0fb5f1359e46f9af33f48a9bc6fbc80ea5c25a4340c9f88c1300e359a4b1961eece57abe883ee61caaf994446dd6/kuld.aac
+#EXTINF:-1,EPIC CLASSICAL - Classical Sunrise
+https://0nlineradio.stream13.radiohost.de/classical-classical-sunrise?ref=radiofm&upd-meta=0&upd-scheme=https&_art=dD0xNzU3Mzc3NjEzJmQ9MTM4YTEyODI3NGJhZDE5YzQxZTQ
+#EXTINF:-1,Finest FM
+http://212.47.220.188:8000/
+#EXTINF:-1,Tre Raadio
+http://5.39.16.62:8004/?sid=1
+#EXTINF:-1,Kesk-Eesti Tre Raadio
+http://sc2.treraadio.ee:8004/
+#EXTINF:-1,Chat Raadio
+https://puma.streemlion.com:1830/stream
+#EXTINF:-1,Relax FM
+https://edge05.cdn.bitflip.ee:8888/relax?_i=143757b0
+#EXTINF:-1,Radio Aroma Del Cielo
+https://radio.playerfullhd.com/8108/stream
+#EXTINF:-1,NRJ Estonia
+https://edge03.cdn.bitflip.ee:8888/NRJ?_i=349ff7c2
+#EXTINF:-1,Sky Radio
+https://edge03.cdn.bitflip.ee:8888/SKY?_i=349ff7c2
+#EXTINF:-1,Radio Elmar
+https://le05.euddn.net/4594a97557c839d53e5a88348c133d177a87945ae0f4e3c11676a4b253a141c694876209aeced5b37bbe25a6e87daf3a3d6c52894f20a58f9b639872d04d70bbc9ad6fc1e8b1a57280970dee4ec96b0405e491dd66aeec6de8b698d9f31f94d45301be8816258348b78cce7647fa93f59197a5be19ef211349c35245068da3d921de09554ec8bdc33e84519a5e2c834f7fc5ce19deaccdf9c13faf20d4db6fbede131fa47493fded2c8d9ebf4527e075/elmar.aac
+#EXTINF:-1,Rock FM Eesti
+https://edge03.cdn.bitflip.ee:8888/rck?_i=349ff7c2
+#EXTINF:-1,Radio Gremial
+https://icecast.hostingbahia.com.ar:8038/live
+#EXTINF:-1,Retro FM Eesti
+https://edge03.cdn.bitflip.ee:8888/RETRO?_i=8018a1b4
+#EXTINF:-1,Raadio Sky Plus
+https://edge03.cdn.bitflip.ee:8888/SKYPLUS?_i=8018a1b4
+#EXTINF:-1,NRJ FM Estonia
+https://edge03.cdn.bitflip.ee:8888/NRJ?_i=8018a1b4
+#EXTINF:-1,Retro FM Love
+https://edge03.cdn.bitflip.ee:8888/RetroJ6ulud?_i=8018a1b4
+#EXTINF:-1,Retro FM Eestikas
+https://edge03.cdn.bitflip.ee:8888/retro2.mp3?_i=8018a1b4
+#EXTINF:-1,Sky Plus DnB
+https://edge03.cdn.bitflip.ee:8888/NRJdnb
+#EXTINF:-1,MyHits
+http://le03.euddn.net/5effa3d84d5190295428d1736cbb78c713849e8df0fe5c7b0bb1676c745bb20148cc35182ad87b4bdcd504ccd1feabeb2e421077ce61fa4caa1ba4dfc4e0a8db13548ccf621fdba1ebf87ad6a9e761037b25b4b2694d03517ec3ac189a62f71fdb1a5dc6a9d7d16925494217ab895cce3e975004ec8c72b0bbe260ad2a40db009ccc58b7833c6380b073906ab8e8afe176e2d203f33ed7677488bf86035cfd515bcacaec4f45a6d5b4ec7f9be9a84a0e/myhits.aac
+#EXTINF:-1,NRJ Tallinn
+https://edge03.cdn.bitflip.ee:8888/NRJ

@@ -1,0 +1,39 @@
+#EXTM3U
+#EXTINF:-1,I love Kpop
+https://streaming.brol.tech/rtfmlounge
+#EXTINF:-1,Arirang TV
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1,befm
+http://befm905.live.smilecdn.com:1935/befm905_live/live/playlist.m3u8
+#EXTINF:-1,Buddhist Broadcasting System TV
+http://bbstv.clouducs.com:1935/bbstv-live/livestream/playlist.m3u8
+#EXTINF:-1,EBS TV-2
+http://ebsonair.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
+#EXTINF:-1,EBS TV-e
+http://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
+#EXTINF:-1,http://211.221.46.79:1935/live/mp4:BusanMBC.Live-FM-0415/playlist.m3u8
+http://211.221.46.79:1935/live/mp4:BusanMBC.Live-FM-0415/playlist.m3u8
+#EXTINF:-1,Listen.moe (K-Pop)
+https://listen.moe/kpop/fallback
+#EXTINF:-1,Listen.moe Kpop
+https://listen.moe/kpop/stream
+#EXTINF:-1,MBC충북 FM4U
+http://211.33.246.4:32954/radio_fm/myStream.sdp/chunklist_w348337231.m3u8
+#EXTINF:-1,MBC충북 표준FM
+http://211.33.246.4:32954/radio_stfm/myStream.sdp/chunklist_w392819215.m3u8
+#EXTINF:-1,마포FM
+http://115.85.182.39/mapofm?type=.mp3
+#EXTINF:-1,Radio KM FM
+https://listen-kmfm.sharp-stream.com/kmfmdab.mp3
+#EXTINF:-1,Voice of Korea (Russian)
+https://listen4.myradio24.com/60315
+#EXTINF:-1,Radio Canal80
+https://audio-edge-w4d68.yul.o.radiomast.io/ac38fb2a-590d-45d0-9ee6-2a23eff4263d
+#EXTINF:-1,Soulnb Radio
+https://29093.live.streamtheworld.com/SOULRADIO_SC
+#EXTINF:-1,Pyongyang FM
+https://listen7.myradio24.com/69366
+#EXTINF:-1,KOREA LOVE RADIO MIAMI
+https://das-edge14-live365-dal02.cdnstream.com/a09466
+#EXTINF:-1,YAHWEH CHRISTIAN RADIO
+https://s3.radio.co/s22189b87c/low

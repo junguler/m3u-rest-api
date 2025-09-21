@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1,RADIO MARIA MACAU
+http://dreamsiteradiocp2.com:8038/stream
+#EXTINF:-1,澳門綠邨電台
+https://fm995.ddns.net/hls1/fm995.m3u8
+#EXTINF:-1,Radio New York Live Listen live
+https://streaming.radiostreamlive.com/radionylive_devices
+#EXTINF:-1,House Радио - RadioSpinner Listen live
+https://live.radiospinner.com/house-64
+#EXTINF:-1,140 Walcolm Listen live
+https://140-walcolm.stream.laut.fm/140-walcolm?t302=2025-09-17_22-42-53&uuid=209e7488-f42a-4d34-a764-475c00d7878c
+#EXTINF:-1,RADIO MARIA MACAU – Macao – Municipality of Macau – Macao
+http://dreamsiteradiocp2.com:8038/

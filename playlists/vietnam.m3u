@@ -1,0 +1,95 @@
+#EXTM3U
+#EXTINF:-1,Dieu AM Radio
+http://streamingp.shoutcast.com/JamendoLounge?lang=*
+#EXTINF:-1,Cà Mau TV
+http://tv.ctvcamau.vn/live/tv/tv.m3u8
+#EXTINF:-1,INTER FM
+http://stream.zeno.fm/1hbb9qbwszzuv.m3u
+#EXTINF:-1,Khanh Hoa Radio
+http://210.245.20.94/hls/radio.m3u8
+#EXTINF:-1,Khanh Hoa TV
+http://210.245.20.94/hls/ktv1.m3u8
+#EXTINF:-1,Kien Giang Radio
+https://tv.angiangtv.vn/live/kgaudio/kgaudio.m3u8
+#EXTINF:-1,Kien Giang TV
+https://tv.angiangtv.vn/live/kgtv/kgtv.m3u8
+#EXTINF:-1,Kien Giang TV-1
+https://tv.angiangtv.vn/live/kgtv1/kgtv1.m3u8
+#EXTINF:-1,Test Radio
+https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3
+#EXTINF:-1,Tien Giang Radio
+https://thdt.vn/
+#EXTINF:-1,VOH AM 610 Khz
+https://strm.voh.com.vn/radio/channel2/playlist.m3u8
+#EXTINF:-1,VOH FM 95.6 Mhz
+https://strm.voh.com.vn/radio/channel1/playlist.m3u8
+#EXTINF:-1,VOH FM 99.9 Mhz
+https://strm.voh.com.vn/radio/channel3/playlist.m3u8
+#EXTINF:-1,Quran in Vietnamese
+https://www.qurantranslations.net/sound/English/AbdulBaset_AbdulSamad/002.mp3?type=.mp3/stream.mp3
+#EXTINF:-1,VOH
+https://www.qurantranslations.net/sound/English/AbdulBaset_AbdulSamad/002.mp3?type=.mp3/;stream.mp3
+#EXTINF:-1,VOV 1
+https://str.vov.gov.vn/vovlive/vov1vov5Vietnamese.sdp_aac/playlist.m3u8
+#EXTINF:-1,VOV 2
+http://media.kythuatvov.vn:7003/;stream.nsv
+#EXTINF:-1,VOV 5 World 24/7 English
+https://stream.vovmedia.vn/vov247
+#EXTINF:-1,Hoa Binh TV
+http://hoabinhtvlive.746b3ddb.cdnviet.com/hoabinhtv/playlist.m3u8
+#EXTINF:-1,VOV2
+http://media.kythuatvov.vn:7003/;stream/
+#EXTINF:-1,VOV Giao Thông Hà Nội
+http://media.kythuatvov.vn:7025/;stream/
+#EXTINF:-1,VOV3
+http://media.kythuatvov.vn:7005/;stream/
+#EXTINF:-1,VOV1
+http://media.kythuatvov.vn:7001/;stream/
+#EXTINF:-1,VOVMedia - VOV Giao thông Hồ Chí Minh
+http://media.kythuatvov.vn:7023/;stream/
+#EXTINF:-1,VOVMedia - VOV5 Phát thanh đối ngoại
+http://media.kythuatvov.vn:7007/;stream/
+#EXTINF:-1,VOH 99.9 radio
+https://strm.voh.com.vn/radio/channel3/chunklist_w309271778.m3u8
+#EXTINF:-1,Scientific Sound Asia Radio
+http://carol.epichosts.co.uk:8270/live.mp3
+#EXTINF:-1,VOV 3
+https://str.vov.gov.vn/vovlive/vov3.sdp_aac/playlist.m3u8
+#EXTINF:-1,Gartenwelt Frey Listen live
+https://gartenweltfrey.stream.laut.fm/gartenweltfrey?t302=2025-09-17_23-17-34&uuid=16a388b2-7ba6-45e7-8a54-470291340d86
+#EXTINF:-1,VOV5 Ban Đối ngoại
+https://static.vovworld.vn/Uploaded/kimlan/2016_07_23/lan_het.mp3
+#EXTINF:-1,Zen Patriarch
+http://163.172.169.217/asp-s?lang=*
+#EXTINF:-1,VNFM
+http://www.abc.net.au/res/streaming/audio/aac/news_radio.pls
+#EXTINF:-1,RFI Tiếng Việt - 64 - Vietnam - news
+https://rfienvietnamien64k.ice.infomaniak.ch/rfienvietnamien-64.mp3
+#EXTINF:-1,RFI Vietnamese Radio
+https://rfivietnamien96k.ice.infomaniak.ch/rfivietnamien-96k.mp3
+#EXTINF:-1,VINA Vietnam Radio
+https://radioonlinelive.com/wp-content/uploads/2022/08/Radio-Online-live.mp3
+#EXTINF:-1,VOH FM Radio
+https://strm.voh.com.vn/radio/channel2/chunklist_w182917363.m3u8
+#EXTINF:-1,Saigon Television
+https://saigontivi.com/
+#EXTINF:-1,VOV1 Radio
+http://113.164.229.226:7001/stream
+#EXTINF:-1,VOH Radio
+https://strm.voh.com.vn/radio/channel2/chunklist_w290535666.m3u8
+#EXTINF:-1,VOH AM
+https://strm.voh.com.vn/radio/channel2/chunklist_w2147462479.m3u8
+#EXTINF:-1,VOVGT - TP Hồ Chí Minh
+https://str.vov.gov.vn/vovlive/vovGTHCM.sdp_aac/chunklist_w1213978008.m3u8
+#EXTINF:-1,VOV Giao Thông Hà Nội – Hanoi – Vietnam
+https://str.vov.gov.vn/vovlive/vovGTHN.sdp_aac/chunklist_w601606653.m3u8
+#EXTINF:-1,Đài PTTH Đồng Nai – Biên Hòa – Đồng Nai – Vietnam
+http://118.107.85.5:1935/radio/dongnai_aac/playlist.m3u8
+#EXTINF:-1,Đài PTTH Cà Mau – Cà Mau – Vietnam
+http://tv.ctvcamau.vn/live/radio/radio.m3u8
+#EXTINF:-1,Đài PTTH Cao Bằng – Thành Phố Cao Bằng – Cao Bằng – Vietnam
+http://118.107.85.4:1935/live/smil:CRTV.smil/playlist.m3u8
+#EXTINF:-1,Đài PTTH Lâm Đồng – Da Lat – Lâm Đồng – Vietnam
+http://118.107.85.4:1935/radio/lamdong_aac/chunklist_w1647434900.m3u8
+#EXTINF:-1,RFA (Radio Free Asia) ch.2 – Hanoi – Vietnam
+https://rfahls-i.akamaihd.net/hls/live/226233/RFALive_2/index.m3u8

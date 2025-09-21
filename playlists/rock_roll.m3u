@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:-1,50's Radio USA
+http://streamingp.shoutcast.com/JamendoLounge?lang=*
+#EXTINF:-1,FLORIDA ROCK RADIO
+#EXTINF:-1,http://www.radionomy.com/krazyboyradio
+#EXTINF:-1,KEWL REAL CLASSIC INTERNET RADIO... KEWL 98
+http://176.31.244.83:12684
+#EXTINF:-1,Love Brothers Band Radio
+http://68.126.192.95:8005/
+#EXTINF:-1,Radio de Vliegende Hollander AM 1467 kHz
+https://www.stream4you.nl:8000/stream
+#EXTINF:-1,Schlager und Oldieradio Olbersdorf
+https://sonic.radiostream.ca:8038/stream?lang=*
+#EXTINF:-1,Splinterwood Rock N Roll Radio
+http://31.3.245.162:8000

@@ -1,0 +1,49 @@
+#EXTM3U
+#EXTINF:-1,Gensokyo Radio (Europe)
+http://eu1.stream.gensokyoradio.net:8000/1
+#EXTINF:-1,Gensokyo Radio (Americas)
+http://na1.stream.gensokyoradio.net:8000/1
+#EXTINF:-1,CVGM.net - Oldschool Video Game And Demoscene Music
+https://free.rcast.net/256901
+#EXTINF:-1,SpriteLayer Video Game Radio
+https://spritelayerradio.com/listen/spritelayer_video_game_radio/all
+#EXTINF:-1,SpriteLayer Classic Video Game Radio
+https://spritelayerradio.com/listen/classic/classic.mp3
+#EXTINF:-1,Streaming Video Game Music Radio - Gamepad Music
+https://free.rcast.net/67517
+#EXTINF:-1,Radio PARALAX - Chiptune- & Videogame Remixes - DSL Stream
+https://free.rcast.net/1102
+#EXTINF:-1,Nerds and Geeks: THE STATION [nerdsandgeeks.de]
+http://nerdsandgeeks.de:2808/
+#EXTINF:-1,Classic Videogames RADIO
+http://195.201.9.210:1541/
+#EXTINF:-1,[CVGM.net] ChipTune,Amiga,Atari,GameBoy,Sega + More - All Request Music
+https://radio.cvgm.net:8080/
+#EXTINF:-1,Madnight Radio  - The best videogame soundtracks from the last 20+ years!
+http://51.38.93.128:8000
+#EXTINF:-1,AislingAlpha
+http://streamingp.shoutcast.com/JamendoLounge?lang=*
+#EXTINF:-1,Aperture Broadcasting
+http://radio.levelkro.net:8000/portal
+#EXTINF:-1,GameOver - Radio
+http://217.76.154.55:8000/GameOverRadio
+#EXTINF:-1,MhR - Anime & Games
+http://tedc.biz:8000
+#EXTINF:-1,Nerds and Geeks: THE STATION [nerdsandgeeks.d
+http://nerdsandgeeks.de:2808/stream/2/
+#EXTINF:-1,Radio PARALAX - 24h Playlist
+http://136.243.11.11:8000
+#EXTINF:-1,Game-tation
+https://game-tation.stream.laut.fm/game-tation
+#EXTINF:-1,Радио GamePlay - 8 bit
+http://c22.radioboss.fm:8144/GamePlay
+#EXTINF:-1,Radio Vibration
+https://vibration.ice.infomaniak.ch/vibration-high.mp3
+#EXTINF:-1,The Sounds of GTA | NTS
+https://stream-mixtape-geo.ntslive.net/mixtape33
+#EXTINF:-1,Game Tation laut fm
+https://game-tation.stream.laut.fm/game-tation?pl=m3u&t302=2023-05-10_13-18-31&uuid=ca7271b4-9767-43d6-b10f-4000cac91a43
+#EXTINF:-1,Gamepad Music - Streaming Video Game Music Radio
+http://69.162.124.26:8000/index.html?sid=1
+#EXTINF:-1,Gamepad Music
+http://centova.listenon.in:8000/index.html?sid=1

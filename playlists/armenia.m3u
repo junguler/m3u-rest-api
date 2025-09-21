@@ -1,0 +1,133 @@
+#EXTM3U
+#EXTINF:-1,R Rossii
+http://icecast.vgtrk.cdnvideo.ru/rrzonam_mp3_128kbps
+#EXTINF:-1,Radio Marshall
+http://eu.stream4cast.com:8030/stream
+#EXTINF:-1,Jammin IMusic AM
+https://radio.imusic.am/jammin.mp3
+#EXTINF:-1,Ethno IMusic AM
+https://radio.imusic.am/ethno.mp3
+#EXTINF:-1,Hit FM 107.4
+https://hitfm.hostingradio.ru/hitfm96.aacp
+#EXTINF:-1,Armenian Christian Radio - Bashde Radio
+https://streams.radio.co/sa0bf8ec29/listen?sid=1
+#EXTINF:-1,Fama
+http://eu.stream4cast.com:8036/stream/
+#EXTINF:-1,Luys TV Western Armenian TV
+http://luyse.mediatriple.net/luystv/luystv.smil/playlist.m3u8
+#EXTINF:-1,Radio Mariam Armenia
+http://dreamsiteradiocp.com:8056/stream
+#EXTINF:-1,Radio Jan 90.7 FM
+https://stream02.pcradio.biz/radio_jan_907-med
+#EXTINF:-1,MFM Music Radio
+https://stream02.pcradio.biz/mfm_am-med
+#EXTINF:-1,Lav Radio
+https://stream02.pcradio.biz/lav_radio_arm-med
+#EXTINF:-1,Lav Radio Mix
+https://stream02.pcradio.biz/lav_radio_mix-med
+#EXTINF:-1,Public radio of Armenia
+https://stream02.pcradio.biz/armradio_am-med
+#EXTINF:-1,Radio Fama
+https://stream02.pcradio.biz/radiofama_am-med
+#EXTINF:-1,Radio Marshall 103.5
+https://stream02.pcradio.biz/marshall_am-med
+#EXTINF:-1,Radio Van
+https://stream02.pcradio.biz/radiovan_fm-med
+#EXTINF:-1,Vem Radio 91.1 FM
+https://stream02.pcradio.biz/vem_am-med
+#EXTINF:-1,Radio XFM
+https://stream02.pcradio.biz/rad_xfmradarm-med
+#EXTINF:-1,Radio Aurora
+https://stream02.pcradio.biz/radioaurora_am-med
+#EXTINF:-1,Radio Hay FM
+https://stream02.pcradio.biz/rad_hyfmarm-med
+#EXTINF:-1,Armenian Gospel Radio
+https://s8.myradiostream.com:15554/listen.mp3?nocache=1757737360
+#EXTINF:-1,Radio Hay
+http://14678.cloudrad.io:9440/live
+#EXTINF:-1,Sputnik Armenian Արմենիա
+https://icecast-rian.cdnvideo.ru/voicearm1
+#EXTINF:-1,Радио Шансон
+http://eu.stream4cast.com:8070/stream
+#EXTINF:-1,Радио Шансон Армения
+https://chanson.hostingradio.ru:8041/chanson128.mp3
+#EXTINF:-1,FM 105.5
+http://14842.cloudrad.io:9536/live?ver=658784
+#EXTINF:-1,Сити-ФМ
+http://14678.cloudrad.io:9440/live?ver=684682
+#EXTINF:-1,IMusic.am-jammin radio
+https://s8.myradiostream.com:15554/listen.mp3?nocache=1756711884
+#EXTINF:-1,Радио Шансон radio
+http://eu.stream4cast.com:8070/stream.mp3
+#EXTINF:-1,FM 105.5 radio
+http://14842.cloudrad.io:9536/live
+#EXTINF:-1,Radio XFM radio
+http://eu.stream4cast.com:8050/stream
+#EXTINF:-1,Radio Fama, Yerevan radio
+http://eu.stream4cast.com:8036/stream/?
+#EXTINF:-1,Radio Marshall radio
+http://eu.stream4cast.com:8030/stream.mp3
+#EXTINF:-1,Classic IMusic AM
+https://radio.imusic.am/classic.mp3
+#EXTINF:-1,La UFM Estereo
+http://c11.radioboss.fm:8054/stream
+#EXTINF:-1,Activist Radio
+http://216.55.165.146:8000/PRNaudio.mp3?hash=1579164785294
+#EXTINF:-1,Radio Mayak Armenia
+http://icecast.vgtrk.cdnvideo.ru/mayakfm_mp3_128kbps
+#EXTINF:-1,Fusion IMusic AM
+https://radio.imusic.am/fusion.mp3
+#EXTINF:-1,La Voz del Cafe
+https://server2.ejeserver.com:8224/stream?1591859730546
+#EXTINF:-1,Radio Avol
+http://64.150.176.42:8045/stream?DIST=tradio&TGT=tradio&maxServers=2&partnertok=eyJhbGciOiJIUzI1NiIsImtpZCI6InR1bmVpbiIsInR5cCI6IkpXVCJ9.eyJ0cnVzdGVkX3BhcnRuZXIiOnRydWUsImlhdCI6MTYyODkxODQ0MCwiaXNzIjoidGlzcnYifQ.yMks4VSVK3CgnfrOtPLpfM6EnFNu6iuwRKp51doWzwU
+#EXTINF:-1,Radio Mayak
+http://icecast.vgtrk.cdnvideo.ru/mayakfm
+#EXTINF:-1,Радио России
+http://icecast.vgtrk.cdnvideo.ru/rrzonam
+#EXTINF:-1,Armenian Christian Radio  Bashde Radio
+https://s8.myradiostream.com:15554/listen.mp3?nocache=1758387063
+#EXTINF:-1,Radio Armenia
+http://direct.radioarmenie.com:9029/stream
+#EXTINF:-1,Armenian Gospel Radio Listen live
+https://s8.myradiostream.com:15554/listen.mp3?nocache=1758146046
+#EXTINF:-1,Buddy Radio - บัดดี้เรดิโอ 104.5 MHz Listen live
+https://apps4.mcot.net/stream579.aac
+#EXTINF:-1,Exclusively George Jones Listen live
+https://2.mystreaming.net/er/georgejones/icecast.audio
+#EXTINF:-1,DJ-Marcel Listen live
+https://djmarcel.stream.laut.fm/djmarcel?t302=2025-09-17_21-54-07&uuid=814d7d8b-8640-47e3-b380-67eb45a85db4
+#EXTINF:-1,Авторадио
+https://pub0102.101.ru:8443/stream/air/mp3/256/100
+#EXTINF:-1,IMusic.am-fusion
+https://radio.imusic.am/fusion.mp3?1596641052
+#EXTINF:-1,IMusic.am-Ethno
+http:/streaming.radio.co/sb64369622/listen
+#EXTINF:-1,WOLR
+https://streaming.brol.tech/rtfmlounge
+#EXTINF:-1,Armenian Christian Radio – Bashde Radio
+https://s8.myradiostream.com:15554/listen.mp3?nocache=1758244733
+#EXTINF:-1,Tropicana FM
+https://19213.live.streamtheworld.com/TROPICANAAAC.aac
+#EXTINF:-1,Sputnik Armenia
+http://14842.cloudrad.io:9536/live?ver=96840
+#EXTINF:-1,Europa plus
+http://europaplus.hostingradio.ru:8014/europaplus320.mp3
+#EXTINF:-1,FM 105.5 Yerevan
+http://164.132.169.60:8000/stream
+#EXTINF:-1,Radio Rossii (Радио России) – 1566 AM – Yerevan – AM
+http://icecast.vgtrk.cdnvideo.ru/rrzonam_mp3_192kbps
+#EXTINF:-1,Radio Mariam Armenia (Radio Maria) – Yerevan – AM
+http://dreamsiteradiocp.com:8056/
+#EXTINF:-1,Armenian Bible Study Radio – AM
+http://sc7.mystreamserver.com:8036/
+#EXTINF:-1,Armenian Gospel Radio – AM
+https://s8.myradiostream.com:15554/listen.mp3?nocache=1757701407
+#EXTINF:-1,Lav Radio - Armenian Radio
+http://eu.stream4cast.com:8000/stream
+#EXTINF:-1,Lav Radio Mix - Armenian Radio
+http://eu.stream4cast.com:8006/stream
+#EXTINF:-1,Radio Aurora 100.7 FM
+http://138.201.84.106:8050/
+#EXTINF:-1,LOVE RADIO
+https://loveradio.streamingmedia.it/play

@@ -1,0 +1,69 @@
+#EXTM3U
+#EXTINF:-1,KRPG 89.3 FM Public Radio Guam
+http://peridot.streamguys.com:5090/live
+#EXTINF:-1,KUAM-AM 630 "Isla 63" Hagatna
+http://www.ophanim.net:9010/
+#EXTINF:-1,The Breeze 93.9 FM
+https://www.ophanim.net:8444/s/8370
+#EXTINF:-1,BOSS 104.3 FM
+https://ice10.securenetsystems.net/KIJI
+#EXTINF:-1,STAR 101 FM
+https://ice9.securenetsystems.net/KNUT
+#EXTINF:-1,Joy FM
+https://ice5.securenetsystems.net/JOYFM
+#EXTINF:-1,Isla 63 - KUAM
+https://www.ophanim.net:8444/s/9010
+#EXTINF:-1,guam line in brazil
+https://stream1.svrdedicado.org/8368/stream
+#EXTINF:-1,Power 98
+https://ice3.securenetsystems.net/KZGZ
+#EXTINF:-1,The Kat - KGUM-FM
+https://ice2.securenetsystems.net/KGUMFM
+#EXTINF:-1,KUAM-AM 630 &quot;Isla 63&quot; Hagatna
+http://www.ophanim.net:9010/;
+#EXTINF:-1,KUSG
+https://ice10.securenetsystems.net/KUSG
+#EXTINF:-1,KUAM Isla 63 AM
+http://www.ophanim.net:9010/stream
+#EXTINF:-1,Radio The Shark radio
+https://streamdb7web.securenetsystems.net/v5/KRSI
+#EXTINF:-1,Joy FM 91.9 radio
+https://streamdb9web.securenetsystems.net/cirrusencore/JOYFM
+#EXTINF:-1,The Kat
+http://ice2.securenetsystems.net/KGUMFM
+#EXTINF:-1,KIJI
+http://ice10.securenetsystems.net/KIJI
+#EXTINF:-1,The Point
+http://ice10.securenetsystems.net/KUSG
+#EXTINF:-1,Isla 63  KUAM
+http://www.ophanim.net:9010/stream/
+#EXTINF:-1,105.1 The Kat FM Listen live
+https://ice2.securenetsystems.net/KGUMFM?ver=795388
+#EXTINF:-1,Positively Gold Listen live
+https://streaming.positivity.radio/pr/posigold/icecast.audio
+#EXTINF:-1,Exclusively Frank Sinatra Listen live
+https://2.mystreaming.net/er/franksinatra/icecast.audio
+#EXTINF:-1,One Fm - Scène française Listen live
+https://webradio0002.ice.infomaniak.ch/webradio0005-128.mp3
+#EXTINF:-1,GTM Radio Listen live
+https://sonic01.instainternet.com/8314/server
+#EXTINF:-1,Positively 1990’s Listen live
+https://streaming.positivity.radio/pr/posi90s/icecast.audio
+#EXTINF:-1,KUAM i94-FM
+http://www.ophanim.net:8370/stream.mp3
+#EXTINF:-1,KGUM 105.1 KAT-FM
+https://ice3.securenetsystems.net/KGUMFM?playSessionID=DF2D48FD-774B-49EB-BF63F48651DD15BF
+#EXTINF:-1,i94-FM
+http://www.ophanim.net:8370/stream
+#EXTINF:-1,Harvest Family Radio Guam - 128 - Guam -
+https://provisioning.streamtheworld.com/pls/KGUAMAAC.pls
+#EXTINF:-1,TFC Guam - 1872 - Guam - filipino
+https://tfcguam-abscbn-ono.amagi.tv/index.m3u8
+#EXTINF:-1,Boss 104.3 - KIJI
+http://ice10.securenetsystems.net:80/KIJI
+#EXTINF:-1,Power 98 - KZGZ
+http://ice3.securenetsystems.net:80/KZGZ
+#EXTINF:-1,Star 101 FM - KNUT
+http://ice9.securenetsystems.net/KNUT
+#EXTINF:-1,KKMP – K221EF
+http://s2.yesstreaming.net:7208/stream/

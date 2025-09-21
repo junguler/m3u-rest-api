@@ -1,4 +1,20 @@
 #EXTM3U
+#EXTINF:-1,PsyRadio Chillout
+http://streamer.psyradio.org:8020/
+#EXTINF:-1,Radio Beat Romania
+http://radiobeat.ro:8100/
+#EXTINF:-1,Radio Mega Dance
+http://live3.livemus.com.br:7002/
+#EXTINF:-1,70vibe FM
+https://443-1.autopo.st/103/
+#EXTINF:-1,TopClub
+http://streamingp.shoutcast.com/JamendoLounge?lang=*
+#EXTINF:-1,Jenny FM
+http://stream2.jenny.fm:9000/
+#EXTINF:-1,The Trip
+http://ice.somafm.com/thetrip
+#EXTINF:-1,PsyRadio Progressive
+http://streamer.psyradio.org:8010/
 #EXTINF:-1,Tracksaudio.com - Chill House Music
 https://radiospromo.com/listen/tracksaudio.com_-_chill_house_music/radio.mp3
 #EXTINF:-1,house station live. enjoylife.
@@ -27,3 +43,439 @@ http://ec2.yesstreaming.net:4500/stream
 https://listen.progzilla.com/listen/progzilla/radio.mp3
 #EXTINF:-1,PsyStream
 https://radio.psymusic.co.uk/listen/psystream/hifi.mp3
+#EXTINF:-1,Dance Attack FM - The Best EDM
+http://uk4.internet-radio.com:8049/stream
+#EXTINF:-1,psyradio * fm - progressive
+http://komplex2.psyradio.org:8010/stream
+#EXTINF:-1,Psyndora Psytrance
+http://cast.magicstreams.gr:9111/stream
+#EXTINF:-1,Hirschmilch Progressive
+http://144.76.106.52:7000/progressive.aac
+#EXTINF:-1,House Music Radio uk
+http://uk4-vn.mixstream.net:8128/
+#EXTINF:-1,The Musical Box Radio
+http://tmbradio.radioca.st:9740/stream
+#EXTINF:-1,Radio Londra Italia
+http://79.143.187.96:8000/rmin.mp3
+#EXTINF:-1,Trancetechnique UK Radio - Finest Trance Music 24.7
+http://s11.ssl-stream.com:8034/stream
+#EXTINF:-1,Prog Frog
+http://eagle.streemlion.com:4040/stream
+#EXTINF:-1,Progulus - Online Progressive Rock Radio
+http://149.56.234.138:8063/stream
+#EXTINF:-1,Babaganousha Radio
+http://188.68.42.236:8000/psytrance
+#EXTINF:-1,Progressive & Tech-house on MixLive.ie
+http://2.58.194.54:8870/stream
+#EXTINF:-1,Open-Stage Project on MixLive.ie
+http://2.58.194.54:8864/stream
+#EXTINF:-1,EVENTBE RADIO - 100% CLUBBING - ENJOY & DANCE !
+http://cosmo.shoutca.st:8065/stream
+#EXTINF:-1,bluffphonica
+http://bluffphonica.stream.laut.fm/bluffphonica
+#EXTINF:-1,club backnang
+http://club-backnang.stream.laut.fm/club-backnang
+#EXTINF:-1,boombarradio
+http://boombarradio.stream.laut.fm/boombarradio
+#EXTINF:-1,clubnight
+http://clubnight.stream.laut.fm/clubnight
+#EXTINF:-1,DJsRadioUS
+https://das-edge17-live365-dal02.cdnstream.com/a09149
+#EXTINF:-1,MRR Manitu Rock Radio
+https://radio.streemlion.com:4515/stream
+#EXTINF:-1,Radio AlternativeMusic.com
+https://das-edge17-live365-dal02.cdnstream.com/a36402
+#EXTINF:-1,House Zone | Radio Contact Italy
+https://italiastyle.stream.laut.fm/italiastyle?t302=2025-09-07_02-52-34&uuid=f3a10500-e902-47c9-a703-942d7afcb8af
+#EXTINF:-1,The Progressive Rock Machine
+https://theproganrockmachine.out.airtime.pro/theproganrockmachine_b
+#EXTINF:-1,Prog Palace Radio
+https://cheetah.streemlion.com:4775/stream
+#EXTINF:-1,Viper-Oceania Sound Revolution
+https://vipersoundrevolution.radioca.st/viper-oceania-sound-revolution.fm
+#EXTINF:-1,Progressive Rock AZUSA
+https://das-edge17-live365-dal02.cdnstream.com/a38225
+#EXTINF:-1,Frisco Roadhouse
+https://das-edge09-live365-dal03.cdnstream.com/a98590
+#EXTINF:-1,5IK Beats Radio
+https://das-edge11-live365-dal03.cdnstream.com/a74720
+#EXTINF:-1,WAKI
+https://das-edge11-live365-dal03.cdnstream.com/a54570
+#EXTINF:-1,CHANNEL 44000
+https://das-edge09-live365-dal03.cdnstream.com/a82630
+#EXTINF:-1,ALASKA BIRDSONG MUSIC
+https://das-edge09-live365-dal03.cdnstream.com/a94615
+#EXTINF:-1,Real Rock WBER
+https://das-edge16-live365-dal02.cdnstream.com/a49361
+#EXTINF:-1,JAMZ 98.1
+https://das-edge09-live365-dal03.cdnstream.com/a12307
+#EXTINF:-1,Party107
+https://das-edge09-live365-dal03.cdnstream.com/a98869
+#EXTINF:-1,Ozcat Radio
+https://das-edge09-live365-dal03.cdnstream.com/a45987
+#EXTINF:-1,Black Swan Radio
+https://das-edge09-live365-dal03.cdnstream.com/a83365
+#EXTINF:-1,Hirschmilch Psytrance
+http://hirschmilch.de:7000/psytrance.aac
+#EXTINF:-1,JC Radio la Bruja
+https://streamingecuador.net:7010/stream
+#EXTINF:-1,KEXXX FM Kiev
+https://listen6.myradio24.com/5390
+#EXTINF:-1,Progressive  Techhouse on MixLiveie
+https://strw3.openstream.co/939?aw_0_1st.collectionid%3D6520%26stationId%3D6520%26publisherId%3D963%26k%3D1758392424
+#EXTINF:-1,Pure Radio Holland  The Underground Channel
+https://streamproxy.underground.pureradio.eu/high
+#EXTINF:-1,Radio Schallgrenzen
+https://schallgrenzen.stream.laut.fm/schallgrenzen?
+#EXTINF:-1,Telecaster
+https://telecaster.stream.laut.fm/telecaster
+#EXTINF:-1,Wuerzblog Radio
+https://wuerzblog.stream.laut.fm/wuerzblog?t302=2025-09-20_18-20-25&uuid=d5e5edf9-21cb-4dde-a7f9-2c12c69d6269
+#EXTINF:-1,nochnoj-megapolis
+https://listen2.myradio24.com/meganight
+#EXTINF:-1,Cool Dance Radio
+http://94.228.133.5:8360/
+#EXTINF:-1,ERS Early Rock Show Radio
+http://65.108.124.70:8343/stream
+#EXTINF:-1,Hirschmilch Prog-House
+http://144.76.106.52:7000/prog-house.aac
+#EXTINF:-1,Lugaradio
+http://91.200.41.23:8000
+#EXTINF:-1,metal rod
+http://65.109.32.21:8010/stream
+#EXTINF:-1,Radio Mare Imperiale News
+http://79.143.187.96:8000/rmin2.mp3
+#EXTINF:-1,WNHN 94.7 FM
+https://seahorse.juststreamwith.us:8008/stream
+#EXTINF:-1,Shangrla
+http://stream18.shoutcastsolutions.com:8324/
+#EXTINF:-1,Veterans Radio Net
+https://radio.supremestreaming.net/8008/stream
+#EXTINF:-1,KEXXX FM
+https://listen6.myradio24.com/82192
+#EXTINF:-1,Technobase FM
+http://listener3.mp3.tb-group.fm/tb.mp3
+#EXTINF:-1,Megapolis Night Radio Channel - Ночной Мегаполис
+https://a4.radioheart.ru:9042/MegaNightRadio?f5c8185
+#EXTINF:-1,Wuerzblog
+https://wuerzblog.stream.laut.fm/wuerzblog?t302=2025-09-12_03-20-57&uuid=8fcaef6f-b6bc-41ab-8357-520d52ac1c5b
+#EXTINF:-1,Rádio Só Kakarecos Classic Rock
+http://sokakarecos.ddns.net:9030/rock128
+#EXTINF:-1,Stellar Attraction
+http://level5technologysolutions.net:8000/stream
+#EXTINF:-1,1 4 1 Progressive - 128 - Germany - progressive rock - rock
+http://stream.laut.fm/1-4-1-progressive.m3u
+#EXTINF:-1,Lightness of Rock - 0 - Brazil - blues - folk - progressive rock - psychedelic rock
+https://progressive.ozelip.com/7670/stream
+#EXTINF:-1,MixLive.ie - Progressive -  Tech House - 192 - Ireland - progressive house - tech house
+http://2.58.194.54:8870/;progressive-tech
+#EXTINF:-1,Progressive Trance Mix - 128 - Germany - progressive - trance
+https://progressive-trance-mix.stream.laut.fm/progressive-trance-mix?t302=2025-09-10_18-22-32&uuid=3a7fe19f-041b-403e-8a3d-3c6a00b1ba49
+#EXTINF:-1,ProgressiveMusic - 128 - Germany - alternative rock - metal - progressive metal - progressive rock
+http://progressivemusic.stream.laut.fm/progressivemusic?t302=2025-09-10_18-22-32&uuid=9c238a2d-1092-4db1-8dbd-d552e4a6e9de
+#EXTINF:-1,RADCAP: PROGRESSIVE ROCK - 320 - The Russian Federation - progressive rock
+http://79.111.119.111:8000/progressiverock
+#EXTINF:-1,RadiOzora - 192 - Hungary - darkpsy - full-on - ozora - progressive psytrance - psychedelic - psytrance - trance
+http://rautemusik.stream38.radiohost.de/techhouse?upd-meta&upd-scheme=http&_art=dD0xNzU3NTI4ODUzJmQ9ZjZlNzRiZjBhYjRlMGM4YTQ0Nzk
+#EXTINF:-1,RauteMusik Progressive | AAC 48 kbps - 47 - Germany - 48 kbps - progressive
+https://rautemusik.stream38.radiohost.de/techhouse_aacp?upd-meta&upd-scheme=https&_art=dD0xNzU3NTI4ODUzJmQ9OGRhNWYxNGMxZTUzMzNmMjkwZDk
+#EXTINF:-1,A State Of Trance
+http://138.201.252.25/trance
+#EXTINF:-1,After Hours FM
+https://nl.ah.fm/live
+#EXTINF:-1,Exclusively Moody Blues – HITS
+https://nl4.mystreaming.net/er/moodyblueshits/icecast.audio
+#EXTINF:-1,Fresh Radio USA
+https://s2.radio.co/see52d8809/listen
+#EXTINF:-1,Goa Base Radio
+http://goa-base.stream.laut.fm/goa-base
+#EXTINF:-1,Hard FM Radio
+https://s5.radio.co/s69e02764f/listen
+#EXTINF:-1,KSLC FM
+https://allclassical-ice.streamguys.com/ac96kmp3
+#EXTINF:-1,Liquid Funk Radio
+https://pub0302.101.ru:8000/stream/pro/aac/64/272
+#EXTINF:-1,Luga Radio
+http://91.200.41.23:8000/
+#EXTINF:-1,Miami Global Radio
+https://live.miamiglobalradio.com/radio/8000/radio.mp3
+#EXTINF:-1,Progspectaculum
+https://progspectaculum.stream.laut.fm/progspectaculum?t302=2025-09-14_21-52-32&uuid=212946c7-d9a5-42c9-a0e0-b28142937229
+#EXTINF:-1,Sense FM
+http://streaming.evolucionstreaming.com:8118/stream
+#EXTINF:-1,Star FM 104.0 FM
+https://23153.live.streamtheworld.com/STARFM_AAC48.aac
+#EXTINF:-1,Trance Is Star Radio
+https://listen7.myradio24.com/tisradio
+#EXTINF:-1,HBR1 - I.D.M. Tranceponder
+https://free.rcast.net/259998
+#EXTINF:-1,Progressive Voices
+https://tunein.cdnstream1.com/3549_128.mp3
+#EXTINF:-1,Teknival Radio
+https://free.rcast.net/258263
+#EXTINF:-1,Default Stream
+https://free.rcast.net/250284
+#EXTINF:-1,PARTY VIBE RADIO : PSYCHEDELIC TRANCE + PROGRESSIVE + GOA
+https://free.rcast.net/249701
+#EXTINF:-1,RegulatedBeats.com Progressive Channel
+https://free.rcast.net/247940
+#EXTINF:-1,PARTY VIBE RADIO : PROGRESSIVE PSYTRANCE
+https://free.rcast.net/247939
+#EXTINF:-1,Real 92.3
+https://stream.revma.ihrhls.com/zc181
+#EXTINF:-1,bigFM EDM Progressive
+https://free.rcast.net/238939
+#EXTINF:-1,SECTOR | Progressive channel
+https://free.rcast.net/233188
+#EXTINF:-1,RadioDeepa.Net Progressive
+https://free.rcast.net/213855
+#EXTINF:-1,Air Progressive
+https://free.rcast.net/205409
+#EXTINF:-1,The Nicole Sandler Show/Progressive Voices
+https://free.rcast.net/15360
+#EXTINF:-1,MOROW - THE BEST PROGRESSIVE ROCK OF YESTERDAY AND TODAY
+https://free.rcast.net/19
+#EXTINF:-1,Nautic Radio - Technomania - electro,progressive,deephouse,techhouse,minimal,techno,acid,schranz
+https://free.rcast.net/4414
+#EXTINF:-1,PsyStation - Progressive Dark Psy Trance
+https://free.rcast.net/16967
+#EXTINF:-1,PsyStation - Progressive Psy Trance
+https://free.rcast.net/8349
+#EXTINF:-1,True Progressive Radio
+https://free.rcast.net/12275
+#EXTINF:-1,edm1.fm - Progression - 24/7 club mix of underground Progressive and Deep Techno
+https://free.rcast.net/12532
+#EXTINF:-1,Progressive & Tech-house on MixLive.net
+https://strw3.openstream.co/939?aw_0_1st.collectionid%3D6520%26stationId%3D6520%26publisherId%3D963%26k%3D1757318059
+#EXTINF:-1,1.FM - BOM Psytrance
+http://185.33.21.112:80/psytrance_64
+#EXTINF:-1,Labgate Radio P.Y.G.
+http://s2.ssl-stream.com:8160/radio.mp3
+#EXTINF:-1,Labgate Radio Progressive Rock
+http://s2.ssl-stream.com:8180/radio.mp3
+#EXTINF:-1,Album Rock WXYG - WXYG
+http://ice5.securenetsystems.net/WXYG
+#EXTINF:-1,Acid Flashback
+http://canada1.reliastream.com:9023/stream
+#EXTINF:-1,America's Pure Rock - PureRock.US
+http://148.251.92.113:8524/stream/
+#EXTINF:-1,Radio Pro-B
+http://live.radioprob.ro:8888/stream
+#EXTINF:-1,Radio Gong
+http://edge11.streamonkey.net/fhn-gong971?aggregator=streema
+#EXTINF:-1,PBS-FM
+http://23153.live.streamtheworld.com/3PBS_FMAAC.aac
+#EXTINF:-1,Fm Villa Santa Rosa
+http://server3.veemesoft.com.ar:26425/stream/
+#EXTINF:-1,Ультра
+http://main.hostingradio.ru:80/ultra-192.mp3
+#EXTINF:-1,WURD Radio - WURD
+http://wurd.streamguys1.com/live
+#EXTINF:-1,Pidi Radio
+https://eu-stream.pidiradio.nl/listen/pidi-radio/radio.mp3
+#EXTINF:-1,99 Plus KFMH
+http://16643.live.streamtheworld.com/KFMH_99_PLUS.mp3
+#EXTINF:-1,1.FM - BOM Psytrance Radio
+http://strm112.1.fm/psytrance_mobile_mp3
+#EXTINF:-1,Radio34 Montpellier
+http://eu.publicssl.net:7014/
+#EXTINF:-1,101.RU - Ambient
+http://pub0101.101.ru:8000/stream/pro/aac/64/23
+#EXTINF:-1,101.RU - Pink Floyd
+http://pub0302.101.ru:8000/stream/pro/aac/64/53
+#EXTINF:-1,prog_fm
+https://progfm.stream.laut.fm/prog_fm?t302=2025-09-06_17-48-38&uuid=5aab9d74-5819-4462-adca-875ac693b698
+#EXTINF:-1,Rock Antenne - Melodic Rock
+http://s10-webradio.rockantenne.de/melodic-rock
+#EXTINF:-1,Enroks Radio
+http://s10.myradiostream.com:35976/
+#EXTINF:-1,Ibiza Underground Radio
+http://iur.radioca.st:8060/stream/
+#EXTINF:-1,Exclusively Pink Floyd
+http://streaming.exclusive.radio/er/pinkfloyd/icecast.audio
+#EXTINF:-1,Viva FM
+http://176.31.120.166:8742/
+#EXTINF:-1,100.5 The New Sound Of Country - WBLE
+https://ice41.securenetsystems.net:80/WBLE
+#EXTINF:-1,IMER - Órbita 106.7 - XHUAR
+http://s2.mexside.net:8044/stream/
+#EXTINF:-1,Radio Würzblog
+http://wuerzblog.stream.laut.fm/wuerzblog?pl=m3u&ampt302=2023-04-14_16-42-22&ampuuid=4292976b-b340-43dc-b50b-b7641a028efc
+#EXTINF:-1,Krautrock-World
+http://krautrockworld.stream.laut.fm/krautrockworld?t302=2025-09-06_17-48-44&uuid=d0e27ade-36c2-4d14-8e3a-2f4806bb687f
+#EXTINF:-1,SpaceFM Romania
+https://spacefm.live/radio/8000/spacefm128
+#EXTINF:-1,VanTol & Breet Academie Radio
+http://mediaserv73.live-streams.nl:8085/stream
+#EXTINF:-1,Jenny.FM
+http://stream1.jenny.fm:9000
+#EXTINF:-1,Prog Rock
+http://pavo.prostreaming.net:8012/stream
+#EXTINF:-1,101.RU - Progressive
+https://pub0202.101.ru:8443/stream/trust/mp3/128/13
+#EXTINF:-1,KFMG-LP
+http://18.220.54.199:8004/
+#EXTINF:-1,Radio Itaipu FM
+http://srv2.braudio.com.br:7314/
+#EXTINF:-1,Netroots Radio
+http://157.245.168.234:8000/stream
+#EXTINF:-1,Radio EldoPop
+http://stm10.conectastm.com:34794/
+#EXTINF:-1,Live And Loud Radio
+http://kea.cdnstream.com/1836_192
+#EXTINF:-1,Radio Totaal
+http://lstn.pabenelux.com/listen/radio_totaal/radiototaal.mp3
+#EXTINF:-1,101.RU - Deep Purple
+https://pub0302.101.ru:8000/stream/pro/aac/64/125
+#EXTINF:-1,NWKX
+http://195.166.151.210:8002/
+#EXTINF:-1,Gin and Juice
+http://hyades.shoutca.st:9095/stream
+#EXTINF:-1,ISKC Radio Group - ISKC Only Live
+http://mediaserv68.live-streams.nl:8012/OnlyLive
+#EXTINF:-1,Melodic Radio
+http://5.44.105.72:11911/
+#EXTINF:-1,eargasmUSA
+http://das-edge12-live365-dal02.cdnstream.com/a56858
+#EXTINF:-1,ProgZilla.com
+http://station.progzilla.com:8000/live
+#EXTINF:-1,Flaming 89
+http://das-edge13-live365-dal02.cdnstream.com/a92005
+#EXTINF:-1,Fantastic4Radio
+http://cast.streams.ovh:9145/stream
+#EXTINF:-1,Sunshine Live - Mayday
+https://sunsl.streamabc.net/sunsl-mayday-mp3-192-8059120?sABC=68op7402%230%23970r79qq616ss31r1p27s800o7704rs0%23fgernz.fhafuvar-yvir.qr&aw_0_1st.playerid=stream.sunshine-live.de&amsparams=playerid:stream.sunshine-live.de;skey:1757180930
+#EXTINF:-1,bigFM - EDM & Progressive
+https://audiotainment-sw.streamabc.net/atsw-edm-aac-128-5102478?sABC=68op7404%230%23970r79qq616ss31r1p27s800o7704rs0%23gjy&aw_0_1st.playerid=twl&amsparams=playerid:twl;skey:1757180932
+#EXTINF:-1,JEMP Radio
+https://streaming.radio.co/sd71de59b3/listen
+#EXTINF:-1,Wave 80 - Radio Khatru
+http://jenny.torontocast.com:9006/stream/
+#EXTINF:-1,Радио Ангелов
+http://channel.angelsradio.ru:9000/angels
+#EXTINF:-1,Further Rock Radio
+https://das-edge13-live365-dal02.cdnstream.com/a81821
+#EXTINF:-1,Moogitz
+http://stream.radio.co/sb8d0595e0/listen
+#EXTINF:-1,Get Ready to ROCK! Radio
+http://streamer.radio.co/s24ae1285c/listen
+#EXTINF:-1,Retro Album Rock
+https://das-edge13-live365-dal02.cdnstream.com/a89824
+#EXTINF:-1,Atlanta New Thought Radio
+http://streams.radio.co/sef4f89866/listen
+#EXTINF:-1,T'dad Radio
+http://das-edge15-live365-dal02.cdnstream.com/a86294
+#EXTINF:-1,ISKC Radio Group - ISKC Rock Radio XXL
+http://mediaserv68.live-streams.nl:8012/XXL/
+#EXTINF:-1,Progwave Radio - Rushwave 2112 Radio
+http://eu9.fastcast4u.com:5178/stream
+#EXTINF:-1,AmericaOne Radio
+http://ais-sa2.cdnstream1.com/2454_128.mp3
+#EXTINF:-1,PMBRock Radio
+http://das-edge13-live365-dal02.cdnstream.com/a63016
+#EXTINF:-1,Neighborhood News Radio Network
+http://mira.streamerr.co/radio/8150/radio.mp3
+#EXTINF:-1,Click Your Radio - CYR Classic Rock & Blues
+http://kathy.torontocast.com:3840/stream
+#EXTINF:-1,Globule Radio
+http://905.ice.infomaniak.ch/905-128.mp3
+#EXTINF:-1,PPK.FM
+http://c32.radioboss.fm:8193/autodj
+#EXTINF:-1,Manitu Rock Radio (MRR)
+http://radio.streemlion.com:4510/stream
+#EXTINF:-1,MixLive.ie - Trance Illusion
+http://2.58.194.54:9546/stream/
+#EXTINF:-1,Hardware Radio
+http://hardware.stream.laut.fm/hardware?t302=2025-09-06_17-48-55&uuid=29c764d0-6899-4a8d-b148-5efc91e5b951
+#EXTINF:-1,ProgCharts Radio
+http://s4.radio.co/s1e0b382a0/listen
+#EXTINF:-1,1-4-1 Progressive
+http://1-4-1-progressive.stream.laut.fm/1-4-1-progressive?t302=2025-09-06_17-48-55&uuid=ae786b95-aadf-4352-b03d-de2ff62aca49
+#EXTINF:-1,Vagalume.FM - Rock - Das Raízes ao Progressivo
+https://stream.vagalume.fm/hls/1475867272151401/aac.m3u8
+#EXTINF:-1,Radio Wattwerker
+http://wattwerker.stream.laut.fm/wattwerker?t302=2025-09-06_17-48-57&uuid=48920fff-15c4-4e75-9934-bb1d0bf5f9d6
+#EXTINF:-1,Radio Wattwerker - Krautrocker
+https://krautrocker.stream.laut.fm/krautrocker?t302=2025-09-06_17-48-57&uuid=ce2b3d34-26ba-4967-8bb4-dafe8ce864c2
+#EXTINF:-1,Radio Wattwerker - Oldinn Resort
+https://oldinn-resort.stream.laut.fm/oldinn-resort?t302=2025-09-06_17-48-57&uuid=d057428e-c1b4-40bc-a31e-e1b088887bd9
+#EXTINF:-1,Radio Gordo
+http://radiogordo.out.airtime.pro:8000/radiogordo_a
+#EXTINF:-1,Exclusively Phil Collins
+https://nl4.mystreaming.net/er/philcollins/icecast.audio
+#EXTINF:-1,Exclusively The Moody Blues
+https://nl4.mystreaming.net/er/moodyblues/icecast.audio
+#EXTINF:-1,Exclusively Electric Light Orchestra
+https://nl4.mystreaming.net/er/elo/icecast.audio
+#EXTINF:-1,Exclusively Genesis
+https://nl4.mystreaming.net/er/genesis/icecast.audio
+#EXTINF:-1,Exclusively Emerson, Lake & Palmer
+https://nl4.mystreaming.net/er/emersonlakepalmer/icecast.audio
+#EXTINF:-1,Exclusively Curtis Mayfield
+https://nl4.mystreaming.net/er/curtismayfield/icecast.audio
+#EXTINF:-1,Exclusively Al Green
+https://nl4.mystreaming.net/er/algreen/icecast.audio
+#EXTINF:-1,Exclusively Stevie Wonder
+https://nl4.mystreaming.net/er/steviewonder/icecast.audio
+#EXTINF:-1,Exclusively Earth, Wind & Fire
+https://nl4.mystreaming.net/er/earthwindandfire/icecast.audio
+#EXTINF:-1,Exclusively Supertramp
+https://nl4.mystreaming.net/er/supertramp/icecast.audio
+#EXTINF:-1,Exclusively Boston
+https://nl4.mystreaming.net/er/boston/icecast.audio
+#EXTINF:-1,Exclusively Rush
+https://nl4.mystreaming.net/er/rush/icecast.audio
+#EXTINF:-1,Exclusively Yes
+https://nl4.mystreaming.net/er/yes/icecast.audio
+#EXTINF:-1,Exclusively Journey
+https://nl4.mystreaming.net/er/journey/icecast.audio
+#EXTINF:-1,Exclusively Deep Purple
+https://nl4.mystreaming.net/er/deeppurple/icecast.audio
+#EXTINF:-1,Exclusively 10cc
+https://nl4.mystreaming.net/er/10cc/icecast.audio
+#EXTINF:-1,Exclusively Jethro Tull
+https://nl4.mystreaming.net/er/jethrotull/icecast.audio
+#EXTINF:-1,Radio BOB! - Fury in the Slaughterhouse
+http://regiocast.streamabc.net/regc-radiobobfury4003573-mp3-192-9403844?sABC=68op740p%230%232p81q7n3326478r6740n82q86p4299p3%23fgernzf.enqvbobo.qr&aw_0_1st.playerid=streams.radiobob.de&amsparams=playerid:streams.radiobob.de;skey:1757180940
+#EXTINF:-1,The Canalside Radio
+http://das-edge13-live365-dal02.cdnstream.com/a62767
+#EXTINF:-1,WVAN Radio
+http://s5.radio.co/sf4e92458f/listen
+#EXTINF:-1,Viperfm
+https://viperfm-gecko.radioca.st/viperfmlive/
+#EXTINF:-1,Electri C Ity Studios
+http://electri-c-ity-studios.stream.laut.fm/electri-c-ity-studios?t302=2025-09-06_17-49-00&uuid=6434dfa7-d3d5-4a4c-909f-da08dce567ef
+#EXTINF:-1,100.5 The New Sound Of Country – WBLE
+http://ice41.securenetsystems.net:80/WBLE
+#EXTINF:-1,Acidbarrett Radio
+http://136.243.79.109:2340/stream
+#EXTINF:-1,AfterHours FM (AH.FM)
+http://fr.ah.fm:8000/192k/
+#EXTINF:-1,Cool Beats Radio
+http://67.212.166.178:7024/stream/
+#EXTINF:-1,Fresh Radio
+http://das-edge13-live365-dal02.cdnstream.com/a81821
+#EXTINF:-1,Hirschmilch Radio – Progressive
+http://hirschmilch.de:7000/progressive.mp3/
+#EXTINF:-1,IMER – Órbita 106.7 – XHUAR
+http://streaming.radio.co/sd71de59b3/listen
+#EXTINF:-1,Morow FM
+http://stream.morow.com:9090/morow_med_backup.mp3
+#EXTINF:-1,Progwave Radio – Rushwave 2112 Radio
+http://178.32.107.151:5178/stream/
+#EXTINF:-1,Radio City Light
+http://nr5.newradio.it:8651/stream?1581239512934/
+#EXTINF:-1,Radio COSMIC
+https://radio10.pro-fhi.net/live/Radio%20COSMIC
+#EXTINF:-1,Radio Tamil Voice
+http://s20.myradiostream.com:9004/
+#EXTINF:-1,Rock Antenne – Melodic Rock
+http://s4-webradio.rockantenne.de/melodic-rock
+#EXTINF:-1,RockNet Radio
+http://94.23.23.97:31836/
+#EXTINF:-1,Sunshine Live – Mayday
+http://sunsl.streamabc.net/sunsl-mayday-mp3-192-8059120?sABC=68pq9p3p%230%2315nq0309374s417p7893923o7361r757%23fgernz.fhafuvar-yvir.qr&aw_0_1st.playerid=stream.sunshine-live.de&amsparams=playerid:stream.sunshine-live.de;skey:1758305340
+#EXTINF:-1,The Experience – KCLC-HD2
+http://ice6.securenetsystems.net/KCLC2
+#EXTINF:-1,The Legacy Radio – WAQM
+http://das-edge14-live365-dal02.cdnstream.com/a60265

@@ -1,9 +1,103 @@
 #EXTM3U
-#EXTINF:-1,Dakar Musique
-http://listen.senemultimedia.net:8090/stream
+#EXTINF:-1,Radio Faydatidianiya
+http://listen.senemultimedia.net:5526/
 #EXTINF:-1,Radio Keur Massar
-http://listen.senemultimedia.net:8140/stream
-#EXTINF:-1,H24 Senegal
+https://listen.senemultimedia.net:8142/stream
+#EXTINF:-1,AL Imane Radio
+http://streamingp.shoutcast.com/JamendoLounge?lang=*
+#EXTINF:-1,Dakar Musique
+https://listen.senemultimedia.net:8092/stream
+#EXTINF:-1,Radio Thiossane
+https://listen.senemultimedia.net:8112/stream
+#EXTINF:-1,FULBE FM
+https://listen.radioking.com/radio/20674/stream/53398
+#EXTINF:-1,Faydatidianiya
+http://listen.senemultimedia.net:5526/listen/1/
+#EXTINF:-1,H24
 http://listen.senemultimedia.net:8070/stream
+#EXTINF:-1,H24 Senegal
+https://listen.senemultimedia.net:8072/stream
+#EXTINF:-1,iRadio Senegal
+https://listen.radioking.com/radio/250102/stream/294397
 #EXTINF:-1,Radio Dakar City
-http://listen.senemultimedia.net:8000/stream
+https://listen.senemultimedia.net:8002/stream
+#EXTINF:-1,AlloDakar Radio TamTam
+https://14223.live.streamtheworld.com/SP_R3644495.aac?dist=keepone.net
+#EXTINF:-1,Radio Sunuker
+http://radiosunuker221.primcast.com:7148/
+#EXTINF:-1,Sama Radio Dakar
+https://streaming.brol.tech/rtfmlounge
+#EXTINF:-1,Radio PAKAO FM
+http://192.95.39.65:5144/;stream.nsv
+#EXTINF:-1,Radio Thiossane radio
+https://14223.live.streamtheworld.com/SP_R3644495.aac?dist=onlineradiobox
+#EXTINF:-1,Radio Sunuker radio
+http://radiosunuker221.primcast.com:7148/stream
+#EXTINF:-1,Radio PAKAO FM radio
+http://192.95.39.65:5144/stream.nsv
+#EXTINF:-1,Radio Pakao FM
+http://192.95.39.65:5144/
+#EXTINF:-1,Silabaa Radio
+https://listen.radioking.com/radio/534524/stream/593036
+#EXTINF:-1,Radio Financial Afrik
+https://listen.radioking.com/radio/569123/stream/629048
+#EXTINF:-1,Metaradio
+http://s2.metaradio.ru/mradio.ranet
+#EXTINF:-1,Africa N°1
+http://african1paris.ice.infomaniak.ch/african1paris-64.mp3
+#EXTINF:-1,RFI Afrique
+http://live02.rfi.fr/rfiafrique-64.mp3
+#EXTINF:-1,RTS Kolda FM
+https://rfimonde64k.ice.infomaniak.ch/rfimonde-64.mp3
+#EXTINF:-1,dine ji fm
+http://perseus.shoutca.st:8039/
+#EXTINF:-1,Maack FM 97.4 Listen live
+https://rmf1.radioca.st/rmf1.mp3
+#EXTINF:-1,magic_of_music Listen live
+https://magicofmusic.stream.laut.fm/magic_of_music?ref=radiode&t302=2025-09-17_23-03-27&uuid=319114cb-8298-46a4-964a-0cf188a1925c
+#EXTINF:-1,KDUS - NBC Sports AM 1060 Listen live
+https://18543.live.streamtheworld.com/KDUSAM.mp3
+#EXTINF:-1,FunX NL Listen live
+https://icecast.omroep.nl/funx-bb-mp3
+#EXTINF:-1,Positively Rock Listen live
+https://streaming.positivity.radio/pr/rock/icecast.audio
+#EXTINF:-1,TurnON Radio Dance Listen live
+https://turnondance-rex.radioca.st/server
+#EXTINF:-1,ROCK ANTENNE Österreich Listen live
+https://s2-webradio.rockantenne.at/rockantenne-oesterreich
+#EXTINF:-1,iRadio
+https://listen.radioking.com/radio/250102/stream/306970
+#EXTINF:-1,GMS FM
+https://myfm.acan.group/radio/8140/radio.mp3
+#EXTINF:-1,H24 SENEGAL
+http://listen.senemultimedia.net:5266/
+#EXTINF:-1,LEERAL FM
+http://stream.zeno.fm/rhwpe8qv8bhvv.m3u
+#EXTINF:-1,Sama Radio Senegal
+https://18213.live.streamtheworld.com/SP_R3644495.aac
+#EXTINF:-1,Xamsadine wakhtaan - Senegal
+https://free.rcast.net/248495
+#EXTINF:-1,IRADIO SENEGAL
+https://free.rcast.net/211133
+#EXTINF:-1,TOUBA FM live Music- Senegal
+https://free.rcast.net/16510
+#EXTINF:-1,PIKINE DIASPORA RADIO : la radio du citoyen modele du Senegal
+https://free.rcast.net/4225
+#EXTINF:-1,Radio AlloDakar
+http://14223.live.streamtheworld.com/SP_R3644495.aac
+#EXTINF:-1,Radio AlloDakar – SN-DK
+https://14223.live.streamtheworld.com/SP_R3644495_SC?pname=TDSdk
+#EXTINF:-1,Sama Radio Dakar – SN-DK
+https://listen.shoutcast.com/samaradio.m3u
+#EXTINF:-1,Dakar Musique – Le Havre – Normandy – SN
+http://18213.live.streamtheworld.com/SP_R3644495.aac
+#EXTINF:-1,Radio H24.sn
+http://listen.senemultimedia.net:8070/stream/
+#EXTINF:-1,GMS FM 89.3 Ziguinchor
+https://myfm.acan.group/radio/8140/radio.mp3?1690707378
+#EXTINF:-1,Almadies FM NGOR en Direct
+https://d1bxy2pveef3fq.cloudfront.net/recordings/high/32762101.mp3?session_id=742c3201-3fbf-5876-8a03-0d977fd962ea&ab=128&al=10801060&ao=0&cc=YYYYYYYYYY&ct=DOWNLOAD&episode_id=44473030&show_id=1689187&user_id=8710338&organization_id=9865383&tenant=SPREAKER&timestamp=1756597773&ppi=4c07d2bd-cb0b-533c-aa8e-18a377bd5470&epi=0897c9e7-e644-576e-a8f1-c68d87b56b2b&media_type=static&Expires=1756684173&Key-Pair-Id=K1J2BR3INU6RYD&Signature=dYPjllFoxOIjrdbRl37sowUhbGq90AvwKsNvRax8EzUEcMsaVZCUQsdoDYPY~7jo0QNrSjSLf1dpmkxoBIvGx77rX9zf2cGoFHqVC-N~~bdEOL75PLnkVyKaJS2IoexC6PIomU1CioE7BXKqoVUNHXnwYbIO3hU61kvLaVp3DXSj8Hh7F64BebOvCoe2a5osVAGNfvHZZlE6nVaE7-teONYTtMtGsLsT-Krl59Eq6ZHnIuFxK1Zyu85mz-h3u4Mutm482-Utb6kL9Af5FjS06tKAAbnCgG-hEvnjOaiWpTaPfCjgSWkrdwCs6taTQdR19pYkPXfIjpUQrjg44S600A__
+#EXTINF:-1,Radio AlloDakar en Direct
+https://18213.live.streamtheworld.com/SP_R3644495_SC?pname=TDSdk
+#EXTINF:-1,Sama Radio Dakar en Direct
+https://streamingp.shoutcast.com/JamendoLounge?lang=*

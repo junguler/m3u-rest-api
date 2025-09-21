@@ -33,7 +33,6 @@ https://2.mystreaming.net/er/pinkfloyd/icecast.audio
 https://2.mystreaming.net/er/beatles/icecast.audio
 #EXTINF:-1,Exclusively Queen
 https://2.mystreaming.net/er/queen/icecast.audio
-https:/http:/adio.skynewsarabia.com/streamhttp:/adio/skynewsarabia
 #EXTINF:-1,Exclusively ABBA
 https://2.mystreaming.net/er/abba/icecast.audio
 #EXTINF:-1,Exclusively Bob Marley
@@ -1592,19 +1591,16 @@ https://nl4.mystreaming.net/uber/jjrarttatum/icecast.audio
 https://nl4.mystreaming.net/uber/jjrwoodyherman/icecast.audio
 #EXTINF:-1,Just Jazz - George Shearing
 https://nl4.mystreaming.net/uber/jjrgeorgeshearing/icecast.audio
-https:/http:/adio.hewadict.com/proxy/quranradio?mp=/stream
 #EXTINF:-1,Radio Srood
 http://stream.cloud.radiosrood.com:8000/live
 #EXTINF:-1,Radio Ariana
 https://streams.radio.co/sa3345aaa8/listen
-https:/http:/adio.hewadict.com/proxy/tislamradio?mp=/stream
 #EXTINF:-1,BFBS Afghanistan
 https://edge-audio-03-gos2.sharp-stream.com/ssvcbfbs9.mp3?i=ssvcbfbs9.mp3
 #EXTINF:-1,Radio Salam Watandar
 https://s10.myradiostream.com/:12238/;
 #EXTINF:-1,Radio Jawanan
 https://s3.radio.co/s3a13a855f/listen
-http:/http:/adio.pamir.cloud:8000/live
 #EXTINF:-1,РУКИ ВВЕРХ
 https://ic6.101.ru:8000/stream/pro/aac/64/163
 #EXTINF:-1,גלגלצ להיטים חמים
@@ -1619,7 +1615,6 @@ http://play.global.audio/veronika.aac
 http://premium.shoutcastsolutions.com:8050/256.mp3
 #EXTINF:-1,Classic Country
 http://185.33.21.112/ccountry_mobile_mp3
-http:/http:/adio11.plathong.net:8896/;
 #EXTINF:-1,selah
 https://ice10.securenetsystems.net/KHHKHD3
 #EXTINF:-1,Bhakti World
@@ -1644,26 +1639,20 @@ http://gradio-rap.stream.laut.fm/gradio-rap?t302=2023-04-25_19-36-55&uuid=e475b9
 http://deutscherrap.stream.laut.fm/deutscherrap?t302=2023-04-25_19-36-56&uuid=1804f2fd-d2c0-423c-af7f-3a6ec3014b64
 #EXTINF:-1,asds
 http://streaming.radiosenlinea.com.ar:8626/;
-http:/http:/adyobozcaada.canliyayinda.com:4000/stream
 #EXTINF:-1,国乐悠扬
 http://stream3.hndt.com/now/8bplFuwp/playlist.m3u8
 #EXTINF:-1,jjj
 https://listen.moe/fallback
-https:/http:/egiocast.streamabc.nethttp:/egc-noraoldie-mp3-192-4426850?sABC=6448100s%231%2305rr3oqro60pr97o7o5n8q8261306o0o%23ubzrcntr&mode=preroll&aw_0_req.gdpr=true&aw_0_1st.kuid=vhyh95oqv&aw_0_1st.ksg=[%22tsrazhtr3%22,%22tow60dxfp%22,%22s7lqc5jxe%22,%22upxsvbudn%22,%22uphudti45%22,%22tz4swml9u%22,%22s697d7eir%22,%22s7ljhri17%22,%22s7lo2do21%22,%22s7lqvksor%22,%22s7ltd00sq%22,%22s7lul8vls%22,%22s7lvpn712%22,%22s7lwsqck7%22,%22s78nn0wkd%22,%22s71hrmzou%22,%22s8cm9eyzj%22,%22s8siicaeb%22,%22takaaes6u%22,%22ti505y9ml%22,%22tan9djjrm%22,%22ti54veycf%22,%22tow80eky2%22,%22uchw4pz1v%22]&listenerid=05ee3bdeb60ce97b7b5a8d8261306b0b&awparams=companionAds:true&aw_0_1st.playerid=homepage&amsparams=playerid:homepage;skey:1682444303
 #EXTINF:-1,Radio Tarana
 http://peridot.streamguys.com:7150/Tarana.aac
-http:/http:/adiometalon.com:8020http:/adio.mp3
 #EXTINF:-1,Radio Activa
 https://stream9.mexiserver.com:7014/;
-https:/http:/adyo.duhnet.tv/cnnturk?/;stream.mp3/;stream.mp3
 #EXTINF:-1,Qamişlo
 https://dengeqamishlo.stream.laut.fm/dengeqamishlo?pl=m3u&t302=2023-05-10_13-22-22&uuid=8d32c667-2eb8-4253-b054-aa00d9e986cd
 #EXTINF:-1,Indieparty by Greensleeves
 http://indieparty.stream.laut.fm/indieparty?t302=2023-04-25_19-44-42&uuid=7747b0f1-b4ac-409a-b551-d320ae69669a
-http:/http:/etroserver.streamr.ru:8043http:/etro128
 #EXTINF:-1,ofm stasie2
 https://edge.iono.fm/xice/47_high.aac
-http:/http:/ememberfm.emisionlocal.com:9302/LIVE
 #EXTINF:-1,cnn
 https://unlimited2-ar.dps.live/cnn-ar/aac/icecast.audio
 #EXTINF:-1,NDR Info AAC
@@ -1674,10 +1663,8 @@ https://keycloak.octopus.saooti.com/realms/catalogue/protocol/openid-connect/aut
 http://stream-uk1.radioparadise.com/aac-32
 #EXTINF:-1,JFSR [320kbps]
 http://s2.radio.co/s22ae5a8a6/listen
-http:/http:/adio.streamings.gr:8162/stream
 #EXTINF:-1,WAYF 88.1 - Way FM Christian Radio West Palm Beach, FL
 https://rastamusic.streamguys1.com/rastamusic
-http:/http:/adioradio.ddns.net:8100/soul
 #EXTINF:-1,Радио Шансон Армения
 https://chanson.hostingradio.ru:8041/chanson128.mp3
 #EXTINF:-1,FM 105.5
@@ -1696,7 +1683,6 @@ http://dreamsiteradiocp.com:8056/stream
 http://luyse.mediatriple.net/luystv/luystv.smil/playlist.m3u8
 #EXTINF:-1,Armenian Gospel Radio
 https://s8.myradiostream.com:15554/listen.mp3?nocache=1682446347
-https:/http:/adio.autoliferadio.com:8005http:/adio
 #EXTINF:-1,106 FM
 https://stream.atv.az/WebRTCAppEE/streams/612758375034657638703581_720p1500kbps.m3u8
 #EXTINF:-1,Araz 103.3 FM
@@ -1711,7 +1697,6 @@ https://s0.radioheart.ru:8000/RH20730
 https://s40.myradiostream.com/:22546/listen.mp3?
 #EXTINF:-1,Baku Jukebox
 http://78.109.52.73:8000/bkjbox
-https:/http:/adio.qebele.tvhttp:/adio/8010http:/adio.mp3
 #EXTINF:-1,Rakevet
 https://s0.radioheart.ru:8000/RH20728
 #EXTINF:-1,FnF.FM Bangla
@@ -1724,10 +1709,8 @@ http://s3.myradiostream.com:14498/;
 http://live64.zeilsteen.com:7054/;
 #EXTINF:-1,Bangladesh Betar
 http://as3.digitalsynapsebd.com:8582/;stream.mp3
-https:/http:/adiomahanandafm.radioca.sthttp:/m.mp3
 #EXTINF:-1,Peoples Radio 91.6 FM
 http://s3.myradiostream.com:14498/;listen.mp3
-http:/http:/adiopadmabd.radioca.st:9109http:/adiopadma
 #EXTINF:-1,Dhaka 88.8 FM
 http://as3.digitalsynapsebd.com:8263/;
 #EXTINF:-1,Dhaka Ka 693KHz
@@ -1740,7 +1723,6 @@ https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs9.aac
 https://stream1.svrdedicado.org/8370/stream
 #EXTINF:-1,Radio BFBS Brunei
 https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs10.aac
-https:/http:/adio.chinesemusicworld.com/chinesemusic.ogg?_=1
 #EXTINF:-1,China Plus
 http://sk.cri.cn/am846.m3u8
 #EXTINF:-1,LamRim Tibetan Buddhist Internet Radio
@@ -1947,17 +1929,8 @@ http://live.appwuhan.com/6tzb/sd/live.m3u8
 http://l.cztvcloud.com/channels/lantian/SXxinchang1/720p.m3u8
 #EXTINF:-1,Yurao Culture TV
 http://l.cztvcloud.com/channels/lantian/SXyuyao2/720p.m3u8
-http:/http:/adio.sxtvs.comhttp:/adio/news.mp3
-http:/http:/adio.sxtvs.comhttp:/adio/encnomy.mp3
-http:/http:/adio.sxtvs.comhttp:/adio/country.mp3
-http:/http:/adio.sxtvs.comhttp:/adio/cityopera.mp3
-http:/http:/adio.sxtvs.comhttp:/adio/opera.mp3
 #EXTINF:-1,CRI Voice of South China Sea
 http://sk.cri.cn/nhzs.m3u8
-http:/http:/adio.sxtvs.comhttp:/adio/city.mp3
-http:/http:/adio.sxtvs.comhttp:/adio/story.mp3
-http:/http:/adio.sxtvs.comhttp:/adio/kids.mp3
-http:/http:/adio.sxtvs.comhttp:/adio/music.mp3
 #EXTINF:-1,Kiangsu Traffic Radio
 http://lzlive.vojs.cn/4TaHTeL/92/live.m3u8
 #EXTINF:-1,Kiangsu Classical Music Radio
@@ -2034,7 +2007,6 @@ http://live.dxhmt.cn:9081/tv/11081-1.m3u8
 http://live.dxhmt.cn:9081/tv/10883-1.m3u8
 #EXTINF:-1,Wangtsing TV
 http://stream5.jlntv.cn/wq/sd/live.m3u8
-http:/http:/adio.sxtvs.comhttp:/adio/traffic.mp3
 #EXTINF:-1,Hwangchuan TV
 http://live.dxhmt.cn:9081/tv/11526-1.m3u8
 #EXTINF:-1,Yunho TV
@@ -2273,13 +2245,6 @@ http://play-radio-stream3.hndt.com/now/AFqvb0VX/chunklist.m3u8
 http://play-radio-stream3.hndt.com/now/WBhgSD3A/chunklist.m3u8
 #EXTINF:-1,格莱美音乐台
 http://play-radio-stream3.hndt.com/now/yorSd1X2/chunklist.m3u8
-http:/http:/adiolive.sxrtv.com/live/wenyi.m3u8
-http:/http:/adiolive.sxrtv.com/live/nongcun.m3u8
-http:/http:/adiolive.sxrtv.com/live/jiankang.m3u8
-http:/http:/adiolive.sxrtv.com/live/jingji.m3u8
-http:/http:/adiolive.sxrtv.com/live/yinyue.m3u8
-http:/http:/adiolive.sxrtv.com/live/gushi.m3u8
-http:/http:/adiolive.sxrtv.com/live/jiaotong.m3u8
 #EXTINF:-1,滨海综合广播 100.1
 http://traffic.jbh.tjbh.com/live/FM100.1/playlist.m3u8
 #EXTINF:-1,滨海文艺广播
@@ -2328,8 +2293,6 @@ http://l.cztvcloud.com/channels/lantian/SXlongquanaud/128k.m3u8
 http://ihzlh.linker.cc/ihzlh/zjnb_ts03_1029.m3u8
 #EXTINF:-1,宁波综合广播
 http://ihzlh.linker.cc/ihzlh/zjnb_ts04_920.m3u8
-https:/http:/adio.pull.hebtv.com/live/hebqcyy.m3u8
-https:/http:/adio.pull.hebtv.com/live/hebjj.m3u8
 #EXTINF:-1,BTV科教伴音
 https://wstvcpudali.v.myalicdn.com/wstvcpud/udrmbtv3_1/index.m3u8?adapt=0&BR=audio
 #EXTINF:-1,北京BTV新闻伴音
@@ -2458,16 +2421,12 @@ http://www.njgb.com/live/?id=5
 https://tv.cdn.xsg.ge/cld9-0386/ardaidardo/index.m3u8
 #EXTINF:-1,Radio Amra
 https://streamer.radio.co/s34b5469e0/listen
-https:/http:/adio.cdn.xsg.ge/gpb-radio1/shoutcast
 #EXTINF:-1,Radio Maestro
 https://nue01-edge01.itdc.ge/fm-maestro-94.7/tracks-a1/playlist.m3u8
-https:/http:/adio.cdn.xsg.ge/fm-commersant-95.5/shoutcast
-https:/http:/adio1.palitra.ge:8443/stream.mp3
 #EXTINF:-1,Radio Ajara
 https://edge.mixlr.com/channel/bzorq
 #EXTINF:-1,ავტორადიო /Autoradio 95.1 Fm
 https://tv.cdn.xsg.ge/cld9-0386/avtoradio/tracks-a1/mono.m3u8
-https:/http:/adio.cdn.xsg.ge/cld9-1050/chveneburi/tracks-a1/mono.m3u8
 #EXTINF:-1,Radio Fortuna Plus
 https://nue01-edge01.itdc.ge/fm-radiofortunaplus-103.4/tracks-a1/playlist.m3u8
 #EXTINF:-1,Radio Batumi
@@ -2480,32 +2439,20 @@ https://s2.radio.co/sa04dce859/listen
 http://45.143.109.51:8000/;
 #EXTINF:-1,Georgia One TV
 http://tv.cdn.xsg.ge/gpb-1tv/tracks-v1a1/mono.m3u8
-https:/http:/thkradio1-live.akamaized.net/hls/live/2035313http:/adio1/master.m3u8
-https:/http:/thkradio2-live.akamaized.net/hls/live/2040078http:/adio2/master.m3u8
-https:/http:/thkradio3-live.akamaized.net/hls/live/2040079http:/adio3/master.m3u8
-https:/http:/thkradio4-live.akamaized.net/hls/live/2040080http:/adio4/master.m3u8
-https:/http:/thkradio5-live.akamaized.net/hls/live/2040081http:/adio5/master.m3u8
-https:/http:/thkradiopth-live.akamaized.net/hls/live/2040082http:/adiopth/master.m3u8
-https:/http:/thkradiocnrhk-live.akamaized.net/hls/live/2046111http:/adiocnrhk/master.m3u8
 #EXTINF:-1,Sunny&#039;s Music Show
 http://procyon.shoutca.st:8492/listen.mp3
 #EXTINF:-1,Fing Radio
 https://bluesfan.stream.laut.fm/bluesfan?t302=2023-04-25_19-37-58&uuid=aced51cf-85ee-424b-ae49-c59404fbea05
-https:/http:/adio.dripfeed.net/listenhttp:/adiolantauhttp:/adio.mp3
 #EXTINF:-1,Hong Kong Community Radio
 https://hkcr.live/audio/index.m3u8
 #EXTINF:-1,面包台
 https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
-https:/http:/thkradiocmgrgb-live.akamaized.net/hls/live/2046112http:/adiocmgrgb/master.m3u8
 #EXTINF:-1,CMC加州音乐
 https://cmc-ono.amagi.tv/playlist720_p.m3u8
-https:/http:/ust.mrngroup.co/listen/delta_fm/delta
 #EXTINF:-1,Hard Rock FM
 https://stream-ssl.arenastreaming.com:8004/hardrock
 #EXTINF:-1,Ninetysix Radio
 https://c4.siar.us:8950/stream
-https:/http:/ust.mrngroup.co/listen/female/stream
-https:/http:/ust.mrngroup.co/listen/bahana/stream
 #EXTINF:-1,Radio Elshinta
 https://stream-ssl.arenastreaming.com:8000/jakarta
 #EXTINF:-1,Dengerin Musik
@@ -2522,7 +2469,6 @@ http://103.28.149.117:8032/stream
 http://wijayafm.onlivestreaming.net:9880/stream
 #EXTINF:-1,Radio Imelda FM
 https://server.radioimeldafm.co.id:8030/imeldafm
-https:/http:/adioislamindonesia.comhttp:/odja.mp3
 #EXTINF:-1,Global Radio Jakarta
 http://202.147.199.98/;
 #EXTINF:-1,Menara FM
@@ -2531,7 +2477,6 @@ https://c1.siar.us:10280/menarafmbali
 https://ssg.streamingmurah.com:9940/stream
 #EXTINF:-1,Prameswara FM
 http://prameswarafm.onlivestreaming.net:10390/live
-https:/http:/.sindonews.tv/trijayafm/;stream.nsv
 #EXTINF:-1,Radio Suara Muslim Surabaya
 http://pu.klikhost.com:8052/stream
 #EXTINF:-1,MGT FM
@@ -2544,7 +2489,6 @@ https://stream.cradio.co.id/cradio.aac
 http://u.klikhost.net:7106/;
 #EXTINF:-1,RRI Pro 5 Makassar
 https://stream.streamaudio.de:8000/teststream3
-http:/http:/adio.mtafm.com:1079/;
 #EXTINF:-1,Kharisma FM - Pare Kediri
 http://stream.kharismafm.com:9550/kharismafm
 #EXTINF:-1,Merdeka 106.7 FM
@@ -2555,7 +2499,6 @@ https://www.bensradio.com/
 https://ssg.streamingmurah.com:8434/stream
 #EXTINF:-1,Radio Cosmo
 http://scg.streamingmurah.com:8074/stream
-http:/http:/adiosangkakala.alucio.net.id:7777/;
 #EXTINF:-1,Radio Idola Semarang
 https://server.radioidola.com:8880/idolafm
 #EXTINF:-1,Radio Rhema
@@ -2572,12 +2515,10 @@ http://103.112.189.100:9996/;stream.nsv
 https://live4.rs3fm.com:8001/poliyama
 #EXTINF:-1,El-Shaddai FM
 http://shaddai.onlivestreaming.net:9130/live
-http:/http:/5.siar.us:8711/stream
 #EXTINF:-1,Sas Fm Surabaya
 http://u.klikhost.net:7102/stream
 #EXTINF:-1,ONIX RADIO
 http://u.klikhost.com:7062/;
-https:/http:/adio.pikiran-rakyat.com/prfm
 #EXTINF:-1,Distorsi Jiwa Radio
 https://a6.siar.us:8000/stream
 #EXTINF:-1,Sudarmanto Radio
@@ -2606,14 +2547,12 @@ https://live.radiopinguinfm.com:8350/;stream.mp3
 https://mettaswara.com:8700/theone
 #EXTINF:-1,Prosalina Radio
 https://i.klikhost.com/8618/stream
-https:/http:/5.siar.us:9420/mp3.mp3?_=2
 #EXTINF:-1,Suara As&#039;adiyah
 http://id.radioimzers.com:1032/;stream.nsv
 #EXTINF:-1,Unimma FM
 https://ssg.streamingmurah.com:8048/stream?icy=http
 #EXTINF:-1,Mettaswara 2000&#039;s
 https://mettaswara.com:8700/theonest
-http:/http:/adiossfm.com:9000/;
 #EXTINF:-1,Sriwijaya Radio
 http://sriwijaya.onlivestreaming.net:9430/stream
 #EXTINF:-1,Mettaswara Throwback 80&#039;s
@@ -2634,7 +2573,6 @@ https://mettaswara.com:8700/slowrock
 http://45.64.97.82:8886/;stream.nsv
 #EXTINF:-1,HOT 93.2 FM
 https://wz.mari.co.id:1936/web_hotfm/hotfm/playlist.m3u8
-https:/http:/adio.solopos.com:8002/stream
 #EXTINF:-1,Classy
 http://classyfm.onlivestreaming.net:1034/;
 #EXTINF:-1,Songgolangit FM  99.2
@@ -2659,22 +2597,18 @@ http://u.klikhost.net:7130/;stream.nsv
 http://live.serverstreaming.net:8888/elpasfm
 #EXTINF:-1,Jibril Radio
 https://i.klikhost.com/8190/stream
-http:/http:/ajawalifm.myradio.web.id:8888http:/ajawalifm
 #EXTINF:-1,Radio Fress FM
 http://162.244.80.106:11185/stream
 #EXTINF:-1,Nikoya FM
 https://a2.siar.us/listen/nikoyafm/live
-https:/http:/l.tangerank.my.id/swara
 #EXTINF:-1,Mettaswara Hits
 https://mettaswara.com:8700/hits
 #EXTINF:-1,Passopati FM
 http://live.citrafmradio.com:9494/stream
 #EXTINF:-1,Aje Radio Jakarta
 http://u.klikhost.com:7854/stream
-https:/http:/2.siar.us:8700/suarakudus
 #EXTINF:-1,Bahtera Yudha 96.4 FM
 http://streaming.bahterayudhafm.com:8050/;stream.nsv
-https:/http:/bx2.hnux.com/http://e14648.cloudrad.io:8872/;
 #EXTINF:-1,JapaneseMusicID
 http://live.japanesemusicid.com:8000/japanesemusic
 #EXTINF:-1,Pas FM
@@ -2689,18 +2623,14 @@ http://103.120.218.22:8088/;stream.nsv
 http://listen.staradio1073fm.net:8070/stream
 #EXTINF:-1,Mettaswara Smooth
 https://mettaswara.com:8700/smooth
-http:/http:/adiowisata.onlivestreaming.net:9889/stream
 #EXTINF:-1,Amatron 3 FM
 http://51.79.167.17:7026/;stream.mp3
-https:/http:/ise.citrafm.com/live
-http:/http:/adio9.klikstream.net:9170/;
 #EXTINF:-1,aradio Lhokseumawe
 http://scg.streamingmurah.com:8087/;stream.nsv
 #EXTINF:-1,Insania FM
 https://stream-sg1.galuhmedia.co.id:8050/876ternate
 #EXTINF:-1,Alternatif radio
 https://void.idserverhost.com:8016/stream
-http:/http:/adiojreng.myradio.web.id:8888http:/adiojreng.aac
 #EXTINF:-1,Rama FM
 http://45.32.103.238:8012/live?type=.mp3
 #EXTINF:-1,MNM Music and More
@@ -2735,7 +2665,6 @@ https://sundaradio.com/live/sundaradio
 http://45.64.97.82:8072/;stream.nsv
 #EXTINF:-1,Radio Suara Padodohi FM Luwuk Banggai
 https://i.klikhost.com/8050/stream
-https:/http:/adio.streamingindonesiapersada.id/listen/lppl_-_sasaraina_fmhttp:/adio.mp3
 #EXTINF:-1,Radio Seribatu - Volcano
 https://volcano.out.airtime.pro/volcano_a
 #EXTINF:-1,Style Radio
@@ -2774,7 +2703,6 @@ https://i.klikhost.com/8204/;radio.mp3
 https://i.klikhost.com/8268/;
 #EXTINF:-1,In Radio 97.6 FM Bangka Belitung
 https://c4.siar.us:8029/stream
-http:/http:/adio.agapefm.com:8000/agapelive
 #EXTINF:-1,Tjandra 100.6 FM
 http://live.serverstreaming.net:8006/tjandrafm
 #EXTINF:-1,Arb Fm Jakarta
@@ -2783,12 +2711,10 @@ https://void.idserverhost.com/8018/stream
 https://void.idserverhost.com/8022/stream
 #EXTINF:-1,Radio Rona MKB
 https://void.idserverhost.com/8036/stream
-https:/http:/adioseribatu.out.airtime.prohttp:/adioseribatu_a
 #EXTINF:-1,Mandala Muda Radio
 https://s1.gntr.net/listen/mandala_muda_radio/mandala
 #EXTINF:-1,Doskici Radio
 http://i.klikhost.com:9106/;
-http:/http:/adio2.suryakebenaran.com:11133/;stream.mp3
 #EXTINF:-1,Fm Com Radio
 http://45.64.97.82:8176/;stream.nsv
 #EXTINF:-1,Sonata AM
@@ -2809,7 +2735,6 @@ https://i.klikhost.com/8180/stream
 https://i.klikhost.com/8104/stream
 #EXTINF:-1,Voice 103.7 FM
 http://pu.klikhost.com:8146/live
-http:/http:/adioku.id:8000/amber2
 #EXTINF:-1,SPFM 103.5
 https://i.klikhost.com/8712/stream
 #EXTINF:-1,RDI 97.1 FM
@@ -2830,7 +2755,6 @@ http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w275412545_b38400
 http://pu.klikhost.com:8052/;
 #EXTINF:-1,Sahabat Kehidupan FM Madiun
 http://i.klikhost.com:8246/;rojer.mp3
-https:/http:/1.siar.ushttp:/adio/8010http:/adio.mp3
 #EXTINF:-1,Harmoni FM Blitar
 http://cbnradio.streamguys1.com/praise-128K
 #EXTINF:-1,Radio Citra Buana (RCB) FM Banyuwangi
@@ -2845,7 +2769,6 @@ http://streaming.bahterayudhafm.com:8050/;rojer.mp3
 https://streaming.brol.tech/rtfmlounge
 #EXTINF:-1,Simfoni FM
 https://i.klikhost.com/9160/;radio.mp3
-https:/http:/adioislamindonesia.com/tarbiyah.mp3
 #EXTINF:-1,KBR68H
 http://pu.klikhost.com:8056/kbr
 #EXTINF:-1,Andika FM Kediri
@@ -2866,7 +2789,6 @@ http://45.64.97.82:9940/stream
 http://siaran.radioislam.my.id:11132/;
 #EXTINF:-1,Gen 103.1 FM Surabaya
 http://103.246.184.62:1935/noice_genfmsby/gensbyic.stream/playlist.m3u8
-http:/http:/adioseribatu.out.airtime.pro:8000http:/adioseribatu_a
 #EXTINF:-1,98,4 Suara Giri FM Gresik
 http://streaming.girifm.com:8010/;stream.nsv
 #EXTINF:-1,95.1 Kiss FM
@@ -2877,10 +2799,8 @@ http://streaming.suzanafm.com:8000/;
 http://103.246.184.62:1935/noice_mustangfm/mustangfm/chunklist.m3u8
 #EXTINF:-1,104.3 Pas FM Surabaya
 http://103.123.96.99:8102/;
-https:/http:/adio.solopos.com:8000/stream
 #EXTINF:-1,Yasika 95.4 FM Jogja
 http://i.klikhost.com:9610/stream?listening-from-radio-garden=1671456870
-https:/http:/adioislamindonesia.comhttp:/odja.mp3?_=2
 #EXTINF:-1,Alternatif radio jakarta
 https://void.idserverhost.com/8016/stream
 #EXTINF:-1,Gen 98.7 FM Jakarta
@@ -2895,7 +2815,6 @@ http://i.klikhost.com:9044/;stream.nsv
 http://i.klikhost.com:8692/;
 #EXTINF:-1,Pakuba Fm 90,9 Mhz
 http://51.79.167.17:7046/;stream.nsv
-http:/http:/adioku.id:8000/amber1
 #EXTINF:-1,RADIO JENG SRI FM 107.2
 https://c4.siar.us:8083/stream
 #EXTINF:-1,Первое радио
@@ -2934,7 +2853,6 @@ https://liveradio.co.il:1100/;?type=http&nocache=1641830637
 https://betelgeuse.nucast.co.uk/stream/jrn-beat
 #EXTINF:-1,Radio Hamesh
 http://995.livecdn.biz:8000/995fm
-http:/http:/adio-yasoo.ath.cx:7500/;stream.nsv&type=mp3
 #EXTINF:-1,Up2Dance Radio
 https://icecast.live/proxy/up2dance/up2dance
 #EXTINF:-1,Radio Kol-Chai בשיעור-חי
@@ -2949,32 +2867,24 @@ http://770tv.no-ip.org:7777/;stream/1
 https://free.rcast.net/62276
 #EXTINF:-1,Radio 2000
 https://cdn.cybercdn.live/Radio2000/MP3/icecast.audio
-https:/http:/adio.streamgates.net/stream/90fm
 #EXTINF:-1,Kiss FM Middle East
 https://streaming.starterfm.com/listen/kissfm/starter48
 #EXTINF:-1,Niceman Radio
 https://listen6.myradio24.com/25715
-https:/http:/adio.streamgates.net/stream/galil
 #EXTINF:-1,Ivri 6
 https://streaming.radio.co/sa06221901/listen
 #EXTINF:-1,Radio Galey Israel
 https://cdn.cybercdn.live/Galei_Israel/Live/icecast.audio
-https:/http:/adio.streamgates.net/stream/yezreel
 #EXTINF:-1,Mt. Scopus Radio
 https://msradio.huji.ac.il/wwwroot/basics/48Kmancreation.mp3
-https:/http:/adio.streamgates.net/stream/1045fm
 #EXTINF:-1,Radio Darom
 https://cdn.cybercdn.live/Darom_97FM/Live/icecast.audio
-https:/http:/adio.streamgates.net/stream/netanya
 #EXTINF:-1,Radio Nostalgia
 http://194.213.4.197:8000/;stream/1
-https:/http:/adio.streamgates.net/stream/1036
-https:/http:/adio.streamgates.net/stream/eretzgolan
 #EXTINF:-1,Radio Setareh  رادیو ستاره
 http://s2.free-shoutcast.com/stream/18256
 #EXTINF:-1,Radio Azori
 https://live.ecast.co.il/stream/69fm/azori
-https:/http:/adio.streamgates.net/stream/afula
 #EXTINF:-1,GalGalatz - עשורים
 https://glzwizzlv.bynetcdn.com/glglz_alt_mp3
 #EXTINF:-1,GalGalatz - גל עברי
@@ -2985,8 +2895,6 @@ https://glzwizzlv.bynetcdn.com/glglz_hits_mp3
 https://glzwizzlv.bynetcdn.com/glglz_sofshavua_mp3
 #EXTINF:-1,Kabbalah TV
 https://edge3.uk.kab.tv/live/tvrus-rus-high/playlist.m3u8
-https:/http:/1.valorwp1.com:1235/stream
-http:/http:/adio.kolnesher.co.il:7777/;
 #EXTINF:-1,GalGalatz - ים תיכוני
 https://glzwizzlv.bynetcdn.com/glglz_med_mp3
 #EXTINF:-1,Jewish Music Stream
@@ -3001,7 +2909,6 @@ https://22653.live.streamtheworld.com:443/KAN_GIMMEL.mp3?dist=bynetredirect
 http://icecast.kab.tv/live1-heb-574bcfd5.mp3
 #EXTINF:-1,اذاعة الشمس - A-Shams
 https://cdna.streamgates.net/Ashams/Live/icecast.audio
-http:/http:/adio-yasoo.ath.cx:7500/;
 #EXTINF:-1,אקו eco 99fm
 http://eco01.livecdn.biz/ecolive/99fm_aac/icecast.audio?hash=1559501510715.m4a
 #EXTINF:-1,קבלה לעם צרפתית - Kabbalah fre
@@ -3012,10 +2919,8 @@ https://kzradio.mediacast.co.il/kzradio_live/kzradio/icecast.audio
 http://icecast.kab.tv/live1-eng-574bcfd5.mp3
 #EXTINF:-1,קבלה לעם רוסית - Kabbalah rus
 http://icecast.kab.tv/live1-rus-574bcfd5.mp3
-https:/http:/dm.mediacast.co.il:7777http:/adiom
 #EXTINF:-1,גלצ
 http://glzwizzlv.bynetcdn.com/glz_mp3?awCollectionId=misc&awEpisodeId=glz
-https:/http:/adio.streamgates.net/stream/kbmusic
 #EXTINF:-1,Galgalatz 91.8 FM
 https://glzicylv01.bynetcdn.com/glglz_mp3
 #EXTINF:-1,Radio Breslov Karmiel
@@ -3026,7 +2931,6 @@ https://s3.yesstreaming.net:17049/stream
 https://cdn.cybercdn.live/Lev_Hamedina/Audio/icecast.audio
 #EXTINF:-1,Kol Galim
 https://live.ecast.co.il/stream/galimlive
-https:/http:/adio.streamgates.net/stream/101fm
 #EXTINF:-1,Voice of Hope - Middle East
 https://ice9.securenetsystems.net/VOH
 #EXTINF:-1,Radio Martit
@@ -3049,7 +2953,6 @@ https://cdn.cybercdn.live/Hatahana_1015/Live_Audio/icecast.audio?1663924962014
 https://live.ecast.co.il:8024/stream
 #EXTINF:-1,GalGalatz - רוק קלאסי
 https://glzwizzlv.bynetcdn.com/glglz_rock_mp3
-https:/http:/gelive.akamaized.net/hls/live/2043150http:/adio5/playlist.m3u8
 #EXTINF:-1,Radio City 91.1 FM
 https://www.newgenerationhosting.com/
 #EXTINF:-1,Club Mirchi Radio
@@ -3118,12 +3021,10 @@ https://nl4.mystreaming.net/uber/calmreiki/icecast.audio
 https://nl4.mystreaming.net/uber/calmgongs/icecast.audio
 #EXTINF:-1,Calm Soundscapes
 https://nl4.mystreaming.net/uber/calmsoundscapes/icecast.audio
-https:/http:/adio.dholradio.co:8000http:/adio.mp3
 #EXTINF:-1,NDTV India
 https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/ndtvindiamaster.m3u8
 #EXTINF:-1,V V Radio
 http://music2.vvradio.co.in:2802/stream2
-https:/http:/adio2bindia.out.airtime.prohttp:/adio2bindia_a
 #EXTINF:-1,Calm Jungle
 https://nl4.mystreaming.net/uber/calmjungle/icecast.audio
 #EXTINF:-1,NDTV Profit
@@ -3134,14 +3035,10 @@ https://nl4.mystreaming.net/uber/bollywood2010s/icecast.audio
 https://nl4.mystreaming.net/uber/calmrain/icecast.audio
 #EXTINF:-1,Gurgaon Ki Awaaz
 https://gurgaonradio.out.airtime.pro/gurgaonradio_a
-https:/http:/adioislamin.out.airtime.prohttp:/adioislamin_a
 #EXTINF:-1,Indifun Radio
 http://indifun.net:7000/;stream.nsv
 #EXTINF:-1,Bollywood Now
 https://nl4.mystreaming.net/uber/bollywoodnow/icecast.audio
-http:/http:/adiodhaakad.com:8000/live
-http:/http:/adio.punjabrocks.com:9988/punjab
-http:/http:/adio.bhujmandir.org:8000/stream/1/;
 #EXTINF:-1,Bollywood Love
 https://nl4.mystreaming.net/uber/bollywoodlove/icecast.audio
 #EXTINF:-1,Vadivelu Comedy Radio
@@ -3172,14 +3069,12 @@ https://nl4.mystreaming.net/uber/bollywooddiwali/icecast.audio
 https://nl4.mystreaming.net/uber/easymix/icecast.audio
 #EXTINF:-1,Tamil Comedy Radio
 http://psrlive2.listenon.in/tacom?station=tamilcomedyradio&cb=1682446591
-http:/http:/adio.punjabrocks.com:9958/kirtan
 #EXTINF:-1,Bollywood Alka Yagnik
 https://nl4.mystreaming.net/uber/bollywoodalkayagnik/icecast.audio
 #EXTINF:-1,Bollywood Shreya Ghosal
 https://nl4.mystreaming.net/uber/bollywoodshreyaghosal/icecast.audio
 #EXTINF:-1,Easy Folk
 https://nl4.mystreaming.net/uber/easyfolk/icecast.audio
-http:/http:/adio.punjabrocks.com:9968/;
 #EXTINF:-1,Bollywood Work Out
 https://nl4.mystreaming.net/uber/bollywoodworkout/icecast.audio
 #EXTINF:-1,Bollywood Aruit Singh
@@ -3198,12 +3093,10 @@ https://stream.sssmediacentre.org:8443/bhajan
 https://sonic.onlineaudience.co.uk/8114/stream
 #EXTINF:-1,Easy 80&#039;s
 https://nl4.mystreaming.net/uber/easy80/icecast.audio
-http:/http:/adio.baani.net:8019/stream
 #EXTINF:-1,Radio Beat Retro
 http://5.63.151.52:7142/stream
 #EXTINF:-1,Easy 70&#039;s
 https://nl4.mystreaming.net/uber/easy70/icecast.audio
-http:/http:/adio2.sikhnet.com:8038/stream
 #EXTINF:-1,Ephphatha Radio Malayalam
 https://ephphatha.radioca.st/stream
 #EXTINF:-1,Bollywood Shah Rukh Khan
@@ -3228,7 +3121,6 @@ https://c13.radioboss.fm/stream/552
 http://psrlive2.listenon.in/gounder?station=goundamanisenthilradio&cb=1682446726
 #EXTINF:-1,Jesus Coming FM - Hindi
 http://live.jesuscomingfm.com:8132/;
-http:/http:/adio.bhujmandir.org:8000/stream/6/
 #EXTINF:-1,Jesus Coming FM - Punjabi
 http://live.jesuscomingfm.com:8212/;stream.mp3
 #EXTINF:-1,Bollywood Armaan Malik
@@ -3249,14 +3141,12 @@ https://nl4.mystreaming.net/uber/easycrooners/icecast.audio
 https://nl4.mystreaming.net/uber/easyandreabocelli/icecast.audio
 #EXTINF:-1,Easy Carpenters
 https://nl4.mystreaming.net/uber/easycarpenters/icecast.audio
-http:/http:/adio.punjabrocks.com:9988/;.mp3
 #EXTINF:-1,Easy Country
 https://nl4.mystreaming.net/uber/easycountry/icecast.audio
 #EXTINF:-1,Easy Bread
 https://nl4.mystreaming.net/uber/easybread/icecast.audio
 #EXTINF:-1,Easy Nat King Cole
 https://nl4.mystreaming.net/uber/easynatkingcole/icecast.audio
-https:/http:/adiomalayalamfm.comhttp:/adio/8000http:/adio.mp3
 #EXTINF:-1,AsiaStream - Radio Sai Global Harmony
 http://stream.radiosai.net:8002/
 #EXTINF:-1,DiscourseStream - Radio Sai Global Harmony
@@ -3275,7 +3165,6 @@ http://live.jesuscomingfm.com:8842/;
 http://85.25.185.202:8035/stream
 #EXTINF:-1,Vaa Tamizha
 https://s2.free-shoutcast.com/stream/18054/
-http:/http:/adio.knpinfotech.co.in:8000/stream/1/
 #EXTINF:-1,Easy Barbra Streisand
 https://nl4.mystreaming.net/uber/easybarbrastreisand/icecast.audio
 #EXTINF:-1,Easy Barry Manilow
@@ -3374,7 +3263,6 @@ http://live.jesuscomingfm.com:8288/;
 http://live.jesuscomingfm.com:8000/;
 #EXTINF:-1,Jesus Coming FM - Chinese
 http://live.jesuscomingfm.com:8272/;
-http:/http:/adio2.sikhnet.com:8010/stream
 #EXTINF:-1,Jesus Coming FM - Somali
 http://live.jesuscomingfm.com:8362/;
 #EXTINF:-1,Jesus Coming FM - Azerbaijani
@@ -3387,7 +3275,6 @@ http://live.jesuscomingfm.com:8566/;
 http://live.jesuscomingfm.com:8528/;
 #EXTINF:-1,Jesus Coming FM - Assamese
 http://live.jesuscomingfm.com:8398/;stream.mp3
-http:/http:/adio.bongonet.net:8012/;?t=1526571472/
 #EXTINF:-1,Jesus Coming FM - Akan
 http://live.jesuscomingfm.com:8558/;
 #EXTINF:-1,Jesus Coming FM - Algerian Arabic
@@ -3400,7 +3287,6 @@ http://live.jesuscomingfm.com:8424/;
 http://live.jesuscomingfm.com:8224/;
 #EXTINF:-1,Jesus Coming FM - Afrikaans
 http://live.jesuscomingfm.com:8434/;
-http:/http:/adio2bindia.out.airtime.pro:8000http:/adio2bindia_a
 #EXTINF:-1,2B! Radio Sangam Meditation
 http://djbeat.out.airtime.pro:8000/djbeat_a
 #EXTINF:-1,2B! Radio Sangam Devi Maa
@@ -3413,7 +3299,6 @@ http://millenniumhits.out.airtime.pro:8000/millenniumhits_a
 http://dard.out.airtime.pro:8000/dard_a
 #EXTINF:-1,2B! Radio Sangam Guruvar
 http://iskon2b.out.airtime.pro:8000/iskon2b_a
-http:/http:/adio2.sikhnet.com:8038/live
 #EXTINF:-1,Shalom Radio
 http://stream.radio.co/s1383afdc9/listen
 #EXTINF:-1,TORi Live Radio
@@ -3422,7 +3307,6 @@ http://173.203.133.187:9700/;
 http://dreamsiteradiocp.com:8002/stream
 #EXTINF:-1,OakyLP
 http://stream.oak935.org/oak935-128.aac
-http:/http:/adio.bongonet.net:8012http:/hi
 #EXTINF:-1,Ilayaraja Super Beats Radio
 https://psrlive2.listenon.in/irbeat?ah=0e81749e37789e5fb8c290926ce87e3f
 #EXTINF:-1,AR Rahman Radio
@@ -3505,7 +3389,6 @@ http://uk2.internet-radio.com:8066/stream?listening-from-radio-garden=1657423901
 https://live.sgpc.net:8443/;nocache=889869
 #EXTINF:-1,Raagam AIR 24*7
 https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudioragam/hlspbaudioragam_Auto.m3u8
-https:/http:/adio.streemlion.com:1675/stream
 #EXTINF:-1,All India Radio AIR Bilaspur
 https://air.pc.cdn.bitgravity.com/air/live/pbaudio110/playlist.m3u8
 #EXTINF:-1,AIR Tuticorin
@@ -3550,7 +3433,6 @@ https://air.pc.cdn.bitgravity.com/air/live/pbaudio138/chunklist.m3u8
 http://sirius.shoutca.st:8608/?listening-from-radio-garden=1682841322
 #EXTINF:-1,AIR Akashvani Maitree Kolkata
 https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio245/hlspbaudio24564kbps.m3u8
-http:/http:/adioe.dns.osho.com:8348/live
 #EXTINF:-1,AIR Kolkata Geetanjali
 https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio055/hlspbaudio05564kbps.m3u8
 #EXTINF:-1,Michi 90&#039;s Radio
@@ -3587,37 +3469,26 @@ http://178.32.146.187:5117/stream
 https://s2.radio.co/s03d947c9d/listen
 #EXTINF:-1,New Life Radio
 https://s2.radio.co/sd3c7f8539/listen
-https:/http:/adio.shafaq.comhttp:/adio
-https:/http:/adio.shafaq.com/english
 #EXTINF:-1,ڕادیۆ نەوا
 https://www.radionawa.com/Live.aspx
 #EXTINF:-1,Al-Mirbad
 https://almirbad.mixlr.com/
-https:/http:/awan-fm.live:8000http:/adio.mp3
-https:/http:/adio.shafaq.com/kurdish
-https:/http:/adioduhok.radioca.st/live
-http:/http:/adio1.sotmasr.com:9354/;
 #EXTINF:-1,Kurdistan24
 https://audio-edge-3mayu.fra.h.radiomast.io/04b1ce4c-24f2-4172-b756-065832ef78bf
-https:/http:/adio1.radioeram.com/
 #EXTINF:-1,Radio Navahang
 https://navairan.com/;stream.nsv
 #EXTINF:-1,Radio Mojahed
 https://s2.radio.co/s830691c74/listen
-https:/http:/adiodarvish.radio12345.com/
-http:/http:/adio.caltexmusic.com:8042/stream
 #EXTINF:-1,Radio Dahab
 https://dahab.ice.infomaniak.ch/dahab-192.mp3
 #EXTINF:-1,Beat FM
 https://securestreams2.autopo.st:1242/live
 #EXTINF:-1,Mazaj FM - مزاج اف ام
 https://mazajfm.ice.infomaniak.ch/mazajfm-192.mp3
-http:/http:/adio-ssl.com:8006/stream
 #EXTINF:-1,JU Fm
 http://jufmstreaming.ju.edu.jo/;
 #EXTINF:-1,Mood 92
 https://securestreams2.autopo.st:1241/live
-http:/http:/otanaradio.jo/listen
 #EXTINF:-1,Mazaj FM - كاسيت
 https://mazajgoldhits.ice.infomaniak.ch/mazajgoldhits-192.mp3
 #EXTINF:-1,Noursat Jordan TV
@@ -3638,7 +3509,6 @@ https://jenny.torontocast.com:2000/stream/J1HITS
 https://cast1.torontocast.com:2120/;
 #EXTINF:-1,J-Pop Sakura 懐かしい
 https://cast1.torontocast.com:2170/;
-https:/http:/adio.stereoanime.net/listen/stereoanime/128
 #EXTINF:-1,Moon Mission
 http://uk5.internet-radio.com:8306/;stream.nsv
 #EXTINF:-1,J1 Gold
@@ -3691,58 +3561,18 @@ https://s3.radio.co/sc8d895604/listen
 http://199.101.98.82:8390/;
 #EXTINF:-1,Data Fruits FM
 https://streampusher-relay.club/datafruits.mp3
-https:/http:/adiko.jp/#!/live/TBS
-https:/http:/adiko.jp/#!/live/QRR
 #EXTINF:-1,VOICE CUE
 https://www.jcbasimul.com/voicecue
 #EXTINF:-1,FM Daigo
 https://www.jcbasimul.com/fmdaigo
 #EXTINF:-1,FM OZE
 http://www.fm-oze.co.jp/simul/player.html
-https:/http:/adiko.jp/#!/live/LFR
-https:/http:/adiko.jp/#!/live/HOUSOU-DAIGAKU
 #EXTINF:-1,Radio Shiga
 https://sv10.hdradios.net:21920/;
-https:/http:/adiko.jp/#!/live/NACK5
-https:/http:/adiko.jp/#!/live/802
-https:/http:/adiko.jp/player/player.html#FMO
-https:/http:/adiko.jp/#!/live/YFM
-https:/http:/adiko.jp/#!/live/MBS
-https:/http:/adiko.jp/player/player.html#RBC
-https:/http:/adiko.jp/#!/live/MRO
-https:/http:/adiko.jp/#!/live/FMN
-https:/http:/adiko.jp/#!/live/WBS
-https:/http:/adiko.jp/#!/live/RNB
-https:/http:/adiko.jp/#!/live/ABC
-https:/http:/adiko.jp/player/player.html#CCL
-https:/http:/adiko.jp/player/player.html#OBS
-https:/http:/adiko.jp/#!/live/CBC
-https:/http:/adiko.jp/#!/live/SBC
-https:/http:/adiko.jp/?_=CN#!/live/RKK
-https:/http:/adiko.jp/#!/live/ALPHA-STATION
-https:/http:/adiko.jp/#!/live/TBC
-https:/http:/adiko.jp/#!/live/BAYFM78
-https:/http:/adiko.jp/#!/live/KNB
-https:/http:/adiko.jp/#!/live/BSS
-https:/http:/adiko.jp/#!/live/RADIOBERRY
-https:/http:/adiko.jp/#!/live/E-RADIO
-https:/http:/adiko.jp/player/player.html#OBC
-https:/http:/adiko.jp/player/player.html#FMPORT
-https:/http:/adiko.jp/#!/live/NBC
-https:/http:/adiko.jp/#!/live/HBC
-https:/http:/adiko.jp/#!/live/STV
-https:/http:/adiko.jp/#!/live/AIR-G
-https:/http:/adiko.jp/#!/live/IBS
-https:/http:/adiko.jp/#!/live/CRK
-https:/http:/adiko.jp/#!/live/IBC
-https:/http:/adiko.jp/#!/live/MBC
-https:/http:/adiko.jp/#!/live/JORF
 #EXTINF:-1,RADIO wonderstorage
 https://live.776.fm/
 #EXTINF:-1,Moon Mission Recordings
 http://uk5.internet-radio.com:8306/;
-https:/http:/elay0.r-a-d.io/main.mp3
-http:/http:/adio.plaza.one/opus
 #EXTINF:-1,J1 Gold (HTTP)
 http://jenny.torontocast.com:8062/;
 #EXTINF:-1,J1 Hits (HTTP)
@@ -3773,22 +3603,6 @@ https://kathy.torontocast.com:3060/;?shoutcast
 https://kathy.torontocast.com:3340/;?shoutcast
 #EXTINF:-1,J-Club Powerplay HipHop(Asia DREAM Radio)
 https://kathy.torontocast.com:3350/;?shoutcast
-https:/http:/adiko.jp/#!/live/KBC
-https:/http:/adiko.jp/#!/live/FMTOYAMA
-https:/http:/adiko.jp/#!/live/K-MIX
-https:/http:/adiko.jp/player/player.html#FM_OITA
-https:/http:/adiko.jp/player/player.html#BSN
-https:/http:/adiko.jp/player/player.html#HFM
-https:/http:/adiko.jp/#!/live/FMNIIGATA
-https:/http:/adiko.jp/player/player.html#RCC
-https:/http:/adiko.jp/#!/live/HELLOFIVE
-https:/http:/adiko.jp/#!/live/FMK
-https:/http:/adiko.jp/#!/live/FMMIE
-https:/http:/adiko.jp/#!/live/MRT
-https:/http:/adiko.jp/#!/live/FMFUKUOKA
-https:/http:/adiko.jp/#!/live/RKB
-https:/http:/adiko.jp/#!/live/FMGUNMA
-https:/http:/adio.tumar.fm:8005/stream
 #EXTINF:-1,Радио Sputnik Кыргызстан
 https://icecast-rian.cdnvideo.ru/voicekgz
 #EXTINF:-1,Радио Пирамида
@@ -3797,8 +3611,6 @@ https://prm.volna.top/128
 https://stream.okradio.kg:8005/stream
 #EXTINF:-1,City FM 105
 https://edge.mixlr.com/channel/hqpry
-http:/http:/adio99.servradio.com:9298/;
-http:/http:/adio99.servradio.com:9298/;;
 #EXTINF:-1,VAYO FM 105.5
 http://50.21.176.38:8010/vayofm/;
 #EXTINF:-1,Pyongyang FM
@@ -3823,7 +3635,6 @@ https://afn-cms.s3.amazonaws.com/Geoblock+message+AFN+GO.mp3
 https://onair.kbs.co.kr/index.html?sname=onair&stype=live&ch_code=21&ch_type=radioList
 #EXTINF:-1,MBC FM4U
 http://mini.imbc.com/v2/index.html?src=http://mini.imbc.com/&ref=http://www.imbc.com/broadhttp:/adio/index.html#./datas/pagedata_home.js
-https:/http:/adio.ytn.co.kr/_comm/fmlive.php
 #EXTINF:-1,TBC Dream FM
 http://www.tbc.co.kr/onair/?mid=6_190
 #EXTINF:-1,Listen.moe Kpop
@@ -3858,13 +3669,10 @@ http://andong.webcasting.co.kr:1935/live/amlive/playlist.m3u8
 https://ebsonair.ebs.co.kr/fmradiofamilypc/familypc1m/playlist.m3u8
 #EXTINF:-1,Listen.moe (K-Pop)
 https://listen.moe/kpop/fallback
-https:/http:/adio1.koreatimes.com/?DIST=TuneIn&TGT=TuneIn&maxServers=2&partnertok=eyJhbGciOiJIUzI1NiIsImtpZCI6InR1bmVpbiIsInR5cCI6IkpXVCJ9.eyJ0cnVzdGVkX3BhcnRuZXIiOnRydWUsImlhdCI6MTYzNzEyNjE0MywiaXNzIjoidGlzcnYifQ.ssVJ7H8C2H_IpmydNuCcKNV1I0UH93kqOAc_nsdqsOU
-http:/http:/adio2.tbn.or.kr:1935/gyeongin/myStream/playlist.m3u8
 #EXTINF:-1,마포FM
 http://115.85.182.39/mapofm?type=.mp3
 #EXTINF:-1,Oldpop Cafe
 http://cast.oldpopcafe.net:7080/;
-http:/http:/adio2.tbn.or.kr:1935/ulsan/myStream/playlist.m3u8
 #EXTINF:-1,Kuwait FM 103.7
 https://hibridplayer.com/t/kwmedia-kwfm.m3u8
 #EXTINF:-1,RK FM 99.7 (SuperStation)
@@ -3873,18 +3681,10 @@ https://hibridplayer.com/t/kwmedia-kwsuper.m3u8
 https://hibridplayer.com/t/kwmedia-kwradio1.m3u8
 #EXTINF:-1,Easy 92.5
 https://hibridplayer.com/t/kwmedia-kweasy.m3u8
-https:/http:/adiosolo.ruhttp:/adio/zhuldyz-fm/icecast.audio
-https:/http:/usradio.cdnqb.net/stream
-https:/http:/adio-streams.kaztrk.kz/shalqar/shalqar/icecast.audio
-https:/http:/adio-streams.kaztrk.kz/qazradio/qazradio/icecast.audio
-https:/http:/adio-streams.kaztrk.kz/classic/classic/icecast.audio
-https:/http:/adio-streams.kaztrk.kz/astana/astana/icecast.audio
 #EXTINF:-1,Радио 7 Казахстан
 https://listen2.myradio24.com/8334
 #EXTINF:-1,Радио Lux FM
 https://icecast.luxfm.kz/luxfm
-https:/http:/adiobulbul.stream.laut.fmhttp:/adiobulbul?t302=2023-04-25_19-52-29&uuid=2e23c109-9b3b-474e-ae93-0227a13b0450
-https:/http:/adiokn.ddns.net:8080/
 #EXTINF:-1,Lux Radio
 https://lux-radio.com:8005/stream
 #EXTINF:-1,Радио Халык
@@ -3893,7 +3693,6 @@ https://s0.radioheart.ru:8000/RH46806
 https://lux-radio.com:8015/stream
 #EXTINF:-1,Радио Алау
 https://s0.radioheart.ru:8000/RH67172
-https:/http:/adio.geometryfm.ru/hls/geometryfm/live.m3u8
 #EXTINF:-1,Татарское Радио ТМК
 https://a4.radioheart.ru:9036/RH13170
 #EXTINF:-1,Моя Мелодия
@@ -3904,7 +3703,6 @@ https://listen4.myradio24.com/8162
 https://listen1.myradio24.com/5967
 #EXTINF:-1,KTK TV
 http://89.218.30.37/ktklive/live.hq/playlist.m3u8
-https:/http:/adio.lnr.org.la/fm103
 #EXTINF:-1,صـوت لبنــان (VDL)
 https://l3.itworkscdn.net/itwaudio/9054/stream
 #EXTINF:-1,Adeem Radio
@@ -3923,7 +3721,6 @@ https://edge.mixlr.com/channel/qtqeb
 http://vps1.osina.cloud:9318/stream
 #EXTINF:-1,lbi Oldies
 https://lbioldies-lbnet2.radioca.st/stream
-https:/http:/sbi.radioca.st/;stream.nsv
 #EXTINF:-1,Sawt el Mada
 http://audiostreaming.itworkscdn.com:9018/stream
 #EXTINF:-1,Al-Nour FM
@@ -3960,12 +3757,8 @@ http://svs.itworkscdn.net/nour3satlive/livestream/playlist.m3u8
 http://dreamsiteradiocp4.com:8014/stream
 #EXTINF:-1,voice of Grace
 https://securestreams5.reliastream.com:1820/;l
-https:/http:/adio.lotustechnologieslk.net:8006/;
-https:/http:/adio.lotustechnologieslk.net:8000/;
-https:/http:/adio.lotustechnologieslk.net:2020/stream/sunfmgarden
 #EXTINF:-1,Y FM
 http://live.trusl.com:1180/;
-https:/http:/adio.lotustechnologieslk.net:2020/stream/shaafmgarden
 #EXTINF:-1,Legends 96.6 FM
 http://live.trusl.com:1190/;
 #EXTINF:-1,Sirasa
@@ -3984,7 +3777,6 @@ https://arnuka-global-radio.stream.laut.fm/arnuka-global-radio
 https://onair.punnagairadio.com/8146/stream;;
 #EXTINF:-1,ගෝල්ඩන් මේපල් වෙබ් රේඩියෝ
 http://s46.myradiostream.com:11156/listen.mp3
-https:/http:/adio.lotustechnologieslk.net:2020/stream/hirufmgarden
 #EXTINF:-1,bestcoast.fm
 http://streams.radio.co/sea5dddd6b/listen
 #EXTINF:-1,Cherry FM
@@ -4019,8 +3811,6 @@ https://audio1.syok.my/era
 https://audio1.syok.my/mix
 #EXTINF:-1,Gegar
 https://audio1.syok.my/gegar
-http:/http:/adio.kcfm.org:8000/stream
-https:/http:/adiorosak.radioca.st/stream
 #EXTINF:-1,Radio Delima FM
 http://167.114.131.90:5610/;stream.nsv
 #EXTINF:-1,Pine Net Radio
@@ -4031,14 +3821,6 @@ http://167.114.131.90:5968/ffm
 http://167.114.131.90:5448/;
 #EXTINF:-1,Radio Iras FM
 http://167.114.131.90:5300/stream
-http:/http:/adiouitm.uitm.edu.my/ufmlive
-https:/http:/adio.ultraviproduction.comhttp:/adio/8000/128
-https:/http:/ythmmixfm.radioca.st/stream
-http:/http:/lbbest.radioca.st:8038/stream
-https:/http:/lrockjiwang.radioca.st/stream
-https:/http:/adio-broadcast.ekantipur.com/stream
-http:/http:/adio.itechnepal.com:8640/live
-http:/http:/stream.abgroupnepal.com:8000http:/adiosargam
 #EXTINF:-1,Swadesh FM
 http://216.55.141.189:8653/;stream/1
 #EXTINF:-1,Radio Madhyapaschim
@@ -4111,7 +3893,6 @@ https://live.itech.host:9454/stream?1607165009841
 https://live.itech.host:4535/stream
 #EXTINF:-1,Radio Madhyabindu
 http://streaming.softnep.net:8077/;stream.nsv&type=mp3&volume=60
-https:/http:/adio-streaming-serv-2.hamropatro.com:8310http:/adio.mp3
 #EXTINF:-1,Hala FM
 https://listen-halafm.sharp-stream.com/halafmmid.mp3
 #EXTINF:-1,Al Wisal
@@ -4150,7 +3931,6 @@ http://192.99.8.192:3154/www.vhiveradio.com/;
 http://67.212.238.178:7007/;stream.nsv
 #EXTINF:-1,Ta Radio Solo
 http://taradio.onlivestreaming.net:10350/stream
-https:/http:/adioboxhd.com:8051/live
 #EXTINF:-1,JAKXFM
 https://de3.amfmph.com:8150/stream
 #EXTINF:-1,Cyber Pinoy Radio
@@ -4167,10 +3947,6 @@ https://stream.hornhost.com/8038/stream
 https://s35.myradiostream.com/:33726/listen.mp3
 #EXTINF:-1,AXR Manila
 https://22243.live.streamtheworld.com:443/AXR_MANILAAAC.aac
-http:/http:/adio5.reans.net:8130http:/adio.mp3
-https:/http:/adio.hornhost.com/8062/stream
-http:/http:/adio.filtalk.org:8000/drivefm
-https:/http:/adio.hornhost.com/8074/stream
 #EXTINF:-1,MYX
 https://22243.live.streamtheworld.com:443/MYXFMAAC.aac
 #EXTINF:-1,105.1 Brigada News FM Manila
@@ -4185,7 +3961,6 @@ http://192.99.8.192:3154/vhiveradiostream
 https://us2.amfmph.com:8080/stream?1609414161410
 #EXTINF:-1,531 AM DZBR Bible Radio
 https://stream.radio.co/se9de95c10/listen
-https:/http:/adio4.reans.nethttp:/adio/8410http:/adio.mp3?loveradio.com
 #EXTINF:-1,100.7 Love Radio Lucena
 https://loveradiolucena.radioca.st/;
 #EXTINF:-1,98.3 Love Radio Dagupan
@@ -4376,14 +4151,10 @@ http://streamnavs.net:8133/live
 http://loveradiobacolod.radioca.st:8088/stream
 #EXTINF:-1,Radyo Natin Calamba
 https://wave.radyonatinfm.com/listen/dzva/laguna
-https:/http:/adio.1017yourlovefm.com:8054/stream
 #EXTINF:-1,11.74 TRES MARIAS FM
 https://stream.hornhost.com/8018/stream
 #EXTINF:-1,201.9 Adzaa Online Radio FM
 https://stream.hornhost.com/8016/stream
-https:/http:/adio.hornhost.com/8066/stream
-http:/http:/adios.istbolivia.com:7112/;
-https:/http:/adio.hornhost.com/8028/stream
 #EXTINF:-1,Saut Ul Quran
 https://whmsonic.radio.gov.pk:7002/stream?type=http&nocache=12
 #EXTINF:-1,FM 101
@@ -4398,7 +4169,6 @@ http://162.244.80.118:4900/stream.mp3
 https://whmsonic.radio.gov.pk:7005/stream
 #EXTINF:-1,Radio Pak Filmi
 http://74.91.125.187:8214/stream/;
-https:/http:/adio.gov.pk/images/Radio%20Kashmir%20-%20Stereo%20Out.mp3
 #EXTINF:-1,Islamabad Station
 https://whmsonic.radio.gov.pk:7003/stream
 #EXTINF:-1,NCAC
@@ -4407,7 +4177,6 @@ https://whmsonic.radio.gov.pk:7004/stream
 https://whmsonic.radio.gov.pk:8088/stream
 #EXTINF:-1,Awam Fm 94 Khushab
 https://server.mediacast4u.stream/8010/stream
-https:/http:/adio.cityfm89.com/stream
 #EXTINF:-1,External Services
 https://whmsonic.radio.gov.pk:7006/stream
 #EXTINF:-1,Dhanak
@@ -4448,8 +4217,6 @@ https://palradio.radioca.st/;
 https://sawtelghad.org:7007/;
 #EXTINF:-1,راديو فيروز
 http://sawtelghad.org:8008/;
-http:/http:/s.hadara.ps:8046/;stream.mp3
-http:/http:/s.hadara.ps:8610/stream?type=http&nocache=7
 #EXTINF:-1,راديو كوكب الشرق
 http://sawtelghad.org:8006/;
 #EXTINF:-1,راديو زمان
@@ -4470,7 +4237,6 @@ https://sawtelghad.org:7003/;
 https://sawtelghad.org:7004/;
 #EXTINF:-1,راديو الناس
 https://cdna.streamgates.net/RadioNas/Live-Audio/icecast.audio
-https:/http:/adio.quranradiotafsir.com/9992/stream
 #EXTINF:-1,راديو ترانس
 http://sawtelghad.org:8002/;
 #EXTINF:-1,Radio Al Jazeera Arabic
@@ -4491,13 +4257,10 @@ https://live-hls-audio-web-aja.getaj.net/VOICE-AJA/01.m3u8
 http://live-hls-audio-web-aja.getaj.net/VOICE-AJA/index.m3u8
 #EXTINF:-1,Qabayan Radio 94.3 FM
 http://c2.radioboss.fm:8478/live
-https:/http:/adio.al7eah.net/8010/stream
-https:/http:/adio.al7eah.net/8042/stream
 #EXTINF:-1,Favradio
 http://stream.hornhost.com:8109/;stream.mp3
 #EXTINF:-1,UFM Radio
 http://stream.ufmradio.com:8000/;
-https:/http:/adio.al7eah.net/8032/stream
 #EXTINF:-1,84.7 Bee Cool Fm
 https://ny.mysonicserver.com/8054/stream
 #EXTINF:-1,101.69 Marites Fm Radio
@@ -4532,7 +4295,6 @@ https://22893.live.streamtheworld.com:443/RIA897FMAAC.aac
 https://c16.radioboss.fm:18115/stream
 #EXTINF:-1,Oli 968
 https://14033.live.streamtheworld.com:443/OLI968FMAAC.aac
-https:/http:/dopanel.cobrasoftwares.org:1065/stream
 #EXTINF:-1,Thitsarparami Dhamma Society
 https://edge.mixlr.com/channel/nmtev
 #EXTINF:-1,XRadio
@@ -4561,24 +4323,16 @@ https://14033.live.streamtheworld.com/987FM_SC
 https://22893.live.streamtheworld.com/938NOW_SC
 #EXTINF:-1,Ninar FM
 http://ninarfm.grtvstream.com:8896/;
-http:/http:/adioshamfm.grtvstream.com:8400/;stream.nsv
-http:/http:/adioliveb.rtv.gov.sy:8002/RadioZenobia
 #EXTINF:-1,Orient Radio
 https://svs.itworkscdn.net/orientradiolive/orlive/playlist.m3u8
 #EXTINF:-1,Asima-Online
 https://asima.out.airtime.pro/asima_a
 #EXTINF:-1,Arta FM
 https://edge.mixlr.com/channel/qtgru
-http:/http:/adioliveb.rtv.gov.sy:8002/RadioKarma
 #EXTINF:-1,Asima Online Radio
 http://asima.out.airtime.pro:8000/asima_a
-http:/http:/adioliveb.rtv.gov.sy:8002/RadioCham
 #EXTINF:-1,Nojoom FM
 http://185.105.4.53:4423/;stream.mp3
-http:/http:/adioliveb.rtv.gov.sy:8008/RadioSouryana
-https:/http:/asti.out.airtime.prohttp:/asti_a
-http:/http:/adioliveb.rtv.gov.sy:8002/Sat
-http:/http:/adioliveb.rtv.gov.sy:8002/Snews
 #EXTINF:-1,COOL 93 Fahrenheit
 https://coolism-web.cdn.byteark.com/;stream/1
 #EXTINF:-1,Chili Pop Thailand
@@ -4587,47 +4341,30 @@ https://stream.chiliradio.app/chilipop
 https://inter1.plathong.net/7008/;stream.mp3
 #EXTINF:-1,Phuket Live Radio 89.5
 https://4118.radio4.thzhost.com/;stream.mp3
-http:/http:/stream.mcot.net:9066/;
-https:/http:/cdn.mcot.nethttp:/adiocdn_edge/fm965.stream_aac/playlist.m3u8
-http:/http:/stream.mcot.net:8000/fm1005
-http:/http:/adio2.thzhost.com:4066/;stream.nsv
 #EXTINF:-1,Capitol.fm
 http://atlanticthai.primcast.com:5898/;
 #EXTINF:-1,Mellow 97.5
 https://mellowpop.mcot.net/home
 #EXTINF:-1,97 Tourist Station
 http://link.onair.network:8058/;audio.mp3
-https:/http:/adio.vpsthai.net/proxy/qndrbfic/stream
 #EXTINF:-1,Eingdoi Radio Thailand
 http://ohmi-design.com:8170/;
-http:/http:/adio1.siamlivehost.com:8001/;
-http:/http:/adio1.serverradio.net:8278/;
 #EXTINF:-1,GolgfingerRadio
 https://s2.myradiostream.com/:5060/;
 #EXTINF:-1,Sukson Radio
 http://stream.pjcdn.com:9000/SuksonRadio?t=1461247913065
 #EXTINF:-1,CityLife 93.75 FM
 http://onair.onair.network:8076/;
-https:/http:/sas.bkk.fm/spot
-https:/http:/adio10.plathong.net/7100/;stream.mp3
 #EXTINF:-1,Chili Classics Thailand
 https://stream.chiliradio.app/chiliclassics
 #EXTINF:-1,Traffic pro
 http://122.155.16.48:8955/;stream.mp3
-http:/http:/adio2.comgig.com:4122/;stream.mp4
-https:/http:/adio14.plathong.net/7134/live
 #EXTINF:-1,Met 107 Fm
 https://met107.mcot.net/live
-https:/http:/adio12.plathong.net/7346/;stream.mp3
-https:/http:/adio14.plathong.net/7060/;stream.mp3
-https:/http:/adio.fm100cmu.com:8443/;
 #EXTINF:-1,Active Radio
 https://fm99activeradio.mcot.net/index/
-https:/http:/sas.bkk.fmhttp:/adio
-https:/http:/adio14.plathong.net/7134/;stream.mp3
 #EXTINF:-1,Radio 981
 http://203.131.210.196:8000/stream1/stream_live;
-https:/http:/adio14.plathong.net/7072/;stream.mp3
 #EXTINF:-1,TAB Radio Channel 1
 http://203.156.141.28:8200/tabradio
 #EXTINF:-1,FM 89.00 MHz Wat U-MONG (Suan Puthatham)
@@ -4636,22 +4373,14 @@ https://apps4.mcot.net/stream729.aac
 http://112.121.150.133:9000/;stream.nsv
 #EXTINF:-1,Three Tops
 http://myradio.plathong.net:8068/;
-https:/http:/adio10.plathong.net/7084/;stream.mp3
-https:/http:/adio14.plathong.net/7030/;stream.mp3
-https:/http:/adio11.plathong.net/7040/;stream.mp3
-https:/http:/adio10.plathong.net/7230/;stream.mp3
 #EXTINF:-1,AM 1143
 https://live-org-01-cdn.mcot.net/RegionRadio/Chanthaburi.stream_aac/playlist.m3u8
-https:/http:/adio9.plathong.net/7146/;stream.mp3
-http:/http:/adio4.thzhost.com:4114/;
 #EXTINF:-1,requestradio
 http://27.254.142.208:8300/;
-http:/http:/adio11.plathong.net:8896/;stream.mp3
 #EXTINF:-1,requestradio String
 http://27.254.142.208:8100/stream
 #EXTINF:-1,มิติข่าว 90.5
 http://live3.smartbomb.co.th:8624/;stream.mp3
-http:/http:/adio11.plathong.net:8900/stream.mp3
 #EXTINF:-1,Mun FM
 https://cdn-th2.livestreaming.in.th/shoutcast/8730
 #EXTINF:-1,RequestRadio เพื่อชีวิต
@@ -4676,15 +4405,8 @@ https://thaipbs-ujxrch.cdn.byteark.com/live/playlist_144p/index.m3u8
 https://apps4.mcot.net/stream843.aac
 #EXTINF:-1,Best Radio FM. 89.0 MHz.
 http://112.121.150.133:8198/;
-http:/http:/adio1.serverradio.net:8592/;?type=http
-http:/http:/stream.mcot.net:9044/;.mp3
-http:/http:/adio1.serverradio.net:8060/;
-https:/http:/adio10.plathong.net/7238/;stream.mp3
-https:/http:/adio10.plathong.net/7110/;stream.mp3
-https:/http:/adio12.plathong.net/7234/;stream.mp3
 #EXTINF:-1,Vipak radio
 http://103.22.182.105:7068/;stream.mp3
-http:/http:/adio1.comgig.com:4096/;stream.m4a
 #EXTINF:-1,มหาชนคนเมืองลอง FM 98.00
 https://apps4.mcot.net/stream999.aac
 #EXTINF:-1,ร่องผาสวรรค์. FM 90.00
@@ -4695,13 +4417,10 @@ http://fmonair.com/_restream.php?id=753
 https://apps4.mcot.net/stream474.aac
 #EXTINF:-1,ที เรดิโอ จังหวัดแพร่
 https://apps4.mcot.net/stream153.aac
-https:/http:/adio.khovar.tj/live
 #EXTINF:-1,РАДИО &quot;Диёр&quot;
 https://c16.radioboss.fm:18234/stream
 #EXTINF:-1,Радио Sputnik Таджикистан
 https://icecast-rian.cdnvideo.ru/voicerus
-https:/http:/adio-trtvoteast.live.trt.com.tr/master.m3u8
-https:/http:/adyo.duhnet.tv/ak_dtvh_slowturk
 #EXTINF:-1,Kral FM
 https://dygedge2.radyotvonline.net/kralfm/playlist.m3u8
 #EXTINF:-1,Radyo Voyage
@@ -4742,7 +4461,6 @@ https://live.radyofenomen.com/fenomenturk/abr/playlist.m3u8
 http://46.20.3.229/;
 #EXTINF:-1,Enderun FM
 http://yayin2.canliyayin.org:7052/;stream.mp3
-http:/http:/adyo.yayin.com.tr:6042/;
 #EXTINF:-1,En Radyo
 http://yayin2.canliyayin.org:7222/;
 #EXTINF:-1,Radyo ODTÜ
@@ -4751,10 +4469,8 @@ https://stream3.radyoodtu.com.tr:8000/canli
 http://yayin.netradyom.com:8050/PARKFM
 #EXTINF:-1,Turk Rap FM
 http://95.173.188.166:9984/;
-https:/http:/adyoviva.radyotvonline.nethttp:/adyovivaaac
 #EXTINF:-1,Hedef Radyo
 http://stream.radyogrup.com:4010/;
-https:/http:/adyo.duhnet.tv/ak_dtvh_cnnturk
 #EXTINF:-1,Power XL
 https://listen.powerapp.com.tr/powerextralounge/abr/playlist.m3u8
 #EXTINF:-1,Houseland
@@ -4765,7 +4481,6 @@ https://moondigitaledge2.radyotvonline.net/kafaradyo/playlist.m3u8
 https://yayin.radyoseymen.com.tr:1070/stream
 #EXTINF:-1,Radyo Denge
 http://yayin1.canliyayin.org:8278/;
-http:/http:/adyo.turkuradyo.net:4591/;
 #EXTINF:-1,Karadeniz FM
 https://moondigitaledge.radyotvonline.net/karadenizfm/playlist.m3u8
 #EXTINF:-1,NTV Radyo
@@ -4788,15 +4503,10 @@ https://stream.34bit.net/stream.mp3
 http://yayin.turkhosted.com:6006/;
 #EXTINF:-1,HAYATMiX
 http://hayatmix.net/;yayin.mp3/;
-https:/http:/adyo.duhnet.tv/ak_dtvh_radyod
 #EXTINF:-1,Arabeskland
 https://moondigitaledge.radyotvonline.net/arabeskland/playlist.m3u8
-https:/http:/adyo.yayin.com.tr:2727/stream
-http:/http:/adyogenclik.com:9900/;stream.mp3/;type=mp3
-https:/http:/ockfm.rockfm.com.tr:9450/stream
 #EXTINF:-1,Damar Türk FM
 https://live.radyositesihazir.com:10997/;stream.nsv
-https:/http:/adyo1.radyo-dinle.tc/8122/stream
 #EXTINF:-1,Radyo Fenomen Karışık
 https://live.radyofenomen.com/fenomenkarisik/abr/playlist.m3u8
 #EXTINF:-1,Max FM
@@ -4805,7 +4515,6 @@ http://live.radyotvonline.com:8090/;
 https://ip169.ozelip.com/8432/stream
 #EXTINF:-1,Radyo Fenomen Pop
 https://live.radyofenomen.com/fenomenpop/abr/playlist.m3u8
-http:/http:/adyo.cc.ankara.edu.tr:8089/;
 #EXTINF:-1,Power POP
 https://listen.powerapp.com.tr/powerpop/abr/playlist.m3u8
 #EXTINF:-1,Kent FM
@@ -4814,20 +4523,16 @@ https://moondigitalmaster.radyotvonline.net/kentfm/playlist.m3u8
 https://ssl120.radyotelekom.com.tr/8340/stream
 #EXTINF:-1,Radyo Fenomen Clubbin&#039;
 https://live.radyofenomen.com/fenomenclubbin/abr/playlist.m3u8
-http:/http:/adyodejavu.canliyayinda.com:8054/;
 #EXTINF:-1,PashPash 90s Station
 https://90s.pashpashradio.com:7001/;stream.nsv
 #EXTINF:-1,Power Greece
 https://listen.powerapp.com.tr/powergreece/abr/playlist.m3u8
 #EXTINF:-1,Popland
 https://moondigitaledge.radyotvonline.net/popland/playlist.m3u8
-https:/http:/adyo34.radyotvonline.nethttp:/adyo34
-https:/http:/adioclu.80.yayin.com.tr/;stream.nsv
 #EXTINF:-1,Number1 Türk 90’lar
 https://n10101m.mediatriple.net/numberone90s
 #EXTINF:-1,Radyo Izmir FM
 http://usa4.fastcast4u.com:5414/mp3stream/;?hash=0.1920135512543366
-https:/http:/adyo1.radyo-dinle.tc/8078/stream
 #EXTINF:-1,Number1 Slow
 https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e3a53317d4_1/playlist.m3u8
 #EXTINF:-1,Number1 Türk Fm
@@ -4848,12 +4553,10 @@ https://live.radyofenomen.com/fenomenoriental/abr/playlist.m3u8
 https://m.egm.gov.tr:8093//;
 #EXTINF:-1,Radyo Fenomen Dans
 https://live.radyofenomen.com/fenomendans/abr/playlist.m3u8
-http:/http:/adyo.radyomevlana.com:9786/;stream.mp3
 #EXTINF:-1,Mio Radio
 http://s2.myradiostream.com:13662/;
 #EXTINF:-1,PowerTürk Taptaze
 https://listen.powerapp.com.tr/powerturktaptaze/abr/playlist.m3u8
-https:/http:/adyo.romantikses.comhttp:/omantiksessakary/stream/;type=mp3
 #EXTINF:-1,Number1 Disco
 https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e41c778cb0_1/playlist.m3u8
 #EXTINF:-1,Arabesk Damar Fm
@@ -4870,8 +4573,6 @@ https://moondigitaledge.radyotvonline.net/danceland/playlist.m3u8
 https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3c1520b2626.smil/playlist.m3u8
 #EXTINF:-1,Can Radyo
 http://yayin1.yayindakiler.com:3124/;
-https:/http:/adyo.yayin.com.tr:6191/stream
-https:/http:/adyo3.okeylisans.com/karadenizsesifm/stream
 #EXTINF:-1,Radyo Banko
 http://yayin.netradyom.com:9910/RADYOBANKO
 #EXTINF:-1,Hoş Mix
@@ -4886,12 +4587,10 @@ https://ligradyo.radyotvonline.net/ligradyo
 https://n10101m.mediatriple.net/classic
 #EXTINF:-1,Slow Karadeniz FM &amp; TV
 http://dinle.slowkaradenizfm.com:9578/;
-http:/http:/adyo.yayin.com.tr:5938/;stream.nsv
 #EXTINF:-1,Gozyasi FM
 http://yayin1.canliyayin.org:8700/;
 #EXTINF:-1,Genc Arabesk FM
 https://yayin.radyohostu.net/8050/;
-http:/http:/adyo.yayin.com.tr:6044/stream
 #EXTINF:-1,Power R&amp;B Hip Hop
 https://listen.powerapp.com.tr/powerrbhiphop/abr/playlist.m3u8
 #EXTINF:-1,Gri Balkon
@@ -4904,19 +4603,14 @@ https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2f95
 https://moondigitaledge.radyotvonline.net/classicland/playlist.m3u8
 #EXTINF:-1,Mavi Radyo
 https://yayin.turkhosted.com/6066/stream
-https:/http:/adyo.huzurpinari.com:8443http:/adio/8050http:/adio.mp3
 #EXTINF:-1,Kralim FM
 http://kralimfm.ozelip.com:7890/;
 #EXTINF:-1,Akustikland
 https://moondigitaledge.radyotvonline.net/akustikland/playlist.m3u8
-http:/http:/adyohazar.canliyayinda.com:8286/;
 #EXTINF:-1,Radio Mood
 http://yayin.radiomoodtr.com:5862/;stream/1
 #EXTINF:-1,Radyo 90
 https://live.radyo.in/9054/stream
-http:/http:/adyo.yayin.com.tr:4064/;
-http:/http:/adyo.yayin.com.tr:5990/stream/1/
-http:/http:/adyo.arabeskaski.com:4242/;stream.nsv
 #EXTINF:-1,Tezene
 https://moondigitaledge.radyotvonline.net/tezene/playlist.m3u8
 #EXTINF:-1,Radyo Bilkent
@@ -4941,7 +4635,6 @@ https://stream3.radyoodtu.com.tr:8000/karisikkaset;
 https://live.duhnet.tv//S2/HLS_LIVE/dreamturknp/playlist.m3u8
 #EXTINF:-1,Turkuvaz Romantik
 https://trkvz-radyolar.ercdn.net/turkuvazromantik/playlist.m3u8
-https:/http:/adyomelodi.80.yayin.com.tr/;stream.nsv
 #EXTINF:-1,PowerTürk Dans
 https://listen.powerapp.com.tr/powerturkdans/abr/playlist.m3u8
 #EXTINF:-1,Turkuvaz Anadolu
@@ -4962,10 +4655,8 @@ http://yayin2.yayindakiler.com:4158/;
 https://ssl120.radyotelekom.com.tr/8030/stream
 #EXTINF:-1,Hatay Asya Radyo
 https://sslyayin.netyayin.net/9850/Asya
-http:/http:/adioava.radyotvonline.net/Stream9
 #EXTINF:-1,Radyo ODTÜ Easy
 https://stream3.radyoodtu.com.tr:8000/canli;
-https:/http:/adio-trtvotworld.medya.trt.com.tr/master.m3u8
 #EXTINF:-1,Doksanlar FM
 http://37.247.98.8/stream/166/
 #EXTINF:-1,A Spor Radyo
@@ -4982,12 +4673,10 @@ https://sslyayin.radyoyayini.com:7009/default
 https://kiyi.radioca.st/stream
 #EXTINF:-1,Müzeyyen
 https://moondigitaledge.radyotvonline.net/muzeyyen/playlist.m3u8
-http:/http:/adyo2000.radyomhd.com:1100/;type=mp3
 #EXTINF:-1,Radyo Muğla
 http://yayin.yayindakiler.com:3006/;stream.mp3
 #EXTINF:-1,Number1 Eller Havaya
 https://n10101m.mediatriple.net/ellerhavaya
-https:/http:/adyo.yayin.com.tr:4078/mp3
 #EXTINF:-1,Jazzland
 https://moondigitaledge.radyotvonline.net/jazzland/playlist.m3u8
 #EXTINF:-1,Klas Radio
@@ -4996,18 +4685,12 @@ http://178.32.4.127:9040/stream
 http://yayin.turkhosted.com:6056/1
 #EXTINF:-1,Radio Glamorize
 https://live.radioglamorize.com/stream1
-https:/http:/adio-trtvoteast.medya.trt.com.tr/master.m3u8
-https:/http:/adio-trtmemleketimfm.medya.trt.com.tr/master.m3u8
 #EXTINF:-1,Özel FM
 https://ozelfm.80.yayin.com.tr/;stream/1
 #EXTINF:-1,Sultan Radyo
 http://yayin.turkhosted.com:4949/;
-https:/http:/adio-trttsr.medya.trt.com.tr/master.m3u8
-http:/http:/adyo.yayin.com.tr:6050//stream:
-https:/http:/adyo.yayin.com.tr:5898/;type=mp3
 #EXTINF:-1,Radyo ODTÜ Hit
 https://stream3.radyoodtu.com.tr:8000/hit;
-https:/http:/adio-trtradyo6.medya.trt.com.tr/master.m3u8
 #EXTINF:-1,Turkland
 https://moondigitaledge.radyotvonline.net/turkland/playlist.m3u8
 #EXTINF:-1,Arazaman
@@ -5016,23 +4699,16 @@ https://arazaman.stream.laut.fm/arazaman
 http://yayin2.canliyayin.org:7070/;
 #EXTINF:-1,Radyo Space
 http://anadolu.liderhost.com.tr:8888/;
-https:/http:/adio-trtvotwest.medya.trt.com.tr/master.m3u8
 #EXTINF:-1,Dogan 21 FM
 http://yayin1.yayindakiler.com:3024/;
 #EXTINF:-1,Karadenizim fm
 http://karadenizimfm.kesintisizyayin.com:9990/;
-http:/http:/adyo.yayin.com.tr:5924/stream
 #EXTINF:-1,Radyo Yakamoz
 http://live4.radyotvonline.com:6570/;
 #EXTINF:-1,Tempo FM
 https://stream2.rtvtakip.com:7016/stream?type=http&nocache=21
-http:/http:/adyo.yayin.com.tr:4052/stream
-https:/http:/adyo1.radyo-dinle.tc/8216/;/;type=mp3
 #EXTINF:-1,Habertürk Radyo
 https://haberturkradyo.radyotvonline.net/haberturkradyo
-https:/http:/adyo1.radyo-dinle.tc/8072/stream
-http:/http:/adyoremix.canliyayinda.com:8304/;
-http:/http:/adyo.softradyo.com:1140/;stream.nsv
 #EXTINF:-1,Radyo Derman
 https://ssl120.radyotelekom.com.tr/8710/stream/;
 #EXTINF:-1,Radio Net Dance
@@ -5041,9 +4717,6 @@ https://anadolu.liderhost.com.tr/6952/stream
 https://n10101m.mediatriple.net/jazz
 #EXTINF:-1,Lokum FM
 http://37.247.98.9:80/stream/493/
-http:/http:/adyo.normyazilim.com:8010/;stream.mp3
-http:/http:/adyofm23.canliyayinda.com:8280/;stream.mp3
-https:/http:/adyo1.radyo-dinle.tc:7002/;
 #EXTINF:-1,X Radio
 https://stream.xradio.com.tr:8770/stream
 #EXTINF:-1,Radyo Dengê Kurdî
@@ -5052,14 +4725,12 @@ https://anadolu.liderhost.com.tr:10930/;
 https://ssl120.radyotelekom.com.tr/8106/stream.mp4
 #EXTINF:-1,Radyo Gerçek 93.5
 http://ssl120.radyotelekom.com.tr:8198/;listen.pls
-http:/http:/adyokulup.canliyayinda.com:8282/;
 #EXTINF:-1,Radyo Umut
 http://yayin.canliyayin.org:8892/;stream.nsv
 #EXTINF:-1,Fistik FM
 https://yayin.turkhosted.com/6064/stream
 #EXTINF:-1,Dost Radyo
 http://yayin1.yayindakiler.com:3156/stream/1/
-https:/http:/adyogok.80.yayin.com.tr/;stream.nsv
 #EXTINF:-1,Radyo Arabesk
 https://yayin.radyoarabesk.com.tr:8000/stream
 #EXTINF:-1,Gold Türk
@@ -5072,7 +4743,6 @@ https://yayin.radyomadyo.com:8006/stream
 http://yayin1.canliyayin.org:8024/stream/1/;stream.nsv
 #EXTINF:-1,Non Stop Konya
 http://nonstopkonya.canliyayinda.com:9898/;stream.mp3
-http:/http:/adyo.yayin.com.tr:4012/;stream.mp3
 #EXTINF:-1,Gözde FM
 http://gozdefm.canliyayinda.com:5952/;stream.nsv
 #EXTINF:-1,Sivas FM
@@ -5083,8 +4753,6 @@ https://yayin.turkhosted.com:3030//;
 https://player.web.tr/listen/dfd13033c49a6569801474108a8bf098
 #EXTINF:-1,Kent Radyo 98.5
 https://anadolu.liderhost.com.tr:10906/;listen.pls?sid=1
-https:/http:/adyo.yayindakiler.com:4118/stream
-https:/http:/adyo.yayin.com.tr:4090/mp3
 #EXTINF:-1,Kiss Dance
 http://dijimedya.radyotvonline.net/kissdance
 #EXTINF:-1,Radyo Life
@@ -5099,7 +4767,6 @@ https://yayin.damarfm.com:8080/;stream.nsv
 http://yayin1.yayindakiler.com:3000/;
 #EXTINF:-1,GencKralFM
 https://anadolu.liderhost.com.tr/8090/stream:8090/stream
-https:/http:/adyo.yayindakiler.com:3016http:/enk
 #EXTINF:-1,A Haber Radyo News
 https://trkvz-radyolar.ercdn.net/anewsradyo/playlist.m3u8
 #EXTINF:-1,Radyo Art
@@ -5118,8 +4785,6 @@ http://yayin1.canliyayin.org:8026/;
 https://arabeskv.80.yayin.com.tr/;
 #EXTINF:-1,Radio Active
 http://yayin1.yayindakiler.com:3164/;
-https:/http:/adyo.yayin.com.tr:6090/;?1651003294923
-http:/http:/adyo.yayin.com.tr:8091/;
 #EXTINF:-1,Radyo Esenler
 http://yayin2.canliyayin.org:9928/;
 #EXTINF:-1,Radyo Venüs
@@ -5130,14 +4795,12 @@ https://n10101m.mediatriple.net/musiki
 https://kiyiturk.radioca.st/stream
 #EXTINF:-1,NRG Cafe
 https://live.nrgplay.com/stream/cafe
-https:/http:/adio-trtarabi.medya.trt.com.tr/master.m3u8
 #EXTINF:-1,Radyo Yuksel
 http://yayin2.canliyayin.org:8232/;stream
 #EXTINF:-1,RADYO 2000
 http://yayin.yayindakiler.com:3030/;*
 #EXTINF:-1,Gun FM
 https://ssl120.radyotelekom.com.tr/8130/stream
-http:/http:/adyolar.yayindinle.net:7755/;
 #EXTINF:-1,Magic FM
 http://yayin1.yayindakiler.com:3032/stream/1/
 #EXTINF:-1,Radyo 7 Kuran Meali
@@ -5156,8 +4819,6 @@ https://trkvz-radyolar.ercdn.net/apararadyo/playlist.m3u8
 https://live.radyositesihazir.com/8032/stream
 #EXTINF:-1,Kay Radyo
 http://yayin1.yayindakiler.com:3054/;
-http:/http:/adyo.turkuradyo.net:4591/;stream.mp3
-http:/http:/adyo.radyobizimfm.com:9212/;type=mp3
 #EXTINF:-1,Radyo Türkiyem
 http://yayin.turkiletisim.com.tr:9207/;stream.mp3
 #EXTINF:-1,Eşme fm
@@ -5174,36 +4835,26 @@ https://anadolu.liderhost.com.tr/8094/stream:8094/;
 http://yayin.yayindakiler.com:4134/streamTitle1
 #EXTINF:-1,Radyo Mola
 http://yayin1.yayindakiler.com:2018/;
-https:/http:/adyoto2.80.yayin.com.tr/;type=mp3
 #EXTINF:-1,ADA FM
 http://adafm.net:6262/;type=mp3
 #EXTINF:-1,Radyo Tek
 http://yayin2.yayindakiler.com:4202/;
-http:/http:/adyo.yayindakiler.com:4084/stream
-http:/http:/adyoak.canliyayinda.com:8026/;
-http:/http:/adyovetv.com:8001/;stream.mp3
-https:/http:/adio.mihr.comhttp:/adio/8020http:/adyoankara
 #EXTINF:-1,Turkuvaz Efsane
 https://trkvz-radyolar.ercdn.net/turkuvazefsane/playlist.m3u8
-http:/http:/adyo.yayin.com.tr:5896/;stream.nsv
 #EXTINF:-1,Radyo Time Türk
 http://yayin.yayindakiler.com:4195/;stream.mp3
-http:/http:/adyo70.80.yayin.com.tr/;
 #EXTINF:-1,Haktanfm
 https://anadolu.liderhost.com.tr:10980/;
 #EXTINF:-1,GurdekFm
 https://anadolu.liderhost.com.tr/8112/;;stream.nsv
-http:/http:/adyoki.kocaeli.edu.tr:8000/;stream.mp3
 #EXTINF:-1,ASR FM
 http://yayin2.yayindakiler.com:4072/;
 #EXTINF:-1,Number1 Ertuğrul Özkok
 https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e3d762b7d5_1/playlist.m3u8
-https:/http:/adio.mihr.comhttp:/adio/8000http:/adio.mp3
 #EXTINF:-1,Fecr Radyo
 https://yayin2.canliyayin.org:8934/;stream.mp3
 #EXTINF:-1,Bloomberg HT Radyo
 https://bloomberghtradyo.radyotvonline.net/bloomberghtradyo
-https:/http:/adyo.wlsrv.com:9082/;
 #EXTINF:-1,Radyo Ses Eskisehir
 http://live2.radyotvonline.com:8095/;
 #EXTINF:-1,Incitek FM
@@ -5212,21 +4863,16 @@ http://yayin2.yayindakiler.com:4204/;
 https://technoplayerserver.net/8078/stream
 #EXTINF:-1,Radyo Sevimli FM
 http://yayin2.canliyayin.org:7887/;stream
-http:/http:/adyo.sohbetburada.com:9998/;*.nsv
-https:/http:/adyo.yayin.com.tr:6038/stream
-http:/http:/adyo.yayin.com.tr:5926/;
 #EXTINF:-1,Mutlu FM
 http://mutlufm.canliyayinda.com:2828/;
 #EXTINF:-1,Radyo 13
 http://yayin1.yayindakiler.com:3050/stream/1/
-https:/http:/adyo.radyoimza.com/8008/stream
 #EXTINF:-1,General Fm
 https://anadolu.liderhost.com.tr:10886/;stream.nsv
 #EXTINF:-1,Garaj Radyo
 https://moondigitaledge.radyotvonline.net/garajradyo/playlist.m3u8
 #EXTINF:-1,Radyo Çanakkale
 https://ssl155.ozelip.com/asistan/stream/6825dfe06044de01cd730a0135b71a97
-https:/http:/adyo1.radyo-dinle.tc/8048/stream
 #EXTINF:-1,Pırıltı Radyo
 https://anadolu.liderhost.com.tr/8092/stream:8092/;
 #EXTINF:-1,Gebze FM
@@ -5235,46 +4881,34 @@ http://gebzefm.radyotvyayini.com:9530/;type=mp3
 https://moondigitaledge.radyotvonline.net/babyland/playlist.m3u8
 #EXTINF:-1,DWG Radio
 https://server23644.streamplus.de/;stream.mp3/;
-https:/http:/adyoyil.80.yayin.com.tr/stream
 #EXTINF:-1,Radyo Ozgur
 http://yayin.turkhosted.com:6072/;
-https:/http:/adyo1.radyo-dinle.tc:7102/stream
 #EXTINF:-1,Radyo 11
 http://95.173.161.131:9832/;*.nsv
 #EXTINF:-1,Demokrat FM
 https://sonic.dcnet.com.tr/8078/stream
 #EXTINF:-1,Radio Hayal FM
 http://yayin.radyohayalfm.net:8050/;
-https:/http:/adyo44.80.yayin.com.tr/steram/
 #EXTINF:-1,Radyo Talya
 https://ip157.ozelip.com/8012/stream
 #EXTINF:-1,Misket Radyo
 https://anadolu.liderhost.com.tr:10976/;
 #EXTINF:-1,Radyo Platin
 https://live.radyositesihazir.com/7010/stream
-http:/http:/adyo.yayin.com.tr:8117/;stream.nsv
-https:/http:/adyo1.radyo-dinle.tc/8098/;
 #EXTINF:-1,Radyo Pal Ala
 https://moondigitaledge.radyotvonline.net/palnostalji/playlist.m3u8
-https:/http:/adio-trtworld.medya.trt.com.tr/master.m3u8
 #EXTINF:-1,Serhat Fm
 http://yayin.serhatfm.com:9150/stream
 #EXTINF:-1,Arabeskin Merkezi FM
 https://canli.arabeskinmerkezi.com/9180/stream
-http:/http:/adyo.yayin.com.tr:6134/;stream.nsv
 #EXTINF:-1,Radyo Yorem
 http://live4.radyoyayini.com:9420/;
 #EXTINF:-1,Radyo Gun
 http://95.173.162.188:9952/;stream.mp3
-http:/http:/adyonevsehir.radyoyayini.com:5000/;
-https:/http:/adyo.yayindakiler.com:8022/;/stream
-http:/http:/adyo.trradyo.com:9982/;stream.mp3
 #EXTINF:-1,Radyo Flaş
 http://yayin.yayindakiler.com:4096/;stream.mp3
-https:/http:/adyoserver3.okeylisans.com:14000/8058/;
 #EXTINF:-1,Merkez FM
 https://sslyayin.radyoyayini.com:7007/stream
-http:/http:/adyo.hostlan.net:8004/stream/;
 #EXTINF:-1,Radyo Bir
 https://canli.radyobir.com.tr:7002/;stream/1
 #EXTINF:-1,Nebi FM
@@ -5295,12 +4929,8 @@ http://bilecikfm.kesintisizyayin.com:9980/;
 http://95.173.162.184:7350/;stream.nsv
 #EXTINF:-1,Radyo Deva
 http://95.173.188.156:9976/;stream.nsv
-https:/http:/adyoserver3.okeylisans.com:14000/8552/;
 #EXTINF:-1,Karadeniz Akustik
 https://karadenizakustik.radyotvonline.net/;?type=http&nocache=3230
-http:/http:/adyo.radyohost.net:5080/;
-https:/http:/adio.mihr.comhttp:/adio/8010/hakkinsesi
-https:/http:/adyo3.okeylisans.com/siyahfm/stream
 #EXTINF:-1,Max Fm 95.8 Maximum Music
 http://live2.radyotvonline.com:8025/;
 #EXTINF:-1,Radyo Eksen 96.2
@@ -5313,18 +4943,14 @@ http://stream.radio.co/s55d598f42/listen
 http://37.247.98.8:80/stream/25/;
 #EXTINF:-1,Gözyaşı FM
 http://yayin1.canliyayin.org:8700/;*.mp3
-https:/http:/adyo-t.gedik.edu.tr/stream.mp3
 #EXTINF:-1,Türkülerle Türkiye
 http://37.247.98.8:80/stream/22/;
 #EXTINF:-1,Radyo ODTU - MixTape
 https://stream3.radyoodtu.com.tr:8000/karisikkaset
 #EXTINF:-1,Ahaber
 http://trkvz-radyolar.ercdn.net/ahaberradyo/chunklist.m3u8
-http:/http:/adyo.yayin.com.tr:4108/stream
-https:/http:/adio-trtradyo3.live.trt.com.tr/master.m3u8
 #EXTINF:-1,KEYF STATION
 http://yayin.radyomadyo.com:8002/stream
-https:/http:/adio-trtradyohaber.live.trt.com.tr/master.m3u8
 #EXTINF:-1,Diyanet Kur&#039;an Radyo
 https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3c14192aa92.smil/playlist.m3u8
 #EXTINF:-1,A Haber Radyo
@@ -5345,12 +4971,10 @@ https://live.radyositesihazir.com/8078/stream
 https://turkmedya-live.ercdn.net/tv24/tv24.m3u8
 #EXTINF:-1,Erzincan Radyo 2000
 http://yayin.yayindakiler.com:3030/;*.mp3?%26token=3sQUZFuIIlYXYQ_Sq1Znxw%26expires=1616312970%27%20type=%27audio/mp3%27&rd2=%27https:/http:/adyo.vip/str
-http:/http:/adyopiryolu.canliyayinda.com:8165/;
 #EXTINF:-1,Pal Doğa
 http://shoutcast.radyogrup.com:1040/;*.mp3
 #EXTINF:-1,Radyo Dem
 https://yayin.radyodem.com:8000/;
-http:/http:/adyo.amedradyotv.net:8000/;
 #EXTINF:-1,Arkadaş Radyo
 https://ssl120.radyotelekom.com.tr/9998/stream
 #EXTINF:-1,Can Tv
@@ -5365,7 +4989,6 @@ http://198.7.59.28:8146/;
 https://anadolu.liderhost.com.tr:10939/;
 #EXTINF:-1,Halk Radyo
 https://anadolu.liderhost.com.tr:10876/;
-http:/http:/adio.kurdfm.com:4747/;
 #EXTINF:-1,Med Radyo
 http://medradyo.kesintisizyayin.com:8062/stream
 #EXTINF:-1,Gundi Fm
@@ -5374,8 +4997,6 @@ http://gundifm.ozelip.com:7830/;
 http://yayin.pazarcikfm.com:9090/;
 #EXTINF:-1,Turkuvaz Musiki
 https://trkvz-radyolar.ercdn.net/turkuvazmusiki/playlist.m3u8
-https:/http:/adio-trttsr.live.trt.com.tr/master.m3u8
-https:/http:/adio-trtvoteast.live.trt.com.tr/master_128.m3u8
 #EXTINF:-1,DamarTurk FM
 https://live.radyositesihazir.com:10997/stream?type=http&nocache=99881
 #EXTINF:-1,Powerplus
@@ -5386,7 +5007,6 @@ http://shoutcast.radyogrup.com:1020/;
 http://22603.live.streamtheworld.com:80/SUPER_FMAAC_SC
 #EXTINF:-1,Can Radyo Kayseri
 https://ip132.ozelip.com:7040/;
-http:/http:/adyomgm.canliyayinda.com/;stream.mp3
 #EXTINF:-1,Radyo Munzur Dersim
 https://anadolu.liderhost.com.tr:10939/;?1651228613876
 #EXTINF:-1,Havin FM
@@ -5395,7 +5015,6 @@ http://yayin6.radyohizmeti.com:7050/;stream.mp3
 https://ssl123.ozelip.com:7000/;
 #EXTINF:-1,Cemre Fm Mardin
 http://yayin1.canliyayin.org:8024/stream
-https:/http:/adyo.imzamedya.web.tr/8006/stream
 #EXTINF:-1,NUMBER ONE DEEP HOUSE
 https://n10101m.mediatriple.net/deephouse
 #EXTINF:-1,NUMBER ONE SLOW
@@ -5410,10 +5029,8 @@ https://listen.powerapp.com.tr/powerturkdans/abr/powerturkdans/128/playlist.m3u8
 https://anadolu.liderhost.com.tr:10961/;
 #EXTINF:-1,EGE HAVALARI TURKEY
 https://moondigitalmaster.radyotvonline.net/egehavalari/playlist.m3u8
-https:/http:/adyo.duhnet.tv/dreamturk
 #EXTINF:-1,EFSANE 4LÜ TURKEY
 https://moondigitalmaster.radyotvonline.net/efsane4lu/playlist.m3u8
-https:/http:/adyo.slmbilisim.net/8004/stream
 #EXTINF:-1,GÖKKUŞAĞI RADYO TURKEY
 http://gokkusagiradyo.kesintisizyayin.com:8008/;
 #EXTINF:-1,KLAS RADİO TURKEY
@@ -5432,7 +5049,6 @@ https://yayin.hostwin.net/8888/stream%20%20oyunpiyatfm
 http://yayin1.yayindakiler.com:3002/;stream.nsv
 #EXTINF:-1,Bizim Radyo
 https://ip132.ozelip.com:7017/;
-https:/http:/adyotrio.radyotvonline.nethttp:/adyotrio
 #EXTINF:-1,Radyo 45lik yeni
 https://stream.radyo45lik.com:4545/
 #EXTINF:-1,Nr1
@@ -5453,22 +5069,16 @@ https://live.radyofenomen.com/fenomen2010/abr/playlist.m3u8
 https://live.powerapp.com.tr/powerturk/abr/powerturk/128/playlist.m3u8
 #EXTINF:-1,KRAL POP ALTERNATİF 2
 https://ssldyg.radyotvonline.com/smil/smil:kralpop.smil/playlist.m3u8
-http:/http:/adyolar.yayindinle.net:8585/;stream.mp3
 #EXTINF:-1,Arabesk Alemi
 http://arabeskalemi.net:9300/;
-http:/http:/adyo1.radyo-dinle.tc:8030/;
 #EXTINF:-1,Eker Radyo
 https://anadolu.liderhost.com.tr/8066/stream
-http:/http:/adyo1.radyo-dinle.tc:8214/;stream.nsv
 #EXTINF:-1,Radyo Tutkal
 https://live.radyositesihazir.com/8034/stream
-https:/http:/adyorap.ozelip.com/8182http:/adyorap
-https:/http:/adyo.yayin.com.tr:4122/stream
 #EXTINF:-1,Azadi Fm
 https://amed.ozelip.com/8040/stream
 #EXTINF:-1,臺北廣播電臺
 https://stream.ginnet.cloud/live0130lo-yfyo/_definst_/fm/playlist.m3u8
-http:/http:/adio.suprememastertv.com/mp3_128k
 #EXTINF:-1,中廣音樂網i radio
 http://n06a-eu.rcs.revma.com/ndk05tyy2tzuv?rj-ttl=5&rj-tok=AAABiLQIxoUAVppP2RJLBWDgSw
 #EXTINF:-1,正聲綜合台
@@ -5555,7 +5165,6 @@ https://static.vovworld.vn/Uploaded/kimlan/2016_07_23/lan_het.mp3
 https://str.vov.gov.vn/vovlive/vov1vov5Vietnamese.sdp_aac/playlist.m3u8
 #EXTINF:-1,VOV 2
 http://media.kythuatvov.vn:7003/;stream.nsv
-http:/http:/fivietnamien96k.ice.infomaniak.chhttp:/fivietnamien-96k.mp3
 #EXTINF:-1,VOV 5 World 24/7 English
 https://stream.vovmedia.vn/vov247
 #EXTINF:-1,Hoa Binh TV
@@ -5576,5 +5185,3 @@ http://media.kythuatvov.vn:7023/;stream/
 http://media.kythuatvov.vn:7007/;stream/
 #EXTINF:-1,Test Radio
 https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3
-https:/http:/adio.lainzine.org:8443/music
-http:/http:/adio1.sotmasr.com:9300/;stream.nsv

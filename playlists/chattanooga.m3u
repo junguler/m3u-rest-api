@@ -1,0 +1,23 @@
+#EXTM3U
+#EXTINF:-1,AFR Talk
+https://mediaserver3.afa.net:8443/talk.mp3
+#EXTINF:-1,WUTC 88.1 FM
+https://22213.live.streamtheworld.com/WUTCFM.mp3
+#EXTINF:-1,Air1 Radio
+https://emf-seg001029.cdnstream1.com/seg001029-i64.aac?platform=iheart&city=san-jose&country=united-states&geo_api=abstract_ip&latitude=37.3361663&longitude=-121.890591&opawg_result=false&region=california&segment=001029&t=1&k=ZrTXzyzjDpa7IBUrjj7KQ9fO_ENt52xruwvBaCtzPk8Jk-VWepwIJIZkZYw_bcQiNYXHEQzSq0sZyH4rMluGCFqlwzgc0u_LYe_3ay8F2jLTA_2E1PSQpyMAQdu3fUvpzp6qWQs
+#EXTINF:-1,Sunny 92.3
+https://26223.live.streamtheworld.com/WDEFFMAAC.aac
+#EXTINF:-1,Talk Radio 102.3
+https://18003.live.streamtheworld.com/WGOWFMAAC.aac
+#EXTINF:-1,Hits 96
+https://22213.live.streamtheworld.com/WDODFMAAC.aac
+#EXTINF:-1,KZ106
+https://26293.live.streamtheworld.com/WSKZFMAAC.aac
+#EXTINF:-1,NewsRadio 1150 WGOW
+https://15313.live.streamtheworld.com/WGOWAMAAC.aac
+#EXTINF:-1,Q97.3/99.3
+https://14553.live.streamtheworld.com/WUUQFMAAC.aac
+#EXTINF:-1,J103
+https://26143.live.streamtheworld.com/WBDXFMAAC.aac
+#EXTINF:-1,New 107.9 Country
+https://22123.live.streamtheworld.com/WOGTFMAAC.aac

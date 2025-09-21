@@ -1,5 +1,207 @@
 #EXTM3U
+#EXTINF:-1,Raidió na Life
+http://beryl.streamguys.com:5010/live
+#EXTINF:-1,RTÉ Radio 1
+https://29053.live.streamtheworld.com/RTE_1_INTAACLC/HLS/playlist.m3u8?tdsdk=rte
+#EXTINF:-1,RTÉ Raidió na Gaeltachta
+https://28953.live.streamtheworld.com/RTE_RAIDIO_NA_GAELTACHTAAACLC/HLS/playlist.m3u8?tdsdk=rte
+#EXTINF:-1,West Limerick 102 fm
+http://s29.myradiostream.com:17796/listen.mp3?nocache=1758418266
+#EXTINF:-1,Radio Campania
+https://live.radiocampania.eu/radio/8000/radio.mp3
+#EXTINF:-1,Highland Radio
+https://edge7.audioxi.com/HIGHLAND
+#EXTINF:-1,Newstalk 106 FM
+https://edge2.audioxi.com/NT
+#EXTINF:-1,Q Radio Belfast
+http://icy-e-03-boh.sharp-stream.com/qr967.mp3
+#EXTINF:-1,The Freak
+https://streaming.brol.tech/rtfmlounge
+#EXTINF:-1,Today FM 100
+https://edgex.audioxi.com/TD
 #EXTINF:-1,Simulcast
 http://audio-edge-4ev3b.lax.g.radiomast.io/89e24041-fdab-4b2d-95bd-830f5bfda900
 #EXTINF:-1,Irish Radio Canada
 http://c5.radioboss.fm:8213/autodj
+#EXTINF:-1,IrishRadio.org
+http://198.100.145.185:8866/stream
+#EXTINF:-1,Hope Radio Ireland
+http://65.108.124.70:7366/stream
+#EXTINF:-1,Dublin&#039;s Q102
+https://live.onic.ie/stream-q102
+#EXTINF:-1,Radio Kerry
+https://edge.audioxi.com/KERRY
+#EXTINF:-1,Q102 80s
+https://live.onic.ie/stream-80s
+#EXTINF:-1,Flirt FM 101.3
+http://audio-edge-5bkfj.fra.h.radiomast.io/89e24041-fdab-4b2d-95bd-830f5bfda900
+#EXTINF:-1,Claremorris Community
+https://s2.radio.co/sddd96b52a/listen
+#EXTINF:-1,Flirt FM
+https://audio-edge-3mayu.fra.h.radiomast.io/89e24041-fdab-4b2d-95bd-830f5bfda900
+#EXTINF:-1,Louth Meath FM
+https://live.onic.ie/stream-lmfm
+#EXTINF:-1,Power FM
+http://war.powerfm.org:8000/powerfm.mp3
+#EXTINF:-1,irish folk
+http://irish-folk.stream.laut.fm/irish-folk
+#EXTINF:-1,folk and more
+http://folk-and-more.stream.laut.fm/folk-and-more
+#EXTINF:-1,macslons irish pub radio
+http://macslons-irish-pub-radio.stream.laut.fm/macslons-irish-pub-radio
+#EXTINF:-1,rhein neckar pfalz rockradio
+http://rhein-neckar-pfalz-rockradio.stream.laut.fm/rhein-neckar-pfalz-rockradio
+#EXTINF:-1,Clare FM radio
+https://edge.audioxi.com/CLAREFM
+#EXTINF:-1,Macslons-Irish-Pub Radio
+https://macslons-irish-pub-radio.stream.laut.fm/macslons-irish-pub-radio
+#EXTINF:-1,Cork's 96 FM radio
+https://live.onic.ie/stream-96fm
+#EXTINF:-1,Global Irish Radio
+https://s3.radio.co:80/s05b500bb8/listen
+#EXTINF:-1,The Sound of Ireland radio
+https://christmasfm.cdnstream1.com/2548_128.mp3
+#EXTINF:-1,Raidió Fáilte radio
+https://radio.canstream.co.uk:9072/live.mp3
+#EXTINF:-1,Wired 99.9FM radio
+https://s2.radio.co/sf0986595a/listen
+#EXTINF:-1,Galway Bay FM
+https://wg.cdn.tibus.net/galwaybay.mp3
+#EXTINF:-1,RTÉ 2fm
+http://icecast1.rte.ie/2fm
+#EXTINF:-1,News Talk
+http://stream.audioxi.com/NT
+#EXTINF:-1,Today FM
+http://stream.audioxi.com/TD
+#EXTINF:-1,Midwest Radio FM
+http://edge-audio-03-gos2.sharp-stream.com/midwestfmie.mp3
+#EXTINF:-1,Dublin's Q 102 FM
+https://cdn2.talksport.com/tscdn/virginradio/audio/georestriction.mp3
+#EXTINF:-1,East Coast FM
+http://sirius.shoutca.st:8673/
+#EXTINF:-1,BFBS Radio Northern Ireland
+http://edge-audio-03-gos2.sharp-stream.com/ssvcbfbs4.mp3?i=ssvcbfbs4.mp3.m3u
+#EXTINF:-1,KAN TARBUT - כאן תרבות
+https://25603.live.streamtheworld.com/KAN_TARBUT.mp3?dist=bynetredirect
+#EXTINF:-1,NearFM
+http://proxima.shoutca.st:8114/
+#EXTINF:-1,liveIreland
+http://192.111.140.11:8058/
+#EXTINF:-1,Folk Alley - Classic Folk
+https://freshgrass.streamguys1.com/ss1-128mp3
+#EXTINF:-1,Folk Alley - Irish Music Stream
+https://freshgrass.streamguys1.com/irish-128mp3
+#EXTINF:-1,Folk Alley - Fresh Cuts
+https://freshgrass.streamguys1.com/freshcuts-128mp3
+#EXTINF:-1,.977 Today&amp#39s Hits
+https://15113.live.streamtheworld.com/977_HITSAAC_SC?dist=onlineradiobox
+#EXTINF:-1,Q102
+https://edge.audioxi.com/HIGHLAND
+#EXTINF:-1,Midwest Radio
+http://listen-midwest.sharp-stream.com/midwestfmie2.aac
+#EXTINF:-1,Live Ireland Channel 2
+http://192.111.140.11:8058/stream/
+#EXTINF:-1,Wire FM
+http://s2.radio.co/sf0986595a/listen
+#EXTINF:-1,Cork’s Red FM
+https://edge.audioxi.com/RED
+#EXTINF:-1,Newstalk
+https://stream.audioxi.com/NT
+#EXTINF:-1,FM104
+https://live-bauerie.sharp-stream.com/HIGHLAND
+#EXTINF:-1,WLR FM
+http://stream.audioxi.com/WLRAAC
+#EXTINF:-1,Kfm Radio
+http://sirius.shoutca.st:9307/stream
+#EXTINF:-1,Eirewave
+https://eirewave.ice.infomaniak.ch/eirewave-128.mp3
+#EXTINF:-1,Dundalk FM
+https://securestreams5.autopo.st:1894/mp3/
+#EXTINF:-1,Raidió Corca Baiscinn
+http://178.33.135.245:3074/stream
+#EXTINF:-1,Liffey Sound FM
+http://stream.liffeysoundfm.ie:8000/listen.pls.mp3
+#EXTINF:-1,Absolute Irish Radio - 64 - Ireland - irish music
+http://stream.audioxi.com/IRISHAAC
+#EXTINF:-1,Folk Alley Irish Stream [AAC] - 64 - The United States Of America - folk - irish folk
+http://freshgrass.streamguys1.com/irish-64aac
+#EXTINF:-1,Radio Nightingale Classical
+https://free.rcast.net/251253
+#EXTINF:-1,Irish Country Radio
+https://free.rcast.net/251121
+#EXTINF:-1,Birdhill Radio Irish Live From Ireland
+https://free.rcast.net/246887
+#EXTINF:-1,Radio Ferrymead 1413AM
+https://free.rcast.net/246141
+#EXTINF:-1,Back to Back Irish traditional and folk music
+https://free.rcast.net/241671
+#EXTINF:-1,Back to Back Songs only Irish traditional and folk music
+https://free.rcast.net/239825
+#EXTINF:-1,Back to Back Soothing Irish traditional and folk music
+https://free.rcast.net/239143
+#EXTINF:-1,Back to Back Energetic Irish traditional and folk music
+https://free.rcast.net/238297
+#EXTINF:-1,The dedicated fiddle stream - Ceol FM Irish traditional and folk music
+https://free.rcast.net/237614
+#EXTINF:-1,The dedicated Uilleann pipes stream - Ceol FM Irish traditional and folk music
+https://free.rcast.net/236817
+#EXTINF:-1,irish-128mp3
+https://c5.radioboss.fm:18213/stream
+#EXTINF:-1,Absolute Irish
+https://free.rcast.net/232216
+#EXTINF:-1,IRISH PUB RADIO
+https://free.rcast.net/231216
+#EXTINF:-1,ILAYARAJA FM
+https://free.rcast.net/210428
+#EXTINF:-1,Irish Country Music Radio Studio 1 Leitrim
+https://free.rcast.net/4387
+#EXTINF:-1,Alternative Reign - Christian Alternative Radio
+https://free.rcast.net/1135
+#EXTINF:-1,MacSlon s Irish Pub Radio
+https://free.rcast.net/8631
+#EXTINF:-1,Ceol FM - Live
+http://ceol.fm:8000/live
+#EXTINF:-1,RTÉ Radio 1 Extra
+http://icecast1.rte.ie/radio1extra
+#EXTINF:-1,Live Ireland 2
+http://lynx.prostreaming.net:8058/stream/
+#EXTINF:-1,Sunshine 106.8
+http://stream.audioxi.com/SUN
+#EXTINF:-1,Calm Radio - Celtic
+http://streams.calmradio.com:3028/stream/
+#EXTINF:-1,Rebs FM
+http://2j0z.com/radio/8000/radio.mp3
+#EXTINF:-1,MacSlon's Irish Pub Radio
+https://macslons-irish-pub-radio.stream.laut.fm/macslons-irish-pub-radio?t302=2025-09-06_17-20-42&uuid=4d4b657e-ed1e-483f-b9ac-6a84f87a2fad
+#EXTINF:-1,Radio Siamsa
+https://cast02.siamsa.ie/radio/8000/mobile.mp3
+#EXTINF:-1,Century Radio (NI)
+https://s2.radio.co/s87ffbc098/listen
+#EXTINF:-1,AM 950 WROL - WROL
+https://18743.live.streamtheworld.com/WROLAM.mp3
+#EXTINF:-1,Near FM
+http://proxima.shoutca.st:8114/stream
+#EXTINF:-1,Ocean FM Ireland
+http://edge4.audioxi.com/OCEANDAAC
+#EXTINF:-1,Celtic Sounds
+https://celtic-sounds.stream.laut.fm/celtic-sounds?t302=2025-09-06_17-20-43&uuid=8473f3ab-5b3b-4f22-b712-6aa173fc801d
+#EXTINF:-1,GotRadio - Celtic Crossing
+http://gr02.cdnstream.com:8010/
+#EXTINF:-1,Irish Radio Online
+http://cast1.citrus3.com:8866/stream
+#EXTINF:-1,irish-folk
+http://irish-folk.stream.laut.fm/irish-folk?t302=2025-09-06_17-20-43&uuid=5a8b12ba-0591-4018-a96d-3a5b428629cf
+#EXTINF:-1,Finn Valley FM
+http://visual.shoutca.st/stream/finnvalleyfm/stream
+#EXTINF:-1,Celtic Salmon
+http://das-edge11-live365-dal03.cdnstream.com/a55531
+#EXTINF:-1,Exclusively The Dubliners
+https://2.mystreaming.net/er/thedubliners/icecast.audio
+#EXTINF:-1,Country Western Radio - Irish Country
+http://drive.uber.radio/uber/cmririshcountry/icecast.audio
+#EXTINF:-1,AM 950 WROL – WROL
+http://26143.live.streamtheworld.com/WROLAM
+#EXTINF:-1,Dublin’s 98FM
+http://stream.audioxi.com/98
+#EXTINF:-1,Radio Celtic-Sounds
+http://celtic-sounds.stream.laut.fm/celtic-sounds?t302=2025-09-19_04-48-34&uuid=38e0897b-7834-45b5-89b3-d7068a56a77e

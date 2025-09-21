@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1,Atlantis Radio
+https://us2.amfmph.com:8080/stream?1609414161410
+#EXTINF:-1,Remix Radio Philippines
+http://209.126.124.126:8063/stream
+#EXTINF:-1,Mix 105.5 - KPMW-FM
+https://s5.radio.co/s16a1d562a/listen
 #EXTINF:-1,Radyo Natin Laguna
 https://wave.radyonatinfm.com/listen/dzva/laguna
 #EXTINF:-1,Radyo Natin Hamtic
@@ -41,3 +47,273 @@ https://fx.radyonatinfm.com/listen/dwrm/sanjose
 https://phils.radyonatinfm.com/listen/dzvh/boac
 #EXTINF:-1,Pines FM Bataraza
 https://xcite.radyoph.com/listen/pines/pinesfm
+#EXTINF:-1,iFM
+https://magic.radioca.st/stream
+#EXTINF:-1,DWIZ
+https://dwizmanila.radioca.st/stream
+#EXTINF:-1,K-Lite
+https://streaming.brol.tech/rtfmlounge
+#EXTINF:-1,Favradio
+http://stream.hornhost.com:8109/;stream.mp3
+#EXTINF:-1,DYRI
+https://us1.amfmph.com:8011/live
+#EXTINF:-1,V-Hive
+http://192.99.8.192:3154/www.vhiveradio.com/;
+#EXTINF:-1,Indy Radio
+https://indylive.radioca.st/stream
+#EXTINF:-1,Radio Maria
+http://dreamsiteradiocp2.com:8052/stream.mp3
+#EXTINF:-1,DXKI Strong Radio 90.3
+http://67.212.238.178:7007/;stream.nsv
+#EXTINF:-1,JAKXFM
+https://de3.amfmph.com:8150/stream
+#EXTINF:-1,The Ranch FM - DYME 95.9
+http://206.190.130.182:8004/autodj
+#EXTINF:-1,74.6 ILONGGA LOVE FM
+https://stream.hornhost.com/8038/stream
+#EXTINF:-1,PHR 80.9 Fm
+https://djsamu.radioca.st/;stream.nsv
+#EXTINF:-1,WPRK 91.5 FM
+https://wprk.broadcasttool.stream:80/stream
+#EXTINF:-1,AXR Manila
+https://22243.live.streamtheworld.com:443/AXR_MANILAAAC.aac
+#EXTINF:-1,WDQS
+https://edge.mixlr.com/channel/udecx
+#EXTINF:-1,105.1 Brigada News FM Manila
+http://18.141.67.248:8068/stream
+#EXTINF:-1,201.9 Adzaa Online Radio FM
+https://stream.hornhost.com/8016/stream
+#EXTINF:-1,Qabayan Radio 94.3 FM
+http://c2.radioboss.fm:8478/live
+#EXTINF:-1,Prime FM Tagalog
+http://de3.amfmph.com:8251/high_live
+#EXTINF:-1,MYX P-POP Radio
+http://das-edge11-live365-dal03.cdnstream.com/a63316
+#EXTINF:-1,Love Radio Palawan
+http://loveradiopalawan.radioca.st:8105/stream
+#EXTINF:-1,DWIZ-FM Palawan
+http://palawan.radioca.st:9381/stream
+#EXTINF:-1,RMN DYHB Bacolod
+http://us2.amfmph.com:8848/live
+#EXTINF:-1,GV 99.1
+https://edge.mixlr.com/channel/gtqpn?listening-from-radio-garden=1654604184
+#EXTINF:-1,Brigada News FM Dumaguete
+https://dumaguetestream.brigadanews.ph/;
+#EXTINF:-1,Magik FM Dipolog
+http://magikfm.live:8070/stream
+#EXTINF:-1,Magik FM Cauayan
+http://magikfm.live:8040/stream
+#EXTINF:-1,Magik FM Vigan
+http://magikfm.live:8010/stream
+#EXTINF:-1,Home Radio Davao
+http://hrdavao.radioca.st:9357/stream
+#EXTINF:-1,Brigada News FM Puerto Princesa, Palawan
+https://puertopalawanstream.brigadanews.ph/;
+#EXTINF:-1,Home Radio Legazpi
+http://legaspi.radioca.st:9373/stream
+#EXTINF:-1,Brigada News FM Bicol (Legazpi)
+https://legaspistream.brigadanews.ph/;
+#EXTINF:-1,Brigada News FM Sorsogon
+https://sorsogonstream.brigadanews.ph/;
+#EXTINF:-1,Home Radio Naga
+http://hrnaga.radioca.st:9349/stream
+#EXTINF:-1,Brigada News FM Bogo
+https://bogostream.brigadanews.ph/;
+#EXTINF:-1,DWIZ-FM Dagupan
+http://dagupan.radioca.st:9377/stream
+#EXTINF:-1,Brigada News FM Kalibo
+https://kalibostream.brigadanews.ph/;
+#EXTINF:-1,Brigada News FM San Carlos
+https://sancarlosstream.brigadanews.ph/;
+#EXTINF:-1,Brigada News FM Butuan
+https://butuanstream.brigadanews.ph/;
+#EXTINF:-1,Brigada News FM Dipolog
+https://dipologstream.brigadanews.ph/;
+#EXTINF:-1,Brigada News FM Valencia
+https://valenciastream.brigadanews.ph/;
+#EXTINF:-1,Brigada News FM Tagum
+https://tagumstream.brigadanews.ph/;
+#EXTINF:-1,Brigada News FM Kidapawan
+https://kidapawanstream.brigadanews.ph/;
+#EXTINF:-1,Brigada News FM Oroquieta
+https://oroquietastream.brigadanews.ph/;
+#EXTINF:-1,Brigada News FM Koronadal
+https://koronadalstream.brigadanews.ph/;
+#EXTINF:-1,Brigada News FM Batangas
+https://cagayanstream.brigadanews.ph/;
+#EXTINF:-1,Brigada News FM Gensan
+https://gensanstream.brigadanews.ph/;
+#EXTINF:-1,Kings Radio Davao
+http://us1.amfmph.com:8708/live
+#EXTINF:-1,CCTN 47 Cebu
+http://122.55.252.134:8443/live/bba5b536faeacb9b56a3239f1ee8e3b3/1.m3u8
+#EXTINF:-1,Yes The Best Cebu
+http://yesfmcebu.radioca.st:9136/stream
+#EXTINF:-1,MemoRieS FM 89.9 Cebu
+http://67.212.238.178:7134/stream
+#EXTINF:-1,Brigada News FM Cauayan
+https://cauayanstream.brigadanews.ph/;
+#EXTINF:-1,Brigada News FM Toledo
+https://toledostream.brigadanews.ph/;
+#EXTINF:-1,Brigada News FM Pampanga
+https://pampangastream.brigadanews.ph/;
+#EXTINF:-1,Brigada News FM Olongapo
+https://olongapostream.brigadanews.ph/;
+#EXTINF:-1,Brigada News FM Daet
+https://daetstream.brigadanews.ph/;
+#EXTINF:-1,Yes The Best Urdaneta
+http://yesfmurdaneta.radioca.st:8258/stream
+#EXTINF:-1,RPN DZRL Batac
+http://dzrl-rpnradio.radioca.st:8956/stream
+#EXTINF:-1,Radyo Natin Ormoc
+https://fx.radyonatinfm.com/listen/dyxc/ormoc
+#EXTINF:-1,RPN DZBS Baguio
+http://dzbs-rpnradio.radioca.st:8169/stream
+#EXTINF:-1,RPN DZKI Iriga
+http://dzki-rpnradio.radioca.st:8996/stream
+#EXTINF:-1,RPN DYKB Bacolod
+http://dykb-rpnradio.radioca.st:8251/stream
+#EXTINF:-1,Dream Radio Tacloban
+http://streamnavs.net:8133/live
+#EXTINF:-1,RPN DXKS Surigao
+http://dxks-rpnradio.radioca.st:8448/stream
+#EXTINF:-1,RPN DXKO Cagayan de Oro
+http://dxko-rpnradio.radioca.st:8960/stream
+#EXTINF:-1,RPN DXKT Davao
+http://dxkt-rpnradio.radioca.st:9056/stream
+#EXTINF:-1,RPN DXKD Dipolog
+http://dxkd-rpnradio.radioca.st:8481/stream
+#EXTINF:-1,RPN DXKP Pagadian
+http://dxkp-rpnradio.radioca.st:8091/stream
+#EXTINF:-1,RPN DXXX Zamboanga
+http://dxxx-rpnradio.radioca.st:8452/stream
+#EXTINF:-1,Nice Radio Naval Biliran
+http://us2.amfmph.com:8872/live
+#EXTINF:-1,Magik FM Lucena
+http://magikfm.live:8050/stream
+#EXTINF:-1,Magik FM Butuan
+http://magikfm.live:8130/stream
+#EXTINF:-1,Magik FM Tacloban
+http://magikfm.live:8060/stream
+#EXTINF:-1,Magik FM Laoag
+http://magikfm.live:8020/stream
+#EXTINF:-1,Frendz Radio - Radyo Ni Juan Stream
+http://us2.amfmph.com:9121/live
+#EXTINF:-1,Love Radio Bacolod
+http://loveradiobacolod.radioca.st:8088/stream
+#EXTINF:-1,Strong Radio 90.3 Cagayan De Oro
+http://67.212.238.178:7007/stream
+#EXTINF:-1,Favradio radio
+http://stream.hornhost.com:8109/stream.mp3
+#EXTINF:-1,Favradio, Manila radio
+https://stream.hornhost.com/8109/stream.mp3
+#EXTINF:-1,pinoy power media
+https://das-edge12-live365-dal02.cdnstream.com/a67821
+#EXTINF:-1,KRM Internet Radio
+https://das-edge17-live365-dal02.cdnstream.com/a76936
+#EXTINF:-1,MYX Radio
+https://das-edge17-live365-dal02.cdnstream.com/a06369
+#EXTINF:-1,Heavy Rotation
+https://das-edge14-live365-dal02.cdnstream.com/a23336
+#EXTINF:-1,DIONENG RADIO STATION
+https://das-edge16-live365-dal02.cdnstream.com/a29646
+#EXTINF:-1,88.9 Team Baliw Cp Fm
+https://wmxm.streamguys1.com/live?an-uid=6427168739786314769&dot-uid=0ae52204009353f711da024a&triton-uid=cookie%3A345bdb43-71b8-47fb-b613-7da161aa708a&amb-uid=3129243929485457110&dbm-uid=CAESEEbOY3J2oB4CQAcvph7s9LM&cto-uid=26930a0e-f907-449c-864d-404b5d9d618c-66b725f6-5553&bsw-uid=af63dd95-0d85-4708-8a4e-f3d900a3586c&dyn-uid=5267274478558955079&ttd-uid=d14d7e6b-bf1a-4e1f-bad4-4e32f212091b&aw_0_req_lsid=395aab042974d6ad00dfce845aad63e4
+#EXTINF:-1,Heatwave Radio Pacific
+http://192.111.140.11:8240/
+#EXTINF:-1,Play FM
+https://play995.radioca.st/stream/
+#EXTINF:-1,Wild FM Iloilo City
+https://de3.amfmph.com:8133/stream
+#EXTINF:-1,DWLS Barangay LS 97.1 FM live
+https://magic.radioca.st/stream?disc=thenonstopradio.com
+#EXTINF:-1,Radyo La Verdad
+https://sp.unoredcdn.net/8024/stream
+#EXTINF:-1,Smash FM
+http://s6.yesstreaming.net:8024/stream/1/
+#EXTINF:-1,Love Radio Santiago
+http://lovesantiago.radioca.st:8832/stream
+#EXTINF:-1,DZRH News
+https://streamingv2.shoutcast.com/JamendoLounge
+#EXTINF:-1,91.1 Love Radio Tacloban live
+https://lovetacloban.radioca.st/
+#EXTINF:-1,MOR Cebu
+https://dwizmanila.radioca.st/stream?
+#EXTINF:-1,97.1 Solid Love FM
+https://azura.971solidlovefm.com/listen/solidlovefm/radio.mp3
+#EXTINF:-1,OK-FM 97.5 DZOK-FM
+https://delivery-cdn-cf.adswizz.com/generic_newEnco/ad_0_a1d92e4c269a4631a3bb3653647dc7e2_862c32a8026fd29ed4a35fc369cf2f23_91.mp3
+#EXTINF:-1,Radyo Natin Santiago
+https://pinas.radyonatinfm.com/listen/dwtr/radio
+#EXTINF:-1,Green Giant FM
+https://p.scdn.co/mp3-preview/507d712d031bc1acf365680ddb5fd85cb55fe352?
+#EXTINF:-1,Radyo Natin Agoo
+https://pinas.radyonatinfm.com/listen/dwis/agoo
+#EXTINF:-1,guimaraskissfm
+https://dharkgfx.com/radio/8010/radio.mp3
+#EXTINF:-1,Memories FM 89.9
+http://s5.reliastream.com:7134/stream
+#EXTINF:-1,Radyo Natin Tiwi
+https://io.radyonatinfm.com/listen/dwru/tiwi
+#EXTINF:-1,89.7 Touch Fm
+https://stream.hornhost.com/8126/stream
+#EXTINF:-1,GOLD RADIO BROADCASTING STATION
+https://radio.lotustechnologieslk.net:2020/stream/goldfmgarden
+#EXTINF:-1,Sky Radio
+https://22543.live.streamtheworld.com/SKYRADIO.mp3?dist=skyradio_web&ttag=talpa_consent:0&gdpr=1&gdpr_consent=CPdYzQAPdYzQAADABCNLCYCgAAAAAEJAAAAAAAAMEgJgAVAAuACAAGQARAAmgBPADEAH4AQAAjAB3gEIAItARwBHQCdgIpAXmAwQAoJAJAAqACAAGQARAAmABPAHeARwBeYqAGAEwAjgC8xkAMAJgBHAF5joBYAFQAQAAyACIAEwAJ4AYgB3gEWAI4AvMcACAAuAQghAEACYAGIAd4BHCQAEAC5KAMAEQAJgAYgB3gEcAXmUgFgAVABAADIAIgATAAngBiAHeARYAjgC8ygAEAC4.YAAAAAAAA7AA
+#EXTINF:-1,98.4 Love Fm
+https://usa2.server2028.com/listen/98.4_love_fm/radio.mp3
+#EXTINF:-1,Radyo Natin Baler
+https://wave.radyonatinfm.com/listen/dwln/radio
+#EXTINF:-1,143 Ofw Online Radio
+https://us-b4-p-e-pb13-audio.cdn.mdstrm.com/live-audio-aw/632ccc1b660fef03fe385c8b?
+#EXTINF:-1,LIF3 FM
+https://rhema-radio.streamguys1.com/rhema-lifefm.mp3
+#EXTINF:-1,Radyo Natin BonPen
+http://stream.radyonatinfm.com:8020/bonpen
+#EXTINF:-1,531 AM DZBR Bible Radio
+https://stream.radio.co/se9de95c10/listen
+#EXTINF:-1,Radyo Natin Pilar
+https://mbc.radyonatinfm.com/listen/dwmp/pilar
+#EXTINF:-1,Radyo Natin Tabuk
+https://net.radyonatinfm.com/listen/dwmc/tabuk
+#EXTINF:-1,Bespren Radio
+http://streamnavs.net:8089/live
+#EXTINF:-1,MABUHAY ONLINE RADIO
+https://securestream.casthost.net:8201/stream
+#EXTINF:-1,MYX
+https://22283.live.streamtheworld.com/MYXFMAAC.aac?dist=onlineradiobox
+#EXTINF:-1,.977 Today&amp#39s Hits
+https://26343.live.streamtheworld.com/977_HITSAAC_SC?dist=onlineradiobox
+#EXTINF:-1,A - V-Hive Radio Philippines - The hottest po
+http://192.99.8.192:3154/vhiveradiostream
+#EXTINF:-1,API BROADCASTING NETWORK Stream
+http://192.99.4.210:3172/stream
+#EXTINF:-1,Qabayan Radio
+http://streamingp.shoutcast.com/JamendoLounge?lang=*
+#EXTINF:-1,Radio Maria Tarlac
+http://74.63.237.66:8063/stream
+#EXTINF:-1,True Life in God Radio Filipino - 128 - The Philippines -
+https://stream.tligradio.org/listen/filipino/radio.mp3
+#EXTINF:-1,Dioneng Radio Station
+https://das-edge15-live365-dal02.cdnstream.com/a29646
+#EXTINF:-1,MCBN - Jeepney Pinoy Radio (JPR)
+http://usa5.fastcast4u.com:16456/stream
+#EXTINF:-1,99.3 Yes The Best - DXFE-FM
+http://yesfmiligan.radioca.st:8181/stream/
+#EXTINF:-1,CyberPinoy Radio
+https://securestreams.autopo.st:1215/stream/
+#EXTINF:-1,PHLV Radio
+http://streams.radio.co/s29b06fe63/listen
+#EXTINF:-1,FilAm Stream Radio
+http://das-edge16-live365-dal02.cdnstream.com/a64984
+#EXTINF:-1,Galaxy FM 99.9
+http://eu10.fastcast4u.com:6300/
+#EXTINF:-1,95.3 Love Radio - DWKS
+https://loveradiodaet.radioca.st/stream/
+#EXTINF:-1,91.9 Radyo Natin - DWSG
+http://stream.radyonatinfm.com:8010/dwsg
+#EXTINF:-1,DIONENG RADION STATION
+http://das-edge16-live365-dal02.cdnstream.com/a29646
+#EXTINF:-1,MCBN – Jeepney Pinoy Radio (JPR)
+http://usa5.fastcast4u.com:16456/stream/

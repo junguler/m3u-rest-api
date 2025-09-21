@@ -1,0 +1,53 @@
+#EXTM3U
+#EXTINF:-1,Mozambique TV
+http://online.tvm.co.mz:1935/live/smil:Channel1.smil/chunklist_w2005789883_b714000_slpor.m3u8
+#EXTINF:-1,Super FM (101.9 MHz FM, Maputo)
+http://41.223.153.14:8000/;stream/1
+#EXTINF:-1,Radio Maputo Live radio
+https://sonicpanel.oficialserver.com:7172/
+#EXTINF:-1,Antenna Web Maputo
+https://tinyurl.com/AntennaWebMaputo
+#EXTINF:-1,Antenne Halle Listen live
+https://antenne-halle.stream.laut.fm/antenne-halle?t302=2025-09-17_22-00-27&uuid=a659f4c1-be36-47b0-9db7-fe6d1c7ac30f
+#EXTINF:-1,Radio 80er-90er Listen live
+https://80er-90er.stream.laut.fm/80er-90er?t302=2025-09-17_22-00-27&uuid=f3a013f2-04af-40df-bb2b-bd78dc81e078
+#EXTINF:-1,laserbeat-fm Listen live
+https://laserbeat-fm.stream.laut.fm/laserbeat-fm?ref=radiode&t302=2025-09-17_22-00-27&uuid=5128fc4b-3985-483a-8dcb-ad207646b5ca
+#EXTINF:-1,Bavarias 80th Listen live
+https://bavarias-80th.stream.laut.fm/bavarias-80th?t302=2025-09-17_22-00-27&uuid=2c8796da-a6e5-4139-88a7-b0e157fc4715
+#EXTINF:-1,100% NL Nederpop Listen live
+https://22673.live.streamtheworld.com/WEB04_MP3.mp3
+#EXTINF:-1,Exclusively Stevie Ray Vaughan Listen live
+https://2.mystreaming.net/er/stevierayvaughan/icecast.audio
+#EXTINF:-1,Apresski Lounge Radio Listen live
+https://apresski-lounge.stream.laut.fm/apresski-lounge?t302=2025-09-17_22-00-27&uuid=c5115ee3-d12b-4a22-9efa-b0e2579e1582
+#EXTINF:-1,Rádio Miramar
+https://nl.digitalrm.pt:8066/stream
+#EXTINF:-1,RDP África
+https://streaming-live.rtp.pt/liveradio/rdpafrica80a/chunklist_DVR.m3u8
+#EXTINF:-1,Rádio Sem Fronteiras FM
+https://ssl.stmxp.net:8030/index.html?sid=1
+#EXTINF:-1,RFI Afrique
+https://rfiafrique64k.ice.infomaniak.ch/rfiafrique-64.mp3
+#EXTINF:-1,Miramar
+https://italiavera.radioca.st/stream
+#EXTINF:-1,Tugalifefm
+http://www.listen2myradio.com/
+#EXTINF:-1,Radio Maria Mozambique
+http://dreamsiteradiocp2.com:8088/stream/
+#EXTINF:-1,LM Radio
+http://streaming.fabrik.fm/lm-radio/echocast/audio/low/index.m3u8
+#EXTINF:-1,RDP África Moçambique – Beira – MZ-S
+https://streaming-live.rtp.pt/liveradio/rdpafrica80a/playlist.m3u8
+#EXTINF:-1,Rádio Capital – MZ-MPM
+https://25083.live.streamtheworld.com/RADIOTRANSMUNDIALAAC_SC
+#EXTINF:-1,RFI Afrique – Maputo – 105.0 FM – MZ-MPM
+http://live02.rfi.fr/rfiafrique-64.mp3
+#EXTINF:-1,Radio Ocean Indien MRV
+http://stream.vestaradio.com/RadioMRV
+#EXTINF:-1,Radio RTMC
+http://rtmc.ice.infomaniak.ch/rtmc-32.mp3
+#EXTINF:-1,RFI Afrique - Maputo
+http://rfienanglais64k.ice.infomaniak.ch/rfienanglais-64.mp3
+#EXTINF:-1,Super FM
+http://41.223.153.14:8000/
