@@ -1,6 +1,34 @@
 #EXTM3U
+#EXTINF:-1,VRT Radio1
+http://vrt.streamabc.net/vrt-radio1-mp3-128-9751183?sABC=68p224n9%230%23828595r27s45s695n90s244oos5n3797%23&aw_0_1st.playerid=&amsparams=playerid:;skey:1757553833
+#EXTINF:-1,Radio Silenci
+http://streaming.enantena.com:8000/radiosilenci128.mp3
+#EXTINF:-1,The Quran Radio | Arabic
+http://ec4.yesstreaming.net:1960/stream
+#EXTINF:-1,The Quran Radio | English
+http://ec4.yesstreaming.net:1750/stream
+#EXTINF:-1,Radio Enlace - 128 - Spain - music - spoken word
+https://fraenkisch-spoken.stream.laut.fm/fraenkisch-spoken?t302=2025-09-10_17-52-29&uuid=e3da1c40-f3f8-4dba-80d1-7774f2383e92
+#EXTINF:-1,Alisa Plus Radio
+http://fm2inet.aliseplus.lv:8000/
+#EXTINF:-1,AM 970 WSTX
+http://wstxradio.serverroom.net:7490/
+#EXTINF:-1,News Talk
+https://live-bauerie.sharp-stream.com/NTAAC
+#EXTINF:-1,Radio Antena M
+http://radioservis.me:8010/antenamlive
+#EXTINF:-1,Radio RTN
+https://rtn.ice.infomaniak.ch/rtn-high.mp3
+#EXTINF:-1,RTBF VivaCite
+https://redbeemedia.streamabc.net/redbm-vivabxl-mp3-160-6153830?sABC=68p73pps%230%2309n39rr255379r33139s422n42p7nr8o%23ei&aw_0_1st.playerid=rv&amsparams=playerid:rv;skey:1757887695
+#EXTINF:-1,Star 98.3 FM
+http://162.244.81.31:6688/stream.mp3
 #EXTINF:-1,Science, news, international news and features, health and fitness -- spoken word programming.
 https://streamer.radionewark.com/
+#EXTINF:-1,WZQR.FM Big Band
+https://free.rcast.net/244176
+#EXTINF:-1,plr
+https://ice10.securenetsystems.net/PLR
 #EXTINF:-1,WZQR.FM Talks!
 https://das-edge11-live365-dal03.cdnstream.com/a79929
 #EXTINF:-1,Great Day Radio

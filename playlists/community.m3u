@@ -4607,3 +4607,277 @@ https://apps4.mcot.net/stream579.aac/
 http://hls-edge1.mitene.jp/fmn1/hls/live01.m3u8
 #EXTINF:-1,국악방송
 http://mgugaklive.nowcdn.co.kr/gugakradio/gugakradio.stream/playlist.m3u8
+#EXTINF:-1,3RRR "Triple R" 102.7 FM Melbourne, VIC (low bitrate live stream)
+http://ondemand.rrr.org.au/stream/ws-lq.m3u
+#EXTINF:-1,3zzz 92.3 Melbourne Ethnic Community Radio
+http://right-click.com.au/rcPlayer2/p.php?c=3zzz&t=pls
+#EXTINF:-1,8K.NZ
+http://radio8k.out.airtime.pro:8000/radio8k_a.m3u
+#EXTINF:-1,CFBU 103.7 Brock University, St. Catharines, ON
+http://www.cfbu.ca/listen.m3u
+#EXTINF:-1,CFJU 90.1 "Route 17" Kedgewick, NB
+http://stream2.statsradio.com:8040/stream
+#EXTINF:-1,CFRC 101.9 Queen's University Kingston, ON
+https://audio-edge-4ev3b.lax.g.radiomast.io/e5ebc530-289b-4105-9840-364a792d625f
+#EXTINF:-1,CFRH 88.1 && 106.7 Penetanguishene, ON
+http://176.31.118.39:14808/.mp3
+#EXTINF:-1,CHRY "Vibe 105.5" York University Toronto, ON
+http://ice7.securenetsystems.net/CHRY
+#EXTINF:-1,CHSR-FM 97.9
+http://opml.radiotime.com/Tune.ashx?id=s24750
+#EXTINF:-1,CIDI 99.1 Brome Lake, QC
+http://s2.radioservers.biz:9998/stream
+#EXTINF:-1,CINA 1650 AM Mississauga, ON
+http://ice8.securenetsystems.net/CINA
+#EXTINF:-1,CISF 107.7 "Pulse FM" Surrey, BC
+http://civilradio.hu:8000/stream
+#EXTINF:-1,CJBB 103.1 "The Train" Englehart, ON
+https://ice10.securenetsystems.net/CJBB
+#EXTINF:-1,CJMP 90.1 Powell River, BC
+http://usa2.fastcast4u.com:3264/stream
+#EXTINF:-1,CJMQ 88,9 "the QUBE 88.9" Sherbrooke, QC
+http://the.radioservers.biz:9996/
+#EXTINF:-1,CJNU 93.7 "Nostalgia Radio" Winnipeg, MB
+http://noasrv.caster.fm:10188/stream
+#EXTINF:-1,CJQC 99.3 Queen's County Community Radio - Liverpool, NS
+http://us3.streamingpulse.com:8074/
+#EXTINF:-1,CJRU 1280 "The Scope" Ryerson University - Toronto, ON
+http://ryerson.out.airtime.pro:8000/ryerson_a
+#EXTINF:-1,CKHA 100.9 "Canoe FM" Haliburton, ON
+https://provisioning.streamtheworld.com/pls/CKHAFMAAC.pls
+#EXTINF:-1,CKHC 96.9 "Radio Humber" Humber College, Toronto, ON
+http://live.leanstream.co/CKHCFM
+#EXTINF:-1,CKOA 89.7 "The Coast"  Glace Bay, NS
+http://198.100.145.187:15204/
+#EXTINF:-1,CKTP 95.7 "The Wolf" Fredericton, NB
+https://ais-sa1.streamon.fm/7000_48k.aac
+#EXTINF:-1,Dublab.de
+http://dublabde.out.airtime.pro:8000/dublabde_a
+#EXTINF:-1,Frome FM 96.6
+http://icecast.bargus.co.uk:8001/fromefm.mp3
+#EXTINF:-1,KAOS 89.3 Community Radio - Olympia, WA
+http://205.134.192.90:8930/.mp3
+#EXTINF:-1,KAZI  88,7  Austin, TX
+http://ice8.securenetsystems.net/KAZI
+#EXTINF:-1,KBCZ 90.1 Radio Boulder Creek, CA
+http://playerservices.streamtheworld.com/m3u/SAM06AAC133.m3u
+#EXTINF:-1,KBUT 90.3 Crested Butte, CO
+http://playerservices.streamtheworld.com/m3u/KBUTFM.m3u
+#EXTINF:-1,KCDZ Z107.7
+https://ice6.securenetsystems.net/KCDZ?play
+#EXTINF:-1,KDNA 91.9 "La Voz del Campesino" Yakima, WA
+http://18.220.54.199:8002/listen.pls
+#EXTINF:-1,KFSK 100.9 Petersburg, AK
+http://amber.streamguys.com:4620/kfsk
+#EXTINF:-1,KLMB 88.1 Roundup  Community Radio, MT
+http://ice6.securenetsystems.net/KLMB
+#EXTINF:-1,KLND 89.5 Little Eagle, SD
+http://ice10.securenetsystems.net/KLND
+#EXTINF:-1,KMUN 91.9 "Coast Community Radio" Astoria, OR
+http://ice5.securenetsystems.net/KMUN
+#EXTINF:-1,KOSU-HD2 "The Spy"  Stillwater, OK
+http://playerservices.streamtheworld.com/m3u/KOSUHD2.m3u
+#EXTINF:-1,KOTO Community Radio 91.7 - Telluride, CO
+http://playerservices.streamtheworld.com/pls/KOTOFM.pls
+#EXTINF:-1,KQAC 89.9 "All Classical Portland" Portland, OR (96 kbps AAC)
+http://allclassical-ice.streamguys.com/ac96k
+#EXTINF:-1,KQBM-LP 90.7 && 103.7 "Blue Mountain Radio"  West Point, CA
+http://s16.myradiostream.com:6332/listen.mp3
+#EXTINF:-1,KRFP 90.3  "Radio Free Moscow" Moscow, ID
+http://nap.casthost.net:8300/
+#EXTINF:-1,KRPR
+https://ice23.securenetsystems.net/KRPR
+#EXTINF:-1,KSFL-LP 99.1 "Portland Radio Project", OR
+http://ais-sa1.streamon.fm/7335_64k.aac
+#EXTINF:-1,KSJD 91.5 Cortez, CO
+http://war.str3am.com:8430/
+#EXTINF:-1,KTKE 101.5 FM
+https://ice9.securenetsystems.net/KTKE?playSessionID=2005F8CA-935A-763F-40B1A9507ADD7C3D
+#EXTINF:-1,KTNN - The Voice of the Navajo Nation
+https://ice9.securenetsystems.net/KTNN
+#EXTINF:-1,KUNM 89.9 "New Mexico Public Radio" Albuquerque, NM
+http://playerservices.streamtheworld.com/pls/KUNMFM_128.pls
+#EXTINF:-1,La Urban Radio
+http://icecast.maxxwave.co.uk:8000/lcr_hq
+#EXTINF:-1,Loose Antenna
+https://stream.looseantenna.fm/radio/8000/default.mp3
+#EXTINF:-1,Manna FM 98.6
+http://icast.connectmedia.hu/4780/live.mp3
+#EXTINF:-1,Next Door Radio
+https://www.streamcontrol.net:8444/s/10060
+#EXTINF:-1,Pingüino Estéreo
+http://radiolatina.info:9750/
+#EXTINF:-1,Radio 4CC - AM 927 - Gladstone, QLD
+http://24923.live.streamtheworld.com/GLA_4CCAAC.aac
+#EXTINF:-1,Radio 509 Hilversum
+https://provisioning.streamtheworld.com/pls/RADIO509AAC.pls
+#EXTINF:-1,Radio 80000 Munich, Germany
+http://radio80k.out.airtime.pro:8000/radio80k_a
+#EXTINF:-1,Rádio A Voz da Liberdade FM (ZYX812, 98,5 MHz FM, Jaboatão dos Guararapes, PE)
+http://cast3.hoost.com.br:2199/tunein/radiofma-stream.pls
+#EXTINF:-1,Radio Alma
+http://shoutcast2.wirelessbelgie.be:8310/stream.mp3
+#EXTINF:-1,Radio Banda Larga
+https://rblmedia.out.airtime.pro/rblmedia_a
+#EXTINF:-1,Radio Cimarrona
+http://radiocimarrona.out.airtime.pro:8000/radiocimarrona_a
+#EXTINF:-1,Radio Nichelino Comunità
+http://stream15.top-ix.org/radionichelino.m3u
+#EXTINF:-1,Radio Onion Ring
+https://radio.onionring.rocks/radio/8000/onionring
+#EXTINF:-1,Radio Regent.com Toronto, ON
+https://streamer.radio.co/se3e1e3815/low
+#EXTINF:-1,Radio Shalom Besançon
+http://radioshalombesancon.ice.infomaniak.ch/radioshalombesancon-128.mp3
+#EXTINF:-1,Radyo Maximum
+http://radyomaximum.kesintisizyayin.com:9970/
+#EXTINF:-1,Salford City Radio 94.7 FM
+https://www.salfordcityradio.org/listen.pls
+#EXTINF:-1,Sheffield Live!
+http://stream.swifthosting.com.au:8080/stream
+#EXTINF:-1,Sweet FM 97.1MHz Community Radio Burdekin Queensland
+https://charlie1-gecko.radioca.st/stream
+#EXTINF:-1,The Thread 102.8FM
+http://radio.canstream.co.uk:8035/canal.mp3
+#EXTINF:-1,UGFM
+http://right-click.com.au/rcPlayer/p.php?c=ugfm&t=m3u
+#EXTINF:-1,WBLQ 1230 Westerly, RI
+http://ice3.securenetsystems.net/WBLQ
+#EXTINF:-1,WFMU Rock 'n' Soul Radio
+http://wfmu.org/wfmu_rock.pls
+#EXTINF:-1,WFPK 91.9 Independent Louisville, KY
+http://lpm.streamguys1.com/wfpk-web
+#EXTINF:-1,WFTE 90.3 Mount Cobb, PA
+http://sc1.streamingpulse.com:8020/.mp3
+#EXTINF:-1,WHDZ101.5 "Radio Hatteras" Buxton, NC
+http://ice64.securenetsystems.net/WHDZ
+#EXTINF:-1,WHRW Binghamton 90.5 FM -- Harpur Radio Workshop, the land of Moe
+http://stream.whrwfm.org/hi.m3u
+#EXTINF:-1,WMNF-HD3 "The Source" Tampa, FL
+http://stream.wmnf.org:8000/wmnf_hd3
+#EXTINF:-1,WNRN 91.9 Charlottesville, VA
+https://provisioning.streamtheworld.com/pls/WNRNFM_128.pls
+#EXTINF:-1,WOBO 88.7 Batavia, OH
+http://ice64.securenetsystems.net/WOBO
+#EXTINF:-1,WOVV 90.1 Ocracoke Radio, NC
+http://ice64.securenetsystems.net/WOVV
+#EXTINF:-1,WRKF 89,3 Baton Rouge, LA
+http://playerservices.streamtheworld.com/m3u/WRKFFM.m3u
+#EXTINF:-1,WRLT 100.1 "Lightning 100" - Nashville, TN (MP3)
+http://playerservices.streamtheworld.com/m3u/WRLTFM.m3u
+#EXTINF:-1,WUOT | 91.9 FM, Knoxville, TN
+https://provisioning.streamtheworld.com/pls/wuotfm.pls
+#EXTINF:-1,ALL FM 96.9
+http://uksoutha.streaming.broadcast.radio:15870/allfm
+#EXTINF:-1,KHMB Radio
+https://das-edge11-live365-dal03.cdnstream.com/a48254
+#EXTINF:-1,WYXR 91.7 FM
+https://crosstown.streamguys1.com/live-website-aac
+#EXTINF:-1,KVRU 105.7 FM
+https://www.ophanim.net:8444/s/7740
+#EXTINF:-1,KGGV-LP 95.1 FM
+https://s30.myradiostream.com/:31904/listen.mp3?nocache=1758250493
+#EXTINF:-1,WBCR-LP 97.7 FM
+https://s3.citrus3.com:8114/stream
+#EXTINF:-1,KKRN 88.5 FM
+https://stream.radioparadise.com/kkrn
+#EXTINF:-1,100.7 Ferndale Radio
+https://das-edge11-live365-dal03.cdnstream.com/a74298
+#EXTINF:-1,KDNK 88.1
+https://kdnk.streamguys1.com/live
+#EXTINF:-1,WWMV-LP 95.5 FM
+https://s3.radio.co/s497d3ecc2/listen
+#EXTINF:-1,DG9 Radio
+https://dg9radio.radioca.st/
+#EXTINF:-1,Peaceloving Radio
+https://s4.radio.co/s38f6efae1/listen
+#EXTINF:-1,BBM FM
+https://strw3.openstream.co/823?aw_0_1st.collectionid%3D3614%26stationId%3D3614%26publisherId%3D847%26k%3D1758133304
+#EXTINF:-1,107 Meridian FM
+https://streaming.broadcastradio.com:11995/meridianfm
+#EXTINF:-1,Salisbury Radio
+https://securestreams6.autopo.st:2139/stream.mp3
+#EXTINF:-1,Petersfield's Shine Radio
+https://listen-petersfield.sharp-stream.com/petersfield.aac
+#EXTINF:-1,Vanny Radio 106.3fm
+https://securestreams7.autopo.st/?uri=http://icecast.maxxwave.co.uk/vannyradio
+#EXTINF:-1,Radio Bembeke FM
+https://radio.exclusivemw.cloud/listen/radio_bembeke_fm/radio.mp3
+#EXTINF:-1,Kau Radio Station
+https://a1.asurahosting.com:8020/radio.mp3
+#EXTINF:-1,KUAW Radio
+https://c15.radioboss.fm:18219/stream
+#EXTINF:-1,Access All Aerials
+https://s4.radio.co/sd3c379ad6/listen
+#EXTINF:-1,Black Star FM
+https://blackstarfm.radio12345.com/?uri=http://blackstarfm.radio12345.com
+#EXTINF:-1,Steel FM
+https://stream.rcs.revma.com/dgd7vgm87yuvv
+#EXTINF:-1,Likoma Community Radio
+https://play.streamafrica.net/likoma
+#EXTINF:-1,Community Gap Radio
+https://zeno.fm/radio/community-gap-radio/
+#EXTINF:-1,Crystal 107.4 FM
+https://crystalfm-radiohosting2.radioca.st/stream
+#EXTINF:-1,Humboldt Hot Air
+https://securestreams7.autopo.st/?uri=http://hha.streamguys1.com
+#EXTINF:-1,Internationalfriendsnetwork
+https://az11.yesstreaming.net:8300/radio.mp3
+#EXTINF:-1,Intsetse FM
+https://live.exertion.in/radio/8070/radio.mp3
+#EXTINF:-1,Da Bizz Radio
+https://servidor14.brlogic.com:7884/live
+#EXTINF:-1,Hastings Radio
+https://broadcast.shoutstream.co.uk:8010/stream
+#EXTINF:-1,RadioGuy Online
+https://listen.steprotech.com/radio/8140/radio.mp3
+#EXTINF:-1,Bolsa De Empleos Honduras
+https://live.bolsadeempleos.info/8032/stream
+#EXTINF:-1,Life Solution Fm
+https://www.getmeradio.com/stations/solutionfm-7895/
+#EXTINF:-1,Nyungwe FM
+https://play.streamafrica.net/nyungwefm
+#EXTINF:-1,K107FM
+https://securestreams7.autopo.st/?uri=http://s11.myradiostream.com:9020/stream
+#EXTINF:-1,Radio Weaver
+https://s9.citrus3.com:2020/stream/radioweaver
+#EXTINF:-1,Hillz FM
+https://www.hillzfm.co.uk
+#EXTINF:-1,Castledown FM
+https://ukwesta.streaming.broadcast.radio/castledownfm
+#EXTINF:-1,Anchor Radio
+https://station.anchor.radio/radio/8000/live192.mp3
+#EXTINF:-1,LeetMusic
+https://listen.leetmusic.nl/radio/8000/stream
+#EXTINF:-1,Emba community fm
+https://zeno.fm/radio/emba-community-fm/
+#EXTINF:-1,3TFM Community Radio
+https://securestreams7.autopo.st/?uri=http://streaming04.liveboxstream.uk:8042/stream
+#EXTINF:-1,Radio Crawsham
+https://hello.citrus3.com:2020/json/stream/crawsham
+#EXTINF:-1,Hellenic Radio
+https://securestreams7.autopo.st/?uri=http://iceant.eclipse-streaming.co.za/Hellenic
+#EXTINF:-1,AmericanTamilRadio
+https://securestreams7.autopo.st/?uri=http://cp11.serverse.com:7188/index.html
+#EXTINF:-1,FADECO COMMUNITY RADIO
+https://securestreams7.autopo.st/?uri=http://usa1-vn.mixstream.net:8088/listen.mp3
+#EXTINF:-1,EFFRA COMMUNITY RADIO
+https://effracommunityradio.radioca.st/
+#EXTINF:-1,Radio Paradise 2050
+https://securestreams7.autopo.st/?uri=http://stream.radioparadise.com/radio2050-128
+#EXTINF:-1,Free Radio Conselve
+https://securestreams7.autopo.st/?uri=http://ice17.fluidstream.net/conselve.mp3?FLID=M
+#EXTINF:-1,ArroweSound Hospital Radio
+https://securestreams7.autopo.st/?uri=http://proxima.shoutca.st:8897/
+#EXTINF:-1,Radio World Today
+https://a2.asurahosting.com:6660/radio.mp3
+#EXTINF:-1,RADIO JENG SRI
+https://c4.siar.us:8083/stream
+#EXTINF:-1,Sorafm
+https://a9.asurahosting.com:7460/radio.mp3
+#EXTINF:-1,JIPATE FM
+https://zeno.fm/radio/jipate-fm/
+#EXTINF:-1,Mpharangope Radio
+https://liveonlineradio.net/mpharangope-radio
+#EXTINF:-1,Christmas Island Community Radio 6RCI
+https://streams.radio.co/s254f35e58/listen
