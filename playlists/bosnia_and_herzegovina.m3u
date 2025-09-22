@@ -463,3 +463,37 @@ http://server1.tnt.ba:9080
 https://cdn.cloudrad.io/radiomariabosnia/listen.pls
 #EXTINF:-1,RTV Vogošća – Vogošća – Federation of Bosnia and Herzegovina – Bosnia and Herzegovina
 http://stream.leftor.com/tunein/rtvvogos.asx
+#EXTINF:-1,RSG
+http://116.203.7.166:9000/*.mp3
+#EXTINF:-1,Radio Bugojno
+https://s3.free-shoutcast.com/stream/18156
+#EXTINF:-1,Radio Trebinje
+https://radio.dukahosting.com:7002/
+#EXTINF:-1,RADIO VITEZ
+https://radio.iti.hr/listen/radio_vitez/radio.mp3
+#EXTINF:-1,Radio Donji Vakuf
+http://5.9.71.122:8134/stream.mp3
+#EXTINF:-1,Radio Magic
+http://stream.iradio.pro:8034/radiomagic
+#EXTINF:-1,Radio Balkanium
+http://94.23.70.105:8020/
+#EXTINF:-1,Radio MIX
+http://116.203.7.166:9010/stream/
+#EXTINF:-1,RVK
+http://rvk2021.radioca.st:8206/stream
+#EXTINF:-1,federalni RADIO
+https://s2.free-shoutcast.com/stream/18170
+#EXTINF:-1,KUPRESKIRADIO
+https://ec2s.crolive.com.hr:1265/stream
+#EXTINF:-1,Radio Bihać Caffe
+http://5.9.13.39:8075/stream
+#EXTINF:-1,Radio Novi Grad 100MHz
+http://188.40.62.20:8080/
+#EXTINF:-1,Radio Tešanj 92.2MHz
+http://radio.daj.ba:8082/stream
+#EXTINF:-1,Radio Avlija
+http://51.255.127.128:8900/
+#EXTINF:-1,RADIO ZENIT
+http://opportunity.shoutca.st:8038/
+#EXTINF:-1,Radio Bihać Folk
+http://5.9.13.39:8071/stream
