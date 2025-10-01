@@ -1,4 +1,30 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/312.png",La Mega Capital
+https://audio.livecastnet.com:2635/stream
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/2315.png",OLIMPICA STEREO USA
+https://26643.live.streamtheworld.com/OLP_BOGOTAAAC_SC?dist=OlpBogWeb%253Fver%253D209341
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/10230.png",Radio Caliente 97.9 FM
+https://ice25.securenetsystems.net/WDDWHD3
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/56095641.jpg",Bachata 106
+https://a10.asurahosting.com:8420/radio.mp3
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/18975.png",Fuego 90
+https://cdn.britannica.com/85/145685-005-E37C9C55/instrumental-national-anthem-Dominican-Republic.mp3
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/19027.png",Radio La Isabela
+https://streaming.brol.tech/rtfmlounge
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/19201.png",Criolla 106.1 FM
+https://streaming.grupomediosdelnorte.com:8002/stream/1/
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/30896.png",Radio Ecua Stereo HD
+https://27423.live.streamtheworld.com/CARACOL_RADIOAAC_SC
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/31149.png",FM Buenos Aires
+https://01.solumedia.com.ar:8352/stream
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/40227.png",Top Radio 97.2
+https://27833.live.streamtheworld.com/TOPRADIO_SC
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/80845519.jpg",Radiomar
+https://us-b4-p-e-pb13-audio.cdn.mdstrm.com/live-audio-aw/6839e261d2efddf5bfbc2d3d?aid=68386a6e44ba64f6064b25c9&property=radioly&pid=w0uiSCYwgudPbFT8vA4Yc1s7GbuHyavY&sid=jjpsoA4tTZiYSibkPhr8Gh7RvIMconDG&uid=Oq8Z0m7ZD5nZGYZPdmitYmKMe3WVTIzV&es=us-b4-p-e-pb13-audio.cdn.mdstrm.com&ote=1759274610064&ot=dSrAGA-pZlmvb1YP-Y9eDA&proto=https&pz=us&cP=128000&awCollectionId=68386a6e44ba64f6064b25c9&aw_0_1st.playerId=radioly&liveId=6839e261d2efddf5bfbc2d3d&propertyName=radioly&propertyType=rss-app&listenerId=Oq8Z0m7ZD5nZGYZPdmitYmKMe3WVTIzV
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/66264021.jpg",Radio Cumbia Mix
+https://us-b4-p-e-mg17-audio.cdn.mdstrm.com/live-audio-aw/6598b6ab95a235085823b24f?aid=658ddcc0b2c7835d48fee06d&pid=MAupdwX5CMbzNqqiWVuMDTwXABb6DJti&sid=SoUZXWLLKsPYOtUQu2nsKUuIRoUHGYbd&uid=cjbWxEcfi1UgAQgyGBVkEr9A7PmCeGKa&es=us-b4-p-e-mg17-audio.cdn.mdstrm.com&ote=1759274610165&ot=-iILFuDxiU936Fjp2FQqgQ&proto=https&pz=us&cP=128000&awCollectionId=658ddcc0b2c7835d48fee06d&liveId=6598b6ab95a235085823b24f&listenerId=cjbWxEcfi1UgAQgyGBVkEr9A7PmCeGKa
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/77479236.jpg",Radio Rumba
+https://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio-aw/632ccbb99234f869e9a51955/playlist.m3u8
 #EXTINF:-1,Choco Radio
 https://server2.prowifihost.com:7003/
 #EXTINF:-1,Radio Calero
@@ -103,8 +129,6 @@ https://sonic.radiostreaminglatino.com:10913/;stream.nsv
 https://jm8n.net/8024/stream
 #EXTINF:-1,Radio Salvacion Internacional
 https://panel.streamenviron.com:8272/stream.mp3
-#EXTINF:-1,Radio Hot
-https://streaming.brol.tech/rtfmlounge
 #EXTINF:-1,Latino FM
 http://stream.latinofm.de/latinofm.mp3
 #EXTINF:-1,Radio Merengue
@@ -155,8 +179,6 @@ https://cloud8.vsgtech.co/8040/stream
 https://audio-edge-cmc51.fra.h.radiomast.io/740a1243-cc5f-4bf7-a202-e30d94d4fcd9
 #EXTINF:-1,ClassicalRadio.com - Bach
 https://www.classicalradio.com/bach
-#EXTINF:-1,FM Buenos Aires
-https://01.solumedia.com.ar:8352/stream
 #EXTINF:-1,LaMezclaRadio
 https://streaming.radio.co/s056cea3a0/listen
 #EXTINF:-1,Radio Azúcar
@@ -541,8 +563,6 @@ https://s02.svrdedicado.org:7392/stream
 https://radio.streamingcpanel.com:7007/
 #EXTINF:-1,Latin Mix Masters Radio
 https://lmmradiocast.com/lmmradio
-#EXTINF:-1,La Mega Capital
-https://audio.livecastnet.com:2635/stream
 #EXTINF:-1,1 RADIO LATINO
 http://1-radio-latino.stream.laut.fm/1-radio-latino?t302=2025-09-09_01-52-51&uuid=8f472dfe-f6e9-4c98-8ff9-7cc2fb587395
 #EXTINF:-1,gubifm
@@ -655,8 +675,6 @@ https://uk22freenew.listen2myradio.com/live.mp3?typeportmount=s1_39427_stream_77
 https://usest-sp1.golivestream.net/8014/stream
 #EXTINF:-1,Radio Caliente 97.9 FM
 https://radio.securenetsystems.net/v5/index.cfm?CFID=f33c5b99-a166-400a-b80c-e19c13fda19c&CFTOKEN=0&stationCallSign=WJTI
-#EXTINF:-1,Bachata106
-https://a10.asurahosting.com:8420/radio.mp3
 #EXTINF:-1,MUSICAL Radio Digital
 https://stream.radiolive.com.co/listen/musical_radio_digital/radio.mp3
 #EXTINF:-1,Hot Like Fire Radio Online

@@ -1,4 +1,23 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/14204.png",Атаман FM
+https://listen5.myradio24.com/ataman
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/18661.png",Radio Noordzee Leute
+https://streaming.brol.tech/rtfmlounge
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/34192.png",Radio Dreyeckland
+https://n12a-eu.rcs.revma.com/aguwyw7fkzzuv.mp3?rj-ttl=5&rj-tok=AAABlNrepVMAYpsYEHTgwo8kqw
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/34196.png",Chansons Rouges Mosaik Radio
+https://stream3.vestaradio.com/CRMR
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/34273.png",Diversité FM
+https://diversitefm2.ice.infomaniak.ch/diversitefm2-192.mp3
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/34311.png",French feeling
+https://d2jkfj9lazd7el.cloudfront.net/audio/phrase/french/19148-43.18-normalized.mp3
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/34658.png",Radio Décibel
+https://music.wixstatic.com/mp3/b3dced_eeff0132d8ba44acb4a815f4572cefc9.mp3
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/35262.png",Good Station Radio
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/35424.png",RPA - la Radio du Pays d'Arles
+https://rparadiodupaysdarles.ice.infomaniak.ch/rparadiodupaysdarles-128.mp3
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/21766890.png",RFM Collector
+https://rfm.lmn.fm/rfm-wr1.aac
 #EXTINF:-1,Musik Kurier
 http://musik-kurier.stream.laut.fm/musik-kurier
 #EXTINF:-1,Rare Fishes Radio
@@ -55,8 +74,6 @@ https://streamingp.shoutcast.com/JamendoLounge?lang=*
 https://rougefm.ice.infomaniak.ch/rougefm-high.mp3
 #EXTINF:-1,Flash FM 88.4
 https://flashfm.ice.infomaniak.ch/flashfm-128.mp3
-#EXTINF:-1,RPA - la Radio du Pays d'Arles
-https://rparadiodupaysdarles.ice.infomaniak.ch/rparadiodupaysdarles-128.mp3
 #EXTINF:-1,RADIO-C
 https://radio-c.stream.laut.fm/radio-c?ref=radiode&t302=2025-09-06_22-20-47&uuid=2612fbf3-52fc-49f0-b006-8a393e64d848
 #EXTINF:-1,Playlist Music Radio
@@ -205,8 +222,6 @@ http://manager8.streamradio.fr:2050/stream
 https://str0.creacast.com/oxy-meaux
 #EXTINF:-1,Ahuga!
 https://ahuga.stream.laut.fm/ahuga?t302=2025-09-13_03-46-15&uuid=3ef5b831-3f90-4f16-b6f9-14fde19540e8
-#EXTINF:-1,Atamah - Атаман FM
-https://listen5.myradio24.com/ataman
 #EXTINF:-1,Chanson without Censorship
 http://chanson.hostingradio.ru:8041/chanson-uncensored128.mp3
 #EXTINF:-1,Diversité FM
@@ -283,8 +298,6 @@ http://f111.rndfnk.com/ard/wdr/wdr5/live/mp3/128/stream.mp3?cid=01FBS0E239W9R7GR
 http://www.nostalgie.fm/
 #EXTINF:-1,Радио Калейдоскоп - Шансон
 https://listen7.myradio24.com/22602
-#EXTINF:-1,100 Pour Cent France
-https://streaming.brol.tech/rtfmlounge
 #EXTINF:-1,Allzic Radio 50s
 https:/http:/adio-kolea.ru:1045/stream
 #EXTINF:-1,Радио Пляж - Шансон
@@ -327,8 +340,6 @@ http://87.237.169.24:8000/live
 https://n02a-eu.rcs.revma.com/x9xzxehcfwzuv?rj-ttl=5&rj-tok=AAABiq3Om14AKD-R8iuWxsRweg
 #EXTINF:-1,Радио Амор
 https://listen7.myradio24.com/vitaxa
-#EXTINF:-1,Chansons Rouges Mosaik Radio
-https://stream3.vestaradio.com/CRMR
 #EXTINF:-1,Radio Europa
 https://server8.emitironline.com:18734/
 #EXTINF:-1,Champagne FM
@@ -655,8 +666,6 @@ https://strw3.openstream.co/879?aw_0_1st.collectionid%3D3673%26stationId%3D3673%
 https://chanson.hostingradio.ru:8041/chanson-romantic256.mp3
 #EXTINF:-1,AirZen Inspiration
 https://n13.rcs.revma.com/cczn7v4x85hvv
-#EXTINF:-1,Diversite FM
-https://diversitefm2.ice.infomaniak.ch/diversitefm2-192.mp3
 #EXTINF:-1,Impact FM – Années 60
 https://impactfm-annees60.ice.infomaniak.ch/impactfm-annees60-64.aac
 #EXTINF:-1,Lola DG

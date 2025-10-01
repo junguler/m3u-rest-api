@@ -1,6 +1,18 @@
 #EXTM3U
-#EXTINF:-1,La Vallenata USA
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/312.png",La Mega Capital
+https://audio.livecastnet.com:2635/stream
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/3795.png",La Vallenata USA
 https://ssl.hostingtico.com:8080/index.html?sid=1
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/28999.png",Radio 1
+https://stream.radio1.ch/128k
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/29051.png",Cacica Stereo
+https://sonic.paulatina.co/7062/stream
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/29332.png",Chairá Estereo 94.1 FM
+https://stream.vocesparatumarca.net/8110/stream
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/30680.png",Antena 3
+https://streamingecuador.net:9368/radioantena3
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/107403585.png",Bésame Medellín 94.9 MHz FM
+https://26573.live.streamtheworld.com/BESAME_MEDELLINAAC_SC
 #EXTINF:-1,Pegadera Digital Radio
 https://servidor15-3.brlogic.com:7328/live
 #EXTINF:-1,La Pela 809
@@ -9,8 +21,6 @@ https://radio.streamingcpanel.com:7007/
 https://radioenhd.com:7003/stream.nsv
 #EXTINF:-1,Radio Cafe Balmore
 http://163.172.77.142:8471/stream.nsv
-#EXTINF:-1,La Mega Capital
-https://audio.livecastnet.com:2635/stream
 #EXTINF:-1,Bésame
 https://26673.live.streamtheworld.com/BESAME_MEDELLINAAC.aac?dist=onlineradiobox
 #EXTINF:-1,La Konsentida
@@ -81,8 +91,6 @@ https://streaming.radiosenlinea.com.ar/8808/stream
 https://fps5.listen2myradio.com:2199/listen.php?ip=78.129.139.48&port=8869&type=s1
 #EXTINF:-1,Pedraza Estereo
 http://sonic.paulatina.co/8098/stream
-#EXTINF:-1,Cacica Stereo Valledupar
-https://sonic.paulatina.co/7062/stream
 #EXTINF:-1,Fidelidad Stereo 88.4
 https://radiohd.streaminghd.co:7874/stream
 #EXTINF:-1,Zax Fm
@@ -191,8 +199,6 @@ http://stream.hdserver.biz:9414/stream.nsv
 https://radio.conecta2service.com:7030/
 #EXTINF:-1,La Nueva Ecua Stereo
 https://sonic.radiostreaminglatino.com:10913/stream.nsv
-#EXTINF:-1,Antena 3
-https://streamingecuador.net:9368/radioantena3
 #EXTINF:-1,Su Comadrita Radio
 https://aacplus.rstreaminghd.com/8146/stream
 #EXTINF:-1,Radio El Rosal Producciones

@@ -1,8 +1,34 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/4160.png",BLAZIN FM
+https://14223.live.streamtheworld.com/WWLDFMAAC_SC
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/27058651.jpg",Konpa Mix Radio!
+https://das-edge12-live365-dal02.cdnstream.com/a15951
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/92807668.jpg",WSKQ-FM - La Mega 97.9 FM
+https://24923.live.streamtheworld.com/KMGVFMAAC.aac
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/40764373.jpg",Brasil Internet Radio
+https://listennowradiofm.com/8024/stream/
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/56354397.jpg",Tropicalísima Navidad
+https://s2.mexside.net/8030/stream?listening-from-radio-garden=1652768580
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/11954.png",RF Mayotte
+https://radio.mayotte-streaming.com/8000/stream
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/18783.png",Fire Online Radio
+https://firefm.stream.laut.fm/firefm
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/18918.png",TROPIK FM
+https://stream.vestaradio.com/TROPIKFM
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/20592.png", TRACE FM
+https://stream.rcs.revma.com/5k3fce0q54zuv?paris
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/34272.png",Kcs Soleil Des Tropic
+https://streaming.brol.tech/rtfmlounge
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/34425.png",Tropic 84
+https://ecmanager4.pro-fhi.net:2740/stream
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/34544.png",RBR
+https://stream.vestaradio.com/RBR
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/34777.png",Radio Sud Est
+https://stream.vestaradio.com/RADIOSUDEST
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/19150170.jpg",Radio Record Tropical
+https://radiorecord.hostingradio.ru/trop96.aacp
 #EXTINF:-1,Radio Fusion 95.3
 http://france16.coollabel-productions.com:8276/
-#EXTINF:-1,JFK East Africa Radio
-https://streaming.brol.tech/rtfmlounge
 #EXTINF:-1,Radio soleil des tropiques
 http://ecmanager4.pro-fhi.net:1850/stream
 #EXTINF:-1,Dakar Musique
@@ -47,18 +73,12 @@ https://allzic28.ice.infomaniak.ch/allzic28.mp3
 https://allzic49.ice.infomaniak.ch/allzic51.mp3
 #EXTINF:-1,PLAY ZOUK ANTILLES
 http://maevatropicale.com:8050/stream.mp3
-#EXTINF:-1,RBR
-https://stream.vestaradio.com/RBR
 #EXTINF:-1,Tropic 84
 https://ecmanager4.pro-fhi.net:2745/stream
 #EXTINF:-1,Bel&#039;Radio - Martinique
 https://n16a-eu.rcs.revma.com/9b1a2gyspwzuv?rj-ttl=5&rj-tok=AAABiLP13hIAt8W_5JiYwQ_erw
 #EXTINF:-1,TRACE FM
 https://n18a-eu.rcs.revma.com/nv1hu7644k0uv?rj-ttl=5&rj-tok=AAABiq3GLAsALcegwp3Oetkn3A
-#EXTINF:-1,Radio Sud Est
-https://stream.vestaradio.com/RADIOSUDEST
-#EXTINF:-1,TROPIK FM
-https://stream.vestaradio.com/TROPIKFM
 #EXTINF:-1,Large Radio
 https://sonic01.instainternet.com/8312/stream/
 #EXTINF:-1,Zouk Kompa 24 SEVEN
@@ -77,8 +97,6 @@ https://stream.rcs.revma.com/nv1hu7644k0uv
 https://radioalize.ice.infomaniak.ch/radioalize-128.mp3
 #EXTINF:-1,Zouk Kompa 24 SEVEN radio
 http://192.211.51.158:8052/stream.nsv
-#EXTINF:-1,RF Mayotte radio
-https://radio.mayotte-streaming.com/8000/stream
 #EXTINF:-1,KWI Radio
 https://listen.radioking.com/radio/3200/stream/9806
 #EXTINF:-1,Saphir Fm 89.4 radio
@@ -113,8 +131,6 @@ http://streamingp.shoutcast.com/JamendoLounge?lang=*
 http://radioalize.ice.infomaniak.ch/radioalize-128.mp3
 #EXTINF:-1,Radio-Haiti-Fusion
 https://ec3.yesstreaming.net:2500/stream
-#EXTINF:-1,Fire Online Radio
-https://firefm.stream.laut.fm/firefm
 #EXTINF:-1,Radio Kariba 89.9
 https://radiokariba.ice.infomaniak.ch/radiokariba-64.aac?
 #EXTINF:-1,KNA GUADELOUPE

@@ -1,6 +1,237 @@
 #EXTM3U
-#EXTINF:-1,Kangaroo FM
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/7.png",San Francisco's 70's HITS!
+https://stream1.rcast.net/72991/
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/15.png",That 70's Channel
+https://ais-sa5.cdnstream1.com/b68000_128mp3
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/258.png",America's Greatest 70s Hits
+https://hydra.cdnstream.com/1823_128
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/1380.png",MiamiClubMusic.com
 https://streaming.brol.tech/rtfmlounge
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/10408.png",313 DBN Radio
+https://dbn313radio.radioca.st/stream
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/62525715.jpg",Jammin' 99.9
+https://ais-sa8.cdnstream1.com/2757_64.aac
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/101951637.com",TuKosita.com
+https://radiordomi.com/8696/stream
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/116697595.jpg",Foroactivo Polymarchs Radio
+https://technoplayerserver.net/8112/
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/14138.png",Wasteland Radio
+https://ed.podomatic.net/e/wastelandradio.podomatic.com/2016-04-20T04_54_37-07_00.mp3?_=1461153350.11371152
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/19979.png",Retro FM
+https://emgspb.hostingradio.ru/retrofmspb128.mp3?listening-from-radio-garden=1671006662
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/20764.png",Rádio Estúdio 80
+https://everest.servercast.com.br:1525/stream
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/21143.png",Pool FM
+https://radios.poolwebwork.com.br/8010/stream
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/21512.png",Siderall Web Radio
+https://stm20.xcast.com.br:9662/
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/30472.png",Radio Maxima
+https://maxradio.azuracast.com.es:8020/AQP.mp3
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/30806.png",Radio Magica
+https://usa10.fastcast4u.com:1680/
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/32203.png",AnZoRadio
+https://streamingp.shoutcast.com/JamendoLounge?lang=*
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/34022.png",News Radio
+https://securestreams2.autopo.st:1110/1.mp3
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/34189.png",KIF Radio
+https://broadcast.sksgroup.com/kif_mp3
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/34222.png",REWIND RADIO
+https://radio4.pro-fhi.net/live/RewindRadio
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/34281.png",Radio Turbulences
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/34713.png",Playlist la Webradio
+https://radio13.pro-fhi.net/radio/9012/stream.mp3
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/34978.png",FUNK and CO
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/35024.png",Spatial FM
+https://ice1.somafm.com/spacestation-128-mp3
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/35155.png",Radio Top Side
+https://radiotopside.ice.infomaniak.ch/radiotopside-128.mp3
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/35686.png",AngelsFox-Radio
+https://rautemusik.stream39.radiohost.de/schlager?_art=dD0xNzU5MTkwNDM2JmQ9ZTRhOGE1YjNlNTI3NjBjOTkxNjc&upd-meta&upd-scheme=https
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/35763.png",Discofox FM
+https://discofox-fm.stream.laut.fm/discofox-fm?ref=radiode&t302=2022-10-03_06-13-43&uuid=50657c59-96f4-4bf2-94db-14a9cd1667d0
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/36032.png",Hits4you
+https://stream1.rcast.net/71238
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/36159.png",Müritzradio
+https://mueritzradio.stream.laut.fm/mueritzradio?ref=radiode&t302=2025-09-29_23-55-36&uuid=e272a25b-865f-4236-9c4b-9877d3c505be
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/36881.png",KingRadio
+https://kingradio.stream.laut.fm/kingradio
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/37258.png",Radio Paradise Music
+https://musikgeschichte.stream.laut.fm/musikgeschichte
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/37273.png",Zeppelin Stelle Radio
+https://zeppelin-stelle-radio.stream.laut.fm/zeppelin-stelle-radio
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/38057.png",Discosender
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/38376.png",Wibmedia
+https://wibmedia.stream.laut.fm/wibmedia?t302=2022-08-25_11-06-44&uuid=166ee2d8-cb11-4336-bd8a-a193f61f8c2f
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/39013.png",manstaradio
+https://i6.streams.ovh:16012/stream
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/41874.png",NRJ (Европа Плюс)
+https://cast.mediaonline.net.ua/nrj320
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/41897.png",Radio Nostalgie
+https://765211.live.tvstitch.com/stream.m3u8?&m=aHR0cHM6Ly9zdHJlYW12aWRlby5sdXhuZXQudWEvbm9zdGFsZ2llX2Fkdi9tYXN0ZXIubTN1OA==&u=&channel=nostalgie
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/41967.png",Wolf Music Deep House Radio
+https://stream.wolfmusicradio.com:8000/Wolf_Music/radio.mp3
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/25609641.jpg",Radio Oli FM
+https://19183.live.streamtheworld.com/OLI968FMAAC.aac
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/85045512.jpg",FUNK2DISCO
+https://funk2disco.stream.laut.fm/funk2disco?t302=2020-06-14_02-45-55&uuid=d1493195-938a-40db-abac-2f90a40383e8
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/104163137.png",TOO RADIO 80s
+https://listen.radioking.com/radio/70804/stream/108661
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/76845249.png",B4B Disco Funk
+https://eu10.fastcast4u.com:8120/
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/31109628.png",Radio 3S
+https://radio.solarsoundsystem.org/listen/radio3s/radio.mp3
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/9703620.png",Allzic Radio Années 70
+https://allzic50.ice.infomaniak.ch/allzic50.aac
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/110271572.png",B4B Club Dance
+https://eu10.fastcast4u.com/b4bdiscofunk
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/49696546.png",Allzic Radio DEEP DISCO
+https://allzic31.ice.infomaniak.ch/allzic31.mp3
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/2121308.png",Allzic Radio Années 80
+https://allzic08.ice.infomaniak.ch/allzic08.mp3
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/105175668.jpg",Allzic Radio Années 50
+https://allzic29.ice.infomaniak.ch/allzic29.mp3
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/72842793.png",Prysm Deep
+https://stream.rcs.revma.com/ppzppua5rnruv
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/63423770.png",Donau 3 FM Jukebox Live
+https://edge69.streamonkey.net/donau3fm-live/stream/mp3?aggregator=website
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/18752301.png",Allzic Radio DISCO
+https://allzic31.ice.infomaniak.ch/allzic31.aac
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/32110827.jpg",54 Funk Soul Dance Live
+https://54-funk-soul-dance.stream.laut.fm/54-funk-soul-dance
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/78922763.jpg",Funk Soul Brother Live
+https://funksoulbrother.stream.laut.fm/funksoulbrother?t302=2020-08-29_08-43-17&uuid=f8bf8f1a-b73d-44cc-b248-8a7b047384c4
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/118930889.png",Galattica FM Live
+https://galatticafm.stream.laut.fm/galatticafm?t302=2020-08-29_10-22-07&uuid=aec8fb1b-1752-433d-b75c-9271d24134a1
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/85110130.png",100% Discofox Live
+https://regiocast.streamabc.net/regc-schlagerplanetdiscofox1779012-mp3-192-9069673?sABC=64785911%230%23p89r4p705r9056o5s2qqs55019125os6%23gharva&aw_0_1st.playerid=tunein&amsparams=playerid:tuneinskey:1685608721
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/42079231.png",ElektroFlux
+https://fluxfm.streamabc.net/flx-elektroflux-aacplus-64-7576981?sABC=64r5r2n6%230%234s324667423r52803826827np8ssp17r%23fgernzf.syhksz.qr&aw_0_1st.playerid=streams.fluxfm.de&amsparams=playerid:streams.fluxfm.deskey:1692787366
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/95327081.png",1000 Discofox
+https://1000discofox.stream.laut.fm/1000discofox?t302=2020-09-05_13-00-26&uuid=4c49d610-5be1-4f78-8669-8432ca13556b
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/42986491.png",101.ru: Michael Jackson
+https://pub0302.101.ru:8443/stream/pro/aac/64/52
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/58633762.jpg",Radio Caprice - Italo Disco
+https://italo-disco.stream.laut.fm/italo-disco
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/35112226.png",101.ru: Boney M.
+https://pub0102.101.ru:8443/stream/pro/aac/64/114
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/97103258.png",Makradio Fresh
+https://makkirus.amgradio.ru/makkirus
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/32207629.png",Rádio Viva FM ao vivo
+https://r6.ciclano.io:15030/tunein/viva945-stream.pls?sid=1
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/47535660.jpg",Dance100Parar ao vivo
+https://play.radioregional.pt/stream/10/
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/85276508.jpg",Only1, 80's radio
+https://securestreams6.autopo.st:2321/stream.mp3
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/53689071.jpg",RdMix Italo Disco 80's
+https://cast1.torontocast.com:2130/stream
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/83058541.png",PMR PlayerMusicRadio
+https://playermusicradio.stream.laut.fm/playermusicradio?t302=2025-09-29_23-55-42&uuid=c10ee74a-ecb5-4f65-bb91-afb1bba092f2
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/40926394.png",Radio Escom
+https://emisorasdigitales2.com/8006/stream
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/32282313.jpg",Trak FM
+https://stream01.sigile.net/traxfm-128-mp3
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/24069379.jpeg",Radio 531 3GG
+https://19273.live.streamtheworld.com/3GGAAC.aac
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/81563454.png",882 3YB
+https://27793.live.streamtheworld.com/JOYTURK_AKUSTIK128AAC_SC?pname=TDSdk
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/21116075.jpg",Soulbox Radio
+https://stream.soulboxradio.com/soulbox
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/70919751.png",MasterMixers@Work
+https://a2.asurahosting.com:6970/
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/60520287.png",Sublime Soul
+https://22533.live.streamtheworld.com/WEB22_MP3_SC?dist=onlineradiobox
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/24369125.png",Dancewave FM
+http://onair.dancewave.online:8080/dance.mp3
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/89290918.png",Kool 182
+https://kool.stream.laut.fm/kool
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/38682226.jpg",Radio Prestige
+https://s3.slotex.pl:7076/stream/1/?sid=1
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/52228990.jpg",104.3 Rock FM
+https://usa1.bntworxtv.com/listen/104.3rockfm.com/radio.mp3?1734426059281
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/7486879.jpg",RADIOTHELINKS
+https://tshirt4you.radioca.st/stream
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/51390788.jpg",84.7 Bee Cool Fm
+https://ny.mysonicserver.com/8054/stream
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/31117997.jpg",Kand FM
+https://listen7.myradio24.com/tamish
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/51724664.png",LOVE RADIO - www.love.radio
+https://loveradio.streamingmedia.it/play
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/105029388.jpg",Number One Disco FM
+https://strm112.1.fm/top40_mobile_mp3?aw_0_req.gdpr=true%22
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/113177376.jpg",Exclusively The Bee Gees
+https://nl4.mystreaming.net/er/beegees/icecast.audio
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/37160187.jpg",Exclusively Disco
+https://nl4.mystreaming.net/er/disco/icecast.audio
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/111384241.jpg",Exclusively Donna Summer
+https://nl4.mystreaming.net/er/donnasummer/icecast.audio
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/82298352.jpg",Radio Russian Emirates
+https://a4.radioheart.ru:9041/RH32763
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/116138404.jpg",Exclusively Chic
+https://nl4.mystreaming.net/er/chic/icecast.audio
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/29124090.jpg",WILD HEART FM 97.1
+https://eu10.fastcast4u.com/wildheart
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/120501664.jpg",Megatron Mix FM
+https://maximacenterdata.com/8084/stream
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/63862499.jpg",Abcrockradio
+https://c42.radioboss.fm:8005/stream
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/30071954.jpg",Fans Stereo Radio
+https://sp.onliveperu.com/8148/stream
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/4636943.jpg",guimaraskissfm
+https://dharkgfx.com/radio/8010/radio.mp3
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/104036278.jpg",Sonorama Radio
+https://eu57-sonic.instainternet.com:7059/
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/448510.jpg",Radio Synthpop
+https://radio.blueditor.com/8250/stream
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/21321759.jpg",Old School 94.1 Fm
+https://ec3.yesstreaming.net:4245/stream
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/14326131.jpg",The Groove
+https://streams2.streamkast.co/bustosmedia/ktgv/icecast.audio?playSessionID=54B3CD4A-F2AD-A065-4B0D51BFC29184D4
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/104725442.jpg",Funky Vibes Radio
+https://s4.radio.co/s4902de73b/listen
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/4747395.jpg",House Fusion Radio 24/7
+https://housefusionradiouk.out.airtime.pro/housefusionradiouk_a?_ga=2.164011068.227660522.1628928668-1122947357.1628928668
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/59085577.jpg",The English 909 - Freedom Radio
+https://listen.radioking.com/radio/425977/stream/523475
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/40487922.jpg",70 80 Disco Funk ModernSoul e Boogie
+https://discofunk.streamingmedia.it/play
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/58322796.jpg",Funky Disco Radio
+https://funkydiscoradio.stream.laut.fm/funkydiscoradio?t302=2023-01-14_07-33-31&uuid=663a2904-9efd-4828-ba8f-ceba1af4e9e6
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/26089484.jpg",RMC Disco Funk
+https://icy.unitedradio.it/rmcweb025?aw_0_req.userConsentV2=CPI3FoLPI3F3qB7D9BITBhCsAP_AAH_AAAAAIBtf_X__bX9j-_59f_t0eY1P9_r_v-Qzjhfdt-8N2L_W_L0X42E7NF3apq4KuR4Eu3LBIQNlHMHUTUmw6okVrzPsak2Mr7NKJ7LEmnMZe2dYGHtfn91TuZKY7_78_9fz3z-v_v___9f3r-3_3__59X---_e_V39
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/64950831.jpg",Power Station Italy
+https://powerstationitaly.stream.laut.fm/powerstationitaly?t302=2023-01-17_11-56-09&uuid=a6e6c9fe-4b94-404a-9c1b-6d3e0daee2e2
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/114829475.jpg",Radio Locali di Italia
+https://radiolocaliditalia.streamingmedia.it/stream
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/52244023.jpg",Radio Cyrus
+https://cast.server89.com/radio/8090/radio.mp3
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/20104735.jpg",FM 80 FUNKY MUSIC
+https://listen.radioking.com/radio/467555/stream/523739
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/104014281.jpg",Impact FM - Disco Funk
+https://impactfm-disco.ice.infomaniak.ch/impactfm-disco-64.aac
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/976136.jpg",FG. Disco Funk
+https://n08.rcs.revma.com/cpkhx08pq18uv?rj-ttl=5&rj-tok=AAABh6d9698ATXp6YluGY84eKQ
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/92857217.jpg",Jupiter FM
+https://listen.radioking.com/radio/426340/stream/479872
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/35490294.jpg",Radio SCOOP - Disco Funk
+https://scoopdisco.ice.infomaniak.ch/radioscoop-disco-64.aac
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/34239469.jpg",Metropolys 2000
+https://listen.radioking.com/radio/1202/stream/83
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/54671246.jpg",RADIO CONTACT VOSGES HD
+https://s2.ssl-stream.com/listen/radio_contact/radio.mp3
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/91890172.jpg",Oxygène Grenoble
+https://streamingp.shoutcast.com/radio-oxygene-grenoble-aac
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/71979771.jpg",Radio CORSAIRE
+https://manager8.streamradio.fr/corsaire320
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/94518021.jpg",Positive Radio
+https://positiveradio.stream.laut.fm/positiveradio
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/92609234.jpg",Dance Radio London
+https://uk3-vn.mixstream.net/:8164/listen.mp3
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/817659.png",077 Radio 70XL
+https://strw3.openstream.co/457?aw_0_1st.collectionid%3D6993%26stationId%3D6993%26publisherId%3D277%26k%3D1759190148
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/79743232.jpg",All Time Hits - Non-stop Top 40 Music
+https://mediacp.audiostreamen.nl:8150/stream
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/33167581.png",Vintage Radio Azerbaijan
+https://trucker.autoliferadio.com:1045/stream
 #EXTINF:-1,Radio Mirage
 http://91.232.4.33:9569/stream
 #EXTINF:-1,Radio Canada Sudbury
@@ -331,8 +562,6 @@ https://rsa.streamabc.net/regc-rsasachsen80erdisco8061125-mp3-192-1208176?sABC=6
 https://listen.radioking.com/radio/208624/stream/251509
 #EXTINF:-1,RFM DANCEFLOOR
 https://27903.live.streamtheworld.com/DANCEONTHEFLOORAAC.aac
-#EXTINF:-1,Radio Piacenza Sound
-https://streamingp.shoutcast.com/JamendoLounge?lang=*
 #EXTINF:-1,power99fm
 https://power99fm.stream.laut.fm/power99fm?ref=radiode&t302=2025-09-06_21-54-00&uuid=37b1e32d-b9f2-4a41-8c5d-a0dd57bb4ff6
 #EXTINF:-1,R.SA – Disco
@@ -353,8 +582,6 @@ https://radio.myhitmusic.de/Mr-Groove-aac.mp3
 https://h.getradio.me/svoefm/hls.m3u8
 #EXTINF:-1,MUSIC MAFIA
 https://listen.radionomy.com/MUSICMAFIA.m3u
-#EXTINF:-1,Allzic Disco
-https://allzic31.ice.infomaniak.ch/allzic31.mp3
 #EXTINF:-1,egoSOUL
 https://cast.egofm.de/egosoul.mp3?ar-distributor=f0a2&aw_0_req.gdpr=true
 #EXTINF:-1,Hits 80s
@@ -399,8 +626,6 @@ https://chillerlounge.stream.laut.fm/chillerlounge?ref=radiode&t302=2025-09-06_2
 https://party-dj-radio.stream.laut.fm/party-dj-radio?ref=radiode&t302=2025-09-06_21-54-07&uuid=1d2dcb66-241a-40eb-a116-fc027fc38f42
 #EXTINF:-1,SSRadio Funk & Disco
 https://ssradiol.radioca.st/listen.mp3
-#EXTINF:-1,101.ru: Michael Jackson
-https://pub0302.101.ru:8443/stream/pro/aac/64/52
 #EXTINF:-1,101.ru: Boney M.
 https://pub0302.101.ru:8443/stream/pro/aac/64/114
 #EXTINF:-1,RMF Party
@@ -829,14 +1054,10 @@ https://17843.live.streamtheworld.com/3GGAAC.aac
 https://stream1.themediasite.co.uk:7009/stream
 #EXTINF:-1,7 Radio
 http://srv1.coollabel-productions.com:8052/
-#EXTINF:-1,70 80 Disco Funk ModernSoul e Boogie
-https://discofunk.streamingmedia.it/play
 #EXTINF:-1,70s Disco Nights Radio
 https://panel.retrolandigital.com:8170/listen
 #EXTINF:-1,80s Mix Radio
 https://80s-mix-radio.stream.laut.fm/80s-mix-radio?t302=2025-09-13_04-39-52&uuid=02c73c83-f855-4904-8fce-ecae807c6427
-#EXTINF:-1,84.7 Bee Cool Fm
-https://ny.mysonicserver.com/8054/stream
 #EXTINF:-1,875 Nantes
 https://listen.radioking.com/radio/15130/stream/28217
 #EXTINF:-1,889 FM
@@ -1039,8 +1260,6 @@ https://funkydiscoradio.stream.laut.fm/funkydiscoradio?t302=2025-09-13_04-40-09&
 http://hyades.shoutca.st:8136/
 #EXTINF:-1,Funky Town Radio
 https://splogonz11.out.airtime.pro/splogonz11_a
-#EXTINF:-1,Funky Vibes FM
-https://s4.radio.co/s4902de73b/listen
 #EXTINF:-1,Gdlradio
 https://rcast.pro-fhi.net:9030/stream
 #EXTINF:-1,Geburtstagswelle
@@ -1069,8 +1288,6 @@ http://nonefran.radioca.st:8036/stream
 https://grazfm.stream.laut.fm/grazfm?t302=2025-09-13_04-40-12&uuid=9305d57c-d459-4629-a070-1559c709d014
 #EXTINF:-1,Grazybeats
 https://grazybeats.stream.laut.fm/grazybeats?t302=2025-09-13_04-40-12&uuid=c9012209-7e2f-467f-bbe7-fc0e535dabdf
-#EXTINF:-1,guimaraskissfm
-https://dharkgfx.com/radio/8010/radio.mp3
 #EXTINF:-1,Hammerhits
 https://hammerhits.stream.laut.fm/hammerhits?t302=2025-09-13_04-40-13&uuid=21589cca-228a-4243-ae9d-86a4b19c1c5b
 #EXTINF:-1,Handsup Radio
@@ -1137,12 +1354,8 @@ https://das-edge14-live365-dal02.cdnstream.com/a53211
 http://ais-sa2.cdnstream1.com/2383_128.mp3
 #EXTINF:-1,Jukebox
 https://jukebox.stream.laut.fm/jukebox?t302=2025-09-13_04-40-17&uuid=faff9e7d-8442-4259-83d3-3abe87c93599
-#EXTINF:-1,Jupiter FM
-https://listen.radioking.com/radio/426340/stream/479872
 #EXTINF:-1,Ka'u Radio
 https://a1.asurahosting.com:8020/radio.mp3
-#EXTINF:-1,Kand FM
-https://listen7.myradio24.com/tamish
 #EXTINF:-1,KAZA FM Radio
 https://kazafm.radioca.st/
 #EXTINF:-1,KIF Radio
@@ -1275,8 +1488,6 @@ https://s3.radio.co/sd59eccabf/listen
 https://playtape.stream.laut.fm/playtape?t302=2025-09-13_04-40-28&uuid=b66e4d4b-8db8-47a8-8278-685f6bca9d0c
 #EXTINF:-1,PlayFm Dublin
 https://s107.radiolize.com:8000/radio.mp3
-#EXTINF:-1,Playlist la Webradio
-https://radio13.pro-fhi.net/radio/9012/stream.mp3
 #EXTINF:-1,Pleasuredome
 https://pleasuredome.stream.laut.fm/pleasuredome?t302=2025-09-13_04-40-28&uuid=3ea0e904-97db-49c8-8bfc-a2619d43c1c8
 #EXTINF:-1,Pop & Wave
@@ -1437,8 +1648,6 @@ http://player.radiomidt.dk/
 http://shoutcast2.wirelessantwerpen.be:8412/radiomoetoen
 #EXTINF:-1,Radio Msh
 https://radiomsh.stream.laut.fm/radiomsh?t302=2025-09-13_04-40-48&uuid=e41719e2-7404-46ae-ac57-fd9703e99258
-#EXTINF:-1,Radio Nostalgie - Радіо Nostalgie
-https://765211.live.tvstitch.com/stream.m3u8?&m=aHR0cHM6Ly9zdHJlYW12aWRlby5sdXhuZXQudWEvbm9zdGFsZ2llX2Fkdi9tYXN0ZXIubTN1OA==&u=&channel=nostalgie
 #EXTINF:-1,Radio Nova Mix
 https://radio.novamix.ro:8042/stream
 #EXTINF:-1,Radio ohne Namen
@@ -1541,8 +1750,6 @@ http://51.15.160.78:8334/
 https://radiotanzpalast.stream.laut.fm/radiotanzpalast?t302=2025-09-13_04-41-01&uuid=3790223a-4339-489c-9836-78e1bed41750
 #EXTINF:-1,RDM Radio Disco Milano DanceStation
 https://radiodisco.stream.laut.fm/radiodisco?t302=2025-09-13_04-41-02&uuid=1419036a-fb28-44ea-9d9a-eb853525a342
-#EXTINF:-1,RDMIX Italo Disco 80s
-https://cast1.torontocast.com:2130/stream
 #EXTINF:-1,RebeldiaFM
 https://sv11.hdradios.net:6806/stream
 #EXTINF:-1,Recital Radio On Line
@@ -1675,8 +1882,6 @@ https://das-edge17-live365-dal02.cdnstream.com/a58608
 https://s12.myradiostream.com:17550/listen.mp3
 #EXTINF:-1,Teerex radio Teerex
 http://janus.cdnstream.com:5173/stream
-#EXTINF:-1,That 70's Channel
-https://ais-sa5.cdnstream1.com/b68000_128mp3
 #EXTINF:-1,The Hub - Nanton Radio Variety
 https://usa19.fastcast4u.com:9200/
 #EXTINF:-1,The Strobe Radio
@@ -1739,8 +1944,6 @@ https://s4.radio.co/sefb41c1b0/listen
 https://wibmedia.stream.laut.fm/wibmedia?t302=2025-09-13_04-41-17&uuid=2a86f815-e7e8-45d9-8dcb-16273402f4e9
 #EXTINF:-1,Wijaya FM
 http://wijayafm.onlivestreaming.net:9880/stream?
-#EXTINF:-1,Wolf Music Deep House Radio
-https://stream.wolfmusicradio.com:8000/Wolf_Music/radio.mp3
 #EXTINF:-1,WRMR - Random Music Radio
 https://das-edge17-live365-dal02.cdnstream.com/a11154
 #EXTINF:-1,Wtpr Detroit Radio
@@ -1817,8 +2020,6 @@ https://n28a-eu.rcs.revma.com/gbcm52a5rnruv?rj-ttl=5&rj-tok=AAABiq29_RwAvRN-R8KV
 https://strmreg.1.fm/70s_mobile_mp3
 #EXTINF:-1,Club Music Radio - ITALO DISCO
 https://cmr-hosting.com/8050/stream
-#EXTINF:-1,Tinder Radio - Disco
-https://nl4.mystreaming.net/er/disco/icecast.audio
 #EXTINF:-1,Rádio Studio Souto - Discoteca 70s
 https://centova5.transmissaodigital.com:20013/;
 #EXTINF:-1,Yellow Radio
@@ -1859,14 +2060,10 @@ https://n08a-eu.rcs.revma.com/dds1xh9a0mzuv?rj-ttl=5&rj-tok=AAABiq3Rq5oAxnueVOlh
 https://artofmusic.radioca.st/stream1
 #EXTINF:-1,Rádió Groove
 https://s03.diazol.hu:35112/live.mp3
-#EXTINF:-1,Top 80 radio
-https://securestreams6.autopo.st:2321/stream.mp3
 #EXTINF:-1,Absolut Bella
 https://edge62.live-sm.absolutradio.de/absolut-bella
 #EXTINF:-1,Classic Hits  anni 70 80 90
 https://classichitsradio.streamingmedia.it/play
-#EXTINF:-1,Jammin 99.9
-https://ais-sa8.cdnstream1.com/2757_64.aac
 #EXTINF:-1,Baden FM - Partymix
 https://edge10.streamonkey.net/badenfm-partymix?aggregator=hofmeir
 #EXTINF:-1,InterStacja - Disco Polo
@@ -1879,8 +2076,6 @@ https://madein80.leswebradios.fr/live
 https://s2-webradio.antenne.de/bayern-sound/stream/mp3
 #EXTINF:-1,The Lynx Disco Classics
 https://disco-lynxradio.radioca.st/stream;
-#EXTINF:-1,manstaradio
-https://i6.streams.ovh:16012/stream
 #EXTINF:-1,Radio Orgazam
 https://ams-pioneer02.dedicateware.com:1185/stream
 #EXTINF:-1,Number1 Disco
@@ -1967,8 +2162,6 @@ https://dealer1952.radioca.st/;
 https:/http:/dst.win:59008/stream
 #EXTINF:-1,Schlager Zone
 https://schlagerzone.stream.laut.fm/schlagerzone
-#EXTINF:-1,Impact FM - Disco Funk
-https://impactfm-disco.ice.infomaniak.ch/impactfm-disco-64.aac
 #EXTINF:-1,Sound of Blue
 https://s5.stream-webradiotechnik.de:9902/;stream.nsv
 #EXTINF:-1,Bridge fm Hungary
@@ -2929,8 +3122,6 @@ http://webradiobischofswerda.stream.laut.fm/webradiobischofswerda
 http://jacksaw.stream.laut.fm/jacksaw
 #EXTINF:-1,powerradio
 http://powerradio.stream.laut.fm/powerradio
-#EXTINF:-1,NRJ radio
-https://cast.mediaonline.net.ua/nrj320
 #EXTINF:-1,1000 HITS 80s radio
 https://ais-sa9.cdnstream1.com/1898_128
 #EXTINF:-1,Авторадио radio
@@ -2941,10 +3132,6 @@ https://strw3.openstream.co/1421?aw_0_1st.collectionid%3D4573%26stationId%3D4573
 https://italo-disco.stream.laut.fm/italo-disco?t302=2025-09-01_08-39-03&uuid=af1b9f37-8f08-420d-8a71-344c9b49145a
 #EXTINF:-1,Disco, Essen radio
 https://disco.stream.laut.fm/disco
-#EXTINF:-1,Old School 94.1 Fm radio
-https://ec3.yesstreaming.net:4245/stream
-#EXTINF:-1,FM 80 FUNKY MUSIC radio
-https://listen.radioking.com/radio/467555/stream/523739
 #EXTINF:-1,90s Eurodance radio
 https://listen1.myradio24.com/5967
 #EXTINF:-1,Italia Dance Music Radio
@@ -2979,8 +3166,6 @@ http://209.133.221.250:8188/mp3
 http://4stream.pl:18322/stream.nsv
 #EXTINF:-1,Formula10musicA radio
 https://formula10musica.stream.laut.fm/formula10musica?t302=2025-09-01_08-39-15&uuid=d64b8a4d-6eb5-476b-a2e0-a4eddf99f5f2
-#EXTINF:-1,Pool FM radio
-https://radios.poolwebwork.com.br/8010/stream
 #EXTINF:-1,Radio Pro Music radio
 https://strw3.openstream.co/1421?aw_0_1st.collectionid%3D4573%26stationId%3D4573%26publisherId%3D1445%26k%3D1756715959
 #EXTINF:-1,Disco Mix radio
@@ -3437,8 +3622,6 @@ http://listen.radionomy.com/abbatrax?type=.mp3
 http://stream.laut.fm/radio-holiday
 #EXTINF:-1,MLive Radio
 http://server-24.stream-server.nl:8408/
-#EXTINF:-1,Positive Stream
-https://positiveradio.stream.laut.fm/positiveradio
 #EXTINF:-1,City Beats
 http://bcb-office.rautemusik.fm
 #EXTINF:-1,Funkytown Radio
@@ -3497,8 +3680,6 @@ https://streaming.exclusive.radio/er/rodstewart/icecast.audio
 http://listen.radionomy.com/Dz-StarFM?type=.mp3
 #EXTINF:-1,Radio Record Deep
 https://radiorecord.hostingradio.ru/deep96.aacp
-#EXTINF:-1,Radio Magica 87.7
-https://usa10.fastcast4u.com:1680/
 #EXTINF:-1,GoHappy FM
 http://stream.laut.fm/gohappy-fm
 #EXTINF:-1,RadioPartyKracher
@@ -3725,8 +3906,6 @@ https://streaming.exclusive.radio/er/earthwindandfirehits/icecast.audio
 https://c26.radioboss.fm:18320/stream
 #EXTINF:-1,my105 New Classics
 http://my105.stream17.radiohost.de/my105-disconudisco_mp3-192
-#EXTINF:-1,Radio SCOOP Disco Funk
-https://scoopdisco.ice.infomaniak.ch/radioscoop-disco-64.aac
 #EXTINF:-1,Metro 80’ler
 https://25653.live.streamtheworld.com/JOY_TURKAAC.aac
 #EXTINF:-1,Radio Nova Lyon
@@ -4223,8 +4402,6 @@ https://streaming.hotmixradio.com/hotmix-disco-funk-en-mp3?from=tunein
 http://stream.top80radio.com:8005/stream.mp3
 #EXTINF:-1,PALACE RADIO PARIS
 https://listen.radioking.com/radio/463/stream/1802?
-#EXTINF:-1,Oxygène Grenoble
-https://streamingp.shoutcast.com/radio-oxygene-grenoble-aac
 #EXTINF:-1,RADIO MEDITERRANEE VAR HD
 https://listen.radioking.com/radio/119806/stream/159280?
 #EXTINF:-1,Alt Lix Radio
@@ -4323,8 +4500,6 @@ http://ic1.smcdn.pl:8000/3990-1.mp3
 http://ecuamedios.net:8036/stream
 #EXTINF:-1,RADIO LA VOZ DEL PUEBLO
 http://sv2.globalhostlive.com:7012/live
-#EXTINF:-1,Fans Stereo Radio
-https://sp.onliveperu.com/8148/stream
 #EXTINF:-1,80XL by 077radio
 https://strw3.openstream.co/713?aw_0_1st.collectionid%3D3309%26stationId%3D3309%26publisherId%3D737%26k%3D1757383953
 #EXTINF:-1,my105 DJ Radio
@@ -4387,8 +4562,6 @@ https://radio.tvstitch.com/HitFM_Top
 https://radio.tvstitch.com/HitFM_Ukr
 #EXTINF:-1,FM 80 FUNKY MUSIC
 https://italo-disco.stream.laut.fm/italo-disco?t302=2025-09-17_00-45-30&uuid=1eb40499-7f6b-4ad5-bc60-0ce932f94ddd
-#EXTINF:-1,America&amp#39s Greatest 70s Hits
-https://hydra.cdnstream.com/1823_128
 #EXTINF:-1,.977 Today&amp#39s Hits
 https://26343.live.streamtheworld.com/977_HITSAAC_SC?dist=onlineradiobox
 #EXTINF:-1,80s80s Italo Disco
@@ -4875,8 +5048,6 @@ https://streaming.bypremium.online/9410/stream
 https://streaming.bypremium.online/8300/stream
 #EXTINF:-1,Rádio Alto Minho
 https://ec2.yesstreaming.net:3705/stream
-#EXTINF:-1,Soulbox Radio
-https://stream.soulboxradio.com/soulbox
 #EXTINF:-1,Gravity Radio
 http://01.solumedia.com.ar:8094/stream.mp3
 #EXTINF:-1,Radio 531 3GG
@@ -4943,8 +5114,6 @@ https://dmsstreaming.nl:8000/radio.mp3
 http://stream.tbmp.nl:8000/haarlemshufflelow.aac
 #EXTINF:-1,RDG Music
 http://bluford.torontocast.com:8070/stream
-#EXTINF:-1,Exclusively Donna Summer
-https://nl4.mystreaming.net/er/donnasummer/icecast.audio
 #EXTINF:-1,POWER PARANA
 http://stm2.xcast.com.br:8210/
 #EXTINF:-1,Flash FM
@@ -4965,8 +5134,6 @@ http://video.mediawebchile.com:8050/
 http://262.cloudrad.io:8440/Live
 #EXTINF:-1,Radio Wanderlust
 http://radyo.yayin.com.tr:5898/stream
-#EXTINF:-1,Allzic Radio Années 70
-https://allzic50.ice.infomaniak.ch/allzic50.aac
 #EXTINF:-1,Yesbananas Radio Web
 http://stm22.painelcast.com:7206/24aac
 #EXTINF:-1,Rádio Estação Web
@@ -4975,24 +5142,16 @@ https://servidor33.brlogic.com:8262/live
 https://c32.radioboss.fm:18254/autodj
 #EXTINF:-1,BestRadio Brasil
 https://best.viaflux.com/radio/8000/openradioapp
-#EXTINF:-1,Allzic Radio Années 80
-https://allzic08.ice.infomaniak.ch/allzic08.mp3
 #EXTINF:-1,Jamm FM Radio
 http://stream.jammfmradio.com:8075/
 #EXTINF:-1,AIR GAY RADIO
 https://ecmanager.pro-fhi.net:2505/stream
-#EXTINF:-1,Radio Russian Emirates
-https://a4.radioheart.ru:9041/RH32763
 #EXTINF:-1,Free Radio Rotterdam
 https://streams.freeradiorotterdam.nl:9443/
 #EXTINF:-1,La Maxima Online
 https://radiohd.streaminghd.co:2199/start/lamaximaonline/
-#EXTINF:-1,Allzic Radio Années 50
-https://allzic29.ice.infomaniak.ch/allzic29.mp3
 #EXTINF:-1,RPR1. Original 70er
 http://audiotainment-sw.streamabc.net/atsw-70er-mp3-128-4030541?sABC=68p0s63r%230%23rrs343896o042979nnn124srps8p05q5%23gjy48&aw_0_1st.playerid=twl48&amsparams=playerid:twl48;skey:1757476414
-#EXTINF:-1,Allzic Radio DISCO
-https://allzic31.ice.infomaniak.ch/allzic31.aac
 #EXTINF:-1,Golfbreker Radio
 https://stream.golfbreker.nl/
 #EXTINF:-1,Rádio Flash Dj
@@ -5133,8 +5292,6 @@ https://live.radiospinner.com/chillstep-64
 https://sonicpanel.totalstreaming.net/8038/server
 #EXTINF:-1,889 FM Listen live
 https://889fm.stream.laut.fm/889fm?t302=2025-09-17_22-20-38&uuid=bf01cd71-ff64-4d0f-90f4-348a31b9a0f5
-#EXTINF:-1,B4B Radio Disco Funk Listen live
-https://eu10.fastcast4u.com:8120/
 #EXTINF:-1,Berliner Rundfunk - Disco Listen live
 https://topradio.stream07.radiohost.de/brf-disco_mp3-192?agend=true&upd-meta&upd-scheme=https&_art=dD0xNzU4MTQ3OTM4JmQ9YWRhZGViYjc4YmE3ZWM1OTU4Mzk
 #EXTINF:-1,Boney M. - 101.ru Listen live
@@ -5285,8 +5442,6 @@ http://5.135.158.214:6106
 https://ais-edge89-dal02.cdnstream.com/b68000_128mp3
 #EXTINF:-1,KAZA FM
 https://server6.emitironline.com:8044/
-#EXTINF:-1,313 DBN
-https://dbn313radio.radioca.st/stream
 #EXTINF:-1,Condo Jamz
 https://das-edge13-live365-dal02.cdnstream.com/a06372
 #EXTINF:-1,WRMR - Random Music
@@ -5435,8 +5590,6 @@ https://19273.live.streamtheworld.com/ACIR14_S01AAC.aac?n=664e24fbd7ac9c376a6a
 https://maiban00.radioca.st/stream?n=56d352a2ac71c65e1981
 #EXTINF:-1,Disco- Caprice Radio
 http://79.120.77.11:8000/disco?n=815cdc8d4fd8b4f83e2a
-#EXTINF:-1,Exclusively Bee Gees
-https://nl4.mystreaming.net/er/beegees/icecast.audio
 #EXTINF:-1,Famous 560 Oldies WFIL Legacy West Point, PA
 https://www.radioveronica.us/56wfillisten.pls?n=e624c2c2e6c6129c44e7
 #EXTINF:-1,FUNKY RADIO - Only Funk Music 60s 70s
@@ -5819,8 +5972,6 @@ http://198.50.206.239:8170/
 http://116.202.246.47:8148/stream
 #EXTINF:-1,EXT Radio
 http://nebula.shoutca.st:8164/mp3
-#EXTINF:-1,The English 909 - Freedom Radio
-https://listen.radioking.com/radio/425977/stream/523475
 #EXTINF:-1,NOTE.radio
 https://s5.citrus3.com:8028/stream
 #EXTINF:-1,ACXIT Radio
@@ -6249,8 +6400,6 @@ http://studiodance.stream.laut.fm/studiodance?t302=2018-07-06_00-14-34&ampuuid=f
 http://195.154.185.139:80/radio/57328/stream/94525
 #EXTINF:-1,I Turn Radio
 http://live.i-turnradio.nl:80/live
-#EXTINF:-1,Radiotube
-http://onair.dancewave.online:8080/dance.mp3
 #EXTINF:-1,Usa Dance Mix
 http://das-edge11-live365-dal03.cdnstream.com/a70692
 #EXTINF:-1,Music Box Radio Uk

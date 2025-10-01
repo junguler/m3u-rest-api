@@ -1,4 +1,20 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/33677.png",Radio Nova
+https://stream.bauermedia.fi/radionova/radionova_64.aac
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/33678.png",Radio Santa Claus
+https://streaming.radiostreamlive.com/radiosantaclaus_devices
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/33679.png",Radio Nostalgia
+https://stream.bauermedia.fi/nostalgia/nostalgia_128.mp3?aw_0_1st.bauer_loggedin=false&aw_0_1st.playerid=BMUK_partner&aw_0_1st.skey=1590153246
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/33684.png",SuomiRock
+https://stream.bauermedia.fi/suomirock/suomirock_64.aac
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/33685.png",Radio Pooki
+https://stream.bauermedia.fi/radiopooki/radiopooki_128.mp3
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/33692.png",Radio Helsinki
+https://stream.radiohelsinki.fi/
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/33711.png",Bassoradio
+https://stream.bauermedia.fi/basso/bassoradio_64.aac
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/5204721.png",Fun
+https://radio13.servidorderadio.net/9624/stream
 #EXTINF:-1,Bassoradio
 https://stream.radioplay.fi/basso/bassoradio_64.aac
 #EXTINF:-1,Doubleclap Radio
@@ -11,8 +27,6 @@ http://stream.bauermedia.fi/kiss/kiss_64.aac
 http://stream.bauermedia.fi/nrj/nrj_128.mp3
 #EXTINF:-1,Radio 957
 http://stream.bauermedia.fi/radio957/radio957_64.aac
-#EXTINF:-1,Radio Basso
-https://stream.bauermedia.fi/basso/bassoradio_64.aac
 #EXTINF:-1,Radio Classic 128kbps
 https://stream.bauermedia.fi/classic/classic_128.mp3
 #EXTINF:-1,Radio Helsinki (128 kb/s)
@@ -21,8 +35,6 @@ http://radio.radiohelsinki.fi/
 http://opml.radiotime.com/Tune.ashx?id=s97243&formats=aac,ogg,mp3&partnerId=16&serial=afe4c1a95cc7f3a92c47dbad1b283293
 #EXTINF:-1,Radio KAAKKO
 http://wr2.downtime.fi/kaakko.aac
-#EXTINF:-1,Radio Nova
-https://stream.bauermedia.fi/radionova/radionova_64.aac
 #EXTINF:-1,Radio nova
 http://stream.bauermedia.fi/radionova/radionova_128.mp3
 #EXTINF:-1,Radio Pooki
@@ -61,8 +73,6 @@ https://yleradiolive.akamaized.net/hls/live/2027675/in-YleRS/master.m3u8
 https://stream.bauermedia.fi/kiss/kiss_64.aac
 #EXTINF:-1,YLE Puhe
 https://yleradiolive.akamaized.net/hls/live/2027677/in-YlePuhe/master.m3u8
-#EXTINF:-1,SuomiRock
-https://stream.bauermedia.fi/suomirock/suomirock_64.aac
 #EXTINF:-1,YLE Klassinen
 https://yleradiolive.akamaized.net/hls/live/2027676/in-YleKlassinen/master.m3u8
 #EXTINF:-1,Sea FM Radio
@@ -93,8 +103,6 @@ http://stream.radiodacha.ru/14_dacha_28?type=.aac&UID=5CB3E5619446D01077CBB30F60
 http://st.downtime.fi:80/sun.mp3
 #EXTINF:-1,Raute
 http://rautemusik.stream38.radiohost.de/christmas?upd-meta=0&upd-scheme=http&_art=dD0xNzU3Mzc3NjY1JmQ9N2RkMjY0YWYxMTZlOWZhOTFkNDM
-#EXTINF:-1,Radio Santa Claus
-https://streaming.radiostreamlive.com/radiosantaclaus_devices
 #EXTINF:-1,Radio Aalto - 92.5 FM
 https://proxy01.servidorenlinea.net/cdehosting/8042/?an-uid=6427168739786314769&dot-uid=0ae52204009353f711da024a&amb-uid=3129243929485457110&aw-uid=496701d691b554cedc1fb7549b899846&dbm-uid=CAESEEbOY3J2oB4CQAcvph7s9LM&cto-uid=26930a0e-f907-449c-864d-404b5d9d618c-66b725f6-5553&bsw-uid=af63dd95-0d85-4708-8a4e-f3d900a3586c&dyn-uid=5267274478558955079&ttd-uid=d14d7e6b-bf1a-4e1f-bad4-4e32f212091b&triton-uid=cookie%3A6d231ce9-e20a-4c98-978f-d7a80bbd1f9a&adt-uid=cuid_975e7101-bac4-11ef-81f6-12707100b72d&aw_0_req_lsid=b091bda7e9891608307c4cd3db6e3f53
 #EXTINF:-1,Radio Musa
@@ -117,8 +125,6 @@ https://stream.bauermedia.fi/iskelma/iskelma_64.aac
 https://stream.bauermedia.fi/nrj/nrj_128.mp3?aw_0_1st.bauer_loggedin=false&aw_0_1st.playerid=BMUK_tunein&aw_0_1st.skey=1757377369
 #EXTINF:-1,Radio City, Helsinki
 https://stream.radioplay.fi/radiocity/radiocity_64.aac
-#EXTINF:-1,Radio Iskelma
-https://stream.bauermedia.fi/radiopooki/radiopooki_128.mp3
 #EXTINF:-1,RapulaRadio
 https://sitrasuccubus.carrd.co/
 #EXTINF:-1,Radio City Hämeenlinna
@@ -131,8 +137,6 @@ http://stream.bauermedia.fi/iskelma/iskelma_64.aac
 http://212.47.220.188:8000/stream.mp3
 #EXTINF:-1,NRJ Finland
 https://stream.bauermedia.fi/radio957/radio957_64.aac
-#EXTINF:-1,Radio Classic
-https://stream.radiohelsinki.fi/
 #EXTINF:-1,Radio MFDM 90s Dance
 https://streamingp.shoutcast.com/JamendoLounge?lang=*
 #EXTINF:-1,Riemu Viesti

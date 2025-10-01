@@ -1,4 +1,14 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/14334.png",Bol Punjabi Radio
+https://bolpunjabi-ekamsoftware.radioca.st//stream
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/18196.png",Gurbani Kirtan 24x7
+https://gurbanikirtan.radioca.st/start.mp3#
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/20611593.jpg",AIR Punjab
+https://air.pc.cdn.bitgravity.com/air/live/pbaudio138/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/18814625.jpg",Live Kirtan Sri Harmandir Sahib, Sri Amritsar
+https://live.sgpc.net:8443/nocache=889869
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/7222686.png",Connect FM 91.5
+https://n11.rcs.revma.com/ygxn9vgennruv?rj-ttl=5&rj-tok=AAABepqyhAoAYiNOhInEGbR6Vw
 #EXTINF:-1,Desi Radio
 http://desi.canstream.co.uk:8001/live.mp3.m3u
 #EXTINF:-1,Desi World Radio (HQ)
@@ -7,8 +17,6 @@ https://desiworldradio.com/stream.m3u
 http://s43.myradiostream.com:22874/stream.mp3
 #EXTINF:-1,Jesus Coming FM - Hakka
 http://live.jesuscomingfm.com:8288/
-#EXTINF:-1,Live Kirtan Sri Harmandir Sahib
-https://live.sgpc.net:8443/nocache=889869
 #EXTINF:-1,MyRadio 580am
 http://ais-sa1.streamon.fm/7681_64k.mp3
 #EXTINF:-1,Parwaaz Radio (US)
@@ -35,8 +43,6 @@ http://live.jesuscomingfm.com:8212/;stream.mp3
 http://162.244.80.118:4900/stream.mp3?ver=682776
 #EXTINF:-1,All India Radio AIR Punjabi
 https://air.pc.cdn.bitgravity.com/air/live/pbaudio138/chunklist.m3u8
-#EXTINF:-1,Bol Punjabi Radio
-https://bolpunjabi-ekamsoftware.radioca.st//stream
 #EXTINF:-1,Connect FM 91.5 radio
 https://stream.rcs.revma.com/ygxn9vgennruv
 #EXTINF:-1,5 Rivers Radio
@@ -135,8 +141,6 @@ https://ais-sa1.streamon.fm/7404_48k.aac/playlist.m3u8
 http://radio.baani.net:8019/stream/
 #EXTINF:-1,Potpourri Radio
 https://ice3.securenetsystems.net/PPOURRI
-#EXTINF:-1,All India Radio - AIR Punjabi
-https://air.pc.cdn.bitgravity.com/air/live/pbaudio138/playlist.m3u8
 #EXTINF:-1,Intamixx Radio UK
 http://intamixx.no-ip.com:8000/
 #EXTINF:-1,Ambur Radio

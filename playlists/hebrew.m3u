@@ -1,4 +1,28 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/15138.png",Kabbalah TV
+https://radio.ouragan.cd/listen/ouragan/radio.mp3
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/15139.png",101 FM
+https://radio.streamgates.net/stream/101fm
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/15145.png",Niceman Radio
+https://listen6.myradio24.com/25715
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/15147.png",Radio Oranim
+https://radio.streamgates.net/stream/oranim
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/15162.png",Kol Galim
+https://live.ecast.co.il/stream/galimlive
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/15165.png",Radio Kol Hagalil Haelion
+https://radio.streamgates.net/stream/galil
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/15176.png",Voice of Hope - Middle East
+https://ice9.securenetsystems.net/VOH
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/15178.png",Kol Ramat Hasharon
+https://radio.streamgates.net/stream/1036
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/61583512.jpg",Joint Radio Reggae
+https://betelgeuse.nucast.co.uk/stream/jrn-reggae
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/46086702.png",Up2Dance Radio
+https://icecast.live/proxy/up2dance/up2dance
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/97436901.jpg",Radio Katsav Mizrahit
+https://liveradio.co.il:9040/?type=http&nocache=79982
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/57643469.png",Israeli voice radio
+https://icecast.live/ivr
 #EXTINF:-1,BRN Radio - Hebrew Channel
 http://192.241.185.108:8050/stream
 #EXTINF:-1,ECO99FM
@@ -65,8 +89,6 @@ https://cdn.cybercdn.live/Radios_100FM/Audio/icecast.audio
 https://22183.live.streamtheworld.com/KAN_BET.mp3?dist=bynetredirect
 #EXTINF:-1,Radio Kol Rega 96FM
 https://cdn.cybercdn.live/Kol_Rega/Live_Audio/icecast.audio
-#EXTINF:-1,Joint Radio Reggae
-https://betelgeuse.nucast.co.uk/stream/jrn-reggae
 #EXTINF:-1,Teenbuzz Radio
 https://uksoutha.streaming.broadcast.radio/teenbuzzradio
 #EXTINF:-1,Radio Orenu
@@ -133,8 +155,6 @@ https://live.ecast.co.il/stream/dudifm
 https://securestreams6.autopo.st:2294/mp3
 #EXTINF:-1,GalGalatz - רוק קלאסי
 https://glzwizzlv.bynetcdn.com/glglz_rock_mp3
-#EXTINF:-1,Kol Galim
-https://live.ecast.co.il/stream/galimlive
 #EXTINF:-1,Radio Angelika
 https://live.ecast.co.il:8024/stream
 #EXTINF:-1,Here is a gimmel
@@ -209,8 +229,6 @@ https://betelgeuse.nucast.co.uk/stream/jrn-beat?mp=/stream
 https://betelgeuse.nucast.co.uk/stream/jrn-blues?mp=/stream
 #EXTINF:-1,Mt Scopus Radio
 https://msradio.huji.ac.il/wwwroot/basics/48Kmancreation.mp3
-#EXTINF:-1,Niceman Radio
-https://listen6.myradio24.com/25715
 #EXTINF:-1,Radio Briza
 https://cp11.livecdn.biz/radiohaifa
 #EXTINF:-1,GLGLZ
@@ -223,8 +241,6 @@ https://27953.live.streamtheworld.com/KAN_GIMMEL.mp3?dist=bynetredirect
 https://25443.live.streamtheworld.com/KAN_REKA.mp3
 #EXTINF:-1,KAN KOL HAMUSICA
 https://23543.live.streamtheworld.com/KAN_KOL_HAMUSICA.mp3?dist=bynetredirect
-#EXTINF:-1,Jerusalem FM
-https://radio.streamgates.net/stream/101fm
 #EXTINF:-1,KAN TARBUT
 https://1075.livecdn.biz/radiohaifa
 #EXTINF:-1,Radio Kol Rega

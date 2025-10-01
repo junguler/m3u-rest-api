@@ -1,4 +1,38 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/53.png",La Raza 97.9 - KLAX-FM - FM
+https://liveaudio.lamusica.com/LA_KLAX_icy?aw_0_1st.playerld=onlineradiobox
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/6546.png",La Ley
+https://liveaudio.lamusica.com/CHI_WLEY_icy?aw_0_1st.playerld=onlineradiobox
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/7532.png",El Sabor
+https://ice6.securenetsystems.net/KSLO?playSessionID=48D36C75-F8B2-1E99-B942748A71F70EC4
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/10230.png",Radio Caliente 97.9 FM
+https://ice25.securenetsystems.net/WDDWHD3
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/11294.png",Radio Lobo
+https://17813.live.streamtheworld.com/KIWIFM_SC?dist=radioly
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/60434047.jpg",La Raza 93.3
+https://liveaudio.lamusica.com/SF_KRZZ_icy?source=TuneIn&us_privacy=1YNY&lat=31.0048&long=75.9463&aw_0_1st.lotamesegments=%3ball%3b
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/120105168.jpg", La Ranchera Dallas
+https://tunein.cdnstream1.com/4454_128.mp3
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/111533720.jpg",La Caliente 105.3
+https://ice6.securenetsystems.net/KSLO?playSessionID=727FFB73-F9BE-9B83-F720EEF86967A1FB
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/16705.png",La Mejor
+https://19003.live.streamtheworld.com/XHTIM_SC?dist=radioly
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/16911.png",La Bestia Grupera
+https://ss1.audiorama.com.mx:6584/stream
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/17274.png",La Giganta
+https://radiolatina.info:10989/
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/17460.png",Switch
+https://listen.switchradio.co.uk/switchradio_medium
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/17468.png",Radio 710
+https://s2.mexside.net/8028/stream
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/17512.png",Fara Fara Radio
+https://panel.retrolandigital.com/radio/8190/listen
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/95827724.png",La Mejor 99.9 FM
+https://19003.live.streamtheworld.com/XHSOFM_SC?dist=radioly
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/106364527.png",Tequila 107.9 FM
+https://live.zuperdns.net:7008/stream.mp3
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/98554892.png",Radio 7 Tazas de Molina
+https://streaming01.xhost.cl/8164/stream
 #EXTINF:-1,FIERAMIX LA MEXICANA
 https://c11.radioboss.fm:18212/stream
 #EXTINF:-1,ClubTejano.com
@@ -83,8 +117,6 @@ https://go.rcnmundo.com/statics/lives/la-carinosa-bogota.html
 https://streamingcwsradio30.com/8242/stream
 #EXTINF:-1,La Mejor, Mexico City radio
 https://14223.live.streamtheworld.com/XERCFM_SC?dist=onlineradiobox
-#EXTINF:-1,97.9 La Raza radio
-https://liveaudio.lamusica.com/LA_KLAX_icy?aw_0_1st.playerld=onlineradiobox
 #EXTINF:-1,Que Viva México Radio
 https://panel.retrolandigital.com/listen/que_viva_mexico/listen
 #EXTINF:-1,Radio Ranchito 1240 AM radio
@@ -105,8 +137,6 @@ https://sonic.portalfoxmix.cl:7045/
 https://sonic.paulatina.co/7068/stream
 #EXTINF:-1,KE 104.5 FM radio
 https://streamingcwsradio30.com:7031/stream
-#EXTINF:-1,La Bestia Grupera radio
-https://ss1.audiorama.com.mx:6584/stream
 #EXTINF:-1,Hasta que el Cuerpo Aguante Radio
 https://mediastreamm.com/8206/stream
 #EXTINF:-1,Que Buena 105.5/94.3 FM radio
@@ -139,8 +169,6 @@ https://media.streamingradiomx.com/radio/8100/radio.mp3
 https://19273.live.streamtheworld.com/KMYXFMAAC_SC?dist=onlineradiobox
 #EXTINF:-1,Que Buena 94.1 FM radio
 https://www.univision.com/radio/dallas-klno-fm
-#EXTINF:-1,Radio 710 radio
-https://s2.mexside.net/8028/stream
 #EXTINF:-1,Urbana Radio
 http://servidor18.brlogic.com:7370/live
 #EXTINF:-1,La Poderosa 860 AM radio
@@ -425,8 +453,6 @@ https://play8.tikast.com:20089/
 https://misradios.saucillofm.com/listen/bandida/radio.mp3
 #EXTINF:-1,Radio Amapola clásicos en Español
 https://sp001.servidoresph.com/8108/stream
-#EXTINF:-1,Radio 7 Tazas de Molina
-https://streaming01.xhost.cl/8164/stream
 #EXTINF:-1,Radio Comfaritmo
 https://sp1.radiosonline.xyz/8028/stream
 #EXTINF:-1,Tropical Ranchero

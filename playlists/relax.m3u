@@ -1,10 +1,47 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/74497445.jpg",Smooth Jazz Box
+https://ais-sa5.cdnstream1.com/b75154_128mp3?listening-from-radio-garden=1653122492
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/1096.png",Beautiful Instrumentals Channel
+https://streaming.brol.tech/rtfmlounge
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/69785802.jpg",Memories 1280
+https://ice9.securenetsystems.net/WSAT?playSessionID=E3997AA5-EA57-9175-6D2CB646FF9D741B
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/63923499.jpg",Sunny 101.5 KCLS
+https://ice10.securenetsystems.net/KCLS?playSessionID=F0E1837D-D007-9DE5-8D659634C8951E52
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/85076416.jpg",Movies Broadway Singers and Beyond
+https://das-edge11-live365-dal03.cdnstream.com/a41788
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/13769.png",Art City Radio
+https://cast.artfmradio.com/radio/8000/radio.mp3?1579455658
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/13803.png",Радио Странствий
+https://listen2.myradio24.com/4156
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/13918.png",New Age Radio
+https://a7.radioheart.ru:9044/newageradio
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/16099.png",Radyo Home - Klasik Home
+https://ssl4.radyotvonline.com/radyohome/klasikhome.stream_aac/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/18019.png",Peaceful Currents Radio
+https://cast1.torontocast.com:2865/stream
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/30907.png",Stereo Saquisilí
+https://securestream.radioshd.info:7013/stream/1/
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/42750.png",Radio Rossini
+https://radiorossini.stream.laut.fm/radiorossini
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/43065.png",Radio Buddha Bar
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/6971899.jpg",baden.fm Relax Live
+https://edge13.streamonkey.net/badenfm-relax?aggregator=hofmeir
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/69058972.jpg",Super Relax FM
+https://streams.radio.menu/listen/super-relax-fm/radio.mp3
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/98096341.jpg",Alternatif radio
+https://void.idserverhost.com:8016/stream
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/68761347.png",Calm Kids
+https://2.mystreaming.net/uber/calmkids/icecast.audio
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/42513104.png",Calm Soothing Instrumental
+https://2.mystreaming.net/uber/calminstrumental/icecast.audio
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/8782317.png",Calm Soundscapes
+https://2.mystreaming.net/uber/calmsoundscapes/icecast.audio
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/111695528.png",Calm Zen
+https://nl4.mystreaming.net/uber/calmzen/icecast.audio
 #EXTINF:-1,1 Splash Spa
 http://ais-sa2.cdnstream1.com/2347_128.mp3
 #EXTINF:-1,Travel Trends
 https://travel-trends.stream.laut.fm/travel-trends?t302=2019-04-01_13-12-45&ampuuid=bf9bdab6-6117-40db-9a08-3d01feaccf39
-#EXTINF:-1,Radio Kafeine
-https://streaming.brol.tech/rtfmlounge
 #EXTINF:-1,#1 Splash Lounge
 https://ais-sa2.cdnstream1.com/2209_128.mp3
 #EXTINF:-1,0nlineradio CHILLOUT
@@ -301,10 +338,6 @@ https://edge66.stream.maxfive.com/max5-city23?aggregator=onlineradiobox
 https://securestream.cuelightsmedia.com.au/listen/chilled/CLM.aac
 #EXTINF:-1,Vivela Stereo Radio
 https://stream2.305stream.com/proxy/client078?mp=/
-#EXTINF:-1,Alternatif radio
-https://void.idserverhost.com:8016/stream
-#EXTINF:-1,Radyo Home - Klasik Home radio
-https://ssl4.radyotvonline.com/radyohome/klasikhome.stream_aac/playlist.m3u8
 #EXTINF:-1,Easy Street Radio
 http://centova2.whsh4u.com:9071/stream
 #EXTINF:-1,Best Time fm radio
@@ -321,8 +354,6 @@ https://stream.rcs.revma.com/sa3ccwa9yy8uv
 https://24863.live.streamtheworld.com/CHILLSVILLE_S01.aac?dist=onlineradiobox
 #EXTINF:-1,Radio LibertyMP Chill radio
 https://hs1.radiolibertymp.ro/listen/lmpchill/stream.mp3
-#EXTINF:-1,Radio Rossini radio
-https://radiorossini.stream.laut.fm/radiorossini
 #EXTINF:-1,Radio Kafein radio
 https://listen.radioking.com/radio/262753/stream/307888
 #EXTINF:-1,Together Radio
@@ -441,10 +472,6 @@ http://zen-attitude.ice.infomaniak.ch/zen-attitude.mp3
 https://croonerradio_zen.ice.infomaniak.ch/croonerradio-zen-midfi.mp3
 #EXTINF:-1,Le Bon Mix
 https://stream9.xdevel.com/audio0s976748-1514/stream/icecast.audio
-#EXTINF:-1,New Age Radio
-https://a7.radioheart.ru:9044/newageradio
-#EXTINF:-1,Радио Странствий
-https://listen2.myradio24.com/4156
 #EXTINF:-1,Art City Radio
 https://listen7.myradio24.com/artcity
 #EXTINF:-1,San ru New Relax FM
@@ -543,8 +570,6 @@ https://chilloutzone.stream.laut.fm/chilloutzone?t302=2025-09-16_23-19-17&uuid=d
 https://ais-sa2.cdnstream1.com/2347_128.mp3
 #EXTINF:-1,Easy Lounge Radio
 https://easylounge.stream.laut.fm/easylounge
-#EXTINF:-1,Calm Kids
-https://2.mystreaming.net/uber/calmkids/icecast.audio
 #EXTINF:-1,104.6 RTL Chill
 https://rtlberlin.streamabc.net/rtlb-rtlchill-mp3-192-3893867?sABC=68p9s076%230%23p3n6o69035474rp208o85r52n5rr2549%23bayvarenqvbobk&aw_0_1st.playerid=onlineradiobox&amsparams=playerid:onlineradiobox;skey:1758064758
 #EXTINF:-1,Relax Spa
@@ -577,8 +602,6 @@ https://radio7.streamabc.net/87-yoga-mp3-192-7706572
 https://stream.rcs.revma.com/rr7meptrgzzuv
 #EXTINF:-1,Calm Relaxation
 https://2.mystreaming.net/uber/calmrelaxation/icecast.audio
-#EXTINF:-1,Calm Soothing Instrumental
-https://2.mystreaming.net/uber/calminstrumental/icecast.audio
 #EXTINF:-1,Calm Ocean
 https://2.mystreaming.net/uber/calmocean/icecast.audio
 #EXTINF:-1,Radio Open FM - Koncentracja
@@ -649,8 +672,6 @@ https://best-time-fm.stream.laut.fm/best-time-fm?t302=2025-09-16_23-19-31&uuid=3
 http://sr10.inmystream.it:8004/stream
 #EXTINF:-1,Epic Lounge - Poolside Lounge
 https://0nlineradio.stream13.radiohost.de/lounge-poolside-lounge?upd-meta&upd-scheme=https&_art=dD0xNzU4MDY1MDcxJmQ9NzhlZjY1ODhjMzQ5YzZjNDU4NDM
-#EXTINF:-1,Calm Soundscapes
-https://2.mystreaming.net/uber/calmsoundscapes/icecast.audio
 #EXTINF:-1,egoSUN
 https://cast.egofm.de/egosun.mp3?ar-distributor=ffa0&aw_0_req.gdpr=true
 #EXTINF:-1,Epic Lounge - Massage Lounge

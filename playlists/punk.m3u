@@ -1,10 +1,59 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/1078.png",Violent Forces Radio
+https://tuneintoradio1.com/listen/violent_forces_radio/radio.mp3
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/1462.png",Strawberry Tongue Radio
+https://p.scdn.co/mp3-preview/ff4e52041b6ff37bc2dc2f2d31a99cc70a9baa34
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/1628.png",Gutter-Punk-Radio
+https://radio.punkrockdemo.com/&type=mp3
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/2073.png",107dot5
+https://www.tuneintoradio1.com/radio/8030/radio.mp3
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/6248.png",Naptown Oreo Radio (WNOR Indianapolis)
+https://streaming.brol.tech/rtfmlounge
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/44318542.jpg",WavRadio Boston
+https://das-edge13-live365-dal02.cdnstream.com/a06194
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/13631.png",Неслучайное Радио
+https://pub0102.101.ru:8443/stream/personal/aacp/64/499389
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/18944.png",Radio dBs
+https://stream.dbcradio.net:8005/live
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/22535.png",Vagalume.FM - Punk Pop
+https://stream.vagalume.fm/hls/14660052232033106219/aac.m3u8
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/24023.png",Vagalume.FM - Punk Rock
+https://stream.vagalume.fm/hls/1470155080752829/aac.m3u8
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/26340.png",Vagalume.FM - O melhor de Green Day
+https://stream.vagalume.fm/hls/1498156439621697/aac.m3u8
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/32062.png",Alternatieve Radio
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/34273.png",Diversité FM
+https://diversitefm2.ice.infomaniak.ch/diversitefm2-192.mp3
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/36069.png",Radio Sylvia
+https://rasyl77.radioca.st/
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/37142.png",12XU
+https://12xu.stream.laut.fm/12xu
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/37857.png",Waste Water Music
+https://wastewatermusic.stream.laut.fm/wastewatermusic?t302=2023-03-09_10-45-51&uuid=8a17b034-0642-4e82-b303-ced30d04b09c
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/38000.png",Rokka
+https://rokka.stream.laut.fm/rokka
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/38011.png",ProNoize Radio
+https://pronoize-radio.stream.laut.fm/pronoize-radio
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/38116.png",Radio Popadelica
+https://popadelica.stream.laut.fm/popadelica?ref=radiode&t302=2022-09-22_11-32-52&uuid=f963964f-fe41-4a49-8503-3629fc2a99e2
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/38158.png",Oh Subs Tapes
+https://oh-subs-tapes.stream.laut.fm/oh-subs-tapes
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/38240.png",Rock House
+https://rockhouse.stream.laut.fm/rockhouse?t302=2023-03-09_10-23-36&uuid=9a2223c6-603c-4948-adf2-05363377b1cb
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/38283.png",Rose Club
+https://roseclubcologne.stream.laut.fm/roseclubcologne?t302=2023-02-28_10-51-37&uuid=33dc8e14-fc47-4063-b10c-e8fcb0f31963
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/43089.png",Surf Rock Radio
+https://surf.stream.laut.fm/surf
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/24126586.jpg",Rock-Anhalt
+https://rock-anhalt.stream.laut.fm/rock-anhalt?t302=2022-09-28_10-30-28&uuid=2676bab5-b3a2-43cd-89c6-67ae1a5d1dd2
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/781989.jpg",Blitz.fm
+https://blitzfm.stream.laut.fm/blitzfm?t302=2022-10-03_11-46-12&uuid=8815344f-9600-42d1-a896-02840a2b7cfc
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/76230621.jpg",Radio Vesánico
+https://radiosonline.one/radio/8390/radio.mp3
 #EXTINF:-1,El Dude Radio
 http://elduderadio.stream.laut.fm/elduderadio
 #EXTINF:-1,70vibe FM
 https://443-1.autopo.st/103/
-#EXTINF:-1,St Patricks Day Radio
-https://streaming.brol.tech/rtfmlounge
 #EXTINF:-1,Lagarto FM
 http://streamingned.com:7292/stream
 #EXTINF:-1,Riot Radio
@@ -907,10 +956,6 @@ https://das-edge17-live365-dal02.cdnstream.com/a36402
 http://andromeda.shoutca.st:9254/
 #EXTINF:-1,Punk4all radio
 https://punk4all.stream.laut.fm/punk4all
-#EXTINF:-1,Strawberry Tongue Radio
-https://p.scdn.co/mp3-preview/ff4e52041b6ff37bc2dc2f2d31a99cc70a9baa34
-#EXTINF:-1,Radio Vesánico radio
-https://radiosonline.one/radio/8390/radio.mp3
 #EXTINF:-1,Rock House radio
 https://rockhouse.stream.laut.fm/rockhouse?t302=2025-09-01_10-51-01&uuid=cbd9f61e-913a-4ae6-ad0d-599eeb63a197
 #EXTINF:-1,Dark Star Radio
@@ -975,10 +1020,6 @@ https://s2.radio.co/sf0986595a/listen
 https://inmotionradio.stream.laut.fm/inmotionradio
 #EXTINF:-1,Yugotopia Beat Club radio
 https://yugotopia-beat-club.stream.laut.fm/yugotopia-beat-club
-#EXTINF:-1,Radio Sylvia radio
-https://rasyl77.radioca.st/
-#EXTINF:-1,12XU radio
-https://12xu.stream.laut.fm/12xu
 #EXTINF:-1,Dravens Radio from the Crypt
 https://dravenstales.stream.laut.fm/dravenstales
 #EXTINF:-1,Radio Endstation radio
@@ -1007,8 +1048,6 @@ https://stream20.usastreams.com/8122/stream
 https://thepeopleunited.stream.laut.fm/thepeopleunited
 #EXTINF:-1,Father and Son radio
 https://father-and-son.stream.laut.fm/father-and-son
-#EXTINF:-1,Rokka radio
-https://rokka.stream.laut.fm/rokka
 #EXTINF:-1,Black Tapes On Air radio
 https://black-tapes-on-air.stream.laut.fm/black-tapes-on-air
 #EXTINF:-1,Beastie Beatz radio
@@ -1037,8 +1076,6 @@ https://prettyinnoise.stream.laut.fm/prettyinnoise?t302=2025-09-01_10-51-16&uuid
 https://servidor20.brlogic.com:7354/live
 #EXTINF:-1,Blitz.fm radio
 https://blitzfm.stream.laut.fm/blitzfm?t302=2025-09-01_10-51-17&uuid=5b6996c0-4c5f-409d-b858-998837ccac3e
-#EXTINF:-1,WavRadio Boston radio
-https://das-edge13-live365-dal02.cdnstream.com/a06194
 #EXTINF:-1,3chords - allezISTpunk radio
 https://3chords.stream.laut.fm/3chords?t302=2025-09-01_10-51-17&uuid=7b010a10-b087-4df1-93dd-b6d1c185ffd0
 #EXTINF:-1,Rádio Tucana e Expedição CoMMúsica radio
@@ -1399,8 +1436,6 @@ https://rocknhardcore.stream.laut.fm/rocknhardcore
 https://starfm.streamabc.net/30-80srock-mp3-128-3793295?sABC=68p9rsnn%230%23p3n6o69035474rp208o85r52n5rr2549%23jrofrvgr&aw_0_1st.playerid=webseite&amsparams=playerid:webseite;skey:1758064554
 #EXTINF:-1,Radio Gugelhopf Live
 https://radio.punkrockdemo.com/&amptype=mp3
-#EXTINF:-1,Vagalume.FM - Punk Rock
-https://stream.vagalume.fm/hls/1470155080752829/aac.m3u8
 #EXTINF:-1,I love Anime/Manga
 https://iloveanimemanga.stream.laut.fm/iloveanimemanga
 #EXTINF:-1,Star FM -  Millennium Rock
@@ -1439,16 +1474,12 @@ https://roseclubcologne.stream.laut.fm/roseclubcologne?t302=2025-09-16_23-15-58&
 https://ais-sa8.cdnstream1.com/2750_64.aac
 #EXTINF:-1,Radio Arcane
 https://quincy.torontocast.com:1100/stream
-#EXTINF:-1,Vagalume.FM - O melhor de Green Day
-https://stream.vagalume.fm/hls/1498156439621697/aac.m3u8
 #EXTINF:-1,Radio Rock
 https://mediastreamm.com:7066/stream
 #EXTINF:-1,Radio Schwarzeseele
 https://radio-schwarzeseele.stream.laut.fm/radio-schwarzeseele?t302=2025-09-16_23-15-59&uuid=4d5f64f0-c9a8-4440-8889-ce79b69483cc
 #EXTINF:-1,Piratita Radio
 https://sonicpanel.zonaradio.net:7078/stream
-#EXTINF:-1,Vagalume.FM - Punk Pop
-https://stream.vagalume.fm/hls/14660052232033106219/aac.m3u8
 #EXTINF:-1,Rojo Tricolrock
 https://cast.tricolrock.com:8030/rojo
 #EXTINF:-1,Rock House
@@ -1545,8 +1576,6 @@ https://nrwhc.stream.laut.fm/nrwhc?t302=2025-09-16_23-16-09&uuid=30dde83a-b0ad-4
 https://eins-fm-eberswalde.stream.laut.fm/eins-fm-eberswalde
 #EXTINF:-1,94 FM
 https://94fm.stream.laut.fm/94fm?t302=2025-09-16_23-16-11&uuid=86f7c928-8f49-4393-8425-b2d61eeb5576
-#EXTINF:-1,Diversité FM
-https://diversitefm2.ice.infomaniak.ch/diversitefm2-192.mp3
 #EXTINF:-1,Radio WAHO
 https://listen.radioking.com/radio/214300/stream/257431
 #EXTINF:-1,Rádio Slave Rock

@@ -1,12 +1,40 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/32873.png",NRJ Norway
+https://nrj.p4groupaudio.com/NRJ_MM
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/32880.png",Activa Hits Radio
+https://sonic.mediatelekom.net/8490/stream
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/32887.png",Radio Randsfjord
+https://stream.radiorandsfjord.no/randsfjord128.mp3
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/32907.png",FM 8000
+https://radio8000.radioca.st/radio8000
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/32914.png",Duen Radio
+https://streams.radio.co/s07e510a23/listen
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/32922.png",RadioSignal
+https://streamer.radio.co/sd0ae56707/listen
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/32923.png",Adikanfo FM
+https://adikanforadio.org:1045/stream
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/32927.png",Radio Øst
+https://stream.radio-ost.no/radioost_hq
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/32936.png",Radio Rana
+https://lyttradio.no/live.mp3
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/32952.png",Radio 3,16
+https://streaming.radio.co/se326fb378/listen
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/32954.png",Radio Askøy
+https://radioaskoy.radioca.st/sender
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/32962.png",Radio Os
+https://lyd.radios.no/radios_hq
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/32963.png",Lille Radio
+https://radiocampuslille.ice.infomaniak.ch/radiocampuslille-128?.mp3&listening-from-radio-garden=1663323691
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/32967.png",Guovdageainnu Lagasradio
+https://streaming.radio.co/s5b773f8d3/listen?listening-from-radio-garden=1673944204
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/32973.png",Radio Bardufoss
+https://stream.radio3.no/radiobardufoss192
 #EXTINF:-1,Bandit
 https://p11.p4groupaudio.com/P11_MM
 #EXTINF:-1,KISS
 https://live-bauerno.sharp-stream.com/kiss_no_mp3
 #EXTINF:-1,NRJ Hit music only!
 https://nrj.p4groupaudio.com/NRJ_AH
-#EXTINF:-1,NRJ Norge
-https://nrj.p4groupaudio.com/NRJ_MM
 #EXTINF:-1,Ordentlig Radio
 http://oradio-live.telenorcdn.net/oradio_mp3_m
 #EXTINF:-1,P10 Country
@@ -69,8 +97,6 @@ https://stream.scansat.no/scansat_hq
 http://comet.shoutca.st:8692/;
 #EXTINF:-1,Radio Nano
 http://s2.yesstreaming.net:7157/stream
-#EXTINF:-1,Radio 3,16
-https://streaming.radio.co/se326fb378/listen
 #EXTINF:-1,pTro
 http://5186.cloudrad.io:8048/;
 #EXTINF:-1,Radio P24-7 Fun
@@ -79,8 +105,6 @@ https://live-bauerno.sharp-stream.com/station10_no_aac
 https://stream.radio.co/s81da37707/listen
 #EXTINF:-1,Norsk Pop
 https:/http:/adio8000.radioca.sthttp:/adio8000
-#EXTINF:-1,Duen Radio
-https://streams.radio.co/s07e510a23/listen
 #EXTINF:-1,Misjonsradioen Agder
 http://5195.cloudrad.io:8136/;
 #EXTINF:-1,JærRadioen
@@ -95,8 +119,6 @@ https://streaming.radio.co/s5b773f8d3/listen
 https://stream.radio3.no/Radio3Bodo128
 #EXTINF:-1,Radio P24-7 KOS
 https://live-bauerno.sharp-stream.com/p247kos_no_hq
-#EXTINF:-1,RadioSignal
-https://streamer.radio.co/sd0ae56707/listen
 #EXTINF:-1,Radio Ålesund
 https://audio.radioaalesund.no/aalesund_hq
 #EXTINF:-1,MC Radio Classic
@@ -125,8 +147,6 @@ https://stream.rthits.no/rthits192
 https://p7.p4groupaudio.com/P07_MM?aw_0_1st.lmt=1&args=web_01
 #EXTINF:-1,Radio Filadelfia Kristiansand
 http://149.202.22.75:8066
-#EXTINF:-1,Radio Øst
-https://stream.radio-ost.no/radioost_hq
 #EXTINF:-1,Radio Kos
 https://lyd.radiokos.no/kos_hq
 #EXTINF:-1,Radio Riks Oslo
@@ -137,10 +157,6 @@ https://radio.p7.no/radio/8020/kristen_riksradio_web
 https://stream.radionordkapp.no/nordkapp_hq
 #EXTINF:-1,Radio Latin-Amerika
 https://stream.radiolatinamerika.no/latam_mq?=&&___cb=224108560130559
-#EXTINF:-1,Radio Bardufoss - 100.3 FM
-https://stream.radio3.no/radiobardufoss192
-#EXTINF:-1,Radio Askøy - 106.4 FM
-https://radioaskoy.radioca.st/sender
 #EXTINF:-1,Radio Randsfjord
 http://stream.radiorandsfjord.no/randsfjord128.mp3
 #EXTINF:-1,Metal Express Radio
@@ -155,8 +171,6 @@ http://edge.mixlr.com/channel/obrtv
 http://stream02.nordavis.no/radioalta-128k
 #EXTINF:-1,Adikanfo FM
 https://adikanforadio.org:1040/
-#EXTINF:-1,FM 8000
-https://radio8000.radioca.st/radio8000
 #EXTINF:-1,Headcleaner
 https://headcleaner.stream.laut.fm/headcleaner
 #EXTINF:-1,P4 Bandit Radio
@@ -171,8 +185,6 @@ https://live-bauerno.sharp-stream.com/radionorge_80s_no_vip
 https://live-bauerno.sharp-stream.com/radionorge_t1000_no_vipaac
 #EXTINF:-1,Radio Norsk Pop
 https://live-bauerno.sharp-stream.com/norskpop_no_mp3?direct=true&listenerid=undefined&amsparams=playerid:SBS_RP_WEBskey:1558174697&awparams=loggedin:false&aw_0_req.gdpr=true
-#EXTINF:-1,Radio Northern Star  The Ferry
-https://stream.radiorandsfjord.no/randsfjord128.mp3
 #EXTINF:-1,Radio Tamilaruvi FM
 https://usa3-vn.mixstream.net/8852/listen.mp3
 #EXTINF:-1,Radio Tromso

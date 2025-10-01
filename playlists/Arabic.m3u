@@ -1,4 +1,66 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/11852.png",Chaine 03 (القناة الثالثة)
+https://webradio.tda.dz/Chaine3_64K.mp3
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/11858.png",Radio El Bahdja
+https://webradio.tda.dz/ElBahdja_64K.mp3
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/55862311.jpg",181.fm - Vocal Jazz
+https://listen.181fm.com/181-vocals_128k.mp3
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/10905133.jpeg",Quran Muhammad Siddiq Al-Minshawi (قرآن محمد صديق المنشاوي)
+https://qurango.net/radio/mohammed_siddiq_alminshawi
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/53095280.jpg",Radio Mars (راديو مرس)
+https://radiomars.ice.infomaniak.ch/radiomars-128.mp3
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/81362106.jpg",Rainbow Gospel Radio
+https://26343.live.streamtheworld.com/SAM08AAC047_SC
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/86980108.jpg",Fame FM Qatar
+https://18093.live.streamtheworld.com/SAM03AAC389_SC
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/58839946.jpg",Babnet Tunisie (باب نت )
+https://radio.babnet.net/?type=http
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/28192973.jpg",Bollywood Dance
+https://nl4.mystreaming.net/uber/bollywooddance/icecast.audio
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/91125762.jpg",Country Music Radio - Johnny Cash
+https://nl4.mystreaming.net/uber/cmrjohnnycash/icecast.audio
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/67284329.jpg",Bollywood Vishal & Shekhar
+https://nl4.mystreaming.net/uber/bollywoodvishalandshekhar/icecast.audio
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/1791872.jpg",Calm Harp
+https://nl4.mystreaming.net/uber/calmharp/icecast.audio
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/99448277.jpg",Exclusively The Monkees
+https://2.mystreaming.net/er/themonkees/icecast.audio
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/19899365.jpg",Country Music Radio - Luke Combs
+https://2.mystreaming.net/uber/cmrlukecombs/icecast.audio
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/84709555.jpg",Country Music Radio - George Jones
+https://nl4.mystreaming.net/uber/cmrgeorgejones/icecast.audio
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/29752119.jpg",Exclusively Doja Cat
+https://nl4.mystreaming.net/er/dojacat/icecast.audio
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/108093133.jpg",Exclusively Alanis Morissette
+https://nl4.mystreaming.net/er/alanismorissette/icecast.audio
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/106766817.jpg",Exclusively Tears For Fears
+https://nl4.mystreaming.net/er/tearsforfears/icecast.audio
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/8048555.jpg",Exclusively Bread
+https://nl4.mystreaming.net/er/bread/icecast.audio
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/54153234.jpg",Exclusively Justin Timberlake
+https://nl4.mystreaming.net/er/justintimberlake/icecast.audio
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/36384686.jpg",The Message
+https://a3.asurahosting.com:6890/radio.aac
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/9750326.jpg",Exclusively Ziggy Marley
+https://nl4.mystreaming.net/er/ziggymarley/icecast.audio
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/85068217.jpg",Exclusively Shaggy
+https://nl4.mystreaming.net/er/shaggy/icecast.audio
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/26401793.jpg",Exclusively Bette Midler
+https://2.mystreaming.net/uber/easybettemidler/icecast.audio
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/114142859.jpg",Bollywood Shah Rukh Khan
+https://nl4.mystreaming.net/uber/bollywoodshahrukhkhan/icecast.audio
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/47103017.jpg",Exclusively LANY
+https://nl4.mystreaming.net/er/lanadelrey/icecast.audio
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/45189189.jpg",Exclusively Juicewrld
+https://2.mystreaming.net/er/juicewrld/icecast.audio
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/42246573.png",Radio Achkid FM
+https://stream.zeno.fm/7nqu31p6xg0uv.m3u
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/25637501.jpeg",Radio Morocco
+https://server03.srvsh.com.br:6844/stream//
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/96080584.png",MeloDiab Radio
+https://melodiab.com:8000/radio.mp3
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/99112885.jpg",Nile 104.2 fm
+https://audio.nrpstream.com/listen/nile_fm/radio.mp3#
 #EXTINF:-1,Arabica TV - 1152 - Lebanon - music
 http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
 #EXTINF:-1,Radio Caprice - Arabic Pop - 320 - The Russian Federation - arabic - pop - radcap - radio caprice
@@ -179,8 +241,6 @@ https://webradio.tda.dz/Adrar_64K.mp3
 https://streamer.radio.co/sb38bf6e66/listen
 #EXTINF:-1,Radio Al-Salam
 http://178.32.146.187:5117/stream
-#EXTINF:-1,Radio Algerienne -  El Bahdja
-https://webradio.tda.dz/ElBahdja_64K.mp3
 #EXTINF:-1,Radio Algerienne - Chaine 1
 https://webradio.tda.dz/Chaine1_64K.mp3
 #EXTINF:-1,Radio Algerienne - Chaine 2
@@ -835,8 +895,6 @@ http://a4.radioheart.ru:8041/RH32763
 https://2.mystreaming.net/uber/starboxblues/icecast.audio
 #EXTINF:-1,Exclusively New Order
 https://2.mystreaming.net/er/neworder/icecast.audio
-#EXTINF:-1,Exclusively The Monkees
-https://2.mystreaming.net/er/themonkees/icecast.audio
 #EXTINF:-1,Exclusively Wham!
 https://2.mystreaming.net/er/wham/icecast.audio
 #EXTINF:-1,۞ إذاعة المديح ۞
@@ -955,8 +1013,6 @@ https://2.mystreaming.net/er/pussycatdolls/icecast.audio
 https://2.mystreaming.net/er/gloriaestefan/icecast.audio
 #EXTINF:-1,Exclusively Carole King
 https://2.mystreaming.net/er/caroleking/icecast.audio
-#EXTINF:-1,Exclusively Juicewrld
-https://2.mystreaming.net/er/juicewrld/icecast.audio
 #EXTINF:-1,Exclusively Blur
 https://2.mystreaming.net/er/blur/icecast.audio
 #EXTINF:-1,Exclusively Four Tops
@@ -1127,8 +1183,6 @@ https://nl4.mystreaming.net/er/paulweller/icecast.audio
 https://nl4.mystreaming.net/uber/crcalm/icecast.audio
 #EXTINF:-1,Exclusively Kenny Chesney
 https://nl4.mystreaming.net/er/kennychesney/icecast.audio
-#EXTINF:-1,Exclusively Doja Cat
-https://nl4.mystreaming.net/er/dojacat/icecast.audio
 #EXTINF:-1,Exclusively George Strait
 https://nl4.mystreaming.net/er/georgestrait/icecast.audio
 #EXTINF:-1,Exclusively The Yardbirds
@@ -1181,8 +1235,6 @@ https://nl4.mystreaming.net/uber/boomerang1920s/icecast.audio
 https://nl4.mystreaming.net/er/kingsofleon/icecast.audio
 #EXTINF:-1,Exclusively Peter Tosh
 https://nl4.mystreaming.net/er/petertosh/icecast.audio
-#EXTINF:-1,Exclusively Shaggy
-https://nl4.mystreaming.net/er/shaggy/icecast.audio
 #EXTINF:-1,Exclusively Take That
 https://nl4.mystreaming.net/er/takethat/icecast.audio
 #EXTINF:-1,Classical Radio - Essential Classics
@@ -1237,8 +1289,6 @@ https://nl4.mystreaming.net/er/georgejones/icecast.audio
 https://nl4.mystreaming.net/uber/boomerang1950s/icecast.audio
 #EXTINF:-1,Exclusively Slade
 https://nl4.mystreaming.net/er/slade/icecast.audio
-#EXTINF:-1,Exclusively Lana Del Rey
-https://nl4.mystreaming.net/er/lanadelrey/icecast.audio
 #EXTINF:-1,Classical Radio - Handel
 https://nl4.mystreaming.net/uber/crhandel/icecast.audio
 #EXTINF:-1,Classical Radio - John Williams
@@ -1303,8 +1353,6 @@ https://nl4.mystreaming.net/uber/boomerang1990s/icecast.audio
 https://nl4.mystreaming.net/uber/boomerang2000s/icecast.audio
 #EXTINF:-1,Boomerang 2020&#039;s
 https://nl4.mystreaming.net/uber/boomerang2020s/icecast.audio
-#EXTINF:-1,Country Music Radio - Johnny Cash
-https://nl4.mystreaming.net/uber/cmrjohnnycash/icecast.audio
 #EXTINF:-1,Classical Radio - Liszt
 https://nl4.mystreaming.net/uber/crliszt/icecast.audio
 #EXTINF:-1,Just Jazz - Glenn Miller
@@ -1387,8 +1435,6 @@ https://nl4.mystreaming.net/uber/crsimonrattle/icecast.audio
 https://nl4.mystreaming.net/er/alisonmoyet/icecast.audio
 #EXTINF:-1,Country Music Radio - Luke Combs
 https://nl4.mystreaming.net/uber/cmrlukecombs/icecast.audio
-#EXTINF:-1,Exclusively Ziggy Marley
-https://nl4.mystreaming.net/er/ziggymarley/icecast.audio
 #EXTINF:-1,Lionel Richie
 https://nl4.mystreaming.net/uber/easylionelrichie/icecast.audio
 #EXTINF:-1,Classical Radio - Los Angeles Philharmonic
@@ -1529,8 +1575,6 @@ https://nl4.mystreaming.net/uber/cmrcarterfamily/icecast.audio
 https://nl4.mystreaming.net/uber/cmrdollyparton/icecast.audio
 #EXTINF:-1,Country Music Radio - Charlie Rich
 https://nl4.mystreaming.net/uber/cmrcharlierich/icecast.audio
-#EXTINF:-1,Country Music Radio - George Jones
-https://nl4.mystreaming.net/uber/cmrgeorgejones/icecast.audio
 #EXTINF:-1,Country Music Radio - George Strait
 https://nl4.mystreaming.net/uber/cmrgeorgestrait/icecast.audio
 #EXTINF:-1,Country Music Radio - John Denver
@@ -2079,8 +2123,6 @@ http://live.mp3quran.net:9932/
 https://listen.radioking.com/radio/252934/stream/297385
 #EXTINF:-1,RADIO AZAWAN
 https://az-maroc.ice.infomaniak.ch/az-maroc-128.mp3
-#EXTINF:-1,Radio Mars - 91.2 FM
-https://radiomars.ice.infomaniak.ch/radiomars-128.mp3
 #EXTINF:-1,GBC Radio Gibraltar Plus
 http://s2.myradiostream.com:32910/stream.mp3
 #EXTINF:-1,Atlantic Radio
@@ -2187,8 +2229,6 @@ https://hosting.studioradiomedia.fr:2685/stream
 https://mira.streamerr.co/radio/8150/radio.mp3
 #EXTINF:-1,RADIO SAMAR
 https://radio.radiosamar.org/samar_64
-#EXTINF:-1,Radio Algerienne - Chaine 3
-https://webradio.tda.dz/Chaine3_64K.mp3
 #EXTINF:-1,Mareb Radio 89.5
 https://radio.al7eah.net/8034/stream
 #EXTINF:-1,Antenna Web San'a'
@@ -2335,8 +2375,6 @@ https://radiohits882.radioca.st/
 http://173.212.226.153:8000/login
 #EXTINF:-1,Beloghos
 http://beloghos.elkedeseen.com:8000/
-#EXTINF:-1,Babnet Tunisie
-https://radio.babnet.net/?type=http
 #EXTINF:-1,DWG Radio Arabic
 http://streamplus52.leonex.de:26012/
 #EXTINF:-1,Almasirah

@@ -1,4 +1,69 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/14378.png",Inbam FM Radio
+https://stream.radio.co/sf55ced545/listen
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/14404.png",ULLasam FM
+https://eu10.fastcast4u.com:6740/stream
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/14530.png",Oli 96.8 FM
+https://23253.live.streamtheworld.com/OLI968FMAAC.aac
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/15011.png",Shakthi FM
+https://mbc.thestreamtech.com:8086/index.html/stream
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/18431.png",ITR Tamil
+https://neramfm.com:8000/stream
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/43211.png",Housemasters Radio
+https://listen.housemasters-radio.com:8000/radio.mp3
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/119992948.jpg",Ilayaraja Radio
+http://psrlive3.listenon.in/default
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/6209892.jpg",US Tamil FM
+https://streaming.radio.co/s0cfc93915/listen
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/102497958.jpg",Ilayaraja Super Beats Radio
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/20522137.jpg",Mantra 91.9 FM Jalandhar
+https://streamlky.alsolnet.com/mantrafm
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/46446854.jpg",Radio Sooriyan
+https://radio.lotustechnologieslk.net:8006/stream.mp3
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/10763108.jpg",AIR Madurai PC
+https://air.pc.cdn.bitgravity.com/air/live/pbaudio127/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/108193448.jpg",AIR Tiruchirappalli PC
+https://air.pc.cdn.bitgravity.com/air/live/pbaudio041/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/54377150.jpg",AIR Coimbatore
+https://air.pc.cdn.bitgravity.com/air/live/pbaudio016/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/93106694.jpg",Suryan FM 93.5
+https://23163.live.streamtheworld.com/T_RAD_GRTST_HITS_S01AAC.aac?dist=radioly
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/13395928.png",Oldgold Radio
+https://a9oldhits-a9media.radioca.st/stream
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/44125575.jpg",Air Rainbow 102.8 FM in Puducherry
+https://air.pc.cdn.bitgravity.com/air/live/pbaudio098/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/50646897.jpg",AIR Tirunelveli FM Rainbow
+https://air.pc.cdn.bitgravity.com/air/live/pbaudio062/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/47670700.jpg",AIR Tiruchirappalli
+https://air.pc.cdn.bitgravity.com/air/live/pbaudio041/playlist.m3u8#
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/65333010.jpg",Air Rainbow Coimbatore
+https://air.pc.cdn.bitgravity.com/air/live/pbaudio017/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/74085765.jpg",VBS AIR Chennai
+https://air.pc.cdn.bitgravity.com/air/live/pbaudio024/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/3503.png",Thuthi FM
+https://streams.radio.co/s790fe269d/listen
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/79482442.jpg",MELLISAI MANNAR
+https://s390.podbean.com/pb/9a8d56a16a21161fb439e5c6aa0d571d/68db181d/data1/fs134/6231222/uploads/MSV_FULL.mp3?pbss=a9f89365-7088-5614-b9f1-3f76f732cae7
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/117150104.jpg",KAVIYARASAR RADIO
+https://psrlive3.listenon.in/kavi?station=kaviyarasarradio
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/46335294.jpg",NAA MUTHUKUMAR
+https://psrlive3.listenon.in/muthu?station=muthukumaradio
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/57646032.png",SUPER STAR RADIO
+https://jakeradi-gecko.radioca.st/stream%3E
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/28874530.jpg",KADAL OSAI FM 90.4 FM
+https://d3ctxlq1ktw2nl.cloudfront.net/staging/2022-5-17/1917b861-8121-a235-c5df-463003866d7d.mp3
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/114778881.jpg",Vijay FM
+https://vijayfm-prabak78.radioca.st/stream#
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/4020270.jpg",Kodaikanal FM 100.5
+https://air.pc.cdn.bitgravity.com/air/live/pbaudio051/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/97353857.jpg",Capital 94.0 FM
+https://sp14.instainternet.com/8084/
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/49796337.jpg",Samugam FM
+https://usa19.fastcast4u.com/eftphimk
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/103101434.jpg",Minnal FM
+https://22243.live.streamtheworld.com/MINNAL_FMAAC.aac
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/41714812.jpg",THR Raaga
+https://stream-eu-a.rcs.revma.com/1ut6qwtbv4uvv/4_qy5qjlvyz3ck02/playlist.m3u8
 #EXTINF:-1,Bathusha Radio
 http://eu10.fastcast4u.com:14550/stream
 #EXTINF:-1,A9 Radio.com
@@ -19,8 +84,6 @@ https://usa19.fastcast4u.com:5480//stream
 http://streaming.radio.co/s0cfc93915/listen
 #EXTINF:-1,Vallamaiyin Alaikal - Waves of Power
 http://radio.pixelinmedia.com/vallamai
-#EXTINF:-1,Samugam FM
-https://usa19.fastcast4u.com/eftphimk
 #EXTINF:-1,CMR Diversity 101.3 FM
 https://live.cmr24.net/CMR/CMR-HQ/icecast.audio
 #EXTINF:-1,TheCommonSense
@@ -89,8 +152,6 @@ http://167.114.131.90:5750/;
 https://air.pc.cdn.bitgravity.com/air/live/pbaudio025/masterlist.m3u8
 #EXTINF:-1,Vividh Bharati Chennai
 https://air.pc.cdn.bitgravity.com/air/live/pbaudio024/chunklist.m3u8
-#EXTINF:-1,AIR PUDUCHERRY FM
-https://air.pc.cdn.bitgravity.com/air/live/pbaudio098/chunklist.m3u8
 #EXTINF:-1,iYaliSai இயலிசை
 https://iyalisai.radioca.st/stream
 #EXTINF:-1,AIR Madurai FM
@@ -103,8 +164,6 @@ https://sp14.instainternet.com/8090/stream
 https://tamilpanpalai.radioca.st/ind
 #EXTINF:-1,Tamil 80&#039;s Radio
 https://psrlive2.listenon.in/80?station=tamil80shitsradio
-#EXTINF:-1,AIR Tiruchirappalli AM
-https://air.pc.cdn.bitgravity.com/air/live/pbaudio041/playlist.m3u8
 #EXTINF:-1,S Janaki
 https://psrlive2.listenon.in/janaki?station=janakiradio
 #EXTINF:-1,Kannadasan Radio
@@ -151,8 +210,6 @@ https://tamilpanpalai.radioca.st/stream
 https://c13.radioboss.fm/stream/552
 #EXTINF:-1,Jaffna Radio
 https://strl1.openstream.co/789?aw_0_1st.collectionid%3D3556%26stationId%3D3556%26publisherId%3D813%26k%3D1756726092
-#EXTINF:-1,Thuthi FM radio
-https://streams.radio.co/s790fe269d/listen
 #EXTINF:-1,Thaalam radio
 https://thaalam.out.airtime.pro/thaalam_b
 #EXTINF:-1,Chellam FM radio
@@ -179,8 +236,6 @@ http://162.244.80.106:11385/stream
 https://southsidefmkzn.out.airtime.pro/southsidefmkzn_a
 #EXTINF:-1,Vani Online Radio
 https://spserver.sscast2u.in/8166/stream
-#EXTINF:-1,A9RADIO
-https://eu10.fastcast4u.com:6740/stream
 #EXTINF:-1,Chennai FM Rainbow
 https://air.pc.cdn.bitgravity.com/air/live/pbaudio022/chunklist.m3u8
 #EXTINF:-1,Arulvakku Internet Radio
@@ -195,8 +250,6 @@ http://192.99.170.8:5756/?1459402803139.mp3?type=.mp3
 https://psrlive4.listenon.in/tabeat?station=tamilbeatradio&cb=1694075901
 #EXTINF:-1,Radio Madras
 http://streaming.radionomy.com/RadioMadras
-#EXTINF:-1,Tamil Sweet Fm
-https://streaming.radio.co/s0cfc93915/listen
 #EXTINF:-1,Tamil Super
 http://streaming.radionomy.com/Tamilsuper?lang=en-US%2cen%3bq%3d0.8
 #EXTINF:-1,Vaanpura Tamil Gospel Radio
@@ -221,8 +274,6 @@ https://everestcast-us.myautodj.com:1085/stream
 http://149.56.234.138:8037/
 #EXTINF:-1,IBC Tamil Radio
 https://rbx2.hnux.com/http://10454.cloudrad.io:6176/stream.mp3
-#EXTINF:-1,Inbam FM Radio
-https://stream.radio.co/sf55ced545/listen
 #EXTINF:-1,All India Radio Air Tamil
 https://air.pc.cdn.bitgravity.com/air/live/pbaudio025/playlist.m3u8
 #EXTINF:-1,Hello FM 106.4 Chennai
@@ -243,8 +294,6 @@ http://104.200.16.182:8000/stream/
 http://radio5.pro-fhi.net:9000/stream/1/
 #EXTINF:-1,FTC FM
 http://167.114.131.90:5750/stream/
-#EXTINF:-1,Rewind Amudham FM
-https://a9oldhits-a9media.radioca.st/stream
 #EXTINF:-1,Radio Petti 5.1
 https://radiopetti.out.airtime.pro/radiopetti_a
 #EXTINF:-1,Thenaruvi FM
@@ -447,8 +496,6 @@ http://192.95.39.65:5341/
 https://live.exertion.in/radio/8030/amrlive
 #EXTINF:-1,CJSA-HD3 CMR Desi Music Joint
 https://live.cmr24.net/CMR/Desi_Music-MQ/icecast.audio
-#EXTINF:-1,Time FM
-https://neramfm.com:8000/stream
 #EXTINF:-1,UMACHI FM
 https://listen.shoutcast.com/umachifm.m3u
 #EXTINF:-1,britishindiantamilradio - 128 - India -
@@ -595,8 +642,6 @@ https://radiostar.in:8030/radio.mp3
 http://149.56.157.81:20047/stream
 #EXTINF:-1,Red Rose Fm
 https://onair.punnagairadio.com/8146/stream;;
-#EXTINF:-1,AIR KODAI FM
-https://air.pc.cdn.bitgravity.com/air/live/pbaudio051/chunklist.m3u8
 #EXTINF:-1,Radio Central 24
 https://casper.radioca.st/;
 #EXTINF:-1,Oli FM

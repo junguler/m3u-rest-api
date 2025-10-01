@@ -1,4 +1,71 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/918.png",Радио «Русская реклама»
+https://securestreams5.autopo.st:1844/stream
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/2009.png",WTF with Marc Maron 24/7
+https://sphinx.acast.com/p/open/s/62a222737c02140013aa4c03/e/674d3fd5d67d53d9b33cd301/media.mp3
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/2119.png",Movie Scores and More Radio
+https://s4.radio.co/s778e9df94/listen
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/2228.png",WNAR AM Radio
+https://das-edge13-live365-dal02.cdnstream.com/a91284
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/3880.png",WVFI Radio
+https://s4.radio.co/s49f365ee3/listen
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/45222808.jpg",El Show de Piolín
+https://24963.live.streamtheworld.com/PIOLIN_SC
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/6683684.jpg",Old Time Radio USA
+https://ais-sa3.cdnstream1.com/2607_128.mp3
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/114651264.png",Chicago's Comedy Scene
+https://17653.live.streamtheworld.com/SAM06AAC077.mp3?dist=radioly
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/55507113.jpg",America's OTR - Old Time Comedy Radio
+https://das-edge12-live365-dal02.cdnstream.com/a29044
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/4126183.jpg",Conyers Old Time Radio
+https://s2.yesstreaming.net:17161/stream
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/101567276.jpg",WNAR AM Radio
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/107034283.jpg",Branson Gospel Radio
+https://das-edge12-live365-dal02.cdnstream.com/a86732
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/12633.png",Radio Ifm
+https://live.ifm.tn/radio/8000/ifmlive#
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/62189031.png",IFM
+https://live.ifm.tn/radio/8000/ifmlive
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/18965.png",Trespatines Radio - Santo Domingo
+https://app0102.sonicpanelradio.com/8708/stream
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/21174.png",Rádio 98 FM - FM 98.3
+https://9554.brasilstream.com.br/stream
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/21586.png",Floresta FM
+https://s30.maxcast.com.br:8180/live
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/35538.png",104.6 RTL Berlin Livestream
+https://rtlberlin.streamabc.net/rtlb-1046rtllive-mp3-128-3429579?sABC=639063r8%230%23r851619oq8n2n01n2617o1r20546502n%23&aw_0_1st.playerid=&amsparams=playerid:skey:1670407144
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/43810.png",Radio Horton
+https://radiohorton.radioca.st/
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/52963862.png",RIRE ET CHANSONS SKETCHES
+https://streaming.nrjaudio.fm/ou8oqegk7oiu?origine=radio.net&aw_0_1st.station=Rire-Chansons-SKETCHES
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/90195864.png",RIRE ET CHANSONS CANULARS
+https://streaming.nrjaudio.fm/ouwgjmsk6j4d?aw_0_1st.station=Rire-Chansons-CANULARS&origine=fmradiohub
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/93943976.png",RIRE ET CHANSONS NOUVELLE GENERATION
+https://streaming.nrjaudio.fm/out2kr6ubafg?origine=radiogarden&aw_0_1st.station=Rire-Chansons-NOUVELLE-GENERATION
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/91231545.png",MFM 100% Comédies Musicales
+https://mfmwr-014.ice.infomaniak.ch/mfmwr-014.mp3
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/19512476.png",mundARTradio Live
+https://mundartradio.stream.laut.fm/mundartradio?pl=m3u&t302=2020-08-07_22-21-55&uuid=eca1e1e6-8467-451d-bdf2-9b54dc047c75
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/25586023.png",RIRE ET CHANSONS DUOS
+https://streaming.nrjaudio.fm/ourf7gvukkaq?aw_0_1st.station=Rire-Chansons-DUOS&origine=radioly
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/39460149.png",RIRE ET CHANSONS STAND UP
+https://streaming.nrjaudio.fm/oua8brw2dqao?origine=ecouterradioenligne&aw_0_1st.station=Rire-Chansons-STAND-UP
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/14442881.png",Allzic Radio HUMOUR
+https://allzic25.ice.infomaniak.ch/allzic25.mp3
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/29433255.png",Allzic Radio COMEDIES MUSICALES
+https://allzic42.ice.infomaniak.ch/allzic56.mp3
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/78507327.png",Xpression FM 87.7
+https://streaming.broadcastradio.com:10855/xpression
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/87169698.png",538 Zomer
+https://25223.live.streamtheworld.com/TLPSTR06_SC?dist=mytuner
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/92144390.jpg",32 FM 94.9
+https://edge.mixlr.com/channel/zbfuy
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/112472881.jpg",Radio Merveille Togo
+https://c3.radioboss.fm:18234/stream
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/111102886.jpg",BOX : Old Time Radio
+https://boxradio-edge-05.streamafrica.net/otr
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/109561852.jpg",Prysm EDM
+https://n13.rcs.revma.com/0rxtxh0a0mzuv?rj-ttl=5&rj-tok=AAABh-VVLnUAIQzexqghCMHGZQ
 #EXTINF:-1,Grumpy Dingo Radio
 http://ice24.securenetsystems.net/GDR
 #EXTINF:-1,VVC Radio Black Comedy
@@ -73,26 +140,14 @@ https://securestreams5.autopo.st:1854/;
 https://pub0302.101.ru:8000/stream/trust/mp3/128/22?
 #EXTINF:-1,Ellinikos 93.2
 https://orange.live24.gr/orange9320
-#EXTINF:-1,32 FM 94.9
-https://edge.mixlr.com/channel/zbfuy
 #EXTINF:-1,181.FM Comedy Club
 https://listen.181fm.com/181-comedy_128k.mp3
-#EXTINF:-1,Old Time Radio USA
-https://ais-sa3.cdnstream1.com/2607_128.mp3
-#EXTINF:-1,Conyers Old Time radio
-https://s2.yesstreaming.net:17161/stream
-#EXTINF:-1,98FM
-https://9554.brasilstream.com.br/stream
-#EXTINF:-1,Allzic Radio Humour
-https://allzic25.ice.infomaniak.ch/allzic25.mp3
 #EXTINF:-1,Allzic Radio Comédies Musicales
 https://allzic46.ice.infomaniak.ch/allzic46.aac
 #EXTINF:-1,Radio Free Brooklyn
 http://patmos.cdnstream.com:9300/live
 #EXTINF:-1,A.M. America&#039;s OTR Comedy Channel
 http://hemnos.cdnstream.com/1666_32?cb=948732.mp3
-#EXTINF:-1,Радио «Русская реклама»
-https://securestreams5.autopo.st:1844/stream
 #EXTINF:-1,The WHIP Radio
 https://centova2.cheapshoutcast.com/proxy/thewhip?mp=/stream
 #EXTINF:-1,SUSPENSE Radio USA
@@ -105,8 +160,6 @@ https://listen.181fm.com/181-xfun_128k.mp3
 http://kea.cdnstream.com/1295_64
 #EXTINF:-1,Memory Lane Radio
 https://memorylaneradio.radioca.st/;
-#EXTINF:-1,WNAR AM Radio
-https://das-edge13-live365-dal02.cdnstream.com/a91284
 #EXTINF:-1,Vadivelu Comedy Radio
 http://psrlive3.listenon.in/vadivu?station=vadivelucomedyradio&cb=1682446538
 #EXTINF:-1,Shirley and Spinoza Radio
@@ -135,12 +188,8 @@ https://ffn.stream36.radiohost.de/ffn-comedy_mp3-192?upd-meta=0&upd-scheme=https
 http://199.89.174.27:8000/;
 #EXTINF:-1,Radiostorm.com: At Work
 https://ais-sa5.cdnstream1.com/b30572_128mp3
-#EXTINF:-1,Radio Merveille Togo
-https://c3.radioboss.fm:18234/stream
 #EXTINF:-1,Goundamani Senthil Radio
 http://psrlive2.listenon.in/gounder?station=goundamanisenthilradio&cb=1682446726
-#EXTINF:-1,Floresta FM
-https://s30.maxcast.com.br:8180/live
 #EXTINF:-1,Comedy Legend Radio
 https://comedy-legend.stream.laut.fm/comedy-legend
 #EXTINF:-1,Rádio Farol
@@ -163,8 +212,6 @@ http://c01.lexycast.de:3730/;
 https:/http:/adio.thevikingarmy.comhttp:/adio/8000http:/adio.mp3
 #EXTINF:-1,Radio Baksuz
 https://sonic.mediacp.eu/8120/stream
-#EXTINF:-1,Xpression FM
-https://streaming.broadcastradio.com:10855/xpression
 #EXTINF:-1,Rádio Web Feito Em Casa
 https://ssl.srvstm.com:6946/;
 #EXTINF:-1,Mehr Gags
@@ -2647,8 +2694,6 @@ https://rtlberlin.streamabc.net/rtlb-1046rtllive-mp3-128-3429579?sABC=68o55698%2
 https://securestreams5.autopo.st:1854/
 #EXTINF:-1,OTR Now Radio Program
 https://riradt00.radioca.st/stream
-#EXTINF:-1,Radio Ifm radio
-https://live.ifm.tn/radio/8000/ifmlive
 #EXTINF:-1,Comedy Club [email protected] Diana radio
 https://westradio.cz/radio/8010/radio.mp3?1607941293
 #EXTINF:-1,Radio Euskadi radio
@@ -2659,8 +2704,6 @@ http://54.39.106.212:8102/;
 https://das-edge13-live365-dal02.cdnstream.com/a20306
 #EXTINF:-1,Abuzer FM radio
 http://live.radyotvonline.com:9030/stream.nsv
-#EXTINF:-1,Radio Horton radio
-https://radiohorton.radioca.st/
 #EXTINF:-1,All Scottish Radio
 https://das-edge13-live365-dal02.cdnstream.com/a45584
 #EXTINF:-1,PopCanFunny.ca radio
@@ -2761,8 +2804,6 @@ https://das-edge14-live365-dal02.cdnstream.com/a78203
 https://das-edge12-live365-dal02.cdnstream.com/a86571
 #EXTINF:-1,Radio for Humans
 https://das-edge13-live365-dal02.cdnstream.com/a61089
-#EXTINF:-1,America's OTR - Old Time Comedy Radio
-https://das-edge12-live365-dal02.cdnstream.com/a29044
 #EXTINF:-1,SBKRadio
 https://das-edge13-live365-dal02.cdnstream.com/a96352
 #EXTINF:-1,Nostalgia Internet Radio
@@ -2781,8 +2822,6 @@ https://das-edge14-live365-dal02.cdnstream.com/a82860
 https://das-edge17-live365-dal02.cdnstream.com/a56465
 #EXTINF:-1,Big Sauce Radio
 https://ice1.securenetsystems.net/DEMOSTN?&playSessionID=610D7977-AF69-C5A3-B78843E1EC5A6FEA?type=.mp3
-#EXTINF:-1,M Radio 100 Comedies Musicales
-https://mfmwr-014.ice.infomaniak.ch/mfmwr-014.mp3
 #EXTINF:-1,Radio Ennepe Ruhr
 https://radioen--di--rnrw-ais-01--01--cdn.cast.addradio.de/radioen/simulcast/high/stream.mp3?ar-purpose=web&ar-distributor=f0b7&_art=dj0yJmlwPTUyLjE3Ni4xOS4xOTMmaWQ9aWNzY3hsLTdtaWlodGpsYiZ0PTE3NTg0NzQ1NDUmcz03ODY2ZjI5YyNlMmIzMmQ2ZWE0NDZhZmMzMjNiN2VhZDFjZDJiZDdiMw
 #EXTINF:-1,Radio Potentielle
@@ -2795,8 +2834,6 @@ https://icy.unitedradio.it/105Zoo.mp3
 https://23623.live.streamtheworld.com/RADIO_HUMOR_128.mp3?dist=onlineradiobox
 #EXTINF:-1,Comedy Club R@dio Diana
 http://65.21.202.84:8062/
-#EXTINF:-1,Trespatines Radio
-https://app0102.sonicpanelradio.com/8708/stream
 #EXTINF:-1,Barangay LS
 https://www.gmanetwork.com/radio/streaming/dwls/
 #EXTINF:-1,Rádió Comedy
@@ -2843,8 +2880,6 @@ https://a4.asurahosting.com:6570/radio.mp3
 https://ais-sa8.cdnstream1.com/2750_64.aac
 #EXTINF:-1,Röhej Rádió
 https://listen.radioking.com/radio/641950/stream/704998
-#EXTINF:-1,WVFI Radio
-https://s4.radio.co/s49f365ee3/listen
 #EXTINF:-1,Kritikulum
 https://kritikulum.stream.laut.fm/kritikulum?t302=2025-09-16_22-51-09&uuid=f09c2696-1a5d-428f-b9e4-fb47ef1ceefb
 #EXTINF:-1,Pauke
@@ -3275,5 +3310,3 @@ http://relay.181.fm:8026/
 https://24073.live.streamtheworld.com/977_COMEDY_SC
 #EXTINF:-1,ffn Frühstyxradio Live
 http://ffn.stream06.radiohost.de/ffn-comedy_mp3-192?upd-meta=0&upd-scheme=http&_art=dD0xNzU2NTkyMjQzJmQ9MjJiMWMxMDExYzIyYmJiYTNhY2U
-#EXTINF:-1,Allzic Radio COMEDIES MUSICALES
-https://allzic42.ice.infomaniak.ch/allzic56.mp3

@@ -1,4 +1,22 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/31764.png",Radio Passion Plastique
+https://passion-plastique.stream.laut.fm/passion-plastique
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/36466.png",Radio Rock FM
+https://radio-rock-fm.stream.laut.fm/radio-rock-fm
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/36614.png",Mindestverzehr Radio
+https://mindestverzehr-radio.stream.laut.fm/mindestverzehr-radio
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/36645.png",Radio Magic Firebird
+https://radio-magic-firebird.stream.laut.fm/radio-magic-firebird
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/36881.png",KingRadio
+https://kingradio.stream.laut.fm/kingradio
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/37454.png",KulturRadio
+https://f141.rndfnk.com/ard/rbb/rbbkultur/live/mp3/128/stream.mp3?cid=01FC1WQSDQZNQA4Y6DYGBH7A64&sid=2S6IRHSaLNO8tjjSiAiK9ltd7cE&token=gaM__AD6Y9Rx2Pv4uf4K61VLW8G1EwnnXsljAehBMhU&tvf=KvqsAJyxbhdmMTQxLnJuZGZuay5jb20
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/37992.png",Radio Headshot
+https://radio-headshot.stream.laut.fm/radio-headshot
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/38011.png",ProNoize Radio
+https://pronoize-radio.stream.laut.fm/pronoize-radio
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/38240.png",Rock House
+https://rockhouse.stream.laut.fm/rockhouse?t302=2023-03-09_10-23-36&uuid=9a2223c6-603c-4948-adf2-05363377b1cb
 #EXTINF:-1,Dark Mythos
 http://dark-mythos.stream.laut.fm/dark-mythos
 #EXTINF:-1,Riot Radio
@@ -601,8 +619,6 @@ https://rdfstream.de/listen/radio_dragon_flame/radio.mp3
 https://flyflew.stream.laut.fm/flyflew
 #EXTINF:-1,Radio Schattenreich radio
 https://schattenreich.stream.laut.fm/schattenreich
-#EXTINF:-1,Mindestverzehr Radio
-https://mindestverzehr-radio.stream.laut.fm/mindestverzehr-radio
 #EXTINF:-1,Abyss radio
 https://abyss.stream.laut.fm/abyss
 #EXTINF:-1,Fantasy Radio, Erlangen
@@ -621,8 +637,6 @@ https://das-edge12-live365-dal02.cdnstream.com/a86183
 https://nachtfalter.stream.laut.fm/nachtfalter
 #EXTINF:-1,Schwarz Lauscher radio
 https://schwarzlauscher.stream.laut.fm/schwarzlauscher
-#EXTINF:-1,Radio Rock FM, Menden radio
-https://radio-rock-fm.stream.laut.fm/radio-rock-fm
 #EXTINF:-1,Rosenland radio
 https://rosenland.stream.laut.fm/rosenland
 #EXTINF:-1,Rockvibes radio
@@ -677,8 +691,6 @@ https://donnerfeuer.stream.laut.fm/donnerfeuer
 https://eastend.stream.laut.fm/eastend
 #EXTINF:-1,KulturRadio radio
 https://0nlineradio.stream13.radiohost.de/0r-trending-charts?ref=tiny&path=addrad.io%2F4WRN_y&upd-meta=0&upd-scheme=https&_art=dD0xNzU2NzE5MjgyJmQ9M2VjMzc1MzQ2ODk4MWMxMGE0MDI
-#EXTINF:-1,Radio Magic Firebird radio
-https://radio-magic-firebird.stream.laut.fm/radio-magic-firebird
 #EXTINF:-1,Radio-Metronom radio
 https://free.rcast.net/69203
 #EXTINF:-1,Radio Nachtflug radio

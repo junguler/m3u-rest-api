@@ -1,12 +1,16 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/35591.png",Mnmltech
+https://mnmltech.stream.laut.fm/mnmltech
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/36129.png",Al Dente
+https://al-dente.stream.laut.fm/al-dente?ref=web-app&t302=2019-06-21_10-46-36&uuid=88a23bbb-4143-4b66-9690-e4cb8c49a7a6
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/36312.png",Digital Room Radio
+https://digitalroomradio.stream.laut.fm/digitalroomradio
 #EXTINF:-1,Deep Depot
 http://deepdepot.stream.laut.fm/deep_depot
 #EXTINF:-1,ClubTime FM
 http://listener2.aacl.tb-group.fm/clt-low.aac
 #EXTINF:-1,Esounds
 http://esounds.stream.laut.fm/esounds
-#EXTINF:-1,Digital Room Radio
-https://digitalroomradio.stream.laut.fm/digitalroomradio
 #EXTINF:-1,viennasoundz
 https://viennasoundz.stream.laut.fm/viennasoundz?ref=radiode&t302=2025-09-06_23-05-04&uuid=e4ad01d0-1537-413a-a6a3-15cc018adba8
 #EXTINF:-1,Radio Record Minimal Tech
@@ -365,8 +369,6 @@ https://s44.maxcast.com.br:8014/live
 https://pub0201.101.ru/stream/pro/aac/64/281
 #EXTINF:-1,ToXoRs minimal RADIO
 http://95.216.245.239:8000/
-#EXTINF:-1,Mnmltech
-https://mnmltech.stream.laut.fm/mnmltech
 #EXTINF:-1,Minimal Calling
 https://minimalcalling.stream.laut.fm/minimalcalling
 #EXTINF:-1,Deep_Depot
