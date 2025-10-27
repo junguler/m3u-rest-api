@@ -297,3 +297,7 @@ https://stream.bauermedia.sk/expres-lo.mp3
 https://online.radiokiks.sk:8000/kiks_rock.mp3
 #EXTINF:-1,Radio Viva Metropol
 http://s1-fmt2.liveatc.net/lzkz?nocache=2025083100201534883
+#EXTINF:-1,SRO Radio Litera
+https://icecast.stv.livebox.sk/litera_128.mp3
+#EXTINF:-1,Fun Radio - CZ-SK 
+https://stream.funradio.sk:18443/fun128.mp3

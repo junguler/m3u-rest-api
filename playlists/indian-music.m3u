@@ -37,3 +37,5 @@ https://air.pc.cdn.bitgravity.com/air/live/pbaudio136/chunklist.m3u8
 https://a10.gaanacdn.com/gn_img/clip/audio_website_clip_1691671845.mp4
 #EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/41714812.jpg",THR Raaga
 https://stream-eu-a.rcs.revma.com/1ut6qwtbv4uvv/4_qy5qjlvyz3ck02/playlist.m3u8
+#EXTINF:-1,Radio JN
+https://servidor14.brlogic.com:7324/live

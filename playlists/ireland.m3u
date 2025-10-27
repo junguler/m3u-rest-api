@@ -1741,3 +1741,43 @@ https://22653.live.streamtheworld.com/RTE_JR_RADIOAACLC/HLS/playlist.m3u8?tdsdk=
 http://sirius.shoutca.st:8291/stream.mp3
 #EXTINF:-1,TodayFm
 http://s29.myradiostream.com:17796/listen.mp3?nocache=1758418261
+#EXTINF:-1,Healing Radio
+https://streamer.radio.co/s1169dc50c/listen
+#EXTINF:-1,Dublin Digital Radio
+https://dublindigitalradio.out.airtime.pro/dublindigitalradio_a
+#EXTINF:-1,Love Radio - Classic Lovesongs
+https://stream.btsstream.com:8092/loveradio.aac
+#EXTINF:-1,RadioMoLI
+https://streamer.radio.co/s378b67405/listen
+#EXTINF:-1,Real FM 
+https://de1.streamingpulse.com/ssl/RealFMSpain
+#EXTINF:-1,Kiss Country
+https://igor.torontocast.com:1905/stream
+#EXTINF:-1,Kiss 90
+https://daniel.torontocast.com:1235/stream
+#EXTINF:-1,Kiss FM (Eire)
+https://daniel.torontocast.com:2985/stream
+#EXTINF:-1,Classic Dance Hitz
+https://streams.radio.co/s7a933605c/listen
+#EXTINF:-1,Deep House Radio - DHR
+https://deephouseradio.radioca.st/stream/1/
+#EXTINF:-1,Christmas FM Ireland
+https://ice31.securenetsystems.net/XMASFM
+#EXTINF:-1,TrancePulse Dublin
+https://stream.trance.ie:8443/stream
+#EXTINF:-1,Radioactive International
+https://donalgreene.com/radact8000
+#EXTINF:-1,Gem Radio New Wave 
+https://wg.cdn.tibus.net/q102MP3128
+#EXTINF:-1,iRadio West & Northwest
+https://stream.audioxi.com/IRADNW
+#EXTINF:-1,Dublin City FM
+https://stream.btsstream.com:8012/dcfm
+#EXTINF:-1,East Coast FM 
+https://edge.audioxi.com/EASTCOAST
+#EXTINF:-1,Irish Pub Radio 
+https://solid24.streamupsolutions.com/proxy/vbkiacud?mp=/live
+#EXTINF:-1,FM104&#x27;s HitMix 
+https://wg.cdn.tibus.net/TA
+#EXTINF:-1,Today FM 
+https://stream.audioxi.com/TD

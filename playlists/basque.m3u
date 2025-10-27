@@ -33,3 +33,9 @@ http://icecast.radiofrance.fr/fbpaysbasque-midfi.mp3
 http://multimedia.eitb.eus/live-content/eitbeuskalkantak-hls/master.m3u8
 #EXTINF:-1,Gaztea Irratia
 http://mp3-eitb.stream.flumotion.com/eitb/gaztea.mp3
+#EXTINF:-1,Naiz Irratia
+https://zuzenean.naiz.eus/naiz_irratia.mp3
+#EXTINF:-1,PUNK Irratia
+https://punkirratia.net:8443/punk
+#EXTINF:-1,Bizkaia Irratia 96.7 FM
+https://nerbioi.radiopopular.eus/bizkaiairratia2

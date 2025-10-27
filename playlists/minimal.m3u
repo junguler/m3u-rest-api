@@ -573,3 +573,37 @@ https://stream.radiofrance.fr/francemusiquelacontemporaine/francemusiquelacontem
 http://62.149.196.16:8888/stream/
 #EXTINF:-1,RauteMusik – TechHouse
 http://rautemusik.stream37.radiohost.de/techhouse?upd-meta&upd-scheme=http&_art=dD0xNzU4MjU4MDc1JmQ9ZDI4YzY0ZGQ3ZDZkZTE3Y2NlNjM
+#EXTINF:-1,1XE
+https://stream.radiojar.com/wvq04wt90neuv
+#EXTINF:-1,MABU Beatz Radio Minimal
+https://audio.mabu-beatz-radio.com:8003/minimal
+#EXTINF:-1,MoveDaHouse
+https://uk7.internet-radio.com/proxy/movedahouse?mp=/stream
+#EXTINF:-1,bleak radio 
+https://stream.laut.fm/bleakradio?ref=radiode
+#EXTINF:-1,MABU Beatz Radio Deep House
+https://audio.mabu-beatz-radio.com:8003/deephouse
+#EXTINF:-1,Digital Room Radio
+https://stream.laut.fm/digitalroomradio?ref=radiode
+#EXTINF:-1,MixARadio Chic List
+https://manager3.streamradio.fr:1905/stream
+#EXTINF:-1,MixARadio Electro Paradise
+https://manager3.streamradio.fr:1665/stream
+#EXTINF:-1,lounge 
+https://stream.laut.fm/lounge?ref=radiode
+#EXTINF:-1,Sound-of-FFM 
+https://stream.laut.fm/sound-of-ffm?ref=radiode
+#EXTINF:-1,House of Funk 
+https://houseoffunk.eu:8443/live
+#EXTINF:-1,nonpop 
+https://stream.laut.fm/nonpop?ref=radiode
+#EXTINF:-1,ClubTime.FM 
+https://clt.aacl.stream.tb-group.fm
+#EXTINF:-1,Techhouse by rautemusik 
+https://techhouse-high.rautemusik.fm/?ref=radiode
+#EXTINF:-1,decoderfm 
+https://stream.laut.fm/decoderfm?ref=radiode
+#EXTINF:-1,itsours 
+https://stream.laut.fm/itsours?ref=radiode
+#EXTINF:-1,HOUSEBOMB-FN 
+https://stream.laut.fm/housebomb-fn?ref=radiode

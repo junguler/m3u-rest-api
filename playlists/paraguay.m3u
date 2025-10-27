@@ -721,3 +721,13 @@ http://cdn.instream.audio:9088/stream
 https://24223.live.streamtheworld.com/DISNEY_PAR_ASAAC/HLS/playlist.m3u8?dist=web-radiodisney
 #EXTINF:-1,Radio Tu Voz
 https://radiotuvoz.online/listen/radio_tu_voz_/radio.mp3
+#EXTINF:-1,Rock Nacional Paraguayo
+https://s32.radiolize.com/radio/8010/radio.mp3
+#EXTINF:-1,Flash FM 99.3 Mhz
+https://stream.zeno.fm/yrkc3fn52mzuv
+#EXTINF:-1,TU Radio FM
+https://stream.zeno.fm/0472re2u72quv
+#EXTINF:-1,RADIO VALLENATOS CLÁSICOS
+https://stream.zeno.fm/z07vyxbqz8quv
+#EXTINF:-1,VolMix
+https://stream.radiosenpy.net:10895/

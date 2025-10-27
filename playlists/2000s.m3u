@@ -1277,3 +1277,5 @@ https://stream.revma.ihrhls.com/zc909
 https://radiostarflair.stream.laut.fm/radiostarflair
 #EXTINF:-1,Rtv1 Mönchengladbach radio
 https://rtv1.stream.laut.fm/rtv1?t302=2025-09-01_06-57-14&uuid=25df309e-2aef-47fd-80d9-ce828a5cb52f
+#EXTINF:-1,WISH FM 102.4 FM
+https://ice.wbcengineering.com:8130/stream

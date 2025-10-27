@@ -503,3 +503,39 @@ http://bigrradio.cdnstream1.com/5192_128
 https://ice7.securenetsystems.net/WMKVFM
 #EXTINF:-1,Radio WOBO (Batavia)
 http://ice64.securenetsystems.net/WOBO
+#EXTINF:-1,Tin Pan Alley Radio
+https://radio.streemlion.com:5325/stream
+#EXTINF:-1,The Joint
+https://usa18.fastcast4u.com/proxy/nusoulp1?mp=/1
+#EXTINF:-1,Zucca Radio 
+https://stream.zuccaradio.com/stream/1/
+#EXTINF:-1,Vanilla Radio - Fresh Flavors
+https://stream.vanillaradio.com:8009/live
+#EXTINF:-1,Jazzjoulu
+https://server1.toivon.net/proxy/toivon_8_1?mp=/stream
+#EXTINF:-1,RadioArt: Swing
+https://live.radioart.com/fSwing.mp3
+#EXTINF:-1,RadioArt: Big Bands
+https://live.radioart.com/fBig_bands.mp3
+#EXTINF:-1,Precious Radio Hip-Hop
+https://preciousradio.net/proxy/hiphop/stream
+#EXTINF:-1,Das Landradio
+https://streamingV2.shoutcast.com/DasLandradio
+#EXTINF:-1,Radio Nostalgia Amsterdam
+https://fred.torontocast.com:1395/stream
+#EXTINF:-1,Nostalgie Jazz
+https://scdn.nrjaudio.fm/adwz1/fr/30641/mp3_128.mp3?origine=radio.net
+#EXTINF:-1,Radio 1920 
+https://stream.laut.fm/radio1920?ref=radiode
+#EXTINF:-1,90.9 Jazzy rádió 
+https://s04.diazol.hu:9502/live.mp3
+#EXTINF:-1,The Penthouse Radio 
+https://streaming.live365.com/a64136
+#EXTINF:-1,pulp-fm 
+https://stream.laut.fm/pulp-fm?ref=radiode
+#EXTINF:-1,swingsalon 
+https://stream.laut.fm/swingsalon?ref=radiode
+#EXTINF:-1,KKJZ - KJAZZ 88.1 FM 
+https://playerservices.streamtheworld.com/api/livestream-redirect/KKJZFMAAC.aac
+#EXTINF:-1,Swing FM 
+https://swingfm.ice.infomaniak.ch/swingfm-128.mp3

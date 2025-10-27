@@ -1195,3 +1195,49 @@ https://ljud1-cdn.sr.se/lc/extra01.m3u8
 https://ljud1-cdn.sr.se/lc/p4dala.m3u8
 #EXTINF:-1,Sveriges Radio SR Extra11
 https://ljud1-cdn.sr.se/lc/extra11.m3u8
+#EXTINF:-1,Radio P5
+https://stream.nsp.se/P5
+#EXTINF:-1,Plaza Radio
+https://icecast.royalstreamingplay.com/7c030bf5-9579-496a-ace6-3ce124317e23.mp3
+#EXTINF:-1,Furry.FM
+https://s4.radio.co/sa18a4da89/listen
+#EXTINF:-1,Star 60's
+https://wr09-ice.stream.khz.se/wr09_mp3
+#EXTINF:-1,Pop and Rock Music Radio Soul
+https://listen.radionomy.com/popandrockmusicradiosoul
+#EXTINF:-1,Radio Visby
+https://radiovisby.radioca.st/stream/1/
+#EXTINF:-1,Star FM Svenska
+https://fm05-icecast.mtg-r.net/fm05_mp3
+#EXTINF:-1,BPM Malmö 
+https://stream.radiojar.com/bbhah441b6quv
+#EXTINF:-1,BollywoodBio LIVE! 
+https://ais-sa2.cdnstream1.com/1925_192
+#EXTINF:-1,Radio Trelleborg 92.8 FM
+https://stream.nsp.se/RaTbg_AAC_Hi
+#EXTINF:-1,Vinylgodis
+https://securestreams2.autopo.st:1061/stream/1/
+#EXTINF:-1,Radio Falköping 90.8 FM
+https://radio.fnf.nu/fnf.mp3
+#EXTINF:-1,Radio Bastad 96.1 FM
+https://streamingv2.shoutcast.com/radio-bastad-96-1
+#EXTINF:-1,Radio Bohuslän 100.5 FM
+https://rb.enson.se/rb2
+#EXTINF:-1,Power FM
+https://fm04-ice.stream.khz.se/fm04_mp3?
+#EXTINF:-1,Pite FM 92.8
+https://pitefmstream.ltu.se:8443/pitefm.mp3
+#EXTINF:-1,Mix Megapol 
+https://live-bauerse-fm.sharp-stream.com/mixmegapol_instream_se_aacp
+#EXTINF:-1,106.7 Rockklassiker 
+https://tx-bauerse.sharp-stream.com/http_live.php?i=rockklassiker_instream_se_mp3
+#EXTINF:-1,NRJ Sweden 
+https://tx-bauerse.sharp-stream.com/http_live.php?i=nrj_instreamtest_se_mp3
+#EXTINF:-1,polarlicht 
+https://stream.laut.fm/polarlicht?ref=radiode
+#EXTINF:-1,radio-schweden 
+https://stream.laut.fm/radio-schweden?ref=radiode
+#EXTINF:-1,Lite FM 101.2 
+https://stream.943.se/lite.mp3
+#EXTINF:-1,Gold FM 
+https://goldfm.nu/goldfm_aacp

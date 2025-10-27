@@ -125,3 +125,5 @@ http://radio.dominiserver.com:8228/stream
 http://sonicpanel.globalstream.pro:8012/stream
 #EXTINF:-1,La Rumba 102.3
 http://sh2.radioonlinehd.com:8082/stream
+#EXTINF:-1,La Cariñosa 1.270 AM Cartagena
+https://playerservices.streamtheworld.com/api/livestream-redirect/LA_CARINOSA_CARTAGENAAAC.aac

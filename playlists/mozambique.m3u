@@ -51,3 +51,7 @@ http://rtmc.ice.infomaniak.ch/rtmc-32.mp3
 http://rfienanglais64k.ice.infomaniak.ch/rfienanglais-64.mp3
 #EXTINF:-1,Super FM
 http://41.223.153.14:8000/
+#EXTINF:-1,RM Desporto
+https://node.stream-africa.com:8443/RMDesporto
+#EXTINF:-1,Rádio Moçambique
+https://node.stream-africa.com:8443/AntenaNacional

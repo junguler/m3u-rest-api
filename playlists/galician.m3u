@@ -15,3 +15,5 @@ https://srv7031.dns-lcinternet.com/8032/stream
 http://01.solumedia.com.ar:7798/stream
 #EXTINF:-1,Radio Negreira
 http://srv7031.dns-lcinternet.com:8030/stream
+#EXTINF:-1,CUAC FM 
+https://streaming.cuacfm.org/cuacfm-128k.mp3

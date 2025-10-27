@@ -221,3 +221,9 @@ https://benno.radioca.st/stream
 http://s2.radiomorava.rs/stream.nsv
 #EXTINF:-1,Radio RADIOMARS
 http://radiomars.bcast.infomaniak.ch/radiomars-128.mp3
+#EXTINF:-1,PENTAGRAMA LATINOAMERICANO Radio Folk
+https://sp14.priv-server.com/8010/stream
+#EXTINF:-1,West End Radio
+http://streamer.hosting078.nl:1150/stream
+#EXTINF:-1,Test Stream
+http://streamer.hosting078.nl:1280/stream

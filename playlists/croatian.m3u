@@ -641,3 +641,17 @@ https://azuracast.novi-net.net/listen/radiomax/radiomax.aac?refresh=167676657470
 https://audio.social3.hr/listen/bravo_kids/stream?3367
 #EXTINF:-1,Narodni - AAAAAAA!
 http://c5.hostingcentar.com:8360/
+#EXTINF:-1,Radio Roža
+https://stream.radio-roza.org/live.mp3
+#EXTINF:-1,Radiopostaja Mir Medugorje
+https://mirm.live/mir.mp3
+#EXTINF:-1,Zabavni Radio
+https://test1.secure.com.hr:8585/
+#EXTINF:-1,Radio 105
+https://stream.laut.fm/101fm?ref=radiode
+#EXTINF:-1,Otvoreni Radio
+https://stream.otvoreni.hr:443/stream48
+#EXTINF:-1,Radio-Kaj 
+https://stream.rcast.live/66509
+#EXTINF:-1,yugotopia-beat-club 
+https://stream.laut.fm/yugotopia-beat-club?ref=radiode

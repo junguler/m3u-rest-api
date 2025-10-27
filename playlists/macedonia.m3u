@@ -175,3 +175,7 @@ http://liferadio.ddns.net:8000/stream/
 http://stream.sepia.sk:8000/viva64.aac
 #EXTINF:-1,Радио Лидер 107,4
 http://liderfm.ipradio.mk:10002/
+#EXTINF:-1,Amazing Vocals
+https://playerservices.streamtheworld.com/api/livestream-redirect/AMAZING_VOCALS_S01.mp3
+#EXTINF:-1,Amazing Classic Hits
+https://playerservices.streamtheworld.com/api/livestream-redirect/AMAZING_CLASSIC_HITS_S01.mp3

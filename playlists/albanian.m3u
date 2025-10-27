@@ -181,3 +181,15 @@ https://radiostreaming.ert.gr/ert-voiceofgreece
 http://ice31.securenetsystems.net/AL09?type=.mp3
 #EXTINF:-1,PriRadio
 https://a1.asurahosting.com:8130/radio.mp3
+#EXTINF:-1,Albasoft Radio Munich 
+https://node-10.zeno.fm/38wua2rf2wzuv
+#EXTINF:-1,Radio Shqip
+https://cp1.sednastream.com/proxy/radioshqip?mp=/stream
+#EXTINF:-1,Radio Tirana 2 95.8
+https://radiolive.rtsh.dev/radiotirana2
+#EXTINF:-1,Top Gold
+https://live.topgold.al/topgold
+#EXTINF:-1,Club FM 
+https://cp1.sednastream.com/proxy/clubfm?mp=/stream
+#EXTINF:-1,RADIO MARIA SHQIPTARE ALBANIA 
+https://dreamsiteradiocp2.com/proxy/rmalbania2?mp=/stream.mp3

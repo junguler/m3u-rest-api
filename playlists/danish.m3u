@@ -399,3 +399,73 @@ https://drliveradio1.akamaized.net/hls/live/2097651/p3/masterab.m3u8
 http://stream.wlmm.dk:80/
 #EXTINF:-1,DR P6 BEAT (AAC)
 https://drliveradio1.akamaized.net/hls/live/2097651/p6beat/masterab.m3u8
+#EXTINF:-1,VinylHits
+https://stream.vinylhits.dk/vinylmp3
+#EXTINF:-1,Radio MFK
+https://stream1.radiomfk.dk/radiomfk
+#EXTINF:-1,Radio208
+https://stream.probroadcast.dk/radio208mp3
+#EXTINF:-1,Radio Corona
+https://s3.radio.co/sc85a422ba/listen
+#EXTINF:-1,Retro-Radio Millennium 
+https://tx-2.retro-radio.dk/TX-2
+#EXTINF:-1,Radio Freja
+https://solid67.streamupsolutions.com/proxy/ingjmhed?mp=/stream
+#EXTINF:-1,Radio Freja Christmas
+https://solid67.streamupsolutions.com/proxy/fbarcklk?mp=/stream
+#EXTINF:-1,Radio Folk
+https://stream.radiojar.com/fqt2y0ds97zuv
+#EXTINF:-1,Radio 40 plus
+https://stream.radiosolutions.dk/radio40plus
+#EXTINF:-1,skala.fm - Christmas
+https://webradio.skala.fm/skala
+#EXTINF:-1,Rockkanalen 
+https://stream02.radioplayback.dk/stream
+#EXTINF:-1,Globus Guld Jule
+https://stream.probroadcast.dk/guldjulmp3
+#EXTINF:-1,Radio Køge
+https://netradio.radiokoege.dk
+#EXTINF:-1,Radio Alfa Midtjylland
+https://radioserver.dk/alfamidt
+#EXTINF:-1,Radio Alfa Juleradio
+https://radioserver.dk/alfaevent
+#EXTINF:-1,Radio24syv
+https://stream.radioloud.dk/loud128
+#EXTINF:-1,Radio Alfa Silkeborg
+https://radioserver.dk/alfasilk
+#EXTINF:-1,WEB fm
+https://netradio.webfm.dk/Webfm
+#EXTINF:-1,Radio Nord FM 98,6
+https://netradio.radionord.dk:8443/RadioNord
+#EXTINF:-1,Radio Alfa - Always Elvis Radio
+https://radioserver.dk/alwayselvisradio
+#EXTINF:-1,Classic FM
+https://webradio.classicfm.dk/classichorsens
+#EXTINF:-1,PartyFM
+https://stream1.partyfm.dk/Party256
+#EXTINF:-1,Radio VLR Horsens
+https://webradio.vlr.dk/vlrvejle
+#EXTINF:-1,Heartbeats Radio
+https://streaming02.zfast.co.uk/proxy/heartbea?mp=/stream
+#EXTINF:-1,Radio SOLO
+https://radioserver.dk/solo
+#EXTINF:-1,Radio Viborg
+https://webradio.radioviborg.dk/viborg.aac
+#EXTINF:-1,Radio Skive
+https://radioserver.dk/skive
+#EXTINF:-1,Radio Diablo
+https://icecast1.radiostuff.dk/Diablo128
+#EXTINF:-1,Radio Alfa Østjylland
+https://radioserver.dk/alfa
+#EXTINF:-1,Radio ABC
+https://radioserver.dk/abc
+#EXTINF:-1,go!FM
+https://radioserver.dk/gofm
+#EXTINF:-1,Radio M Midtjylland
+https://radioserver.dk/radiom
+#EXTINF:-1,Radio VLR 
+https://webradio.vlr.dk/vlrhorsens
+#EXTINF:-1,ANR 
+https://stream.anr.dk/anr
+#EXTINF:-1,Skala.fm 
+https://webradio.skala.fm/kolding

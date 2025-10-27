@@ -81,3 +81,13 @@ https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 https://26343.live.streamtheworld.com/977_HITSAAC_SC?dist=onlineradiobox
 #EXTINF:-1,Love Radio - Cantpop Love Songs
 https://nl4.mystreaming.net/uber/lrcantopop/icecast.audio
+#EXTINF:-1,Galattica FM
+https://stream.laut.fm/galatticafm?ref=radiode
+#EXTINF:-1,Billboard Radio China -  80/90后 
+https://billboardradio.rastream.com/gfm-awesome80s
+#EXTINF:-1,Billboard Radio China - The 80's
+https://gfm.rastream.com/gfm-awesome80s?
+#EXTINF:-1,Billboard Radio China - Club
+https://gfm.rastream.com/gfm-clubhkgfm?
+#EXTINF:-1,Billboard Radio China - Asia Hitz
+https://gfm.rastream.com/gfm-asiahitzchina?

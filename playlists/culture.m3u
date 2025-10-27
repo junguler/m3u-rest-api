@@ -6141,3 +6141,19 @@ https://765211.live.tvstitch.com/stream.m3u8?&m=aHR0cHM6Ly9zdHJlYW12aWRlby5sdXhu
 http://82.207.109.117:8000/
 #EXTINF:-1,رادیو همدم
 http://s3.radio.co/s2f8f33216/listen
+#EXTINF:-1,mittelalter net
+http://mittelalter-net.stream.laut.fm/mittelalter-net
+#EXTINF:-1,ddr eins
+http://ddr_eins.stream.laut.fm/ddr_eins
+#EXTINF:-1,unser kleines radio
+http://unser-kleines-radio.stream.laut.fm/unser-kleines-radio
+#EXTINF:-1,theartist
+http://theartist.stream.laut.fm/theartist
+#EXTINF:-1,hitradio classical
+http://hitradio-classical.stream.laut.fm/hitradio-classical
+#EXTINF:-1,radioplanet berlin
+http://radioplanet-berlin.stream.laut.fm/radioplanet-berlin
+#EXTINF:-1,Radio Quirinus
+http://s8.iqstreaming.com:8064/
+#EXTINF:-1,RSM - Radio Sisačko Moslavački
+https://s8.iqstreaming.com:2020/stream/radio_quirinus/stream

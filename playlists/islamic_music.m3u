@@ -1,8 +1,36 @@
 #EXTM3U
+#EXTINF:-1,ISLAMIC BROADCASTING STATION - 0 - Malawi - islamic
+https://islamicbulletin.site:8030/stream
+#EXTINF:-1,Persada 97.2FM Lamongan - 96 - Indonesia - dangdut - islamic - music - religion
+https://islamicbulletin.site:8102/stream
+#EXTINF:-1,Saudi TV Sunnah Madinah - by IslamiCity
+https://free.rcast.net/232233
+#EXTINF:-1,M2 Station (1) - Tawba - CIV - Villeneuve d'Ascq
+https://free.rcast.net/206401
+#EXTINF:-1,IRIS- INTERNET RADIO ISLAMIC SARAWAK
+https://stream3.rcast.net/65463
+#EXTINF:-1,JRM Markaz Ki Awaz
+https://node-26.zeno.fm/z2ryhp76u7zuv
+#EXTINF:-1,Sadio FM
+https://stream.zeno.fm/6peu618by5quv
+#EXTINF:-1,iDream Radio 
+https://void.idserverhost.com:8010/stream
 #EXTINF:-1,gh1
-https://gh1.stream.laut.fm/gh1?ref=radiode&t302=2025-09-06_23-00-52&uuid=b44e1f85-c092-4034-ab29-6064e1a032f5
+https://stream.laut.fm/gh1?ref=radiode
+#EXTINF:-1,Muslim Vaanoli
+https://s2.voscast.com:9357/stream
 #EXTINF:-1,Buzzislam
 https://tunein.buzzislam.com/radio/8000/radio.mp3
+#EXTINF:-1,Radio Rodja 756 AM
+https://radioislamindonesia.com/rodja.mp3
+#EXTINF:-1,MQFM 102.7
+https://mqfmstreaming.kamil.web.id/
+#EXTINF:-1,Al Hidayah 87.6 FM Solo
+https://ns3.indonesiastreaming.com:8000/alhidayah
+#EXTINF:-1,Radio Rodja
+https://live2.radiorodja.com/rodja.mp3
+#EXTINF:-1,Dawn FM 
+https://radiodawn.radioca.st/stream
 #EXTINF:-1,Yanasalam Webradio
 https://listen.radioking.com/radio/213058/stream/256153
 #EXTINF:-1,islam-radio-deutschland
@@ -71,8 +99,6 @@ http://66.45.232.131:9994/
 http://server4.streamserver24.com:21494/stream/1/
 #EXTINF:-1,Nasheed Stream
 http://206.72.199.178:9994/
-#EXTINF:-1,Muslim Vaanoli
-http://s33.myradiostream.com:13872/stream/1/
 #EXTINF:-1,RASfm Jakarta 95.5 FM
 https://i.klikhost.com/9006/stream
 #EXTINF:-1,Nur Islam 93.3 FM

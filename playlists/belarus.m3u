@@ -309,3 +309,9 @@ http://listen5.myradio24.com/praims
 http://rde.stream.laut.fm/rde
 #EXTINF:-1,Еўрарадыё BY
 http://stream1.euroradio.fm:8000/euroradio1
+#EXTINF:-1,Radio Maria Belarus - Радыё Марыя
+https://server.radiorm.by:8443/aac
+#EXTINF:-1,Rock-Omlet
+https://radio.rock-omlet.com/live
+#EXTINF:-1,Russradio 
+https://stream.hoster.by/rusradio/russkoe/icecast.audio

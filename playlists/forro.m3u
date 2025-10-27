@@ -151,3 +151,9 @@ http://142.4.192.161:9330/stream/
 http://servidor21.brlogic.com:7466/live
 #EXTINF:-1,Rádio Voz do Sertão
 http://sv10.hdradios.net:10246/
+#EXTINF:-1,Forro Tradicional
+https://forrotradicional.com.br/radio/8000/aac
+#EXTINF:-1,Rádio Forró
+https://ssl.mestrestream.xyz:7600/stream/1/
+#EXTINF:-1,Rádio Mução - Forró
+https://cast.nextdial.com.br/mucaofm

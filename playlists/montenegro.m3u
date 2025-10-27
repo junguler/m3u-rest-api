@@ -95,3 +95,9 @@ http://svetigoralive.com:8879/listen.pls
 http://213.239.205.210:8082/stream
 #EXTINF:-1,Radio Bruškin
 http://ca.rcast.net:8024/
+#EXTINF:-1,Reggaeneracija - Montenegro
+https://player.reggaeneracija.me/proxy/reggaeneracija?mp=/stream
+#EXTINF:-1,Drugačija Radio Stanica
+https://eu2.fastcast4u.com/proxy/mic0?mp=/stream
+#EXTINF:-1,Radio Budva
+https://streamingv2.shoutcast.com/RadioBudva

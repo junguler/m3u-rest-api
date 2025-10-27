@@ -1,4 +1,20 @@
 #EXTM3U
+#EXTINF:-1,Prog Frog
+http://216.126.196.154:4040/stream
+#EXTINF:-1,Stellar Attraction
+http://77.68.36.137:8000/stream
+#EXTINF:-1,Asylum of Echoes Radio
+http://198.27.66.225:8960/stream
+#EXTINF:-1,ALBUM ROCK RADIO
+http://streamingp.shoutcast.com/JamendoLounge?lang=*
+#EXTINF:-1,Classic Rock Miami
+https://streamingp.shoutcast.com/classic-rock-miami?lang=*
+#EXTINF:-1,PROG.FM
+http://96.234.37.211:8030
+#EXTINF:-1,DrGnu - Prog Rock Classics - 0 - Germany - 1960s - 1970s - 1980s - 1990s - 2010s - 2020s - 21st century - artrock - blues rock - death metal - dream theater - drgnu - folk rock - genesis - hard rock - hardrock - heavy metal - jazz - jethro tull - jinjer - livestream - metal - metalcore - music - opeth - pink floyd - pop-rock - prog-rock - progressive metal - progressive rock - rock - tool
+https://prog-rock-station.stream.laut.fm/prog-rock-station?t302=2025-09-10_17-51-38&uuid=157e8b6d-8266-4919-bdce-5608771fcb69
+#EXTINF:-1,Clássicos e Relíquias Rock
+http://srv11.ipstm.net:7038/
 #EXTINF:-1,Nice Tunes Radio
 http://eu10.fastcast4u.com:5120/stream
 #EXTINF:-1,prog rock station
@@ -225,8 +241,6 @@ https://tmbradio.radioca.st/
 https://stream.revma.ihrhls.com/zc7332/hls.m3u8
 #EXTINF:-1,Radio progRock
 https://pavo.prostreaming.net:8012/stream
-#EXTINF:-1,Prog Frog
-http://eagle.streemlion.com:4040/stream
 #EXTINF:-1,Fusion 101
 http://quincy.torontocast.com:2040/stream
 #EXTINF:-1,Labgate Progressive Rock
@@ -389,16 +403,12 @@ https://ais-sa8.cdnstream1.com/2750_64.aac
 https://free.rcast.net/247603
 #EXTINF:-1,MOROW - THE BEST PROGRESSIVE ROCK OF YESTERDAY AND TODAY
 https://free.rcast.net/19
-#EXTINF:-1,Cosmic Protocol Radio
-http://streamingp.shoutcast.com/JamendoLounge?lang=*
 #EXTINF:-1,Radio Bagwahn
 https://radiobagwahn.stream.laut.fm/radio_bagwahn
 #EXTINF:-1,JC Radio
 http://streamingecuador.net:7010/stream
 #EXTINF:-1,Rock FM Prog
 https://jfm1.hostingradio.ru:14536/prog.mp3
-#EXTINF:-1,Stellar Attraction
-http://77.68.36.137:8000/stream/;
 #EXTINF:-1,1.FM - Gorilla FM Radio
 https://strmreg.1.fm/gorillafm_mobile_mp3
 #EXTINF:-1,Toxic FM 107.1

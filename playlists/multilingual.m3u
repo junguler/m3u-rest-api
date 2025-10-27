@@ -331,3 +331,15 @@ https://s3.radio.co/sc8d895604/listen
 https://listen.radioking.com/radio/3318/stream/63163
 #EXTINF:-1,Fmascri-1
 http://radiofmascri.dyndns.org:33456/stream/3/
+#EXTINF:-1,CKJS 810 AM
+https://ice5.securenetsystems.net/CKJS
+#EXTINF:-1,CIAO AM 530 Multicultural Radio
+https://ice2.securenetsystems.net/CIAO
+#EXTINF:-1,France Bleu Elsass 
+https://direct.francebleu.fr/live/fbelsass-midfi.mp3?ID=pd569ib97j
+#EXTINF:-1,4EEB 4EB-FM 98,1 
+https://playerservices.streamtheworld.com/api/livestream-redirect/4EB.mp3
+#EXTINF:-1,Birdsong.fm 
+https://streaming.radio.co/s5c5da6a36/listen
+#EXTINF:-1,METROPOL FM 
+https://stream1.mfm.plexpark.com/radio/8000/simulcast-berlin-sd-64.aac

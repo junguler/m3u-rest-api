@@ -379,3 +379,9 @@ http://live.itech.host:7093/live
 http://216.55.141.189:8653/stream?type=http\u0026nocache=66846
 #EXTINF:-1,Radio Sathi
 http://live.itech.host:7115/live
+#EXTINF:-1,24 Nepali Online Radio
+https://stream.zenolive.com/v3e78tqm5gruv.aac
+#EXTINF:-1,Radio Audio 106.3 FM
+https://stream.zeno.fm/2w81t82wx3duv
+#EXTINF:-1,Ujyaalo Online
+https://stream.zeno.fm/wtuvp08xq1duv

@@ -153,3 +153,11 @@ https://live.advailo.com/audio/live/playlist.m3u8
 https://radio.lkr.lv/?type=http&ampnocache=40
 #EXTINF:-1,European Hit Radio - SuperHits
 http://stream.europeanhitradio.com:8000/Stream_21.aac
+#EXTINF:-1,Radio Skonto
+https://stream.radioskonto.lv:8443/stereo
+#EXTINF:-1,LATVIAN DANCE- DJ EDIJS 
+https://stream.zeno.fm/hk7sx3rdpueuv
+#EXTINF:-1,XO.FM
+https://live.xo.fm/xofm128
+#EXTINF:-1,European Hit Radio 
+https://stream.ehrhiti.lv:8000/ehr.aac

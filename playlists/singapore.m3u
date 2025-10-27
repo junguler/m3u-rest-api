@@ -401,3 +401,9 @@ https://28153.live.streamtheworld.com/ONE_FM_913AAC_SC?dist=radiosingaporeapp
 http://listen.sky.fm/public1/tophits.pls
 #EXTINF:-1,Sky Smooth Jazz – SG-SG
 http://listen.sky.fm/public1/smoothjazz.pls
+#EXTINF:-1,AXR Singapore 
+https://singaporestream.axr.online
+#EXTINF:-1,one fm 913 
+https://playerservices.streamtheworld.com/api/livestream-redirect/ONE_FM_913AAC.aac
+#EXTINF:-1,Capital Radio 95.8 FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/CAPITAL958FM_PREM.aac

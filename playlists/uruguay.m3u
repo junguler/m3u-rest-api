@@ -735,3 +735,13 @@ http://streaming.radiosenlinea.com.ar:8816/stream/
 https://comodin.uy/listen/chiveo/128.mp3
 #EXTINF:-1,Radio Pedal 2023
 https://streaming2.hostingmontevideo.com/8052/RNFU9ACR7
+#EXTINF:-1,Azul 93.5 FM
+https://radio2.azulfm.com.uy:8020/stream/1/
+#EXTINF:-1,De La Nuca FM - 107.7 
+https://ssl.gmpro.top:7070/stream/1/
+#EXTINF:-1,Radio Espectador 810AM
+https://espectador1.net.com.uy:8122/stream/1/
+#EXTINF:-1,Sarandí 690
+https://radios-mp3-uy.cdn.nedmedia.io/sarandi.mp3
+#EXTINF:-1,La Zurda
+https://usa2.fastcast4u.com/proxy/radiolaz?mp=/1

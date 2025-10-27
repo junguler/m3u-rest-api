@@ -261,3 +261,25 @@ http://162.244.80.106:10853/stream/1/
 https://streaming.brol.tech/rtfmlounge
 #EXTINF:-1,Mundart-Radio
 http://mundartradio.stream.laut.fm/mundartradio?t302=2025-08-31_00-49-26&uuid=6d0dec26-7e0d-4d14-890d-9d878ec7b8e5
+#EXTINF:-1,CBS Eyobujjajja 88.8 FM
+https://s5.voscast.com:9909/EYOBUJJAJJA
+#EXTINF:-1,RADIO NGOMA 90.7FM
+https://node-29.zeno.fm/rb5umr1wu38uv?rj-ttl=5u0026rj-tok=AAABft-2JDEACrw6PzhQ41Dbvg
+#EXTINF:-1,Jembe FM 93.7
+https://streamingv2.shoutcast.com/jembe-fm
+#EXTINF:-1,KBC Radio Taifa
+https://stream.zeno.fm/4fdwx9mydbruv
+#EXTINF:-1,SEMA FM 98.3
+https://node-13.zeno.fm/8nby4derqwzuv.aac
+#EXTINF:-1,Shiloh Radio
+https://stream.zeno.fm/xuvwff899mzuv
+#EXTINF:-1,RADIO SIMBA 91.3 FM
+https://www.radiosimba.ug/stream
+#EXTINF:-1,street One radio 
+https://stream.zeno.fm/d3as2fmadnruv
+#EXTINF:-1,Darasa online Radio
+https://stream.zeno.fm/2g28317yr5quv
+#EXTINF:-1,Rubega Radio
+https://stream.abenbrothers.com/8002/stream
+#EXTINF:-1,Radio Okapi 
+https://stream.zeno.fm/y9y2bhvzs4zuv

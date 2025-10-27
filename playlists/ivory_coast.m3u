@@ -1,12 +1,26 @@
 #EXTM3U
+#EXTINF:-1,TRACE FM Côte d'Ivoire
+https://stream.trace.tv/trace_fm_ci-midfi.aac
+#EXTINF:-1,Sadio FM
+https://stream.zeno.fm/6peu618by5quv
+#EXTINF:-1,Radio Zouk Love
+https://music.wixstatic.com/mp3/5aa9c0_c3c4d419641549ecb2182eaa13f6fcb2.mp3
+#EXTINF:-1,Hip-hop Radio Côte d'Ivoire
+https://manager8.streamradio.fr:2895/stream
+#EXTINF:-1,Radio Augusta International
+https://ecmanager4.pro-fhi.net:2660/stream/1/
+#EXTINF:-1,ADORATION MATINALE 
+https://www.radioking.com/play/adoration-matinale
+#EXTINF:-1,Radio Albayane 
+https://stream.zeno.fm/seb77kna90duv
+#EXTINF:-1,Radio Jam 
+https://listen.radioking.com/radio/61201/stream/98566
+#EXTINF:-1,Radio Espoir 
+https://eu2-centova.serverse.com/proxy/radioespoir?mp=/stream
 #EXTINF:-1,Skyrock Abidjan
 https://icecast.skyrock.net/s/abidjan_aac_64k
-#EXTINF:-1,Radio Jam
-https://listen.radioking.com/radio/61201/stream/98566
 #EXTINF:-1,Radio La Voix De La Diaspora
 https://listen.radioking.com/radio/9892/stream/62227
-#EXTINF:-1,Radio Augusta International
-http://ecmanager4.pro-fhi.net:2660/
 #EXTINF:-1,Radio Paix Sanwi
 http://dc1.serverse.com:7234/stream
 #EXTINF:-1,Radio Nationale Catholique
@@ -15,8 +29,6 @@ http://84.16.232.202:7139/stream
 http://dreamsiteradiocp.com:8112/stream/
 #EXTINF:-1,Radio Zouglou
 http://streamingp.shoutcast.com/JamendoLounge?lang=*
-#EXTINF:-1,Radio Zouk Love
-https://music.wixstatic.com/mp3/5aa9c0_c3c4d419641549ecb2182eaa13f6fcb2.mp3
 #EXTINF:-1,Alphaetomega
 http://161.97.160.18:8000/alphaetomega
 #EXTINF:-1,Radio Maria

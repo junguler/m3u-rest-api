@@ -247,3 +247,5 @@ http://lnwradio.hostsevenplus.com:9564/
 http://103.246.19.203:8004/stream?type=http\u0026nocache=145
 #EXTINF:-1,วัดพุทธาวาส ภูสิงห์
 http://radio1.serverradio.net:8060/stream/1/
+#EXTINF:-1,Great 93
+https://a.hostpleng.cloud/8000/stream/1/

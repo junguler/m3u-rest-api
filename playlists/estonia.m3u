@@ -313,3 +313,13 @@ https://edge03.cdn.bitflip.ee:8888/NRJdnb
 http://le01.euddn.net/baaf8854b22816d516f570f953421a39746f4a9013dc68cc2ff2c0032abf713a17144eccaefbbf2fa46cba09e6c228fa046bdb93c5ce8f4aaacd60142902e7fb7d2b616c88a6d655c0a109548089ac7cad60b5dd2fb0f4436b5dbc78e6ce10fdc2e7b63ef2ed679dc26451cf1a8f9c64c4f3ee4f056fba3a0ada3bf95ee86eccbfc3adf3796bf2900326b1744a901731444b354fcc0f9607a779cc8ba6a8e450c7c710e051b68c40b6204794b660154d/myhits.aac
 #EXTINF:-1,NRJ Tallinn
 https://edge03.cdn.bitflip.ee:8888/NRJ
+#EXTINF:-1,HappyU
+https://radio.streemlion.com:2525/stream
+#EXTINF:-1,D-FM
+https://le08.euddn.net/9e66fa7c09ac134a900eeabfb85702a059d3e6a13a958993bf09693079a363569f44b6838fa3a7eeaa6ff9a53ae24493457c078c3a932d5fd2a7001c8518b7a332320cf0d5c80218f2a0128feb18bcf31a1617f49f47af8effe6fdd7a48b3e56d5dce41b564cad8fac459b6ae1e0f4b57fbc5dfbe3d0ecbf46967d538b045101b48c1f4bab5db018097fc7579e51d9403e40240b33cac56675979aabf8e1f6fe/dfm.aac
+#EXTINF:-1,Raadio Kuku 
+https://router.euddn.net/8103046e16b71d15d692b57c187875c7/kuku.mp3
+#EXTINF:-1,Raadio Elmar 
+https://router.euddn.net/8103046e16b71d15d692b57c187875c7/elmar.aac
+#EXTINF:-1,Power Hit Radio 
+https://ice.leviracloud.eu/phr96-aac

@@ -3,3 +3,7 @@
 http://streamer.radio.co/s6832865c1/listen
 #EXTINF:-1,broradio
 https://streaming.broadcastradio.com:8422/brorad?=\u0026\u0026___cb=380218828489260
+#EXTINF:-1,BBC Radio Wales 
+https://stream.live.vc.bbcmedia.co.uk/bbc_radio_wales_fm
+#EXTINF:-1,BBC Radio Cymru 
+https://stream.live.vc.bbcmedia.co.uk/bbc_radio_cymru

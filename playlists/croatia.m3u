@@ -1155,3 +1155,15 @@ http://c5.hostingcentar.com:8348/stream
 https://27743.live.streamtheworld.com/SLJEMEAAC_SC
 #EXTINF:-1,Obiteljski Radio Chanell uživo
 https://s69.radiolize.com/radio/8020/radio.mp3
+#EXTINF:-1,Radio Roža
+https://stream.radio-roza.org/live.mp3
+#EXTINF:-1,Radio Techno Zagreb
+https://mercury.reliastream.com/proxy/radiotec?mp=/stream
+#EXTINF:-1,Radio Ritam
+https://test1.secure.com.hr:8585/
+#EXTINF:-1,Radio 105
+https://stream.laut.fm/101fm?ref=radiode
+#EXTINF:-1,Otvoreni Radio
+https://stream.otvoreni.hr:443/stream48
+#EXTINF:-1,Radio-Kaj 
+https://stream.rcast.live/66509

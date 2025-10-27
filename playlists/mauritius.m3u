@@ -79,3 +79,7 @@ http://mu1stream.mushost.com:8080/stream
 https://mbcradio.tv/sites/all/themes/mbcradiotv/radiostreams/musicfm.m3u8
 #EXTINF:-1,MBC – Taal FM
 https://mbcradio.tv/sites/all/themes/mbcradiotv/radiostreams/taalfm.m3u8
+#EXTINF:-1,Wazaa FM
+https://wazaafm.ice.infomaniak.ch/wazaafm-192.mp3
+#EXTINF:-1,Radio Moris Live 
+https://cc.radiomoris.com:9443/stream

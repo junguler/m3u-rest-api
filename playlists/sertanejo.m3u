@@ -1111,3 +1111,23 @@ http://server3.webradios.com.br:9426/
 http://sv10.hdradios.net:6898/
 #EXTINF:-1,Web Rádio Nova Brasil JF
 http://hts01.kshost.com.br:8356/
+#EXTINF:-1,Mundial Fm
+https://stream.ouveai.com.br/proxy/dimas?mp=/stream
+#EXTINF:-1,Rádio Buteco Sertanejo
+https://stream.zeno.fm/6kumndewqbruv
+#EXTINF:-1,Rádio Geração Sertanejo Universitário
+https://servidor.geracaoradios.com/radio/8020/stream
+#EXTINF:-1,Rádio Cabrito
+https://sc.radiocabrito.com:10997/stream/1/
+#EXTINF:-1,Hunter.FM - Sertanejo
+https://live.hunter.fm/country
+#EXTINF:-1,Ritmo Romántica 93.1 FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/CRP_RITAAC.aac
+#EXTINF:-1,Rádio FM Dom Bosco 96.1 FM
+https://stream.zeno.fm/wb1ptm05dkhvv
+#EXTINF:-1,Rádio Band FM 99.7
+https://cast3.hoost.com.br:20116/stream
+#EXTINF:-1,Rádio Positiva 98.9 FM
+https://casthttps1.suaradionanet.net/13523/stream
+#EXTINF:-1,Radio Onda Livre 105.3 FM
+https://centova.svdns.com.br:20016/stream

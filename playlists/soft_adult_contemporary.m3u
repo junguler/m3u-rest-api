@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1,Dimensione Suono Soft
 https://stream.dimensionesuonosoft.radio/audio/dssc.stream_aac/playlist.m3u8
-#EXTINF:-1,Radio Company Easy
-https://sphera.fluidstream.eu/ceasy.aac?FLID=8&aw_0_req.gdpr=true&type=.aac
 #EXTINF:-1,Radiostorm - At Work 104
 http://ais-edge90-dal03.cdnstream.com/b30572_128mp3
 #EXTINF:-1,Lolli Radio Soft
@@ -15,6 +13,8 @@ http://bigrradio.cdnstream1.com/5170_128?listenerid=43889c39c8ecf4f87725056b0d73
 http://s3.mediastreaming.it:7568/;
 #EXTINF:-1,Big R Radio - The Love Channel
 http://bigrradio.cdnstream1.com/5207_128
+#EXTINF:-1,Radio Company Easy
+https://sphera.fluidstream.eu/ceasy.aac?FLID=8&aw_0_req.gdpr=true&type=.aac
 #EXTINF:-1,SUNNY 99.1
 https://stream.revma.ihrhls.com/zc2273
 #EXTINF:-1,590/92.3 KSSK

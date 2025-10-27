@@ -131,3 +131,5 @@ http://37.59.40.90:12782/stream.mp3
 https://mynews.az/
 #EXTINF:-1,Anti Radio – Baku – AZ-BA
 http://stream.antiradio.net/radio/8000/mp3
+#EXTINF:-1,Radio Tune Azerbaijan
+https://tune.az:8015/stream

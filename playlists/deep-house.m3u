@@ -27,3 +27,7 @@ https://s2.radio.co/s098f4886e/listen
 https://stream.wolfmusicradio.com:8000/Wolf_Music/radio.mp3
 #EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/43091.png",Platinum Radio London
 https://s4.radio.co/sb82ac17db/listen
+#EXTINF:-1,ElectraFM
+https://stream.zeno.fm/m0q1qr6b3v8uv
+#EXTINF:-1,IAAH Radio
+https://usa16.fastcast4u.com/proxy/dj5am?mp=/1

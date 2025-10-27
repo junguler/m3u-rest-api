@@ -251,3 +251,11 @@ http://rtlberlin.streamabc.net/rtlb-rtldeukw-mp3-128-2318218?sABC=68oo0nr9%230%2
 http://100komma7.stream38.radiohost.de/100komma7-100komma7_mp3-128?addradio&agend=true&upd-meta&upd-scheme=http&_art=dD0xNzU4MjU3ODg2JmQ9NmRmNzlmMmRlYjEwOTY1MjUxZTU
 #EXTINF:-1,Generation Dance Radio
 https://uk1.listen2myradio.com:2199/listen.php?port=8312\u0026type=s2\u0026mount=/stream
+#EXTINF:-1,L'essentiel Radio 
+https://www.radioking.com/play/rfm-luxembourg/137599
+#EXTINF:-1,ASBL Crazy Poisons Radio International
+https://server4.streamserver24.com:8080/proxy/crazypoi?mp=/stream
+#EXTINF:-1,radio 100,7 
+https://stream.100komma7.lu/100komma7/live/mp3/128/stream.mp3
+#EXTINF:-1,Radio ARA 
+https://stream.ara.lu/stream.mp3

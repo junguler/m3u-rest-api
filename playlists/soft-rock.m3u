@@ -36,3 +36,5 @@ https://s10.streamingcloud.online:13192/stream
 #EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/43223.png",Ocean Radio Cornwall
 #EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/98096341.jpg",Alternatif radio
 https://void.idserverhost.com:8016/stream
+#EXTINF:-1,WBMW - Soft Rock 106.5 FM
+https://crystalout.surfernetwork.com:8001/WBMW_MP3

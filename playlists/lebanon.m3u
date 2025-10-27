@@ -253,3 +253,13 @@ http://audiostreaming.itworkscdn.com:9036/
 http://audiostreaming.itworkscdn.com:9018/
 #EXTINF:-1,Sawt El Shaab 103.7 FM
 http://audiostreaming.itworkscdn.com:9018/stream/
+#EXTINF:-1,Radio Flash Lebanon
+https://live.orientstream.com/proxy/radioflash/stream
+#EXTINF:-1,TLIG Radio Arabic
+https://stream.galaxywebsolutions.com/proxy/tligradio_en?mp=/stream
+#EXTINF:-1,Radio Sawt El Noujoum
+https://s25.myradiostream.com/15298/listen.mp3
+#EXTINF:-1,Radio Sawa Lebanon
+https://n06.radiojar.com/1w27tnzst5quv
+#EXTINF:-1,Virgin Radio Lebanon
+https://stream.zeno.fm/dwxw3p9vea0uv

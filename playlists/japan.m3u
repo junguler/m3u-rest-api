@@ -821,3 +821,23 @@ https://mtist.as.smartstream.ne.jp/30019/livestream/playlist.m3u8
 https://mtist.as.smartstream.ne.jp/30052/livestream/playlist.m3u8
 #EXTINF:-1,BBN Japanese 配信中
 https://audio-edge-ey5nr.ams.s.radiomast.io/a622d414-52a6-4426-b3b8-ed2a4dbb704b
+#EXTINF:-1,Tactacめ
+https://node-14.zeno.fm/692dbdr067zuv
+#EXTINF:-1,J-Club Bandstand Radio
+https://daniel.torontocast.com:2630/stream/1/
+#EXTINF:-1,J-Pop Sakura Natsukashii
+https://igor.torontocast.com:1710/stream/1/
+#EXTINF:-1,Rainwave Chiptunes
+https://relay.rainwave.cc:443/chiptune.mp3
+#EXTINF:-1,Asia DREAM Radio - Japan
+https://igor.torontocast.com:1025/stream/1/
+#EXTINF:-1,Japanim Radio - Osaka
+https://japanimradio.radioca.st/stream
+#EXTINF:-1,FM Izumi
+https://www.fm797.co.jp/mf/bcs_na.mp3
+#EXTINF:-1,Hitsujikai Radio 
+https://streaming.radio.co/se4a8e6a93/listen
+#EXTINF:-1,Big B Radio #Jpop Station 
+https://antares.dribbcast.com/proxy/jpop?mp=/s
+#EXTINF:-1,HappyHardcore 
+https://u1.happyhardcore.com

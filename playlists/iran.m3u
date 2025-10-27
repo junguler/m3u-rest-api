@@ -189,3 +189,7 @@ http://iranianradio.com/radio/iranianradio-eshgheiran128.php?file=pls
 http://headend2.iranseda.ir/liveHLS/radio-salamat.m3u8
 #EXTINF:-1,Radio Mojdeh
 http://ic2317.c1261.fast-serv.com:80/rm64
+#EXTINF:-1,Rodio Noheh
+https://stream.rodio.ir/radio/8010/radio.mp3
+#EXTINF:-1,Rodio
+https://stream.rodio.ir/radio/8000/radio.mp3
