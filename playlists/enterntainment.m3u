@@ -2529,8 +2529,6 @@ https://34398c.ha.azioncdn.net/primaryhttp:/adiorasp.sdp/playlist.m3u8
 http://hemnos.cdnstream.com/1667_32?cb=950871.mp3
 #EXTINF:-1,Radio Free Brooklyn
 http://patmos.cdnstream.com:9300/live
-#EXTINF:-1,Radio Monte Carlo Doualiya
-https:/http:/adiolatina.live/9374/stream
 #EXTINF:-1,4BC Radio
 https://www.4bc.com.au/
 #EXTINF:-1,Radio Cañón 760 AM
@@ -2547,8 +2545,6 @@ https://cast.zuperdns.net/8020/stream/;stream.mp3
 http://live.serambifm.com:8902/;
 #EXTINF:-1,Pulsar
 https://streamingcwsradio30.com:7021/stream
-#EXTINF:-1,Radio Kriti
-https:/http:/adio.lotustechnologieslk.net:2020/stream/shaafmgarden
 #EXTINF:-1,Clásica FM Radio
 https://clasica-fm.mixlr.com/
 #EXTINF:-1,ZIZ Radio
@@ -2577,8 +2573,6 @@ http://162.244.80.245:8012/stream
 https://live.romanfm.ro:8000/;rfm
 #EXTINF:-1,Barca Fm Rádio
 http://centova.radios.pt:8483/;
-#EXTINF:-1,Radio Sensación
-http:/http:/s3.radiostreamer.com:8400/;stream.nsv&type=mp3/;
 #EXTINF:-1,Songgolangit FM  99.2
 http://45.32.103.238:8092/stream
 #EXTINF:-1,Радио Fresh!
@@ -2675,8 +2669,6 @@ http://suaradio2.dyndns.ws:10733/stream
 https://ice23.securenetsystems.net/TSDC
 #EXTINF:-1,WFUV 90.7 FM -The Alternate Side
 https://onair.wfuv.org/onair-hi
-#EXTINF:-1,WSHU News &amp; Talk
-http:/http:/adio45.virtualtronics.com:8147/stream
 #EXTINF:-1,Radio Amiga
 http://198.74.51.37:9970/;audio.mp3
 #EXTINF:-1,Radio Fan
@@ -2705,8 +2697,6 @@ https://ssl.painelcast.com:28860/;stream.nsv
 http://137.74.160.250:8000/;stream/1
 #EXTINF:-1,AllgaeuHIT
 http://allgaeu.stream09.radiohost.de/allgaeuhit_mp3-192?upd-meta=0&upd-scheme=http&_art=dD0xNzU2OTY3MTI0JmQ9NjU2NmM2N2Q4M2NlZDQ4ZWQzODI
-#EXTINF:-1,Radio Baha&#039;i 90.9 FM - WLGI
-https:/http:/adio.host.com.py/8058/stream
 #EXTINF:-1,Bridge fm Hungary
 https://s3.free-shoutcast.com/stream/18054
 #EXTINF:-1,Sunny&#039;s Music Show
@@ -2797,8 +2787,6 @@ https://sonic.globalstreaming.net/8022/stream;
 https://kala.streamguys1.com/live1
 #EXTINF:-1,Puls FM Borås
 http://stream.pulsfm.se:8908/stream/1/
-#EXTINF:-1,92 WICB
-https:/http:/adios.justweb.pt/8008/stream
 #EXTINF:-1,Radio Voz do Sorraia
 http://centova.radios.pt:8511/stream/;
 #EXTINF:-1,WPG Talk Radio 1450
@@ -2821,8 +2809,6 @@ https://sonic.mistreamingtv.uno/8016/stream
 http://streaming01.shockmedia.com.ar:8114/;
 #EXTINF:-1,Sugar Water Radio
 https://us2new.listen2myradio.com:2199/listen.php?port=8431&type=s2&mount=/stream
-#EXTINF:-1,Eclipse
-http:/http:/adiofm89.dnip.com.br:6060/;
 #EXTINF:-1,Galileo
 http://server.laradio.online:9042/;
 #EXTINF:-1,WGNU 920 AM
@@ -2999,8 +2985,6 @@ https://bixx.stream.laut.fm/bixx
 http://54.39.106.215:7918/stream
 #EXTINF:-1,Sacred Heart Radio
 https://ice10.securenetsystems.net/WNOP2
-#EXTINF:-1,Rádio Comunitária &quot;A Voz do Povo&quot; FM
-https:/http:/adio01.ferozo.com/proxyhttp:/a01000872?mp=/stream
 #EXTINF:-1,Oasis Radio
 http://72.14.181.64:8020/live.mp3
 #EXTINF:-1,NoFate

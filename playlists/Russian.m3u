@@ -233,7 +233,6 @@ https://italo-disco.stream.laut.fm/italo-disco
 https://maximum.hostingradio.ru/maximum96.aacp
 #EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/119380411.png",Radio Record Liquid Funk
 https://radiorecord.hostingradio.ru/liquidfunk96.aacp
-#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/70517815.png",Radio Stranstvy
 #EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/120780903.png",Radio Record House Classics
 https://radiorecord.hostingradio.ru/houseclss96.aacp
 #EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/29211787.png",90s Eurodance
@@ -426,7 +425,6 @@ https://listen7.myradio24.com/rockataka
 https://rusdriveradio.ru:8000/live_aac64
 #EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/47025814.png",POPFM Birobidzhan
 https://stream.popfm-bir.ru:1045/stream
-#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/72966431.jpg",Radio Volna FM Volgograd
 #EXTINF:-1,Alise Plus
 http://fm2inet.aliseplus.lv:8080/
 #EXTINF:-1,AutoLife Radio Azerbaijan
@@ -773,8 +771,6 @@ http://live.nts-tv.ru:8000/AvtoRadioV
 http://live.nts-tv.ru:8000/AvtoRadioVO
 #EXTINF:-1,Радио Шансон Область
 http://live.nts-tv.ru:8000/ShansonVO
-#EXTINF:-1,Европа Плюс
-https:/http:/elay1.radiotoolkit.com/spdeep
 #EXTINF:-1,Радио NRJ ENERGY
 https://pub0102.101.ru:8443/stream/air/mp3/256/99
 #EXTINF:-1,Авторадио
@@ -793,8 +789,6 @@ https://pub0301.101.ru:8443/stream/air/mp3/256/200
 https://www.radiodacha.ru/player.htm
 #EXTINF:-1,Радио Комсомольская Правда
 https://kpradio.hostingradio.ru:8000/128
-#EXTINF:-1,Радио Maximum
-https:/http:/r-russkijrok.hostingradio.ruhttp:/usskijrok96.aacp
 #EXTINF:-1,Like FM
 https://pub0301.101.ru:8443/stream/air/mp3/256/219
 #EXTINF:-1,Соловьёв FM Live
@@ -831,8 +825,6 @@ https://stream.studio21.ru/studio2196.aacp
 https://stream1.radiord.ru:8000/live128.mp3
 #EXTINF:-1,Relax FM - Jazz
 https://pub0101.101.ru/stream/trust/mp3/128/264
-#EXTINF:-1,ТНТ Music Radio
-https:/http:/adiorecord.hostingradio.ru/mix96.aacp
 #EXTINF:-1,Радио Монте-Карло - Музыка без слов
 https://montecarlo.hostingradio.ru/muzykabezslov96.aacp
 #EXTINF:-1,Радио Эрмитаж
@@ -909,8 +901,6 @@ https://pub0202.101.ru:8443/stream/trust/mp3/128/24
 https://pub0202.101.ru:8443/stream/pro/aac/64/103?
 #EXTINF:-1,Радио JAZZ - Jazz Legends
 https://jfm1.hostingradio.ru:14536/jlstream.mp3
-#EXTINF:-1,Rock FM Heavy
-https:/http:/ufm.amgradio.ruhttp:/ufm
 #EXTINF:-1,Радио JAZZ - Classic Jazz
 https://jfm1.hostingradio.ru:14536/ijstream.mp3
 #EXTINF:-1,Европа Плюс - Light
@@ -927,8 +917,6 @@ https://pub0302.101.ru:8000/stream/trust/mp3/128/265?
 https://listen6.myradio24.com/serega1975
 #EXTINF:-1,Классика Жанра - Юмор FM
 https://pub0202.101.ru:8443/stream/pro/aac/64/21?
-#EXTINF:-1,Trance Is Star Radio
-https:/http:/adiorecord.hostingradio.ru/mini96.aacp
 #EXTINF:-1,Радио Монте-Карло - Песни о любви
 https://montecarlo.hostingradio.ru/pesniolyubvi96.aacp
 #EXTINF:-1,DFM Vocal Trance
@@ -975,8 +963,6 @@ https://epdop.hostingradio.ru:8033/epparty128.mp3
 https://dfm-gangstadeep.hostingradio.ru/gangstadeep96.aacp
 #EXTINF:-1,101.ru - Instrumental
 https://pub0202.101.ru:8443/stream/pro/aac/64/28
-#EXTINF:-1,Радио Maximum - Metallica
-https:/http:/adiorecord.hostingradio.ru/elect96.aacp
 #EXTINF:-1,Радио Монте-Карло - Nights
 https://montecarlo.hostingradio.ru/mcnight96.aacp
 #EXTINF:-1,NRJ Progressive House
@@ -1005,16 +991,12 @@ https://dfm-kalianrap.hostingradio.ru/kalianrap96.aacp
 https://quincy.torontocast.com:2985/stream
 #EXTINF:-1,Восток FM
 https://vostok.fm/player.htm
-#EXTINF:-1,Радио Maximum - Depeche Mode
-https:/http:/adiorecord.hostingradio.ru/teo96.aacp
 #EXTINF:-1,Радио Монте-Карло - France
 https://montecarlo.hostingradio.ru/france96.aacp
 #EXTINF:-1,Радио Старое Доброе
 http://91.189.162.134:8008/stream.aac
 #EXTINF:-1,Европа Плюс - Urban
 https://epdop.hostingradio.ru:8033/ep-urban128.mp3
-#EXTINF:-1,Радио Странствий
-https:/http:/adiorecord.hostingradio.ru/eurodance96.aacp
 #EXTINF:-1,101.ru - Electro
 https://pub0202.101.ru:8443/stream/trust/mp3/128/7
 #EXTINF:-1,NRJ House
@@ -1751,8 +1733,6 @@ https://listen7.myradio24.com/58828
 https://bss1.neterra.tv/veselina/veselina.m3u8
 #EXTINF:-1,Лира FM
 https://listen4.myradio24.com/23737
-#EXTINF:-1,SHARK Radio
-https:/http:/adio-stream-1.obozrevatel.com/eurovision2010128.mp3
 #EXTINF:-1,Sun FM - Плюс
 https://ec5.yesstreaming.net:3520/stream
 #EXTINF:-1,Радио Прикамье
@@ -1957,8 +1937,6 @@ http://ic6.101.ru:8000/stream/trust/mp3/128/20
 https://listen4.myradio24.com/39982
 #EXTINF:-1,101.ru - Авторская Песня
 http://ic6.101.ru:8000/stream/pro/aac/64/35
-#EXTINF:-1,Спокойное радио
-https:/http:/adio.promodj.com/fullmoon
 #EXTINF:-1,VIBEdaPLANET
 http://fusion.shoutca.st:8345/stream
 #EXTINF:-1,Royal Drum
@@ -4877,3 +4855,235 @@ https://pub0302.101.ru:8443/stream/pro/aac/128/85
 https://stream.hoster.by/rusradio/russkoe/icecast.audio
 #EXTINF:-1,Russian! Radio 
 https://s35.derstream.net/stream
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/03/c630.png",Неслучайное Радио - Nesluchaynoye Radio
+https://aska.ru-hoster.com:8006/stream
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads//uploads/2023",1 Pvkedm
+https://1pvkedm.stream.laut.fm/1pvkedm?ref=radiode&t302=2025-11-07_16-20-31&uuid=889d7a4a-774f-4095-9447-431dea92dc64
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/03/c630.png",MOTORADIO
+https://stream.motoradio.online/std-aac
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/03/c300.png",EuropaRussia
+http://europarussia.ru:8006/stream/1/
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/03/c630.png",ehr Remixes RU
+http://stream.ehrhiti.lv:8000/Stream_35.aac
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/03/c630.png",ehr Tik Tok Hits
+http://stream.ehrhiti.lv:8000/Stream_38.aac
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/03/c630.png",ehr Love Songs
+http://stream.ehrhiti.lv:8000/Stream_28.aac
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/03/c630.png",ehr Latviešu Hiti
+http://stream.ehrhiti.lv:8000/Stream_22.aac
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/03/c630.png",ehr Fitness
+http://stream.ehrhiti.lv:8000/Stream_14.aac
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/03/c630.png",ehr Party Service
+http://stream.ehrhiti.lv:8000/Stream_12.aac
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/03/c630.png",ehr Top 40
+http://stream.ehrhiti.lv:8000/Stream_27.aac
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/03/c630.png",ehr Pie Stūres
+http://stream.ehrhiti.lv:8000/Stream_62.aac
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/03/c630.png",ehr Rītam
+http://stream.ehrhiti.lv:8000/Stream_36.aac
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/03/c630.png",ehr Super Hits
+http://stream.ehrhiti.lv:8000/Stream_21.aac
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/03/c630.png",ehr Eurochart
+http://stream.ehrhiti.lv:8000/Stream_31.aac
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/03/c630.png",ehr Urban
+http://stream.ehrhiti.lv:8000/Stream_11.aac
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/03/c630.png",ehr Dance
+http://stream.ehrhiti.lv:8000/Stream_24.aac
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/03/c630.png",ehr Darbam
+http://stream.ehrhiti.lv:8000/Stream_23.aac
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/03/c630.png",ehr Fresh
+http://stream.ehrhiti.lv:8000/Stream_25.aac
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/03/c630.png",ehr Alternative
+http://stream.ehrhiti.lv:8000/Stream_37.aac
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/03/c630.png",ehr fm
+http://stream.ehrhiti.lv:8000/ehr.aac
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/03/c630.png",ehr Top 40 RU
+http://stream.ehrhiti.lv:8000/Stream_33.aac
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/03/c630.png",ehr Remixes
+http://stream.ehrhiti.lv:8000/Stream_32.aac
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/03/c300.png",101.ru: Blues
+https://pub0301.101.ru:8443/stream/pro/aac/64/76
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/03/c300.png",Glamurnaya volna
+https://glamwave.stream.laut.fm/glamwave?ref=radiode&t302=2025-11-07_16-20-42&uuid=8ab2da05-885f-4c2c-8507-810f450371d1
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/03/c300.png",101.ru: Country
+https://pub0301.101.ru:8443/stream/pro/aac/64/78
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/03/c300.png",Radio Vanya Hits Радио Ваня Свежий бит
+https://icecast-radiovanya.cdnvideo.ru/rv_hit
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/03/c300.png",Capital FM 105.3
+http://icecast.vgtrk.cdnvideo.ru/capitalfmmp3
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/03/c300.png",101.ru: Instrumental
+https://pub0301.101.ru:8443/stream/pro/aac/64/28
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/03/c300.png",UFM - Radio Unost
+https://icecast-vgtrk.cdnvideo.ru/unost_mp3_128kbps
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/03/c300.png",101.ru: Easy Listening
+https://pub0301.101.ru:8443/stream/pro/aac/64/26
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/03/c300.png",101.ru: Cinema Music
+https://pub0302.101.ru:8443/stream/pro/aac/64/25
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/03/c300.png",Love Radio Moskau - Alternative
+http://stream2.loveradio.ru/10_alternative_24?
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/03/c300.png",101.ru: Opera
+https://pub0301.101.ru:8443/stream/pro/aac/64/96
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/03/c630.png",ehr Acoustic
+http://stream.ehrhiti.lv:8000/Stream_26.aac
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/03/c300.png",Radio Vanya Dance Радио Ваня Весёлый Dance
+https://icecast-radiovanya.cdnvideo.ru/rv_Happy_Dance
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/03/c300.png",Love Radio Moskau - Top 40
+http://stream2.loveradio.ru/9_top40_24?
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/03/c300.png",Radio Dacha
+http://stream.radiodacha.ru/14_dacha_28?type=.aac&ampUID=24E1C2AE2FA20F64A0287B489993ACB8
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/03/c630.png",101.ru Soulful House
+https://pub0101.101.ru/stream/trust/mp3/128/184
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/03/c300.png",Love Radio Moskau
+http://stream2.loveradio.ru/12_love_24?
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/03/c300.png",RadioGora.Ru ATD
+https://listen.radiogora.ru:8443/atd320
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/03/c300.png",RadioGora.Ru Drive
+https://listen.radiogora.ru:8443/drive128
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/03/c300.png",RadioGora.Ru Groove Café
+https://listen.radiogora.ru:8443/groovecafe320
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/03/c300.png",RadioGora.Ru Et Cetera
+https://listen.radiogora.ru:8443/etc320
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/03/c300.png",Musical Decadence Radio
+https://musicaldecadence.ru/play.m3u
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/03/c300.png",Energiya Zhizni - The Energy of Life
+https://listen.radio.kaluga.su/enr128?t=1705072916441
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/03/c300.png",Hit FM 90s - ХИТ FM 90-е
+https://hitfm-hit1990.hostingradio.ru/hit199096.aacp
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/03/c300.png",Radio Vanya Retro Радио Ваня Олдскул
+https://icecast-radiovanya.cdnvideo.ru/rv_retro
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/03/c630.png",PIRAT.FM
+https://c22.radioboss.fm:8416/piratfm
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/03/c300.png",RADIO KONTUR Радио Контур
+http://misato.ru-hoster.com:8029/stream
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/03/c300.png",Detskoe Radio
+https://srv21.gpmradio.ru:8443/stream/air/aac/64/199
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/03/c300.png",Love Radio Moskau - Chill
+https://stream2.n340.com/12_love_64_reg_44?type=aac&ampUID=24E1C2AE2FA20F64A0287B489993ACB8
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/03/c300.png",Radio Vanya SPB Радио Ваня СПБ
+https://icecast-radiovanya.cdnvideo.ru/rv_spb
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/03/c300.png",Radio Air TOUCH
+http://c8.radioboss.fm:8133/radioairtouch
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/03/c300.png",Radio Vanya 90s Радио Ваня Не лихие 90-е
+https://icecast-radiovanya.cdnvideo.ru/rv_90
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/03/c300.png",Caryapadas Space Radio
+https://c22.radioboss.fm:18118/1RADIO.SPACE
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/03/c630.png",Radio Record Organic
+https://radiorecord.hostingradio.ru/organic96.aacp
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/03/c300.png",Love Radio Moskau - R'n'B
+http://stream2.loveradio.ru/6_rnb_24?
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/03/c300.png",101.ru: Russian Folk
+https://pub0301.101.ru:8443/stream/pro/aac/64/40
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/03/c300.png",101.ru: Russia 90's
+https://pub0301.101.ru:8443/stream/pro/aac/64/33
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/03/c300.png",RADIO MARIA RUSSIA - Радио Мария
+http://dreamsiteradiocp.com:8100/
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/03/c300.png",101.ru: Alexander Rosenbaum Александр Розенбаум
+https://pub0301.101.ru:8443/stream/pro/aac/64/153
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/03/c300.png",101.ru: Rock Remakes
+https://pub0301.101.ru:8443/stream/pro/aac/64/71
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/03/c300.png",101.ru: Reggae
+https://pub0301.101.ru:8443/stream/pro/aac/64/97
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/03/c300.png",101.ru: Mainstream
+https://pub0301.101.ru:8443/stream/pro/aac/64/87
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/03/c300.png",101.ru: Choi und KINO Виктор Цой и группа «КИНО»
+https://pub0301.101.ru:8443/stream/pro/aac/64/103
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/03/c300.png",101.ru: Italia
+https://pub0301.101.ru:8443/stream/pro/aac/64/65
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/03/c300.png",101.ru: Cats & Dogs
+https://pub0301.101.ru:8443/stream/pro/aac/64/281
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/03/c300.png",101.ru: Boney M.
+https://pub0301.101.ru:8443/stream/pro/aac/64/114
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/03/c300.png",101.ru: Alisa АЛИСА
+https://pub0301.101.ru:8443/stream/pro/aac/64/137
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/03/c300.png",101.ru: Rock
+https://pub0302.101.ru:8000/stream/pro/aac/64/69
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/03/c300.png",101.ru: La costa latina
+https://pub0302.101.ru:8000/stream/pro/aac/64/259
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/03/c300.png",101.ru: Genre Classic
+https://pub0202.101.ru:8443/stream/pro/aac/64/21
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/03/c300.png",101.ru: Chillout
+https://pub0302.101.ru:8000/stream/trust/mp3/128/24
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/03/c300.png",Costa Rican Russian Radio
+http://192.95.18.39:5248/stream
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/03/c300.png",Radio Zenit
+http://5.189.168.133:8020/stream/1/
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/03/c630.png",Raplive
+https://raplive.stream.laut.fm/raplive?ref=radiode&t302=2025-11-07_16-21-05&uuid=0b2a55f1-0456-455f-ac56-3bb3390212da
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/03/c300.png",Sky Radio EE
+http://s1.skyradio.com.mk:8002/?1461419091351.mp3
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/03/c630.png",Ico Style Radio
+http://stream.stylefmtasik.com:9460/stream
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/03/c300.png",101.ru Russia Top 50
+https://pub0301.101.ru:8443/stream/pro/aac/64/34
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/03/c300.png",101.ru: Elvis Presley
+https://pub0202.101.ru:8443/stream/pro/aac/64/111
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/03/c300.png",101.ru: The Rolling Stones
+https://pub0301.101.ru:8443/stream/pro/aac/64/117
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/03/c300.png",Russkoe Radio
+https://edge03.cdn.bitflip.ee:8888/RR
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/103168/logo_oYjcnT1vmp.png",Радио Блатняк - 101.ru
+https://srv02.gpmradio.ru:8443/stream/personal/aacp/64/675938
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/103014/logo_RUVtJI95tD.png",СССР 50-70 - 101.RU Radio
+https://pub0202.101.ru:8443/stream/pro/aac/64/47
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/103118/logo_1a2UwJGNJB.png",Зайцев FM Шансон Radio
+https://abs.zaycev.fm/shanson256k
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/360/logo_qS4DPE5Sfd.png",Золотой Граммофон - Русское Радио
+https://rr-zolotoigrammofon.hostingradio.ru/zolotoigrammofon96.aacp
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/53947/logo_aasinsPSBH.png",Рекорд Нулевых - Радио Рекорд
+https://radiorecord.hostingradio.ru/200096.aacp
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/374/logo_M8CqTUnM8v.png",Лихие Девяностые - Русское Радио
+https://rr-90.hostingradio.ru/rr9096.aacp
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/364/logo_b0kbH9rdTR.png",Бессмертный Полк - Русское Радио
+https://rr-bessmertnyipolk.hostingradio.ru/bessmertnyipolk96.aacp
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/103117/logo_pqemm4ERuH.png",Зайцев FM Rus Radio
+https://abs.zaycev.fm/rus256k
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/48281/logo_z11bpU0YWh.png",Новое Радио
+https://stream.newradio.md/hls/stream.m3u8?nocache=1762696725859
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/53934/logo_xkSu8kMosJ.png",Руки Вверх! - Радио Рекорд
+https://radiorecord.hostingradio.ru/rv96.aacp
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/371/logo_IEwMxJgPtz.png",Русские Каверы - Русское Радио
+https://rr-covers.hostingradio.ru/rrcovers96.aacp
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/263/logo_1vJZbrqJAR.png",Русский Рок - Русское Радио
+https://rr-russkijrok.hostingradio.ru/russkijrok96.aacp
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/103154/logo_KMKR0Bxcst.png",СССР 30-50 - 101.ru Radio
+https://pub0202.101.ru:8443/stream/pro/aac/64/46
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/366/logo_Ocqx7O8oC9.png",Твоя Москва - Русское Радио
+https://rr-moscow.hostingradio.ru/rrmoscow96.aacp
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/372/logo_6LcmbxEWDb.png",Хайповые Двадцатые - Русское Радио
+https://rr-20.hostingradio.ru/rr2096.aacp
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/188/logo_NXbEihQdjd.png",Хит FM Русская Музыка Radio
+https://hitfm-hitrushit.hostingradio.ru/hitrushit96.aacp
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/53956/logo_l2kNW8sGdL.png",На шашлыки - Радио Рекорд
+https://radiorecord.hostingradio.ru/nashashlyki96.aacp
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/103142/logo_fK9cAc1ths.png",Rap - Зайцев.FM Radio
+https://abs.zaycev.fm/rap256k
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/376/logo_akEyTuWQkm.png",Зимнее Любимое - Русское Радио
+https://rr-zimlub.hostingradio.ru/zimlub96.aacp
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/96754/logo_MMQsLCOotW.png",RadioSlot: Special Events 1
+https://17653.live.streamtheworld.com/SP_R2398921_SC
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/375/logo_7klBphwEJe.png",Советская Классика - Русское Радио
+https://rr-sovclass.hostingradio.ru/sovclass96.aacp
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/28709/logo_zzhToKT2IR.png",JAM FM Russkiye Khity Radio
+https://rtlberlin.streamabc.net/rtlb-jamfmlive-mp3-192-2163760?sABC=6935s557%230%239557p15q6p30s523q6onp20q9rnsqqp1%23&aw_0_1st.playerid=&amsparams=playerid:;skey:1765143895
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/103051/logo_LxUcvq7YaY.png",Русский Рэп - 101.RU Radio
+https://pub0202.101.ru:8443/stream/pro/aac/64/43
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/27530/logo_V5yvvx6ld4.png",bigFM bigMuzyka Radio
+https://audiotainment-sw.streamabc.net/atsw-russia-mp3-128-8184454?sABC=6935s558%230%239557p15q6p30s523q6onp20q9rnsqqp1%23&aw_0_1st.playerid=&amsparams=playerid:;skey:1765143896
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/377/logo_bx2cXI8y3U.png",RockFam - Русское Радио
+https://rr-rockfam.hostingradio.ru/rockfam96.aacp
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/103017/logo_b9BEBN7CxG.png",Восток FM Radio
+https://stream.n340.com:8443/18_vostok_28?type=.aac&ampUID=2F915D20B8D43D79F2370549BC804AAA
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/103124/logo_2MmadjiqVW.png",Зайцев FM RnB Radio
+https://abs.zaycev.fm/rnb256k
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/103149/logo_WpyHWiccrH.png",Love - Зайцев.FM Radio
+https://abs.zaycev.fm/love256k
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/103157/logo_TzsfgvIf8U.png",РуРок - Зайцев.FM Radio
+https://abs.zaycev.fm/rurock256k
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/53955/logo_Ko5djHsLIq.png",Русская Зима - Радио Рекорд
+https://radiorecord.hostingradio.ru/ruszima96.aacp
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/373/logo_76CCSM2Uh1.png",Звездатые Десятые - Русское Радио
+https://rr-10.hostingradio.ru/rr1096.aacp
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/102906/180_S6vuICudvO.png",Nyamkin FM Radio
+https://spn.liveradiofree.com/nymkn-96
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/103408/logo_A2uARB8qp3.png",ЗОЛОТАЯ КОЛЛЕКЦИЯ Radio
+https://listen5.myradio24.com/83524

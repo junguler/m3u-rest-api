@@ -293,3 +293,19 @@ http://proxima.shoutca.st:8191/stream/
 http://janus.shoutca.st:8031/MetisRadio/
 #EXTINF:-1,Radio Gameli
 http://192.99.8.192:3190/?1438350571516.mp3
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/96535.v6.png",Zouk Kompa 24 SEVEN
+http://192.211.51.158:8052/
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/99025/logo_0Ob5qYGJcK.png",Tropicalisima.fm - Navidad Radio
+http://tropicalisima.org:8090/
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/87840/logo_xMD2dzRH57.png",Tropixx FM Radio
+https://live2.tensila.com/ch3-a-1.philbro/hls/master.m3u8
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/103083/logo_JAXCSlNvZB.png",Radio Etoile Inter
+https://uk3freenew.listen2myradio.com/live.mp3?typeportmount=s1_3743_stream_886655470
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/87752/logo_wfEkRABjjh.png",Radio Tele Melodi K
+https://streams.radio.co/sbd5d07da5/listen
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/79535/logo_3ZN8I0RXas.png",R.M.V Radio
+http://51.210.148.30:8000/
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/45344/logo_OvLtGHsfqd.png",NRJ Zouk Radio
+https://streaming.nrjaudio.fm/ousryem4z85f
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/KCZE65.png",Tropiques
+https://listen.radioking.com/radio/8916/stream/19088

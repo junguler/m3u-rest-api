@@ -777,18 +777,12 @@ http://djmixes.radioparty.pl:8035/;stream.mp3
 https://minimalmix.radioca.st/media
 #EXTINF:-1,DobraStacja Disco Polo
 https://s3.slotex.pl:7344/stream/1/?sid=1
-#EXTINF:-1,RM80
-https:/http:/s103-krk.rmfstream.pl/GOLD
 #EXTINF:-1,DiscoParty.pl - Disco Polo
 https://s1.slotex.pl:7432/stream/1/?sid=1
 #EXTINF:-1,Radio Chrzescijanin - Dzieci
 http://s1.slotex.pl:7410/;stream.nsv
 #EXTINF:-1,Radio RMF - Baby
 http://217.74.72.11/BABY
-#EXTINF:-1,Radio Chrzescijanin
-https:/http:/s202-krk-cyfronet.rmfstream.pl/DANCE
-#EXTINF:-1,Radio Party Kanał Trance
-https:/http:/s8-krk2-cyfronet.rmfstream.pl/DEPECHEMODE
 #EXTINF:-1,Radio Slask Świecie
 http://s1.slotex.pl:7022/;stream.nsv
 #EXTINF:-1,Radio Chrzescijanin - Biblia
@@ -883,8 +877,6 @@ https://stream85.polskieradio.pl/omniaaxe/k99.stream/playlist.m3u8
 http://play.radioftb.net:8028/stream
 #EXTINF:-1,DiscoStrefaFm DiscoPolo
 https://stream12.hosterion.pl/stream/discopolo
-#EXTINF:-1,Radio Mittendrin
-https:/http:/s9-krk2-cyfronet.rmfstream.pl/TOP5DANCE
 #EXTINF:-1,RadioFlirt.pl
 https://s3.slotex.pl:7684/stream/1/
 #EXTINF:-1,UWM
@@ -2371,3 +2363,57 @@ https://rs6-krk2-cyfronet.rmfstream.pl/RMFFM48
 https://stream2.nadaje.com:11141/rdc
 #EXTINF:-1,Radio Afera 
 https://radio.afera.com.pl/afera128.mp3
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/36751/logo_tdv8qQWily.png",ESKA2 Warszawa Radio
+https://ic1.smcdn.pl/1380-2.aac
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/36609/logo_4DqdtcHhNV.png",ESKA2 Kielce Radio
+https://ic2.smcdn.pl/1050-1.aac
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/36381/logo_A8H994744O.png",Meloradio
+https://hub.radiostream.pl/stream.pls?radio=8800&amptype=none&ampapp=none&ampcoding=mp3&ampredirect=true
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/36589/logo_N7uFUr3jCQ.png",ESKA2 Trójmiasto Radio
+https://ic2.smcdn.pl/1170-1.aac
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/36604/logo_K59S0pGZ9Y.png",ESKA2 Trzebnica Radio
+https://ic2.smcdn.pl/1510-1.aac
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/36431/logo_3p6OUnJdZB.png",VOX Dance Radio
+https://ic1.smcdn.pl/6180-2.aac
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/36605/logo_2UOfCQRK1I.png",ESKA2 Konin Radio
+https://ic2.smcdn.pl/1530-1.aac
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/36603/logo_jgdGoGMOVn.png",ESKA2 Szczecin Radio
+https://ic2.smcdn.pl/1260-1.aac
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/36592/logo_dmMWRvae5W.png",ESKA2 Nowy Sącz Radio
+https://ic1.smcdn.pl/1290-1.aac
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/36591/logo_R4vfBroUIo.png",ESKA2 Łódź Radio
+https://ic2.smcdn.pl/1100-1.aac
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/36590/logo_YgnYGRdZzy.png",ESKA2 Wrocław Radio
+https://ic1.smcdn.pl/1180-1.aac
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/36486/logo_5GfPAOex6F.png",Radio 357
+https://stream.rcs.revma.com/ye5kghkgcm0uv
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/36640/logo_4GZZgYOPlP.png",ESKA2 Polskie Na Czasie Radio
+https://ic1.smcdn.pl/6230-1.aac
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/36593/logo_GvuK1hnBMb.png",ESKA2 Kraków Radio
+https://ic2.smcdn.pl/1070-1.aac
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/36601/logo_oECdxbHzdB.png",ESKA2 Jelenia Góra Radio
+https://ic1.smcdn.pl/1480-1.aac
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/36608/logo_kLcJvph49h.png",ESKA2 Opole Radio
+https://ic1.smcdn.pl/1120-1.aac
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/36421/logo_JJks17jEYJ.png",Radio Bercik Silesia
+https://s3.slotex.pl:7770/listen.xtl?sid=1
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/36641/logo_KqRkuJJI0r.png",ESKA2 Biała Podlaska Radio
+https://ic2.smcdn.pl/1390-1.aac
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/36788/logo_Jmh6Msb5aR.png",Radio Pogoda
+https://hub.radiostream.pl/stream.pls?radio=38&amptype=none&ampapp=none&ampcoding=mp3&ampredirect=true
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/36781/logo_PYVDrDRqVm.png",Radio Zlote Przeboje
+https://hub.radiostream.pl/stream.pls?radio=9&amptype=none&ampapp=none&ampcoding=mp3&ampredirect=true
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/36600/logo_5Ojq0HQ15N.png",ESKA2 Toruń Radio
+https://ic1.smcdn.pl/1150-1.aac
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/36597/logo_YrKomxc1cb.png",ESKA2 Rzeszów Radio
+https://ic2.smcdn.pl/1240-1.aac
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/36646/logo_noQSJXuoIB.png",ESKA2 Stalowa Wola Radio
+https://ic1.smcdn.pl/1370-1.aac
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/92922/logo_q7Psd5R32l.png",Polskie Radio
+https://secure1.reliastream.com/polskieradio/
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/95737/logo_uJZTbLiv4L.png",WPNA 1490 AM Radio
+https://usa19.fastcast4u.com:3870/
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/95609/logo_WVqzW0Zymn.png",24/7 Polka Heaven Radio
+http://192.99.83.149:8046/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/36215/logo_tUbJolwIVP.png",Radio Opole 2
+https://rtmp.radio.opole.pl/ro1/hls/stream.m3u8

@@ -63,3 +63,9 @@ http://cast1.citrus3.com:8866/stream.mp3
 http://rockthefolk.stream.laut.fm/rockthefolk?t302=2020-03-03_08-17-18&ampuuid=44f857a0-a53c-4d4a-ac52-b71feeba9aa2
 #EXTINF:-1,RosFM 94.6
 https://fra-ranger01.dedicateware.com:2020/stream/rosfm946/stream
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/CXL2HD.png",Irish Radio Canada
+https://c5.radioboss.fm:18213/stream
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/LRD005.png",liveIreland
+http://192.111.140.11:8058/
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/45QH9M.png",RTÉ Raidió na Gaeltachta
+http://23543.live.streamtheworld.com/RTE_RAIDIO_NA_GAELTACHTA.mp3?tdsdk=rte

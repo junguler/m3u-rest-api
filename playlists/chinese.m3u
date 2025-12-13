@@ -1539,8 +1539,6 @@ https://audio1.syok.my/myfm
 https://audio1.syok.my/amp-melody
 #EXTINF:-1,988 FM
 https://player.listenlive.co/63371
-#EXTINF:-1,臺北廣播電臺
-http:/http:/adio.suprememastertv.com/mp3_128k
 #EXTINF:-1,中廣音樂網i radio
 http://n06a-eu.rcs.revma.com/ndk05tyy2tzuv?rj-ttl=5&rj-tok=AAABiLQIxoUAVppP2RJLBWDgSw
 #EXTINF:-1,2021  TICK TOCK RADIO
@@ -2207,3 +2205,23 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/CAPITAL958FM_P
 https://gfm.rastream.com/gfm-clubhkgfm
 #EXTINF:-1,gfm.fm Today's Mix
 https://gfm.rastream.com/gfm-todaysmix
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/82887/logo_5SIyMcxYeK.png",Mandarin Station 98.3 FM Radio
+https://stream01-ssl.arenastreaming.com:8043/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/81196/logo_5CSjF3DklC.png",Sunny&#x27;s Music Show Radio
+http://procyon.shoutca.st:8492/listen.mp3
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/80281/logo_YZwxs0z8Oc.png",UFM100.3 Radio
+https://22243.live.streamtheworld.com/UFM_1003AAC.aac
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/92558/logo_D5zu0WLyey.png",Chinese Christian Radio
+https://ly729.out.airtime.pro/ly729_a
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/80740/logo_ZSTenF6RNK.png",Fly Radio FM 89.5
+https://stream.rcs.revma.com/e0tdah74hv8uv
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/84672/logo_HB6dAktUFx.png",Rete Italia Radio
+https://nicherad.radioca.st/stream2
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/85000/logo_L1YZaV3TJZ.png",Sound of Hope Australia (Mandarin) Radio
+https://ozvoice.out.airtime.pro/ozvoice_a
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/80745/logo_0AUeXXVHdg.png",FM 94.3 音樂 伸展 台 Radio
+https://stream.rcs.revma.com/pet2dvug1bkvv/hls.m3u8
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/99356/logo_0j2yxeAxq2.png",MRBI - KAZN 1300 AM Radio
+https://video1.getstreamhosting.com:8308/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/80755/logo_hpwJsYBn5K.png",金聲廣播電台 Radio
+http://60.249.186.105:9000/?icy=http

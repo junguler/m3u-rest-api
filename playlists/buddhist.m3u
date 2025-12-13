@@ -19,3 +19,9 @@ http://streaming19.hstbr.net:8160/autodj
 http://tachyon.shoutca.st:8827/stream/
 #EXTINF:-1,วัดดอยเทพนิมิต สถานีวิทยุกระจายเสียง
 http://media.login.in.th:5050/stream
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/32547.v3.png",World Buddhist Radio
+https://15113.live.streamtheworld.com/SAM11AAC025.mp3
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/12029.v3.png",WatPakBo
+http://radio1.siamlivehost.com:8001/
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/84692/logo_wj4KeHF8ZF.png",World Buddhist Radio
+https://26343.live.streamtheworld.com/SAM11AAC025.mp3

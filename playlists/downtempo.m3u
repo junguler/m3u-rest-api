@@ -281,8 +281,6 @@ http://live.eugenijus.lt:9000/eugenijus
 https://fr1-play.adtonos.com/8108/psystation-downtempo
 #EXTINF:-1,80 s SLOW HITS GENERATION 2015
 http://streamingp.shoutcast.com/JamendoLounge?lang=*
-#EXTINF:-1,HOLOD
-#EXTINF:-1,http://xat.com/Elparaisodelamusica
 #EXTINF:-1,Noctophonia
 http://radio.streemlion.com:1160/
 #EXTINF:-1,Spicy soul sounds for your Ears by Dub Lubin
@@ -441,3 +439,35 @@ https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e37fb
 http://philae.shoutca.st:9019/stream/
 #EXTINF:-1,Rewind Studio
 http://www.hydroflask.us/
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/118742.png",Aviafan Lounge
+https://relay.leproradio.com/letach.ogg?fb494b683fc1269885bb63f33fbb54d8b3743987
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/89683.v5.png",Soft Radio, Barakaldo
+https://str3.openstream.co/2339?aw_0_1st.collectionid%3D6263%26stationId%3D6263%26publisherId%3D2363%26k%3D1762527891
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/120359.v7.png",Riviera Lounge
+https://riviera-lounge-radio.stream.laut.fm/riviera-lounge-radio?t302=2025-11-07_15-04-51&uuid=4dabc7ee-8688-434c-b566-7b8db01f5891
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/76837.v7.png",Power Station, Carpi
+https://radiopowerstation.stream.laut.fm/radiopowerstation?t302=2025-11-07_15-04-52&uuid=9382d131-500d-4e09-8c34-fa9ae9e163fb
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/77040.v10.png",Ambiento Radio
+https://strw3.openstream.co/390?aw_0_1st.collectionid%3D2676%26stationId%3D2676%26publisherId%3D210%26k%3D1762527893
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/102804/180_B0vD6IdDhl.png",Downtempo Lounge Radio
+https://spn.liveradiofree.com/downtempo-lounge-96
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/102767/180_dJdUdLvxso.png",Cafe Del Mar Radio
+https://spn.liveradiofree.com/cdmr-96
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/40334/logo_56ZJpRihgr.png",Riviera Lounge Radio
+https://riviera-lounge-radio.stream.laut.fm/riviera-lounge-radio?t302=2025-12-07_20-24-41&uuid=62b38163-1700-4336-809c-7d03b928914d
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/102799/180_F9OpLjuIT2.png",Buddha Bar Chill Radio
+https://spn.liveradiofree.com/bddhbrchll-96
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/43505/logo_4XrgH7idEV.png",Soft Radio
+https://str3.openstream.co/2339?aw_0_1st.collectionid%3D6263%26stationId%3D6263%26publisherId%3D2363%26k%3D1765139082
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/39758/logo_FccZK5NbKY.png",Power Station Radio
+https://radiopowerstation.stream.laut.fm/radiopowerstation?t302=2025-12-07_20-24-42&uuid=69f16af1-d3b8-4094-8ae8-73c59add5d2f
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/30019/logo_7QvThXE8XH.png",0nlineradio Lo-Fi
+https://0nlineradio.stream42.radiohost.de/0r-lo-fi?upd-meta&upd-scheme=https&_art=dD0xNzY1MTM5Mzg3JmQ9Yzk4ZGMzYjNiZTA3MGZhYjAzMWU
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/633/logo_gNlG78Bpa6.png",Relax FM Музыка для вечера Radio
+https://pub0302.101.ru:8000/stream/trust/mp3/128/470
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/35900/logo_3vcsAMGper.png",Soundstorm Relax Radio
+https://stream.soundstorm-radio.com/radio/8000/radio.mp3
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/38300/logo_6OHwl7qt2w.png",Ambiento Radio
+https://strw3.openstream.co/390?aw_0_1st.collectionid%3D2676%26stationId%3D2676%26publisherId%3D210%26k%3D1765139085
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/43580/logo_GDXt7MNJu6.png",Ibiza radio 1
+https://str3.openstream.co/1513

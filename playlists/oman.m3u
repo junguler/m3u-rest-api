@@ -401,3 +401,11 @@ http://radio.hornhost.com/8034/stream
 https://freeus4.listen2myradio.com/live.mp3?typeportmount=s1_7631_stream_14266419
 #EXTINF:-1,Euphoria
 https://streamer.radio.co/s55000a8b6/listen
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/83675/logo_PW9xZWmuk7.png",Antenna Web Mascate Radio
+https://halo.streamerr.co/listen/italiavera/stream.mp3
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/83666/logo_jqeoDJQovK.png",Hi FM Oman Radio
+https://listen-hifmtemp.sharp-stream.com/hifmmid.mp3
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/83670/logo_Yla0Y4ObVV.png",Al Wisal Radio
+http://uk7.internet-radio.com:8067/stream
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/WZDQZ7.png",Al Wisal
+http://212.71.250.12:8067/stream

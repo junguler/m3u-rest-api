@@ -259,22 +259,12 @@ https://shout35.crossradio.com.br:18112/1;
 https://servidor26.brlogic.com:8006/live
 #EXTINF:-1,Rádio Sociedade
 https://painel.sintonizar.tv.br/stream/sociedadeaudio/stream
-#EXTINF:-1,Rádio Estrada Real FM
-https:/http:/13.ciclano.io:15003/stream
-#EXTINF:-1,Radio Bla Rock
-https:/http:/adio.stmsrv.com:16830/
 #EXTINF:-1,Rádio Terra FM
 https://servidor30.brlogic.com:8622/live
 #EXTINF:-1,Rádio UPF
 https://servidor38.brlogic.com:8134/live
-#EXTINF:-1,CBN
-https:/http:/adio.saopaulo01.com.br:10971/;
 #EXTINF:-1,RADIO ESTAÇÃO GOSPEL
 https://stm3.srvif.com:7130/stream
-#EXTINF:-1,Jequié FM
-https:/http:/adio.saopaulo01.com.br/8026/stream
-#EXTINF:-1,Rádio FM 96
-https:/http:/17.ciclano.io:15027/;
 #EXTINF:-1,Rádio Universidade
 http://streaming21.hstbr.net:8280/live
 #EXTINF:-1,AntenaMetal
@@ -291,8 +281,6 @@ https://s46.maxcast.com.br:8236/live
 https://stm12.xcast.com.br:8226/;stream.nsv
 #EXTINF:-1,Radio Nostalgia FM
 http://172.82.160.250:8083/stream
-#EXTINF:-1,Rádio Sobradinho
-https:/http:/adiocultura2.jmvstream.com/stream?1653869769748
 #EXTINF:-1,Líder FM Santa Rosa
 https://servidor27-2.brlogic.com:8196/live?source=website
 #EXTINF:-1,Sintonia Esportiva

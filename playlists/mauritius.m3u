@@ -83,3 +83,21 @@ https://mbcradio.tv/sites/all/themes/mbcradiotv/radiostreams/taalfm.m3u8
 https://wazaafm.ice.infomaniak.ch/wazaafm-192.mp3
 #EXTINF:-1,Radio Moris Live 
 https://cc.radiomoris.com:9443/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/79456/logo_1SpPDZv2jH.png",Radio One
+http://centova57.instainternet.com:9278/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/79473/logo_ddxzyBMqJJ.png",Radio Moris - Street
+https://azc.radiomoris.com:8040/radio.mp3
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/79475/logo_g1KGMVlOek.png",Antenna Web Port Louis Radio
+https://halo.streamerr.co/listen/italiavera/stream.mp3
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/79472/logo_j3aDDiFPM0.png",Radio Moris - Love
+https://azc.radiomoris.com:8030/radio.mp3
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/79470/logo_GTUiFMx0rp.png",Radio Moris - Mix
+https://azc.radiomoris.com:8020/radio.mp3
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/79468/logo_fXgsy1RKSQ.png",Wazaa FM Radio
+https://listen.radioking.com/radio/660412/stream/724168
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/79467/logo_mfy16jbBYN.png",Faith Radio
+http://mu1stream.mushost.com:8230/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/79459/logo_mW5PrwyQDH.png",Zero Alpha Radio
+https://26343.live.streamtheworld.com/SAM10AAC078_SC
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/17MN4M.png",Faith Radio
+http://mu1stream.mushost.com:8230/128kbps

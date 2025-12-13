@@ -1,4 +1,4 @@
-414## Simple Rest Api
+## Simple Rest Api
 simple rest api for m3u/m3u8 playlists, made with chatgpt
 
 ### how to use

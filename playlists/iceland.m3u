@@ -137,3 +137,9 @@ https://ice-11.spilarinn.is/flashback
 https://ice-11.spilarinn.is/tsudurlandfm
 #EXTINF:-1,Utvarp Saga FM
 https://ice-11.spilarinn.is/saga
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/54004/logo_SpAuQwzqWt.png",Létt Bylgjan Radio
+https://live.visir.is/hls-radio/lettbylgjan/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/PQ5623.png",FM957
+http://icecast.365net.is:8000/orbFm957.aac
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/MINJQP.png",FM Trölli
+https://hb.trolli.is/

@@ -269,3 +269,13 @@ http://live.radiospinner.com/relzen-96
 http://zen-attitude.ice.infomaniak.ch/zen-attitude.aac
 #EXTINF:-1,Vibration – Zen Relax
 http://91.121.38.100:8220/vibrationzenrelax-128k.mp3/
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/102821/180_Yjxn1GQrD9.png",East Meditation Radio
+https://spn.liveradiofree.com/stmdttn-96
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/386/logo_xeHQ4eQ7mF.png",Наедине с природой - Relax FM Radio
+https://pub0101.101.ru/stream/trust/mp3/128/263
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/102841/180_ZsLSid1huK.png",Sea Sounds for Sleep Radio
+https://spn.liveradiofree.com/sslp-96
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/102832/180_ses0c6qses.png",Birdsong and Meditation Radio
+https://spn.liveradiofree.com/bird-sounds-96
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/82430/logo_4cbL36rADE.png",Calm Zen Radio
+https://nl4.mystreaming.net/uber/calmzen/icecast.audio

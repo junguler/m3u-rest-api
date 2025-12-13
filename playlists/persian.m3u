@@ -23,10 +23,6 @@ https://navairan.com/;stream.nsv
 https://s10.myradiostream.com/:12238/;
 #EXTINF:-1,Radio Jawanan
 https://s3.radio.co/s3a13a855f/listen
-#EXTINF:-1,Radio Mojahed
-http:/http:/adio.pamir.cloud:8000/live
-#EXTINF:-1,Radio Shadi
-https:/http:/adio.mihantv.com/mihan;
 #EXTINF:-1,Viva Abcd Fm
 http://stm4.srvvox.com.br:7028/;
 #EXTINF:-1,40.200 Radio Villa
@@ -151,3 +147,5 @@ https://www.radiofaaz.com:8000/radiofaaz
 https://n03.radiojar.com/cp13r2cpn3quv
 #EXTINF:-1,Radio Free Afghanistan - Azadiradio
 https://rfe17.akacast.akamaistream.net/7/899/437775/v1/ibb.akacast.akamaistream.net/rfe17
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/83896/logo_9UFPT2Oxs6.png",Radio Setareh  رادیو ستاره
+https://s2.free-shoutcast.com/stream/18256

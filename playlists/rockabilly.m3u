@@ -301,3 +301,13 @@ http://s8-webradio.rockantenne.de/rockandroll
 http://das-edge16-live365-dal02.cdnstream.com/a11121
 #EXTINF:-1,Virgin Radio – Rock Party
 http://icy.unitedradio.it/VirginRockParty.mp3
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/90416/logo_TGvJoMcWC0.png",El Rocanrosaurio Radio
+https://rocanrosaurio-mayeutica.radioca.st/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/49398/logo_UTrccg3pfu.png",Rockabilly Radio
+https://rradio.fastserv.com/hifi
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/28197/logo_l0ojSwm6gy.png",Radio Bob! BOBs Rockabilly
+https://regiocast.streamabc.net/regc-radiobobrockabilly9140406-mp3-128-5747715?sABC=6935r384%230%239prp8520p95q9068n24214n9qo3snn92%23&aw_0_1st.playerid=&amsparams=playerid:;skey:1765139332
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/26561/logo_qxmGVOOGOL.png",Backbeatradio
+https://backbeatradio.stream.laut.fm/backbeatradio?t302=2025-12-07_20-28-52&uuid=0f0d9b12-d78b-4f76-8669-2ba7d2782730
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/DUQ2B.png",SplinterWood Rock'n'Roll Radio
+http://31.3.245.162:8000/listen.mp3

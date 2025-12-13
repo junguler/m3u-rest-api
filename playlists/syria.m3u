@@ -25,8 +25,6 @@ https://stream1.svrdedicado.org:7175/stream
 https://svs.itworkscdn.net/orientradiolive/orlive/playlist.m3u8
 #EXTINF:-1,Arta FM
 https://edge.mixlr.com/channel/qtgru
-#EXTINF:-1,Asima Online Radio
-http:/http:/adioliveb.rtv.gov.sy:8002/RadioCham
 #EXTINF:-1,Nojoom FM
 http://185.105.4.53:4423/;stream.mp3
 #EXTINF:-1,Orkes Radio
@@ -67,3 +65,5 @@ https://stream.zenolive.com/kxbs5p6e8ueuv
 https://stream.mixfmsyria.net/stream/1/
 #EXTINF:-1,Al Madina FM 101.5
 https://stream.almadinafm.com/stream.mp3
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/80620/logo_u6VdQGaJeG.png",Radio Sham FM
+http://radioshamfm.grtvstream.com:8400/stream

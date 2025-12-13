@@ -141,8 +141,6 @@ https://dfm-prodigy.hostingradio.ru/prodigy96.aacp
 https://ais-sa2.cdnstream1.com/2346_128.mp3
 #EXTINF:-1,KNCT - Simply Beautiful - Copperas Cove
 http://ice41.securenetsystems.net/KNCT
-#EXTINF:-1,WKHR
-https:/http:/adio.streemlion.com:3715/stream
 #EXTINF:-1,Instrumentals forever (64kbp)
 http://quincy.torontocast.com:1920/stream
 #EXTINF:-1,WMKV 89.3 FM Reading, OH
@@ -245,3 +243,15 @@ https://listen7.myradio24.com/bsj
 https://audiotainment-sw.streamabc.net/atsw-dancehall-mp3-128-6852241?sabc=62065q12%230%230np36r5819069o5qn12q9q7p60q0p746%23fgernzsvaqre&ampamsparams=playerid:streamfinderskey:1644584210
 #EXTINF:-1,Pure Pop Radio
 http://cheetah.streemlion.com:3900/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/88783/logo_fqcAGzGLE8.png",Radio Bellissima Jazz
+https://strw3.openstream.co/2174?aw_0_1st.collectionid%3D6091%26stationId%3D6091%26publisherId%3D2198%26k%3D1765138971
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/VYBV9R.png",Blasmusik Radio
+https://blasmusikradio.stream.laut.fm/blasmusikradio
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/IR3QZ0.png",Exclusively Matt Monro
+https://nl4.mystreaming.net/er/mattmonro/icecast.audio
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/IM68A0.png",GotRadio Big Band Land
+http://gr02.cdnstream.com:8430
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/53ET88.png",Positively  30s
+https://streaming.positivity.radio/pr/1930/icecast.audio?r=328456
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/364Q4Q.png",The Music Museum with Danny Stiles
+http://tektite.streamguys1.com:5330/live#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/VYBV9R.png",Blasmusik Radio

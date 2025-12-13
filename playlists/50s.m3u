@@ -1373,24 +1373,18 @@ https://pub0202.101.ru:8443/stream/pro/aac/64/46?
 https://ais-edge89-dal02.cdnstream.com/b92108_128mp3
 #EXTINF:-1,Doo Wop Radio
 http://66.59.109.208:8000/;stream.mp3
-#EXTINF:-1,1.FM - Back To The 50&#039;s &amp; 60&#039;s Radio
-https:/http:/iradt00.radioca.st/stream
 #EXTINF:-1,ABC 50&#039;s
 https://cast1.torontocast.com:2270/stream
 #EXTINF:-1,011.FM - Non Stop 60s
 https://listen.011fm.com/stream03
 #EXTINF:-1,America&#039;s OTR - 24/7 Gunsmoke
 https://backbeatradio.stream.laut.fm/backbeatradio?t302=2023-04-25_20-04-46&uuid=03b6d541-6e61-40c7-91e7-6cbb439bb34d
-#EXTINF:-1,A.M. America&#039;s OTR Comedy Channel
-https:/http:/s101-krk-cyfronet.rmfstream.pl/50S
 #EXTINF:-1,Yucatán FM
 https://s2.mexside.net/8054/stream
 #EXTINF:-1,RPR1 - Oldies
 https://audiotainment-sw.streamabc.net/atsw-oldies-mp3-128-3736515?sABC=6509739q%230%234r22236104s8nr3n29rss56oo6qo07n6%23bayvarenqvbobk&aw_0_1st.playerid=onlineradiobox&amsparams=playerid:onlineradiobox;skey:1695118237
 #EXTINF:-1,Steve Michael&#039;s All Request Show
 http://www.streamvortex.com:10230/;
-#EXTINF:-1,113.FM Jitterbug (50&#039;s Hits)
-https:/http:/egiocast.streamabc.nethttp:/egc-rsasachsenoldies7771147-mp3-128-2949639?sABC=650973n5%230%234r22236104s8nr3n29rss56oo6qo07n6%23bayvarenqvbobk&aw_0_1st.playerid=onlineradiobox&amsparams=playerid:onlineradiobox;skey:1695118245
 #EXTINF:-1,940 AM Oldies
 https://streaming.servicioswebmx.com/8284/stream
 #EXTINF:-1,Soul Radio Only Classic Soul
@@ -1399,8 +1393,6 @@ https://listen.soulradio.uk/uk
 http://streamer3.rightclickitservices.com:8006/;stream.mp3/;
 #EXTINF:-1,Easy 50&#039;s
 https://petticoat.stream.laut.fm/petticoat?t302=2023-04-25_20-19-35&uuid=b4ea4d9e-b0aa-45e2-9de5-407109cd6e0f
-#EXTINF:-1,1950  TICK TOCK RADIO
-https:/http:/sa.streamabc.nethttp:/egc-rsasachseneinschlaf1882929-mp3-192-1689958?sABC=65097550%230%234r22236104s8nr3n29rss56oo6qo07n6%23bayvarenqvbobk&aw_0_1st.playerid=onlineradiobox&amsparams=playerid:onlineradiobox;skey:1695118672
 #EXTINF:-1,Sound
 https://sound.stream.laut.fm/sound
 #EXTINF:-1,Oldie Box
@@ -1413,8 +1405,6 @@ https://s4.radio.co/scf2280c01/listen
 https://0nlineradio.stream42.radiohost.de/0r-70s?upd-meta=0&upd-scheme=https&_art=dD0xNzU2OTQwNDU5JmQ9M2IyYjIyYjg1MWFhZjEyYjNkOWY
 #EXTINF:-1,Mo&#039; Vibes
 https://movibes.stream.laut.fm/movibes?t302=2023-04-25_20-06-24&uuid=b6cb2f79-3f60-4252-852a-581154fdbe12
-#EXTINF:-1,Country Music Radio - 50&#039;s Country
-https:/http:/egiocast.streamabc.nethttp:/egc-rsasachsen1017642883-aacplus-64-7268914?sABC=65097550%230%234r22236104s8nr3n29rss56oo6qo07n6%23bayvarenqvbobk&aw_0_1st.playerid=onlineradiobox&amsparams=playerid:onlineradiobox;skey:1695118672
 #EXTINF:-1,Radio Club 80 Grownups
 https://ecuamedios.net/7024/stream
 #EXTINF:-1,Illerkanal
@@ -1429,3 +1419,165 @@ https://streaming.servicioswebmx.com/8260/stream
 http://high.radiosuperoldie.com:8888/;
 #EXTINF:-1,KHGV-LP 99.7 FM Houston, TX
 http://76.204.94.60:8000/1
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/15115.v11.png",Makeout Memories Radio
+https://das-edge13-live365-dal02.cdnstream.com/a53554
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/54697.v2.png",Mo' Vibes
+https://movibes.stream.laut.fm/movibes?t302=2025-11-07_14-55-42&uuid=3c93421a-370b-4ad0-aff7-1fc4e5c4220a
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/02/104137.v2.png",WRCW Radio - Home Of Gunsmoke
+https://das-edge14-live365-dal02.cdnstream.com/a64449
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/117875.v3.png",Monkee Mania Radio
+https://das-edge14-live365-dal02.cdnstream.com/a57014
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/86019.v2.png",Oldies108
+https://radio.torchwoodhosting.com:7004/
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/81673.v2.png",WNJHRadio.com
+https://das-edge14-live365-dal02.cdnstream.com/a28972
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/02/103335.v7.png",Shiawassee Radio
+https://das-edge14-live365-dal02.cdnstream.com/a12599
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/103186.v1.png",Evergreen-Oldies
+https://evergreen-oldies.stream.laut.fm/evergreen-oldies?pl=m3u&ampampt302=2021-04-28_09-48-48&ampampuuid=93153597-f99e-4b49-bae0-c8fa94a736bf
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/127989.v5.png",iHeartRadio 50s y 60s Hits
+https://17573.live.streamtheworld.com/977_OLDIES_SC
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/78627.v4.png",Rádio Classics
+http://sv11.hdradios.net:7234/
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/106289.v1.png",Easy 50's
+https://2.mystreaming.net/uber/easy50/icecast.audio
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/49598.v3.png",WEL 105.5
+https://wel105point5.stream.laut.fm/wel105point5?t302=2025-11-07_14-55-46&type=.mp3&uuid=64a0a4a2-a97a-41f6-94a7-b28a2369a760
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/61479.v20.png",Free FM Classics, Madrid
+https://xxdelgado.radioca.st/stream
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/122676.v2.png",0nlineradio 50s
+https://0nlineradio.stream13.radiohost.de/0r-50s?upd-meta&upd-scheme=https&_art=dD0xNzYyNTI3NjUzJmQ9ZjAxNzkxZjJlYzE1NGE5MmFhNmE
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/30671.v3.png",Sun Radio
+https://ssl-proxy.icastcenter.com/get.php?type=Shoutcast2&ampampserver=199.180.75.58&ampampport=9139&ampampmount=&ampampdata=mp3Steaming
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/47020/logo_BK5QPdlZ4k.png",Europa Radio Jazz
+https://audio-edge-w4d68.yul.o.radiomast.io/818607ce-8815-42fb-8dfc-344234a0ff83
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/97673/logo_Bkyayaerd1.png",Cool Oldies Radio
+https://c8.radioboss.fm:8114/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/93528/logo_Kkb4kdMilO.png",Souldies Radio
+https://das-edge14-live365-dal02.cdnstream.com/a80809
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/103014/logo_RUVtJI95tD.png",СССР 50-70 - 101.RU Radio
+https://pub0202.101.ru:8443/stream/pro/aac/64/47
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/80580/logo_exmvPTefT9.png",Parani Gee Radio (Channel 2) 40&#x27;s to 80&#x27;s
+http://nws.ninewire.com.au:1040/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/32121/logo_lTMl6iiGWA.png",Oldiemania Radio
+https://oldiemania.stream.laut.fm/oldiemania
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/92434/logo_8uC3fif1ij.png",QX-FM Radio
+https://das-edge63-live365-dal03.cdnstream.com/a53127
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/85042/logo_DxqsNPDQxH.png",Mix Fm Light Radio
+https://stream.rcs.revma.com/1ck16c9sabuvv
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/97714/logo_Wi2m7qvDrS.png",MXTR FM Radio
+https://das-edge14-live365-dal02.cdnstream.com/a03037
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/84714/logo_MAc9RoEDOy.png",4CRB Radio
+https://23093.live.streamtheworld.com/4CRBAAC.aac
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/88542/logo_DFe9YHfTOw.png",Yimago American (American Sixties Radio)
+https://strw3.openstream.co/877?aw_0_1st.collectionid%3D3671%26stationId%3D3671%26publisherId%3D901%26k%3D1765139732
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/36194/logo_uoy77HA34e.png",WEL 105.5 Radio
+https://wel105point5.stream.laut.fm/wel105point5?t302=2025-12-07_20-35-30&type=.mp3&uuid=daa3812d-e37d-42bd-a6b1-a528ec7409de
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/45092/logo_wNWYrEpLMT.png",Jukebox - Nonstop Music Radio
+https://kreuzbergswiss.spcast.eu/stream?time=1765139730
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/88562/logo_gnCSsCEILQ.png",Radio 854 Gold
+https://strw3.openstream.co/1443?aw_0_1st.collectionid%3D4613%26stationId%3D4613%26publisherId%3D1467%26k%3D1765139731
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/28694/logo_ZbFDOKcZpx.png",Arabella Golden Oldies Radio
+https://edge10.stream.radioarabella.de/radioarabella-goldenoldies
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/51419/logo_bULT8rlI83.png",Boom Light Radio
+https://listen-boomradio.sharp-stream.com/65_boom_light_256_aac
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/93304/logo_sTMhNenD05.png",Classic Hits 104.1 Radio
+https://19303.live.streamtheworld.com/WHTTFMAAC.aac
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/95792/logo_1EnJPjosQF.png",Crime Fighter Detectives OTR Channel Radio
+https://hemnos.cdnstream.com/1665_32?cb=996561.mp3
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/103154/logo_KMKR0Bxcst.png",СССР 30-50 - 101.ru Radio
+https://pub0202.101.ru:8443/stream/pro/aac/64/46
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/92358/logo_1ZhLhiBB7s.png",CleansingMusic Radio
+https://sl-2396.cdnstream.com/1464_128
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/32126/logo_P6Wh2Q7Bhe.png",Radio Regenbogen Oldies
+https://audiotainment-sw.streamabc.net/atsw-oldies-mp3-128-2804077?sABC=6935r515%230%239557p15q6p30s523q6onp20q9rnsqqp1%23enqvbfcvaare&aw_0_1st.playerid=radiospinner&amsparams=playerid:radiospinner;skey:1765139733
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/26561/logo_qxmGVOOGOL.png",Backbeatradio
+https://backbeatradio.stream.laut.fm/backbeatradio?t302=2025-12-07_20-35-33&uuid=af393184-c3f9-4742-ae15-e73b5148dae6
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/29891/logo_fn4W53Y9Dc.png",0nlineradio 50s
+https://0nlineradio.stream42.radiohost.de/0r-50s?upd-meta&upd-scheme=https&_art=dD0xNzY1MTQwMDM2JmQ9ZGI5YjRiZjYzMGMxZmVmNjIxNzY
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/59758/logo_Fdr1pRlvrg.png",Vintage FM Radio
+https://streaming.livespanel.com:9170/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/95693/logo_6QmwdCMxbm.png",A.M. America&#x27;s OTR Comedy Channel Radio
+https://hemnos.cdnstream.com/1666_32?cb=948732.mp3
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/32365/logo_vvCFYRqTt2.png",R.SA  Maxis Maximal Radio
+https://rsa.streamabc.net/regc-rsasachsenmaxis7484300-mp3-128-3629145?sABC=6935r517%230%239557p15q6p30s523q6onp20q9rnsqqp1%23&aw_0_1st.playerid=&amsparams=playerid:;skey:1765139735
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/50719/logo_k8Wyr2Sgnp.png",The Oldies Broadcaster Radio
+https://s5.myradiostream.com:41036/listen.mp3
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/31627/logo_ATWKNN5Ypy.png",Memory Radio 2
+http://www.memoryradio.de:5000/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/92550/logo_6L6kPkQqAW.png",Alans Golden Oldies Radio
+https://das-edge14-live365-dal02.cdnstream.com/a32245
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/29015/logo_lUwCZkk0fk.png",Petticoat Radio
+https://petticoat.stream.laut.fm/petticoat?t302=2025-12-07_20-35-36&uuid=468e9318-9a59-4c67-9655-ef8493465601
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/58962/logo_v4gv1euWRB.png",Rádio Classics
+https://sv11.hdradios.net:7234/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/28215/logo_PThvufSVCC.png",R.SA  Hinhörkanal Radio
+https://rsa.streamabc.net/regc-rsasachsenhinhoer1324234-mp3-192-6238970?sABC=6935r518%230%239557p15q6p30s523q6onp20q9rnsqqp1%23&aw_0_1st.playerid=&amsparams=playerid:;skey:1765139736
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/98073/logo_TfC2RiLcma.png",Wayback Radio
+https://s5.citrus3.com:8244/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/98409/logo_PXdNtLKhhq.png",Tyme 102.9 Radio
+http://65.108.98.93:7758/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/32321/logo_V9DZmMAMDa.png",R.SA  Oldie-club Radio
+https://rsa.streamabc.net/regc-rsasachsenoldies7771147-mp3-128-2949639?sABC=6935r519%230%239557p15q6p30s523q6onp20q9rnsqqp1%23&aw_0_1st.playerid=&amsparams=playerid:;skey:1765139737
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/43132/logo_CSTsNTZSiZ.png",Free FM Classics Radio
+http://protostar.shoutca.st:8370/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/28196/logo_GnaxXp6qJB.png",R.SA  Das Schnarchnasenradio
+https://rsa.streamabc.net/regc-rsasachseneinschlaf1882929-mp3-192-1689958?sABC=6935r519%230%239557p15q6p30s523q6onp20q9rnsqqp1%23&aw_0_1st.playerid=&amsparams=playerid:;skey:1765139737
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/94199/logo_QsKvdVHtBH.png",Sun Radio
+https://ssl-proxy.icastcenter.com/get.php?type=Shoutcast2&ampserver=199.180.75.58&ampport=9139&ampdata=mp3Steaming
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/51116/logo_KN72OpadfY.png",Blue Panda Radio Gold
+https://19003.live.streamtheworld.com/SP_R3672047.aac
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/87837/logo_raxzZ8GJGi.png",Radio Oasis FM
+https://live2.tensila.com/ch2-a-1.philbro/hls/master.m3u8
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/92518/logo_rAowEUZhaG.png",KZFX HD-3 Cruising Oldies Radio
+https://a1.asurahosting.com:8990/radio.mp3
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/85227/logo_xsN9fliodO.png",Bay FM Radio
+https://23163.live.streamtheworld.com/4BAYAAC.aac
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/32016/logo_ispK7XlvtW.png",R.SA Ostrock Radio
+https://rsa.streamabc.net/regc-rsasachsenostrock7923745-mp3-192-1162842?sABC=6935r51n%230%239557p15q6p30s523q6onp20q9rnsqqp1%23&aw_0_1st.playerid=&amsparams=playerid:;skey:1765139738
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/91991/logo_ALXNXrMI1f.png",KOOL FM 100.7 Radio
+https://streaming1.kkdjfresno.com:9010/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/49458/logo_isj1zZAGeR.png",Classic Oldies Radio
+https://securestreams6.autopo.st:2453/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/84003/logo_izp5KdGubL.png",RadioFix2525
+https://stream3.rcast.net/72648?1763490802730
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/30360/logo_2ly3FtjMyg.png",Antenne NRW Fetenhits Radio
+https://radiogroup.stream31.radiohost.de/radiogroup-antenne-nrw_mp3-256
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/89299/logo_XeWY7JNyJt.png",Terry Callaghan&#x27;s Real Oldies Channel Radio
+https://ec4.yesstreaming.net:2730/
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/88732/logo_LuWxuW0LOR.png",Oldies108 Radio
+https://radio.torchwoodhosting.com:7004/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/32023/logo_fYssFp8lTt.png",RPR1. Oldies Radio
+https://audiotainment-sw.streamabc.net/atsw-oldies-mp3-128-3736515?sABC=6935r51o%230%239557p15q6p30s523q6onp20q9rnsqqp1%23&aw_0_1st.playerid=&amsparams=playerid:;skey:1765139739
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/99091/logo_fiwA26ZXZ5.png",KHTZ-DB Radio
+https://das-edge63-live365-dal03.cdnstream.com/a33292
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/32248/logo_yyFky8hgAC.png",R.SA  Rockzirkus Radio
+https://rsa.streamabc.net/regc-rsasachsenrockzirkus8440598-mp3-128-3072380?sABC=6935r51p%230%239557p15q6p30s523q6onp20q9rnsqqp1%23&aw_0_1st.playerid=&amsparams=playerid:;skey:1765139740
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/89253/logo_qoWAVvfcgz.png",Retro Radio
+https://puma.streemlion.com:5345/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/65633/logo_K4iuyeKB7b.png",Radio Única
+https://radio.streamenginelogin.com:8034/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/89261/logo_92a8KvgX9N.png",Classic Oldies Hits Mix Radio
+https://online.jamminvibezradio.com/listen/reggae/live.aac
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/39481/logo_MRbo149bTF.png",RCS Network Story Radio
+https://ice12.fluidstream.net/fluid1202.mp3
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/60510/logo_k42OebfDfH.png",Clássicos e Relíquias Rock Radio
+https://srv11.ipstm.net:7038/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/50897/logo_I5eihlJ5yF.png",The Elvis Radio Show UK
+https://servidor19.brlogic.com:7090/live
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/26721/logo_DG2bFSoGQK.png",Channel02 Radio
+https://channel02.stream.laut.fm/channel02?t302=2025-12-07_20-35-42&uuid=b6219eb9-397d-4540-b099-a95394fca271
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/32196/logo_HxSoXXZQGV.png",R.SA  Weihnachtsradio
+https://rsa.streamabc.net/regc-rsasachsenevent017364573-mp3-128-6343895?sABC=6935r51r%230%239557p15q6p30s523q6onp20q9rnsqqp1%23&aw_0_1st.playerid=&amsparams=playerid:;skey:1765139742
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/32420/logo_Thd0CaHdK7.png",R.SH Weihnachtshits Radio
+https://regiocast.streamabc.net/regc-rshevent025770572-mp3-128-6273256?sABC=6935r51r%230%239557p15q6p30s523q6onp20q9rnsqqp1%23&aw_0_1st.playerid=&amsparams=playerid:;skey:1765139742
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/29159/logo_IL9TvEqCDW.png",Oldie Box Radio
+https://oldie-box.stream.laut.fm/oldie-box?t302=2025-12-07_20-35-43&uuid=66440523-e8c0-4898-a9ce-16aab29899aa
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/28064/logo_vQMbeLv5JJ.png",Radio Kunterbunt
+https://radio-kunterbunt.stream.laut.fm/radio-kunterbunt?t302=2025-12-07_20-35-43&uuid=22beb99c-bf52-457c-bce9-6607a456cf1a
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/28005/logo_KDquh6Tx8L.png",Web Radio Germany
+https://webradiogermany.stream.laut.fm/webradiogermany?t302=2025-12-07_20-35-43&uuid=bd75a775-e32e-4531-9d7b-1254493831e5
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/1RC8GE.png",0nlineradio 50S
+https://0nlineradio.stream42.radiohost.de/0r-50s?ref=streammitter&upd-meta&upd-scheme=https&_art=dD0xNzYzMDMwODAxJmQ9OWE1ZWUwYjJiZjBmZDJhY2RjOTI
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/XPRWA.png",Old Time Radio AM 600
+https://s2.yesstreaming.net:17161/stream?icy=http#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/1RC8GE.png",0nlineradio 50S

@@ -473,3 +473,13 @@ http://rautemusik.stream17.radiohost.de/trance?upd-meta&upd-scheme=http&_art=dD0
 http://15313.live.streamtheworld.com/WETAVLV.mp3
 #EXTINF:-1,Weihnachtsmusik – Chor Weihnachten
 http://regiocast.streamabc.net/wmu-chre-mp3-192-2832145?sABC=68ppr671%230%239s82ns4sp9qoo8rsnp8n694n144p1pp2%23fgerrzn&aw_0_1st.playerid=streema&amsparams=playerid:streema;skey:1758258801
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/96795/logo_c4Uq6057XA.png",FM 98.5 of Vocal Trance live Radio
+http://24.168.84.122:8068/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/37011/logo_44SvYpMRGn.png",Hitradio Orlando
+https://webradioorlando.stream.laut.fm/webradioorlando?t302=2025-12-07_20-29-37&uuid=c76ebf9d-cf64-46b6-8fe5-c9cbdd234e6e
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/92008/logo_sq2K4sYUC8.png",Classical WETA VivaLaVoce Radio
+https://26303.live.streamtheworld.com/WETAVLV.mp3
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/4CLQ09.png",Black Corvette
+https://radio2.vip-radios.fm:18084/stream-mp3-BlackCorvette
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/DMRUU5.png",Veles Fm
+https://a6.asurahosting.com:7010/radio.mp3

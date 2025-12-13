@@ -67,3 +67,7 @@ http://ice3.securenetsystems.net:80/KZGZ
 http://ice9.securenetsystems.net/KNUT
 #EXTINF:-1,KKMP – K221EF
 http://s2.yesstreaming.net:7208/stream/
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/85566/logo_5kJRANnj9M.png",Harvest Family Radio
+https://das-edge17-live365-dal02.cdnstream.com/a11295
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/85570/logo_VBItSMg3DE.png",Antenna Web Guam Radio
+https://halo.streamerr.co/listen/italiavera/stream.mp3

@@ -79,7 +79,6 @@ https://radios.blumhost.es/8002/stream
 https://live.radyofenomen.com/fenomenclubbin/abr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/92883360.jpg",RADIO 538
 https://21633.live.streamtheworld.com/RADIO538.mp3?dist=radioly
-#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/105944577.png",Enjoy Radio Twente
 #EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/79016609.jpg",Maxi Music Radio
 https://maximusicradio.stream.laut.fm/maximusicradio?t302=2022-12-10_10-51-37&uuid=ad8fe026-c7e0-418e-89a9-cfdfd84ebfbf
 #EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/9768772.jpg",Wire Radio
@@ -908,3 +907,19 @@ http://live-icy.gss.dr.dk/A/A14H.mp3
 http://eu1.reliastream.com:7052/stream
 #EXTINF:-1,Radio Gold
 https://ice09.fluidstream.net/fluid0901.mp3
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/7W1ZD5.png",Loud Radio 88.8
+https://sh.onweb.gr:7039/
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/THCJ99.png",NRG 91
+https://sh.onweb.gr:7129/
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/W4176.png",OK Radio
+http://live.okradio.net:8054/
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/L7006U.png",Radio City
+https://play.global.audio/city128
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/TO1CKE.png",Regio FM
+http://217.21.199.146:8030/
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/station-logo-no.png",RF1969.FM - Hitradio Franzl 1969 FM
+http://protostar.shoutca.st:8141/stream
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/AUMDNS.png",Scanner FM
+http://s1.onweb.gr:8074/
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/DHCNON.png",Victoria Happy Music - Halle
+http://shoutcast.radiovictoria.be:8000/#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/QAFRN.png",Flash FM

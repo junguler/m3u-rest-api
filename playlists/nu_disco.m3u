@@ -63,3 +63,11 @@ https://deep-house-sounds.stream.laut.fm/deep-house-sounds?t302=2025-09-01_10-34
 https://streaming.hotmixradio.com/hotmix-nu_disco-en-mp3?
 #EXTINF:-1,Hotmixradio Cocktail Groove
 https://streaming.hotmixradio.com/hotmix-cocktail-groove-en-mp3?
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/102762/180_geuFbsuHFf.png",Nu Disco Radio
+https://spn.liveradiofree.com/nu-disco-96
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/29215/logo_pVO1RHjZg0.png",Deep House Sounds Radio
+https://deep-house-sounds.stream.laut.fm/deep-house-sounds?t302=2025-12-07_20-27-38&uuid=03455533-1cae-4b61-8f8a-1b4271c4ef59
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/53957/logo_i5IHZzv0Bx.png",Nu Dance - Радио Рекорд
+https://radiorecord.hostingradio.ru/nudance96.aacp
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/51847/logo_Wl4ytddNQY.png",Vanilla Radio Deep Flavors
+https://stream.vanillaradio.com:8016/stream/stream

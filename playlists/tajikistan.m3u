@@ -25,3 +25,7 @@ https://live.radiospinner.com/sssrht-64
 https://stream.newradio.ru/novoe96.aacp
 #EXTINF:-1,Радио Садои Хучанд
 https://c6.radioboss.fm:18234/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/80871/logo_lw5zXoqBh1.png",Радио &quot;Шаҳри Ман&quot;
+https://c16.radioboss.fm:8438/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/80864/logo_zAmad4q0Kg.png",Radio Free Tajikistan
+https://rferl-ingest.akamaized.net/hls/live/2121756/axia09/master.m3u8

@@ -223,8 +223,6 @@ https://s2.myradiostream.com/:5060/;
 https://stream.chiliradio.app/chiliclassics
 #EXTINF:-1,Met 107 Fm
 https://met107.mcot.net/live
-#EXTINF:-1,Love Radio
-https:/http:/adio12.plathong.net/7346/;stream.mp3
 #EXTINF:-1,Active Radio
 https://fm99activeradio.mcot.net/index/
 #EXTINF:-1,Radio 981
@@ -233,8 +231,6 @@ http://203.131.210.196:8000/stream1/stream_live;
 http://203.156.141.28:8200/tabradio
 #EXTINF:-1,MjuRadio FM 95.50 MHz
 http://112.121.150.133:9000/;stream.nsv
-#EXTINF:-1,AM 1143
-https:/http:/adio9.plathong.net/7146/;stream.mp3
 #EXTINF:-1,ดนตรีสีสัน หาดใหญ่
 https://apps4.mcot.net/stream843.aac
 #EXTINF:-1,Best Radio FM. 89.0 MHz.
@@ -787,3 +783,75 @@ https://cp11.serverse.com/proxy/radiohappyplus?mp=/stream
 https://streamingv2.shoutcast.com/-PopRadio
 #EXTINF:-1,Phuket Island Radio 91.5 & 102.5FM
 https://stream.phuketfmradio.com/pfmMP3
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/131637.v2.png",MCOT Radio FM
+https://lb-media.mcot.net/RegionRadio/Phrae.stream_aac/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/128561.v2.png",สถานีวิทยุ กวส.2 แพร่ AM 1215 KHz
+https://radio14.plathong.net/7196/stream.mp3
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/127910.v1.png",คนร้องกวาง FM95.25
+https://apps4.mcot.net/stream472.aac
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/128967.v10.png",Khonrrakradio
+https://radio14.plathong.net/7338
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/10566.v1.png",IC Radio
+http://radio1.serverradio.net:8278/
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/82780.v7.png",CH19 FM
+http://103.22.182.104:7000/stream.mp3
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/67447.v4.png",Eingdoi Radio Thailand
+http://ohmi-design.com:8170/
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/12029.v3.png",WatPakBo
+http://radio1.siamlivehost.com:8001/
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/13522.v3.png",Sukson Radio
+http://stream.pjcdn.com:9000/SuksonRadio?t=1461247913065
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/71583.v11.png",HITZ Thailand
+https://22253.live.streamtheworld.com/HITZ_955AAC_128.aac
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/13436.v3.png",Psu Radio 88
+http://radio2.thzhost.com:4066/
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/81052/logo_b6E7SGeyDC.png",Huahin Radio
+https://radio10.plathong.net/7008/stream.mp3
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/81102/logo_FyNxombxGi.png",Musicforfriends Radio
+https://radio14.plathong.net/7338/stream.mp3
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/81009/logo_a3hJ9hqb0d.png",City Radio Pattaya
+https://media.onair.one:8200/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/81093/logo_yAm6sGdbsp.png",Voice of Navy Radio
+https://radio12.plathong.net/9918/stream.mp3
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/81110/logo_2B6jbPEdsc.png",Chula Radio
+http://radio11.plathong.net:7590/stream.mp3
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/81001/logo_z86s6rNmbU.png",Radio Trip Phuket 89.75
+http://media.login.in.th:1150/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/81103/logo_PMXCJl5Zcw.png",Voice of Navy Radio
+https://radio12.plathong.net/9912/stream.mp3
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/81037/logo_nTqZI8nABn.png",Voice of Navy Radio
+https://radio12.plathong.net/7354/stream.mp3
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/81062/logo_hR8XDmcBQO.png",BEC Tero Radio - Tofupop Radio
+https://28093.live.streamtheworld.com/TOFU_POP_RADIOAAC_128.aac
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/81034/logo_Il3UVzByHN.png",Voice of Navy Radio
+https://radio12.plathong.net/9934/stream.mp3
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/81111/logo_xOHF0gbeih.png",BP RADIO
+http://103.22.182.105:8244/
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/81022/logo_UDLztRsti5.png",Psu Radio 88
+http://radio2.thzhost.com:4066/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/81002/logo_6DRe7MM9mq.png",Sunshine Radio
+https://cdn-th2.livestreaming.in.th/shoutcast/8030
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/81104/logo_bNQnNkBqfo.png",Voice of Navy Radio
+https://radio12.plathong.net/8648/stream.mp3
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/81015/logo_iJrB6vZPYC.png",I AM Radio 89 FM
+https://media.onair.one:8030/fm89
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/81092/logo_CkKPba1Snl.png",BKK1 Radio
+https://s6.myradiostream.com:49002/listen.mp3?nocache=1765141481
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/81053/logo_BMyP3YhBeT.png",Voice of Navy Radio
+https://radio12.plathong.net/8704/stream.mp3
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/81101/logo_tLomZEf8gV.png",Voice of Navy Radio
+https://radio12.plathong.net/8660/stream.mp3
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/103356/logo_srSbY0qfEb.png",KRB Radio
+https://radio1.ohmi-design.com/8086/stream
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/F9P8RU.png",THAI RADIO
+https://listen.thai-radio.net/trhq
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/VVSSUD.png",เสียงจากทหารเรือ - Voice of Navy 88.00 Changmai
+http://rcp2.plathong.net:9922/stream.omap
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/8M54B4.png",เสียงจากทหารเรือ - Voice of Navy AM 1170 Phitsanul
+http://rcp2.plathong.net:9916/stream.vgjo
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/POEWQZ.png",เสียงจากทหารเรือ - Voice Of Navy FM 106Mhz Bangkok
+http://myradio.plathong.net:8648/
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/TY7L6.png",วิทยุออนไลน์พลอยเรดิโอ - Ployradio Thailand
+https://radio14.plathong.net/7134/
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/QE472L.png",สถานีวิทยุเสียงจากทหารเรือ 15 นราธิวาส  - Voice of
+http://rcp2.plathong.net:9934/stream.utdq

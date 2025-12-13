@@ -213,3 +213,9 @@ http://wz4.dnip.com.br/rcpfm/rcpfm.stream/playlist.m3u8
 http://shout25.crossradio.com.br:8200/
 #EXTINF:-1,Top Tonic Accordéon
 https://streamingv2.shoutcast.com/TopTonicAccordeon
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/V7J66H.png",Rádio Arquibancada
+http://servidor31.brlogic.com:8184/live
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/5Y4QG.png",Rádio Sambista
+http://stm43.conectastm.com:7250/000000
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/RM2XLM.png",SRzd
+https://13693.live.streamtheworld.com/NOVA_CAMPINAS_SC

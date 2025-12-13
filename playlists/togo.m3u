@@ -61,3 +61,7 @@ http://192.99.8.192:3190/
 https://s47.radiolize.com:8050/radio.mp3
 #EXTINF:-1,La Voix de la Bible Radio
 https://studio.webradio.solutions/8016/stream/
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/79488/logo_hQ3fNZWe5W.png",Antenna Web Lomé Radio
+https://halo.streamerr.co/listen/italiavera/stream.mp3
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/79489/logo_b1sUAnZOCv.png",Hero Radio (Togo)
+https://a2.asurahosting.com:6790/togo.mp3

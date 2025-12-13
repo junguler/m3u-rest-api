@@ -47,3 +47,11 @@ https://das-edge14-live365-dal02.cdnstream.com/a19573
 http://das-edge14-live365-dal02.cdnstream.com/a20797
 #EXTINF:-1,KKMP – K221EF
 http://s2.yesstreaming.net:7208/stream/
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/02/126519.v3.png",Island Hits Radio
+https://das-edge63-live365-dal03.cdnstream.com/a86176
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/02/3968.v3.png",Island 98.9 FM Kauai
+https://das-edge11-live365-dal03.cdnstream.com/a53788
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/100270/logo_l7oYKxcApS.png",Island Hits Radio
+https://das-edge17-live365-dal02.cdnstream.com/a86176
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/102112/logo_6Ue2Thuebu.png",Aloha Joe&#x27;s Hawaiian Radio
+https://listen.warpradio.com:8005/ALOHAJOE?type=http&ampnocache=11679

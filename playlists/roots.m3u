@@ -265,3 +265,13 @@ https://s2.radio.co/sccc2dccb5/listen
 http://france1.coollabel-productions.com:8142/stream/
 #EXTINF:-1,Zionhighness Radio
 http://zionhighness.radioca.st:8696/stream/
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/59198/logo_DSC3VjTikn.png",Zion Radio
+https://s03.transmissaodigital.com:6674/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/95036/logo_knHMYYsFIU.png",WUMB Radio - Blues
+https://wumb.streamguys1.com/wumb919st
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/84654/logo_ttwHyb86SA.png",ABC triple j Unearthed Radio
+https://streaming.abc-cdn.net.au/audio/hls/triplejunearthed.m3u8
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/102029/logo_yvwEE4btjU.png",KSER Radio
+https://kser.streamguys1.com/live
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/46958/logo_iHiRWoTrnY.png",Bolz Radio
+https://ecmanager4.pro-fhi.net:2185/stream

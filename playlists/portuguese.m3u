@@ -1613,7 +1613,6 @@ https://stream.vagalume.fm/hls/1498587049275183/aac.m3u8
 https://servidor28-5.brlogic.com:8336/live
 #EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/25965.png",Rede Brasileira de Radio
 https://webradio.amsolution.com.br/radio/8060/radio.mp3#
-#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/25988.png",Colinas FM
 #EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/25996.png",Vagalume.FM - Sertanejo Raiz
 https://stream.vagalume.fm/hls/1486574587925026/aac.m3u8
 #EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/26010.png",Rádio Giruá
@@ -1798,7 +1797,6 @@ https://chmedia.streamabc.net/79-rcentral-mp3-192-5577010?sABC=680s21q8%230%232r
 https://stream.vagalume.fm/hls/1495569735124775/aac.m3u8
 #EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/27002.png",Rádio Melodia
 https://hts02.brascast.com:8942/live
-#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/27008.png",Rádio Difusora
 #EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/27029.png",Rádio Clube AM
 https://radio.saopaulo01.com.br/8018/stream?1663577047685
 #EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/27049.png",Rádio Trampolim
@@ -2693,7 +2691,6 @@ https://usa7-vn.mixstream.net/:8016/listen.mp3
 https://stm1.audiplushd.com.br:7154/
 #EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/51232534.jpg",Massa FM Chapecó
 https://stm01.virtualcast.com.br:8108/massachapeco
-#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/67577360.png",Rádio Massa FM - Lages
 #EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/61674009.png",Radio Pop Brasil FM ao vivo
 https://s03.transmissaodigital.com:6694/stream?1730789410369
 #EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/45709243.jpg",Rádio MPB Máquina do Tempo
@@ -3952,8 +3949,6 @@ https://centova5.transmissaodigital.com:20033/;
 https://stm21.xcast.com.br:10044/;
 #EXTINF:-1,Rádio Studio Souto - Reggae
 https://centova5.transmissaodigital.com:20029/;
-#EXTINF:-1,Rádio Caiobá
-http:/http:/13.ciclano.io:8609/stream
 #EXTINF:-1,Rádio Studio Souto - Eurodance 90s
 https://centova5.transmissaodigital.com:20016/;
 #EXTINF:-1,Rede Aleluia
@@ -4176,8 +4171,6 @@ http://213.136.92.8:8038/;
 https://canais.esoterica.fm.br/8010/stream
 #EXTINF:-1,Rádio Cidade Indie
 https://27573.live.streamtheworld.com:443/STEREOZERO_S01AAC.aac
-#EXTINF:-1,Radio 107
-http:/http:/adios.livecenter.com.br:9966/;
 #EXTINF:-1,RadioNos Modern Classical Channel
 https://nos.radio.br/stream/5/;
 #EXTINF:-1,La Nueva Radio Poder Puerto Rico
@@ -4868,8 +4861,6 @@ http://centova.radios.pt:8565/;
 http://08.stmip.net:8750/;
 #EXTINF:-1,Rádio Matrix FM
 https://s42.maxcast.com.br:8164/live
-#EXTINF:-1,Morena FM
-http:/http:/adio2.suaradionanet.net:10511/stream
 #EXTINF:-1,Nova FM
 https://5a2b083e9f360.streamlock.net/88novafm/88novafm.stream/playlist.m3u8
 #EXTINF:-1,Novaprimeira Nacional
@@ -10402,8 +10393,6 @@ http://str0.creacast.com:80/capsao_a
 https://sonicpanel.oficialserver.com/8042/stream
 #EXTINF:-1,radio alagoas
 https://sp0.redeaudio.com/8180/stream
-#EXTINF:-1,Flashmix Rádio Web
-https:stream.riosulradio.com
 #EXTINF:-1,RadioOndasdacabreira
 https://ssl.stmxp.net:7012/index.html?sid=1
 #EXTINF:-1,Radio Nova Onda Total 2020
@@ -11342,3 +11331,15 @@ https://sagresfm.pt/stream/?q=http://176.61.144.80:9302/type=mp3
 https://centova01.logicahost.com.br:20003/stream/1/
 #EXTINF:-1,94 FM 
 https://centova.svdns.com.br:20148/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/37648/logo_mmFJu20Mln.png",Rádio Êxitos Portugueses
+https://stm9.voxhd.com.br:8686/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/37679/logo_RTSAU5A3iS.png",Antena Sul Radio
+https://nl.digitalrm.pt:8014/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/46207/logo_3561eCTMjY.png",Eurosom1 Radio
+https://s1.stmxp.net:7278/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/37641/logo_wTgawtA2WC.png",Rádio Ondas da Cabreira
+https://ssl.stmxp.net:7012/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/37822/logo_ya9QuyHeDc.png",RFM Toca Portugal Radio
+https://28513.live.streamtheworld.com/RFM_PORTUGAL.mp3
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/46238/logo_bGDFHggIq5.png",amor proibido Radio
+https://stm1.may-stream.top:7012/

@@ -67,3 +67,9 @@ https://stream.radiofrance.fr/franceinter/franceinter.m3u8?id=radiofrance
 http://mayotte.ice.infomaniak.ch/mayotte-128.mp3
 #EXTINF:-1,Rea FM
 http://manager6.streamradio.fr:2330/
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/79542/logo_e4TiFAAoih.png",Hero Radio (Mayotte)
+https://a2.asurahosting.com:6790/radio/mayotte.mp3
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/79541/logo_LRpI3tKMHc.png",Antenna Web Mamoudzou Radio
+https://halo.streamerr.co/listen/italiavera/stream.mp3
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/79535/logo_3ZN8I0RXas.png",R.M.V Radio
+http://51.210.148.30:8000/

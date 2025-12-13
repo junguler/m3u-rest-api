@@ -27,3 +27,5 @@ http://138.201.52.248:8165/stream
 http://104.131.13.48:8000/radio.mp3
 #EXTINF:-1,NBR Grace FM – The Valley – AI
 https://s30.myradiostream.com:32104/
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/85595/logo_YTLHQMF1Ea.png",Vale fm Radio
+https://stream1.svrdedicado.org:7177/

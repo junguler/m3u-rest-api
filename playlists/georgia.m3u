@@ -515,3 +515,9 @@ http://das-edge17-live365-dal02.cdnstream.com/a03775
 https://stream.radiojar.com/sr4vzamzfnruv
 #EXTINF:-1,ATL Webradio
 https://usa2.fastcast4u.com/proxy/atlwebra?mp=/
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/81157/logo_XJAKBFvOvI.png",Fortuna Plus Radio
+https://tv.cdn.xsg.ge/cld9-0386/fortunaplus/index.m3u8
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/9JC3ZE.png",GPB Radio 2
+https://gpb.streamguys1.com/gpb-atlanta-aac-website?listenerid=1279f9ac81c0918528ab2cca000dbb2f&awparams=playerid%3ASGplayer%3BcompanionAds%3Atrue&amsparams=playerid%3ASGplayer%3Bskey%3A1594549698375%
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/VVKE0T.png",რადიო თავისუფლება
+https://rfe-audio.rferl.org/GE/2020/06/16/20200616-060000-GE067-program.mp3#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/9JC3ZE.png",GPB Radio 2

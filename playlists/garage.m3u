@@ -301,3 +301,21 @@ http://dominikwagner.stream.laut.fm/dominikwagner?t302=2025-09-19_04-43-50&uuid=
 http://server2.ejeserver.com:8224/stream
 #EXTINF:-1,X 92.9 – CFEX-FM
 http://ais-sa1.streamon.fm/7251_64k.aac?starttime=1610808127
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/27178.v2.png",Flow 502 Radio
+http://live.myradioserver.net:7504/
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/27033/logo_ZEgFA8ZvpX.png",Louie Louie Radio
+https://louielouie.stream.laut.fm/louielouie?t302=2025-12-07_20-25-44&uuid=99ce3d96-4f96-4a11-9a45-096d6a40a712
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/85422/logo_gpRvHx6zhC.png",Mai Irie Anthems Radio
+https://27163.live.streamtheworld.com/IRIEANTHEMS_S01AAC.aac
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/101380/logo_b4dtDYPR4H.png",Dirty Water Radio
+https://das-edge16-live365-dal02.cdnstream.com/a05873
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/51397/logo_6BBOrVT6BA.png",Vibez Urban Dance Radio
+https://listentomystream.com:8019/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/101462/logo_2Knq1P8m4k.png",Psycho Jello Radio
+https://das-edge14-live365-dal02.cdnstream.com/a57014
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/49408/logo_EnfLiuZ73R.png",Love Life Radio
+http://orbit.citrus3.com:8156/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/50968/logo_O8l4vq3mxi.png",Hot Radio
+https://stream1.hippynet.co.uk/stream/hotradio/dorset?_=263895
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/48085/logo_dqo3dnWfcz.png",Deepinside Guest Session Radio
+https://stream.rcs.revma.com/zekwtfuz3tzuv

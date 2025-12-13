@@ -547,10 +547,6 @@ http://cmr-hosting.com:8020/;stream.nsv
 http://s8.iqstreaming.com:8026/stream;
 #EXTINF:-1,Club Music Radio - LOVE SONGS
 http://cmr-hosting.com:8040/;stream.nsv
-#EXTINF:-1,Hrvatski Radio Vukovar
-http:/http:/adiostream.optiklink.com:8100/live.mp3
-#EXTINF:-1,Radio Otočac
-http:/http:/adio.pa-hosting.de:1080/;
 #EXTINF:-1,Rock &amp; Off Radio
 https://stream4.rcast.net/67353
 #EXTINF:-1,Radio Belišće
@@ -571,18 +567,12 @@ http://s8.iqstreaming.com:8006/stream?type=http&nocache=1695
 http://c5.hostingcentar.com:8432/;
 #EXTINF:-1,Club Music Radio - ExYU-POP-ROCK
 https://cmr-hosting.com/8080/stream
-#EXTINF:-1,Radio Dalmacija Oliver
-http:/http:/adioimotski.radioca.st:8662/stream
 #EXTINF:-1,Radio Delta
 https://ec2s.crolive.com.hr:1815/stream
-#EXTINF:-1,Radio Dalmacija Rokija
-http:/http:/adiorojc.streamradio.com.hr:8974/;
 #EXTINF:-1,Antena Zagreb Xmass
 http://live.antenazagreb.hr:8015/stream
 #EXTINF:-1,Extra FM Fresh
 http://c5.hostingcentar.com:8426/;
-#EXTINF:-1,Radio Dalmacija Hajducke
-https:/http:/adiokastav.radioca.st/stream
 #EXTINF:-1,Extra FM DAB+
 http://c5.hostingcentar.com:8442/;
 #EXTINF:-1,Radio Dalmacija mix (miXmas)
@@ -747,8 +737,6 @@ https://a9.asurahosting.com:8980/radio.mp3
 https://streams.radio.co/s1b59a32d7/listen
 #EXTINF:-1,Radio Novi Val
 http://live.novi-val.com:8000/radio.mp3
-#EXTINF:-1,narodni
-/urlParser?l=http%3A%2F%2Fwww.radio-martin.hr%2Flisten.pls
 #EXTINF:-1,Sjeverni.FM
 http://stream1.radio-banovina.hr:9998/
 #EXTINF:-1,Nardoni Radio Goga
@@ -1167,3 +1155,129 @@ https://stream.laut.fm/101fm?ref=radiode
 https://stream.otvoreni.hr:443/stream48
 #EXTINF:-1,Radio-Kaj 
 https://stream.rcast.live/66509
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/40906/logo_QW1YyBfQNK.png",HRT - Radio Split
+https://28513.live.streamtheworld.com/SPLIT_ADP.aac
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/40892/logo_KPgLow4qOE.png",Club Music Radio - Folk
+http://cmr-hosting.com:8010/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/40895/logo_hQPn3wjdIl.png",Laganini FM Radio
+http://194.145.208.251:8008/start/lfmpz
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/40896/logo_qYEFUzVuOb.png",Radio Labin
+http://radiolabin.streamradio.com.hr:9100/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/40860/logo_qz3EZ7q4Wn.png",Euforija Radio
+https://ec6.yesstreaming.net:1280/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/40903/logo_YOHWYYoAT7.png",HRT - Radio Zadar
+https://22733.live.streamtheworld.com/ZADAR.mp3
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/40935/logo_7TJ6NWhE4T.png",HRT - Radio Dubrovnik
+https://25603.live.streamtheworld.com/DUBROVNIKAAC.aac
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/40929/logo_CSzGlguOYs.png",Radio Lucky
+http://cmr-hosting.com:8470/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/40825/logo_t64FmL0TXk.png",HRT - Radio Rijeka
+https://27913.live.streamtheworld.com/RIJEKAAAC.aac
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/40875/logo_b4WaudIrUb.png",HRT - Radio Knin
+https://25633.live.streamtheworld.com/KNIN.mp3
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/40924/logo_dD9rFHXzjQ.png",Club Music Radio - CRO HITS
+http://cmr-hosting.com:8060/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/40899/logo_rkKrI62wNw.png",Radio Šibenik
+http://144.76.219.22:8215/stream.mp3
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/40947/logo_RDHWIcpawH.png",Club Music Radio - 70s, 80s, 90s
+http://cmr-hosting.com:8030/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/40937/logo_Qr42yjFzR2.png",Club Music Radio - Dance
+http://cmr-hosting.com:8020/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/40915/logo_nwWCrzH4pX.png",Radio Sunce
+http://shoutcast.pondi.hr:8002/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/40874/logo_yQITTnVrxN.png",Radio Sjeverozapad
+https://a4.asurahosting.com:7840/radio.mp3
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/40931/logo_162v4yOsZF.png",HRT - Radio Pula
+https://21633.live.streamtheworld.com/PULA.mp3
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/40889/logo_Sv62lbmwfd.png",Ultra Split Radio
+http://c5.hostingcentar.com:8061/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/40946/logo_q4qB10Ml82.png",Radio Daruvar
+https://mcp1.mydataknox.com:8016/live.mp3
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/40941/logo_rCWlKKxRHL.png",Club Music Radio - ITALO DISCO
+https://cmr-hosting.com/8050/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/40907/logo_kKoy96JNqU.png",HRT - Radio Osijek
+https://25553.live.streamtheworld.com/OSIJEK.mp3
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/40940/logo_kvGhVnSDcR.png",Radio Baranja
+http://s8.iqstreaming.com:8036/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/40910/logo_ym6nFYhtAl.png",Radio Mreznica
+https://stream3.dns69it.com/%2A.mp3
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/40868/logo_m5UfFGFh5s.png",Radio Trogir
+http://144.76.39.214:6022/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/40836/logo_zQGg79bZjh.png",Petrinjski radio
+https://s8.iqstreaming.com:2020/stream/petrinjski_radio
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/40879/logo_pc5Jj7fFUA.png",Radio Stubica
+http://radiostubica.hc.hr:7010/&amptype=mp3
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/40979/logo_LtLkfXMocd.png",Prvi karlovački - Sweet memories Radio
+http://s8.iqstreaming.com:8008/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/40897/logo_Qm6EerRexm.png",Radio Postaja Novska
+http://genf196.startdedicated.de:8686/%2A.mp3
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/40943/logo_mTpVe7MVDM.png",Radio Nova Gradiška
+http://comet.shoutca.st:8050/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/40948/logo_8JBOFbzGU6.png",Studio M Radio
+https://a4.asurahosting.com:7090/studiom.aac
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/40873/logo_RB7nqmSJX1.png",Radio Virovitica
+https://streaming.icv.hr/8002/stream/
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/40978/logo_IKvJj1XASE.png",Prvi karlovački - WOW Hits Radio
+http://s8.iqstreaming.com:8030/stream?type=http&ampnocache=790
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/40894/logo_Q8IOUn776Z.png",Radio Ludbreg
+https://a1.asurahosting.com/listen/radioludbreg/radio.mp3
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/40909/logo_BqXdIkNGv6.png",Radio Slunj
+https://s8.iqstreaming.com:2020/stream/radio-slunj1/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/40972/logo_CFEAtZaRtG.png",Prvi karlovački Live Radio
+http://s8.iqstreaming.com:8002/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/40976/logo_aXdzIToZMi.png",Prvi karlovački - NOW Dance 90&#x27;s Radio
+http://s8.iqstreaming.com:8010/stream?type=http&ampnocache=15540
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/40852/logo_ZT9oiaycV2.png",Radio NU
+https://slusaj.hr:10445/
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/40850/logo_uC3LEByP78.png",Novi radio Zadar - #onlymusic
+https://s8.iqstreaming.com:2020/stream/novi_radio/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/40980/logo_Nyl31rZqQT.png",Prvi karlovački - Grill Mix Radio
+http://s8.iqstreaming.com:8006/stream?type=http&ampnocache=1695
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/Z78KXF.png",Balkan Network Radio
+https://my-radio.live:8000/
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/JRBXQW.png",CLUB MUSIC Radio - Love Songs
+http://cmr-hosting.com:8040/
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/TFFC75.png",Enter Zagreb
+http://live.enterzagreb.hr:8025/
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/KFM46R.png",Gold FM
+http://live.goldfm.hr:8068/
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/WBJ5R3.png",HR Knin
+https://25603.live.streamtheworld.com/KNINAAC.aac?dist=streamitter
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/KUB0JG.png",HRT - Drugi program
+https://25703.live.streamtheworld.com/PROGRAM2AAC.aac
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/ZP1F08.png",HRT - Dubrovnik
+https://21633.live.streamtheworld.com/DUBROVNIKAAC.aac
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/14J0LF.png",HRT - Knin
+https://22653.live.streamtheworld.com/KNIN_SC
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/SO4JF.png",HRT - Osijek
+https://29083.live.streamtheworld.com/OSIJEK_SC
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/72EPA8.png",HRT - Prvi program
+https://28513.live.streamtheworld.com/PROGRAM1_SC
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/7XSQQ6.png",HRT - Pula
+https://28513.live.streamtheworld.com/PULA_SC
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/VH4U99.png",HRT - Rijeka
+https://27913.live.streamtheworld.com/RIJEKA_SC
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/OQBHZK.png",HRT - Sljeme
+https://29103.live.streamtheworld.com/SLJEME_SC
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/L2I32.png",HRT - Split
+https://25453.live.streamtheworld.com/SPLIT_SC
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/9QDI9T.png",HRT - Treći program
+https://27743.live.streamtheworld.com/PROGRAM3AAC.aac
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/WRI5BX.png",HRT - Zadar
+https://25683.live.streamtheworld.com/ZADAR_SC
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/N9SUCG.png",KFLM Radio
+http://klfm.streamradio.com.hr:8300/64
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/C87V7T.png",Radio Dalmacija
+http://5.9.210.22:8000/
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/NKZ1SH.png",Radio Dalmacija
+http://shoutcast.pondi.hr:8000/
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/8LCJ2M.png",Radio Iskrica
+https://server4p.com/8010/stream/
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/QRMQ1A.png",Radio Marija
+http://dreamsiteradiocp.com:8026/
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/GNURRK.png",Radio Mrežnica
+https://stream3.dns69it.com/stream?type=http&nocache=123
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/9YZ4X9.png",RADIO STREAM 37
+https://s28.myradiostream.com:23774/listen.mp3?nocache=1763031801
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/XH7G62.png",Z fm
+https://ec2s.crolive.com.hr:7015/stream#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/9W621J.png",AFN Balkans

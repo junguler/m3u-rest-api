@@ -237,3 +237,5 @@ https://s4.radio.co/s1b3ed2c45/listen
 http://live.radiospinner.com/hrdtchnrv-96
 #EXTINF:-1,SLE Radio - RAVE
 http://sleradiogroup.com/listen/sle_radio_rave/radio.mp3
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/S6ASNV.png",XRadio
+http://xradio.zone:9420/

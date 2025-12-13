@@ -71,8 +71,6 @@ https://s2.radio.co/s30844a0f4/listen
 https://dfm-avburren.hostingradio.ru/avburren96.aacp
 #EXTINF:-1,EnergyFM Romania
 https://stream4.rcast.net/66175
-#EXTINF:-1,GANORIUM Radio
-https:/http:/adio.mugadavanje.rs/listen/mugadavanje/mugadavanje
 #EXTINF:-1,Central Coast Radio.com
 https://s4.radio.co/scf2280c01/listen
 #EXTINF:-1,MixLive.ie - InsomniaFM
@@ -89,3 +87,13 @@ https://strw3.openstream.co/941?aw_0_1st.collectionid%3D6522%26stationId%3D6522%
 https://strw3.openstream.co/939?aw_0_1st.collectionid%3D6520%26stationId%3D6520%26publisherId%3D963%26k%3D1756723811
 #EXTINF:-1,Tekno1
 http://cressida.shoutca.st:8591/listen.mp3
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/53967/logo_2IWTByOkhO.png",A State of Trance - Radio Record
+https://radiorecord.hostingradio.ru/asot96.aacp
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/102850/logo_Z9OhmxgveX.png",David Guetta Radio
+https://spn.liveradiofree.com/dvdgtt-96
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/37486/logo_DqDVo1bDyN.png",Progressive &amp; Tech-house on MixLive.ie Radio
+https://strw3.openstream.co/939?aw_0_1st.collectionid%3D6520%26stationId%3D6520%26publisherId%3D963%26k%3D1765139311
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/37495/logo_JRWKJvgdok.png",Trance Illusion on MixLive.ie Radio
+https://strw3.openstream.co/941?aw_0_1st.collectionid%3D6522%26stationId%3D6522%26publisherId%3D965%26k%3D1765139311
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/103457/logo_IzySnHpOfW.png",Radio 538 Tomorrowland One World
+https://27783.live.streamtheworld.com/OWR_WORLD_RADIO_NL_SC

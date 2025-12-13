@@ -9,3 +9,7 @@ https://listen.radioking.com/radio/500896/stream/558190
 https://nl4.mystreaming.net/er/bobmarleyhits/icecast.audio
 #EXTINF:-1,.977 Today&amp#39s Hits
 https://15113.live.streamtheworld.com/977_HITSAAC_SC?dist=onlineradiobox
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/81396/logo_U19nbmyXQm.png",Exclusively Bob Marley Radio
+https://2.mystreaming.net/er/bobmarley/icecast.audio
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/82153/logo_SLd0k5poPw.png",Exclusively Bob Marley - HITS Radio
+https://2.mystreaming.net/er/bobmarleyhits/icecast.audio

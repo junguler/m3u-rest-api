@@ -281,8 +281,6 @@ https://ep256.hostingradio.ru:8052/europaplus256.mp3
 https://24403.live.streamtheworld.com:443/RADIO_ACTIVAAAC.aac
 #EXTINF:-1,Radio FlashBack FM
 https://stm1.matutos.com.br:8008/stream
-#EXTINF:-1,Super Tokio Radio
-http:/http:/s2.myradio24.de:8410/stream
 #EXTINF:-1,Worldwide FM
 https://worldwidefm.out.airtime.pro/worldwidefm_b
 #EXTINF:-1,LaRadioDeLosLentos.com
@@ -291,14 +289,10 @@ http://01.solumedia.com.ar:7828/stream
 https://audio-edge-cmc51.fra.h.radiomast.io/475ebed1-595e-4717-b888-64fe8fc6b09f
 #EXTINF:-1,WRMI Radio Miami International
 http://wrmi.listen.creek.fm/stream
-#EXTINF:-1,DanceFox-Radio
-https:/http:/adioisw.icecaststream.de/streamhttp:/adioisw
 #EXTINF:-1,RadioAlma 101.9
 http://shoutcast2.wirelessbelgie.be:8310/;stream.mp3
 #EXTINF:-1,FLASHBACK FM
 https://chmedia.streamabc.net/79-ffm-mp3-192-2470075?sABC=64481259%230%23n1q9s1ns4osoonq326452q0po510q6pp%23bayvarenqvbobk&aw_0_1st.playerid=onlineradiobox&amsparams=playerid:onlineradiobox;skey:1682444889
-#EXTINF:-1,Joy Gospel Radio
-http:/http:/adio.myftp.biz:8000/stream.mp3
 #EXTINF:-1,WRN North America
 http://shoutcast.wrn.org:8025/NAMAAP
 #EXTINF:-1,Activa (Ciudad Juárez) - 1420 AM - XEF-AM - MegaRadio - Ciudad Juárez, Chihuahua
@@ -311,8 +305,6 @@ https://stream.bbrtv.com:10443/hls/_6ax4Y1MR/_6ax4Y1MR_live.m3u8
 https://ice.creacast.com/jowradio
 #EXTINF:-1,Flyflewradio
 http://flyflew.stream.laut.fm/flyflew?t302=2023-04-25_19-50-59&uuid=27e3474c-4117-40bd-ada4-d263c24194a1
-#EXTINF:-1,Radio Is A Foreign Country
-http:/http:/adionz-ice.streamguys.com/international.mp3
 #EXTINF:-1,Raadio Relax International
 https://edge03.cdn.bitflip.ee:8888/international?_i=acb8d3a6
 #EXTINF:-1,Kosice International ATC

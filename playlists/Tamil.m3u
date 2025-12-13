@@ -15,7 +15,6 @@ https://listen.housemasters-radio.com:8000/radio.mp3
 http://psrlive3.listenon.in/default
 #EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/6209892.jpg",US Tamil FM
 https://streaming.radio.co/s0cfc93915/listen
-#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/102497958.jpg",Ilayaraja Super Beats Radio
 #EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/20522137.jpg",Mantra 91.9 FM Jalandhar
 https://streamlky.alsolnet.com/mantrafm
 #EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/46446854.jpg",Radio Sooriyan
@@ -702,3 +701,21 @@ https://s2.voscast.com:9357/stream
 https://ssl.aloncast.com:1536/stream/1/
 #EXTINF:-1,Vanavil FM 
 https://s7.yesstreaming.net:9000/stream/1/
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/15184.v8.png",Oli 968
+https://28383.live.streamtheworld.com/OLI968FMAAC.aac
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/114975.v6.png",Bakthi FM Tamil
+https://strw3.openstream.co/847?aw_0_1st.collectionid%3D3641%26stationId%3D3641%26publisherId%3D871%26k%3D1762528856
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/3926.v4.png",Shaivam Radio
+https://18093.live.streamtheworld.com/SP_R2925215_SC
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/11737.v2.png",Canadian Tamil Broadcasting Corporation
+http://ctbcfmradio.primcast.com:4086/stream.mp3
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/80266/logo_kLO8ElCtax.png",Oli 968 Radio
+https://22893.live.streamtheworld.com/OLI968FMAAC.aac
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/82585/logo_IhCYFlXP0o.png",Adithya Tamil Fm Radio
+https://adithyatamilfm01.radioca.st/
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/80110/logo_EUP5V2CL2t.png",Radio Suno Tamil
+https://16613.live.streamtheworld.com/RADIO_SUNO_TAMIL_S01AAC.aac
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/78699/logo_Ie6G5vQaCU.png",MegaZone South Radio
+https://vm65162.streamerr.co/listen/megazone_south/radio.mp3
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/89144/logo_yyG1kSFIQq.png",Durham Tamil Radio
+https://ec3.yesstreaming.net:3460/stream

@@ -37,3 +37,7 @@ http://radio-metalkultur.stream.laut.fm/radio-metalkultur?t302=2025-09-10_18-20-
 https://www.radiodrei.de/static/mp3/kullive.m3u
 #EXTINF:-1,saarkultur - 128 - Germany -
 http://saarkultur.stream.laut.fm/saarkultur?t302=2025-09-10_18-20-29&uuid=5cf4090f-af8c-4a7d-ac5e-812db76428a5
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/SL5152.png",BRACE FOR IMPACT
+https://cheetah.streemlion.com:1730/stream
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/3UR0Y0.png",Jazz Radio Cinéma
+https://jzr-wr20.ice.infomaniak.ch/jzr-wr20.mp3#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/SL5152.png",BRACE FOR IMPACT

@@ -53,3 +53,7 @@ http://5.39.39.105:8038/stream
 https://scdn.nrjaudio.fm/adwz1/fr/31523/mp3_128.mp3?origine=radio.net
 #EXTINF:-1,Caboradio
 https://www.radioking.com/play/caboradio
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/37668/logo_lkzKhqZBrr.png",TugaFm Radio
+https://tugafm.stream.laut.fm/tugafm?t302=2025-12-07_20-26-44&uuid=80952cf5-6a75-4207-b3cd-b76b3c9b5f64
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/47194/logo_OtLUsTks8i.png",NRJ Kizomba Radio
+https://streaming.nrjaudio.fm/ou8v8dgk7oiu

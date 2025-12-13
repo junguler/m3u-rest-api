@@ -187,8 +187,6 @@ http://thassos.cdnstream.com:5219/stream
 http://liderfm.ipradio.mk:10002/stream.mp3
 #EXTINF:-1,Jon Radio
 http://radiostream.neotel.mk:8000/jonradio
-#EXTINF:-1,Radio Time FM
-https:\/\/live.mkdstream.com\/listen\/radiohol\/rahol
 #EXTINF:-1,CMS Radio
 https://c13.radioboss.fm:18190/stream
 #EXTINF:-1,Radio 105 Aktuel Bombarder

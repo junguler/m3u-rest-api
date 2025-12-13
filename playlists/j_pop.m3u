@@ -345,3 +345,39 @@ https://mtist.as.smartstream.ne.jp/30007/livestream/playlist.m3u8
 https://www.simulradio.info/asx/tsukuba.asx
 #EXTINF:-1,FMたちかわ (FM Tachikawa)
 https://www.simulradio.info/asx/fm-tachikawa.asx
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/126110.v4.png",Curry Bun Radio
+https://a1.asurahosting.com:8420/radio.mp3
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/57622.v12.png",Bamm Radio
+https://radio35.virtualtronics.com:20040/
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/69765.v12.png",Kland México
+https://stream9.mexiserver.com/8046/stream
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/110098.v4.png",Lize Radio
+http://lizeradio.com:8080/&amptype=mp3
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/70268.v10.png",J-pop Project Radio
+https://15113.live.streamtheworld.com/SAM10AAC139.mp3
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/80048/logo_BqYVy6LxJE.png",J-Pop Powerplay Kawaii Radio
+https://kathy.torontocast.com:3060/
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/50481/logo_8pgROYQXga.png",J-pop Idols Project Radio
+https://26343.live.streamtheworld.com/SAM05AAC121.mp3
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/80060/logo_eMOlq8w22V.png",J-Rock Powerplay Radio
+https://kathy.torontocast.com:3340/
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/80047/logo_ynMtOm2KgH.png",J-Club Powerplay Hip-Hop Radio
+https://kathy.torontocast.com:3350/
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/99052/logo_mgJhGRyfbg.png",TJS Japanese Radio Station
+https://s8.citrus3.com:8200/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/73706/logo_nWH2i7v8qS.png",Bamm Radio
+https://radio35.virtualtronics.com:20040/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/81062/logo_hR8XDmcBQO.png",BEC Tero Radio - Tofupop Radio
+https://28153.live.streamtheworld.com/TOFU_POP_RADIOAAC_128.aac
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/81457/logo_Nwdo22yCxl.png",World Music Radio - J Pop
+https://nl4.mystreaming.net/er/jpop/icecast.audio
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/30020/logo_gzsVvqU1Xd.png",0nlineradio J-Pop
+https://0nlineradio.stream42.radiohost.de/0r-j-pop?upd-meta&upd-scheme=https&_art=dD0xNzY1MTM5NDgyJmQ9ODE5M2U3NDkyZmU1YjY4MWI1OWE
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/30206/logo_LkfKuLbMNk.png",Japanradio
+https://stream.japanradio.de/live
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/2EJCMZ.png",0nlineradio J-POP
+https://0nlineradio.stream42.radiohost.de/0r-j-pop?ref=streammitter&upd-meta&upd-scheme=https&_art=dD0xNzYzMDMzMzUzJmQ9ZmNhZGRjMDMzNTY5ZWQ1YzY5OGM
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/C4O3L5.png",Anime Nexus
+http://radio.animenexus.net:8000/animenexus
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/FTF4UB.png",Radio Anime 24
+http://91.232.4.33:7028/

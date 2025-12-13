@@ -179,3 +179,13 @@ http://liderfm.ipradio.mk:10002/
 https://playerservices.streamtheworld.com/api/livestream-redirect/AMAZING_VOCALS_S01.mp3
 #EXTINF:-1,Amazing Classic Hits
 https://playerservices.streamtheworld.com/api/livestream-redirect/AMAZING_CLASSIC_HITS_S01.mp3
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/NTR6IU.png",Kanal 103
+http://radiostream.neotel.mk:8000/kanal103
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/I2KD04.png",Radio 5fm
+http://5fm.mk:8000/stream/1/?type=http/
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/RF14L.png",RADIO CM
+http://s1.skyradio.com.mk:8002/
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/G3VOOA.png",Radio TIM 24h Online
+http://hydra.shoutca.st:8108/stream
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/MM4HM.png",Radio Vmro Makedonija
+http://hyades.shoutca.st:8072/stream

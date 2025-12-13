@@ -755,3 +755,9 @@ http://metaltvradio.stream.laut.fm/metaltvradio
 http://musik-from-gb-and-usa.stream.laut.fm/musik-from-gb-and-usa
 #EXTINF:-1,kultrock
 http://kultrock.stream.laut.fm/kultrock
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/103158/logo_6QbnOKSUam.png",Folk-Rock - Зайцев.FM Radio
+https://abs.zaycev.fm/folk256k
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/103384/logo_G3X253LCcG.png",Vertizontal Radio
+https://das-edge15-live365-dal02.cdnstream.com/a34398
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/103440/logo_tINTHsLnmS.png",RT1 Plärrer-Radio
+https://edge16.streamonkey.net/rt1-ch37/stream/mp3

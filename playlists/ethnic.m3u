@@ -171,8 +171,6 @@ https://live.superfm.ro/stream.mp3
 https://fluxfm.streamabc.net/flx-clubsandwich-mp3-128-6001945
 #EXTINF:-1,FluxFM - Sound Of Berlin
 https://fluxfm.streamabc.net/flx-soundofberlin-mp3-128-4733149
-#EXTINF:-1,Duna World Rádió
-https:/http:/autemusik-de-hz-fal-stream15.radiohost.de/house
 #EXTINF:-1,Electronic Music Club
 https://emc.stream.laut.fm/emc
 #EXTINF:-1,Radio Petrecere Romania
@@ -691,3 +689,47 @@ https://free.rcast.net/16918
 https://free.rcast.net/14143
 #EXTINF:-1,RADIO ROMANCE 21 - ETNO
 https://free.rcast.net/200681
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/102800/180_QJxpKTBxxp.png",Oriental Deep House Radio
+https://spn.liveradiofree.com/rntldphs-96
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/102799/180_F9OpLjuIT2.png",Buddha Bar Chill Radio
+https://spn.liveradiofree.com/bddhbrchll-96
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/44307/logo_l8m0QvwZqo.png",Retro FM Eestikas Radio
+https://edge03.cdn.bitflip.ee:8888/retro2.mp3?_i=40ec85c2
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/48323/logo_oicLb5s1PG.png",FM Radio Manele
+http://213.141.131.10:8000/manele
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/41386/logo_6rlyzj0x0j.png",Radio Kosova 2
+http://radio.rtklive.com:8098/
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/38348/logo_wSjwGxs08l.png",Radio Tequila Petrecere (București)
+https://petrecere.radiotequila.ro/7000/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/35280/logo_wXH6GBw1oY.png",Radio Jehona
+http://s26.myradiostream.com:10030/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/35295/logo_NNi5fqmfF6.png",Radio Rosa
+http://s3.free-shoutcast.com:18032/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/38143/logo_HxdF615CBy.png",Radio M Narodna
+http://team-data.ba:8036/?type=http&ampnocache=252
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/48641/logo_OBQAnQKod7.png",Radyo Home - Ege Havaları
+https://moondigitaledge.radyotvonline.net/egehavalari/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/76703/logo_ax2zbSfX4B.png",Radio Z1
+https://ecuamedios.net/8024/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/41160/logo_Ca6eXbXJEY.png",OK PRELO Radio
+http://live.okplus.rs:8050/
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/83186/logo_enfbhBicUd.png",StArtFM Madina Radio
+https://ssg.streamingmurah.com:9944/
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/52781/logo_2IVGznKCPF.png",Mythos FM 93.4 Radio
+https://stream.mythosradio.gr/listen/mythos/radiohi.mp3?3389
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/93785/logo_5Il3sYfUaD.png",WLQY 1320 AM Radio
+https://27033.live.streamtheworld.com/WLQYAMAAC_SC
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/39464/logo_OHTz4eso3f.png",Rai Radio Live Napoli
+https://icecdn-19d24861e90342cc8decb03c24c8a419.msvdn.net/icecastRelay/S37263178/NDUDX4zRfi1K/icecast
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/84687/logo_XnJa9xQyKp.png",Triple Y Radio
+https://23163.live.streamtheworld.com/5YYY.mp3
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/84800/logo_sAEy2ikS8L.png",4EB Radio
+https://23193.live.streamtheworld.com/4EB.mp3
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/219/logo_ieLok0UcpC.png",Татар Радиосы
+https://tatarradio.hostingradio.ru/tatarradio320.mp3
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/48617/logo_bWI4ghlPHx.png",Hatay Radyo Melodi
+https://radyomelodi.80.yayin.com.tr/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/41189/logo_dBYyWTV1yY.png",Radio NSU
+https://stream.nsuzivo.rs/listen/nsuzivo/radio.mp3
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/27811/logo_NzYJGcQG3p.png",otticFM Radio
+https://otticfm.stream.laut.fm/otticfm?t302=2025-12-07_21-28-39&uuid=ca4df51e-8022-438d-9fc5-f38589f7b34d

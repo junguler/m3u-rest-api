@@ -239,3 +239,17 @@ https://medinafm.ice.infomaniak.ch/medinafm-128.mp3
 https://broadcast.ice.infomaniak.ch/aswat-high.mp3
 #EXTINF:-1,Medi 1 
 https://live.medi1.com/medi1
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/127389.v2.png",Alpha Radio, Rbat
+https://manager5.streamradio.fr:2115/stream
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/80450.v5.png",Skyrock Casablanca
+https://icecast.skyrock.net/s/casa_aac_64k
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/79644/logo_zpa0yeLNTW.png",Antenna Web Rabat Radio
+https://halo.streamerr.co/listen/italiavera/stream.mp3
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/79594/logo_pjlO9E1XKF.png",Chada FM Radio
+https://edge16.vedge.infomaniak.com/livecast/ik:chadatv/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/79645/logo_BYNzm4QRYW.png",Radio Aljalia - راديو الجالية
+https://a9.asurahosting.com:8750/radio.mp3
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/9XYRUP.png",Radio Mars - راديو مارس
+http://radiomars.bcast.infomaniak.ch/radiomars-128.mp3
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/WY081U.png",RADIOVENUS
+https://radiovenus.ice.infomaniak.ch/radiovenus-128.mp3

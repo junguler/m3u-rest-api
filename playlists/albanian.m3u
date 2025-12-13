@@ -193,3 +193,7 @@ https://live.topgold.al/topgold
 https://cp1.sednastream.com/proxy/clubfm?mp=/stream
 #EXTINF:-1,RADIO MARIA SHQIPTARE ALBANIA 
 https://dreamsiteradiocp2.com/proxy/rmalbania2?mp=/stream.mp3
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/35107/logo_XRvCS8Rusl.png",Radio Hasi Thate
+https://listen.lspublic.com:8000/stream.mp3
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/35070/logo_hUUYS3plju.png",Radio Rainca
+https://radiocast.ch:8000/

@@ -111,3 +111,11 @@ https://hosting.studioradiomedia.fr:2245/stream
 https://cloud8.vsgtech.co/8090/stream
 #EXTINF:-1,louange radio
 https://radio13.pro-fhi.net:19079/
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/78110/logo_7ceX618iNx.png",102FM (Réunion) Radio
+https://ecmanager4.pro-fhi.net/102fmoriginale
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/78109/logo_A7iEfDN9WW.png",Fréquence Sud Radio
+http://ecmanager5.pro-fhi.net:2060/
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/78106/logo_A0FkHrwoYd.png",Radio Frysson
+https://ecmanager.pro-fhi.net/radiofrysson2
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/78112/logo_V0ltHDNbtC.png",Antenna Web Saint-Denis Radio
+https://halo.streamerr.co/listen/italiavera/stream.mp3

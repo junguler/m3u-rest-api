@@ -75,3 +75,7 @@ http://live.radioklaket.ps/radio/8000/radio.mp3
 http://radio.r4fm.ps:8044/
 #EXTINF:-1,Basma بسمة radio بث حي
 https://mars.streamerr.co/8342/stream
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/131805.v2.png",Antenna Web Gaza
+https://mars.streamerr.co/8066/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/83857/logo_jRVaBc0HEn.png",راديو ترانس Radio
+https://sawtelghad.org:8002/

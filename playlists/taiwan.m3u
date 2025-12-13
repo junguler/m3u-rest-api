@@ -117,8 +117,6 @@ https://radio.suprememastertv.com/mp3_128k
 http://tedc.biz:8000/stream/2/stream/1
 #EXTINF:-1,Goodnews - Classic
 http://stream.rcs.revma.com/s7hc9kpy2tzuv
-#EXTINF:-1,臺北廣播電臺
-http:/http:/adio.suprememastertv.com/mp3_128k
 #EXTINF:-1,中廣音樂網i radio
 http://n06a-eu.rcs.revma.com/ndk05tyy2tzuv?rj-ttl=5&rj-tok=AAABiLQIxoUAVppP2RJLBWDgSw
 #EXTINF:-1,Lize Radio
@@ -315,3 +313,15 @@ http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/HasBahCa.m3u8
 https://cdn280.ccdntech.com/live-http/_definst_/vod280_Live/stars/playlist.m3u8
 #EXTINF:-1,Ai M Radio直播
 https://stream.rcs.revma.com/h4ta80hbqwuvv
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/124202.v1.png",Radio Voice of Ming Chuan
+http://radio.mcu.edu.tw:8080/radio
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/58821.v14.png",Taiwan Lounge Radio
+https://azuracast.conceptradio.fr/radio/8030/stream.mp3?1596557333
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/41377.v2.png",中廣音樂網i radio
+http://stream.rcs.revma.com/ndk05tyy2tzuv
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/110098.v4.png",Lize Radio
+http://lizeradio.com:8080/&amptype=mp3
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/80780/logo_zruEUJzUJv.png",needs RADIO
+https://cdn280.ccdntech.com/live-http/_definst_/vod280_Live/needs/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/9RJJY6.png",KBS Kaohsiung FM
+http://khpr-ice.streamguys1.com:80/khpr2

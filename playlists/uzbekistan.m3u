@@ -33,3 +33,5 @@ http://oriat.mediabay.uz/oriatdono.m3u8
 http://oriat.mediabay.uz/oriatfm.m3u8
 #EXTINF:-1,Smile fm
 http://smilefm.uz:8000/live
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/station-logo-no.png",UZR4 Do'stlik
+http://sc.bce.lu/eldo

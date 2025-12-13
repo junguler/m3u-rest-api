@@ -33,3 +33,11 @@ https://rtmc.ice.infomaniak.ch/rtmc-32.mp3
 https://smoothjazz.cdnstream1.com/2585_128.mp3
 #EXTINF:-1,Radio Comores Marseille 107.8 FM بث حي
 https://stream.vestaradio.com/RCM13?nocache=1691589981
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/79066/logo_lz8yNB4TMK.png",Antenna Web Moroni Radio
+https://halo.streamerr.co/listen/italiavera/stream.mp3
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/79063/logo_PNCNfv3BAJ.png",Radio Malezi FM
+http://37.187.77.45:9185/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/79067/logo_2hYSmmxtWz.png",Hero Radio (Comoros)
+https://a2.asurahosting.com:6790/comoros.mp3
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/RHP7L3.png",ACMC Radio
+https://acmc.ice.infomaniak.ch/acmc-32.mp3#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/RHP7L3.png",ACMC Radio

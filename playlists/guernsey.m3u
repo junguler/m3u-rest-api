@@ -27,3 +27,5 @@ https://live.radiospinner.com/clmpn-64
 http://s2.radio.co/s3508e02d2/listen
 #EXTINF:-1,Riduna-radio.com
 https://stream.radio.co/sa70b464db/listen
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/LRAK2A.png",Gnetradio
+https://s2.radio.co:80/s3508e02d2/listen

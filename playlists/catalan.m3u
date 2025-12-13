@@ -161,8 +161,6 @@ https://streaming.giraweb.com/8010/stream
 http://91.187.93.115:8000/;stream/1
 #EXTINF:-1,Ràdio Valira
 http://91.187.93.115:8020/stream
-#EXTINF:-1,Radio Platja d&#039;Aro
-https:/http:/elay.stream.enacast-cloud.com:40086http:/adioarenysdemar128.mp3
 #EXTINF:-1,La Veu
 https://streaming.enacast.com/laveu128.mp3
 #EXTINF:-1,Calafell Radio
@@ -177,10 +175,6 @@ https://srv7021.dns-lcinternet.com/8058/stream
 http://79.148.125.91:8020/;
 #EXTINF:-1,Radio Ona Mediterrània
 http://streaming.enantena.com:8000/onamediterrania128.mp3
-#EXTINF:-1,Radio Cubelles
-https:/http:/elay.stream.enacast-cloud.com:40007/tarragona56.mp3
-#EXTINF:-1,Canal Taronja Bages 95.8 FM
-https:/http:/tvelivestream.akamaized.nethttp:/tvesechttp:/nehttp:/ne_r4_main.m3u8?idasset=1712438
 #EXTINF:-1,Ràdio Sant Vicenç 90.2 FM radio
 https://streaming.enacast.com/stvicenc128.mp3
 #EXTINF:-1,Radio Olot radio
@@ -335,3 +329,5 @@ https://streaming.rac105.cat/
 https://streaming.rac1.cat/
 #EXTINF:-1,Ràdio Kanal Barcelona 106.9 FM 
 https://radioserver10.profesionalhosting.com:60970/stream
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/54272.v10.png",Alcanar Ràdio
+https://relay.stream.enacast-cloud.com:40241/alcanarradioHD.mp3

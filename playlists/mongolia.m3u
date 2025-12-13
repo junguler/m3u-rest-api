@@ -37,3 +37,11 @@ http://www.vom.mn/uploads/audio/2024-08/2024_08_28-03_55_53.mp3
 https://italiavera.radioca.st/stream
 #EXTINF:-1,Гэр бүлийн радио 104.5
 http://c2.radioboss.fm/stream/394
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/81120/logo_j0JQi8xIyZ.png",MGL Radio
+http://74.91.125.187:8096/stream/
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/81122/logo_K3P6RfBmdH.png",MGL Radio
+http://74.91.125.187:8096/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/81126/logo_urP4FCd6Ie.png",Antenna Web Mongolia Radio
+https://halo.streamerr.co/listen/italiavera/stream.mp3
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/81125/logo_pBv3U607wv.png",Music Plus+ Radio
+https://fps2.listen2myradio.com:2199/listen.php?ip=109.169.23.17&ampport=10762&amptype=s1

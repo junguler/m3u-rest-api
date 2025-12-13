@@ -319,3 +319,15 @@ http://darkarmyradio.stream.laut.fm/darkarmyradio?t302=2025-09-06_16-27-26&uuid=
 https://listen.openstream.co/6079/audio
 #EXTINF:-1,Kawaii Anime Radio (KWII)
 http://azura12.instainternet.com:8030/radio.mp3/
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/29612.v3.png",Yggdrasil Radio
+http://yggdrasilradio.net:8000/
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/102802/180_UJ3lySr9L9.png",Nightcore Beats Radio
+https://spn.liveradiofree.com/nghtcrbts-96
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/80048/logo_BqYVy6LxJE.png",J-Pop Powerplay Kawaii Radio
+https://kathy.torontocast.com:3060/
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/36558/logo_ZpOKwS7Vgr.png",Radio Prestige
+https://s3.slotex.pl:7076/stream/1/
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/31496/logo_7oFFwXrIL5.png",EIN HERZ FÜR MANGA UND ANIME Radio
+https://animefm.stream.laut.fm/animefm?t302=2025-12-07_20-22-20&uuid=c9e60ff2-a557-430d-bd36-65b58fcc4ba0
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/94055/logo_6oBtv6XPlt.png",Yggdrasil Radio
+http://yggdrasilradio.net:8000/stream

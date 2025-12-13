@@ -79,3 +79,9 @@ https://free.rcast.net/232627
 https://playerservices.streamtheworld.com/api/livestream-redirect/SP_R2890282.aac
 #EXTINF:-1,Fit24 Radio
 https://playerservices.streamtheworld.com/api/livestream-redirect/SAM09AAC164_SC.mp3
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/03/c300.png",101.ru: Armenia
+https://pub0202.101.ru:8443/stream/pro/aac/64/60
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/93608/logo_5dbwKtPOoW.png",Public Radio East
+https://26223.live.streamtheworld.com/WTEBFM.mp3
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/93550/logo_0nIovKr1vR.png",Public Radio East
+https://26223.live.streamtheworld.com/WZNBFM_SC

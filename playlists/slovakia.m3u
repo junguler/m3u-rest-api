@@ -187,14 +187,10 @@ http://trance.out.airtime.pro:8000/trance_a
 http://s28.myradiostream.com:18084/listen.mp3
 #EXTINF:-1,Jemné Melódie
 http://stream.bauermedia.sk/melody-hi.mp3
-#EXTINF:-1,Rádio Vlna Golden Hits
-https:/http:/adiosity.online:8000/aac
 #EXTINF:-1,Rádio Topoľčany
 http://80.242.44.249:8000/;
 #EXTINF:-1,Fun Radio Chill
 https://stream.funradio.sk:8000/chill128.mp3
-#EXTINF:-1,Fun Radio 80&amp;90
-https:/http:/adioserver.online:9936http:/adiosirava.mp3
 #EXTINF:-1,Infovojna
 http://159.69.219.5:8010/aac
 #EXTINF:-1,Radio Dychovka
@@ -301,3 +297,33 @@ http://s1-fmt2.liveatc.net/lzkz?nocache=2025083100201534883
 https://icecast.stv.livebox.sk/litera_128.mp3
 #EXTINF:-1,Fun Radio - CZ-SK 
 https://stream.funradio.sk:18443/fun128.mp3
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/41478/logo_xXnnufrmij.png",Rádio Vlna Oldies Party
+https://stream.radiovlna.sk:8000/party-hi.mp3
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/41419/logo_vTKNIc6gxE.png",897 DANCE Radio
+https://c34.radioboss.fm:8106/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/41450/logo_DeffmkvtEh.png",Rádio Paráda
+https://extra.mediacp.eu/stream/RadioParada%2Co.z.
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/41477/logo_wZWc6JUbYP.png",Rádio Vlna Classic Rock
+https://stream.radiovlna.sk:8000/rock-hi.mp3
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/41443/logo_ZoZhjrPZA9.png",897 GOLD Radio
+https://c10.radioboss.fm:8122/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/41482/logo_lNSh9QnMVQ.png",Rádio Music CZ
+https://mpc1.mediacp.eu/stream/radiomusiccz2
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/41481/logo_BXlcmZ7CrH.png",Radio KIKS - BIG 90s
+https://online.radiokiks.sk:8000/kiks_big90s.mp3
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/41480/logo_sntvrgT4kC.png",Radio KIKS - BIG 80s
+https://online.radiokiks.sk:8000/kiks_big80s.mp3
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/41473/logo_NR2BJN6aW9.png",Fun Radio CZ-SK
+https://stream.funradio.sk:8000/cs128.mp3
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/41455/logo_Mj6jLmpgGL.png",Rádio Rebeca
+https://mpc2.mediacp.eu:8200/rebecaweb
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/41462/logo_8dXUgQXhFa.png",HITRADIO SLOVAKIA
+https://hitradioslovakia.stream.laut.fm/hitradioslovakia?t302=2025-12-07_20-20-30&uuid=a13f0968-b164-4a9f-a18f-a759689e61b5
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/station-logo-no.png",Flash Radio
+http://stream.radiocenter.si:80/
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/XC1NWU.png",Fun Rádio Live
+https://stream.funradio.sk:8000/fun192.mp3
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/WQRN3P.png",RADIO Rock SV
+https://s2.myradiostream.com:4870/listen.mp3?nocache=1763034529
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/6FW5LO.png",Rádio VIVA
+https://stream.sepia.sk:8000/viva128.mp3

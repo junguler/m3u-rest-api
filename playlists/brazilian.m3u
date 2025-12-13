@@ -951,7 +951,6 @@ https://stm01.virtualcast.com.br:8152/massaflorianopolis?listening-from-radio-ga
 https://stm1.audiplushd.com.br:7154/
 #EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/51232534.jpg",Massa FM Chapecó
 https://stm01.virtualcast.com.br:8108/massachapeco
-#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/67577360.png",Rádio Massa FM - Lages
 #EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/71160859.png",102 FM Sertaneja
 https://stm28.srvaudio.com.br:10718/stream
 #EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/11470429.png",Rádio Blau Nunes - 97.9 FM
@@ -5234,3 +5233,1075 @@ http://13.stmip.net:8328/
 http://paineldj6.com.br:13500/stream/
 #EXTINF:-1,פריז תל אביב מיוזיק
 http://listen.radioking.com/radio/37085/stream/73406
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/62584/logo_d8V0uBFXt2.png",Rádio Regional Brasil FM
+https://stm8.xcast.com.br:9074/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/64905/logo_OL64lmorom.png",Rádio Geração Anos80
+https://stream.geracao.live/listen/anos80/radio
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/56091/logo_FPchSxsf3Y.png",Rádio Massa FM
+https://stm01.virtualcast.com.br:8116/massamaringa
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/64441/logo_mwxRdvcH4V.png",Mundo Livre FM Radio
+https://27223.live.streamtheworld.com/MUNDOLIVRE_CWBAAC_64.aac
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/58925/logo_MZymEM0me2.png",Radio Memória Lins
+http://stm22.voxtreaming.com.br:6812
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/29910/logo_PPMxHavL2l.png",0nlineradio Brazil
+https://0nlineradio.stream42.radiohost.de/0r-brazil?upd-meta&upd-scheme=https&_art=dD0xNzY1MTQ4MjMwJmQ9ZGQyNzFmMTJhMjAyZDY3ZjgyODI
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/58918/logo_9QpQmsRdmN.png",Rádio Massa FM
+https://stm01.virtualcast.com.br:8162/massarolimdemoura
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/57030/logo_FStARhaWYG.png",Rádio Mania Do Melody
+http://143.208.11.100:8426/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/64490/logo_2eNVu46PRn.png",Rádio Verde Vida
+https://srv.radioverdevida.com.br/listen/rvv/normal
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/57595/logo_Aj6L2b7YpP.png",Cidade 90.7 FM Radio
+https://rrdns-rcr.webnow.com.br/saojose.aac
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/78248/logo_LSaSAy2r4t.png",Antenna Web Ouagadougou Radio
+https://halo.streamerr.co/listen/italiavera/stream.mp3
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/56094/logo_witQUUPbJ9.png",Rádio Massa FM
+https://stm01.virtualcast.com.br:8120/massalondrina
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/56095/logo_AUTu29SCdT.png",Rádio Cidade
+https://27433.live.streamtheworld.com/RADIOCIDADEAAC.aac
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/64100/logo_NgHEWDJ1Sf.png",Rádio Nova Onda FM 104,9
+https://stm3.srvif.com:8318/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/57005/logo_vFjOFyszg1.png",Rádio Cidade FM
+https://server14.srvsh.com.br:7114/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/57598/logo_AFXKxyxpe8.png",Parecis FM 98 Radio
+https://8042.brasilstream.com.br/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/63997/logo_sTFmR55Hjl.png",Rádio Nativa
+https://azura3.cmaudioevideo.com:8170/radio.aac
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/63525/logo_ibx20FAV51.png",Rádio Scalla - Música Brasileira
+https://s01.svrdedicado.org:6782/stream/2/
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/65064/logo_uV0cvooF1K.png",Inolvidable FM Radio
+http://inolvidable-2.nty.uy:8080/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/36375/logo_zlyVmJ92sk.png",Gdynia Radio
+http://51.255.8.139:8064/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/63323/logo_t8QFX5xsEr.png",Pagode pra Valer Radio
+https://stm15.xcast.com.br:12534/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/62715/logo_GAgfhVHrYT.png",Rádio Cabaré
+https://server06.srvsh.com.br:8248/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/57788/logo_mDPOiqU27w.png",Montecarlo FM Radio
+https://rrdns-rcr.webnow.com.br/mtecarlot.aac
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/64503/logo_VoEeajYVZX.png",Rádio Butterfly Hosting
+https://servidor29.brlogic.com:8088/live
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/64557/logo_wLGJhqoLGE.png",Rádio Lobal FM
+https://s01.svrdedicado.org:6686/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/59326/logo_oWd90ouLhT.png",RÁDIO VIOLA VIVA REGIONAL
+https://centova.euroti.com.br:20050/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/56302/logo_sr6Pu3OVnZ.png",Rádio Reggae10
+https://s43.maxcast.com.br:8462/live
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/64210/logo_7mcNRPPf9l.png",Rádio Band FM
+https://media01.bitfibra.com.br/listen/band_fm_tupa/radio.mp3
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/64085/logo_FqJYHhV1vt.png",Rádio Estúdio 1
+https://stm1.hdmidia.srv.br:7014/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/57803/logo_3tHQSIpt83.png",Cidade 93.5 FM Radio
+https://rrdns-rcr.webnow.com.br/urussanga.aac
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/57237/logo_03AiP2mrqg.png",Rádio Cultura FM
+http://stream2.svrdedicado.org:8194/stream/
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/57445/logo_OMVx8zUezN.png",Rádio Tropical FM
+https://01.megadinamica.com:7134/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/64145/logo_oigERPt95M.png",Radio Estrela
+https://stm.srvvox.com.br:7816/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/60256/logo_qgk4P1C53u.png",Rádio Litoral FM
+https://22833.live.streamtheworld.com/LITORAL_COLATINAAAC.aac
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/57601/logo_koiphzPGsX.png",91 Rock Radio
+https://servidor40.brlogic.com:8044/live
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/103259/logo_HGq3DfL95j.png",Rádio Marinheiros
+https://azura4.cmaudioevideo.com:8390/live
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/60119/logo_F1lWfI0SZv.png",Rádio Raízes do Brasil
+https://srv1.braudio.com.br:7014/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/57473/logo_JceGWGkD0B.png",Rádio Tropical
+https://str1.streamhostpg.com.br:8068/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/61603/logo_FbwjkXBxRS.png",Nativa FM Radio
+https://24223.live.streamtheworld.com/NATIVA_SPAAC/HLS/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/63990/logo_CBxWdSqA46.png",Radio Nova WEB
+https://hts07.brascast.com:11158/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/59181/logo_BUvbKlZYjq.png",Rádio Coração Nordestino
+http://10.stmip.in:27058/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/37637/logo_Y09WUENxRL.png",Brazuca Flash Radio
+https://ssls.stmxp.net:8237/1
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/60685/logo_7jnBcb0B0l.png",Rádio Dinâmica
+https://stm24.stmsrv.com:8050/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/59060/logo_jUIgrpfvZl.png",Rádio Viola Viva Caipira
+https://centova.euroti.com.br:20055/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/63969/logo_k6dPgZdHNx.png",Rádio Panorama
+https://whd1.webradios.com.br:8620/8620
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/64897/logo_i03Nj248J4.png",Rádio Conexão Forró
+https://stm1.brsrv.xyz:7100/stream?1761525954351
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/64410/logo_kUjGjYWnMO.png",Rádio Geração MPB
+https://stream.geracao.live/listen/mpb/radio
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/56336/logo_LtMGZbhgHn.png",Estereosom 99.9 FM Radio
+https://v-us-01.wisestream.io/memfs/92f21385-b152-4dac-b01c-8e40befb94d3.m3u8
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/60107/logo_IKfc1Ys0af.png",Rádio Cidade 94.3 FM
+https://cidadedosolaac.jmvstream.com/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/56607/logo_pW3J9znNRB.png",Rádio Amiga FM
+https://hts02.brascast.com:13004/live
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/63366/logo_V3EsPz7vaa.png",Brasil Music Radio
+https://cc1.streammaximum.com:20009/
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/62308/logo_5tUtvcyGMq.png",Acre Tropical Radio
+https://stm11.voxhd.com.br:7796/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/59904/logo_mHk0SiEC62.png",Guararema 103.5 FM Radio
+https://srv1.braudio.com.br:7020/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/64131/logo_TgudpEr93p.png",Radio Central
+https://27393.live.streamtheworld.com/RADIOCENTRAL_AM.mp3
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/57435/logo_dPf5VLVxYN.png",Web Rádio Guamaré News
+https://hts02.brascast.com:8714/live
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/59038/logo_AUfUXu0ukN.png",Rádio Massa FM
+https://radio.saopaulo01.com.br/9712/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/57871/logo_yP11TljVaF.png",Rádio Massa FM
+https://stm01.virtualcast.com.br:8204/massagramado
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/57151/logo_cCCbXDJ2yZ.png",Rádio Buique FM
+https://www.appradio.app:8109/live
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/57985/logo_cuaYMZiOZM.png",Rádio Massa FM
+https://stm01.virtualcast.com.br:8160/massapontagrossa
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/56857/logo_7cMPZEGjIy.png",Rádio Massa FM
+https://radio.saopaulo01.com.br/9714/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/59948/logo_Fnind0XaIO.png",Rádio FM CDS Campo dos Sonhos
+https://cast.radiu.live:6924/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/64181/logo_Cg8d8ZTD25.png",Nativa FM Radio
+https://stm26.xcast.com.br:12014/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/58329/logo_VO1FMXpGT5.png",Rádio Novo Tempo
+https://stream.live.novotempo.com/radio/smil:rntVitoriaES.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/56828/logo_LrZdEGIVOD.png",Web Rádio Trindade Mania
+https://stm1.somhost.com.br:9126/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/60615/logo_DHi2sV9q3r.png",Rádio Piracicaba
+https://hts01.brascast.com:8904/live
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/57106/logo_QQM8w0oVuq.png",Rádio Procópio
+https://server16.srvsh.com.br:8352/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/56287/logo_HIIf3SZLKT.png",Rádio Studio Souto - Axé Folia
+https://centova5.transmissaodigital.com:20008/
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/64141/logo_9d95heuW8J.png",Rádio Nova Estação
+https://stm12.pluscast.com.br:7122/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/57997/logo_Tm6MMGFxEz.png",Difusora Pantanal Radio
+https://aovivo.difusorapantanal.com.br/listen/difusora_pantanal/radio.mp3
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/59993/logo_RGqb7MyC2d.png",Rede Aleluia Radio
+https://14398c.ha.azioncdn.net/primary/mg_uberlandia.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/58099/logo_2vtklaOTOV.png",Radio CBN
+https://19213.live.streamtheworld.com/CBN_SPAAC.aac
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/56502/logo_kc2CTuSAQf.png",Rádio Massa FM
+https://radio.saopaulo01.com.br/8218/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/64076/logo_3A8yhNjxOi.png",Rádio Difusora Penápolis
+https://shout35.crossradio.com.br:18020/1
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/64035/logo_W1oZSlVxLP.png",Rádio Band FM
+https://stm15.xcast.com.br:7200/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/58906/logo_HGNaMy073N.png",Mix 104.3 FM Radio
+https://26653.live.streamtheworld.com/MIXFM_SALVADORAAC.aac
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/57768/logo_SNUhThiTkH.png",Rádio Massa FM
+https://stm01.virtualcast.com.br:8056/massaourofino
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/57506/logo_hMpxMankLV.png",Radio Terras Altas FM
+https://stm1.centralcast.com.br:7004/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/64010/logo_d9d0DHiAeN.png",Rádio Nativa
+https://stm14.xcast.com.br:11958/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/57353/logo_Ulizy9F2zi.png",Rádio Cuite FM
+https://8076.brasilstream.com.br/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/57294/logo_QDRAtLPbhX.png",Radio Ótima Web
+https://stm7.srvvox.com.br:7668/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/64409/logo_zK6lk5DB36.png",Rádio Emoção Promissão
+https://stm18.voxhd.com.br:11410/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/61881/logo_85V81FNKOh.png",Rádio Plus Rock BR
+https://stm22.painelcast.com:6844/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/58908/logo_wksii0HdbZ.png",Rádio Massa FM
+https://radio.saopaulo01.com.br/8226/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/58434/logo_lgUO9SkI3d.png",Montecarlo FM Radio
+https://rrdns-rcr.webnow.com.br/mtecarloc.aac
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/57757/logo_1XDN4LsWJi.png",Rádio Massa FM
+https://stm04.virtualcast.com.br:8016/massalages?
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/64326/logo_fue3VCVZGj.png",Rádio Regional
+https://hts06.brascast.com:9794/live
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/64183/logo_7kvlsgi6AM.png",Nova Revolução Só Forró Radio
+https://stm2.brsrv.xyz:7374/stream?
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/59477/logo_YMXEtNCYnE.png",Pop FM Radio
+https://stm1.aovivodigital.com.br:9784/
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/57283/logo_wdYpr8y2wK.png",Clube FM Radio
+https://cast.youngtech.radio.br/radio/8970/radio
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/63971/logo_tfEWujI2A8.png",Dinamica FM Radio
+https://hts02.brascast.com:9138/live
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/60153/logo_b6fgRIEW63.png",Rede Aleluia Radio
+https://14398c.ha.azioncdn.net/primary/sp_bauru.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/62740/logo_CdHBjnnfaW.png",Clube FM Radio
+https://cloud.cdnseguro.com:2667/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/63478/logo_2sAPVppbnm.png",Rádio Represa
+https://stm1.radiosat.com.br:7006/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/57934/logo_uvmRCBTfQT.png",Rádio Barriga Verde AM
+https://paineldj.com.br:20004/
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/57126/logo_wgr1YlvOeC.png",Radio Avante
+https://stm17.xcast.com.br:8202//?
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/58000/logo_IcPSUL5MdC.png",Rádio Módulo
+https://8088.brasilstream.com.br/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/60725/logo_e9S1QBhyFE.png",Forrozeiros Fm Radio
+https://casthttps.suaradionanet.net/13799/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/58947/logo_Ux0AUJEzhD.png",Rádio Massa FM
+https://stm01.virtualcast.com.br:8132/massacolorado
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/57424/logo_JshTV4OJxA.png",Mix FM Radio
+https://24253.live.streamtheworld.com/MIXFM_NATALAAC.aac
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/59375/logo_tCKiMDV3eQ.png",Rádio Gazeta
+http://wz4.dnip.com.br/garcashd/garcashd.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/58066/logo_zK2pROvnEa.png",Rádio Novo Tempo
+https://stream.live.novotempo.com/radio/smil:rntBelemPA.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/57006/logo_dYKT83i2Qp.png",Radio Freestyle Mania Brasil
+https://stm2.srvif.com:8344/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/63477/logo_IqGF9VJJZM.png",Rádio Metropolitana
+http://cloud.cdnseguro.com:8010/
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/62425/logo_JvyfFIk9aV.png",Nova Onda Radio
+https://virtues.live:8078/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/63258/logo_UzLfn2H1mz.png",Rádio Brasil Web
+https://servidor38-5.brlogic.com:7064/live
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/62004/logo_vgUopRh7pn.png",Nativa FM Radio
+https://stm22.xcast.com.br:10542/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/57980/logo_E63L40D7m1.png",Rádio Novo Tempo
+http://stream.novotempo.com:1935/radio/smil:radionovotempo.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/56835/logo_uwXYna6fS1.png",Rádio Gospel Região das Águas FM
+https://ssl.srvstm.com:7868/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/64501/logo_HAf8lts5xv.png",Rádio Alvorada FM
+https://sv15.hdradios.net:7360/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/62371/logo_S4svU4SSD4.png",Rede Sat Deus é AmoR Radio
+https://24383.live.streamtheworld.com/SP_STUDIOC_ALTO.mp3
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/57776/logo_xu5cOEn7Vx.png",Radio Atlântida FM
+https://27353.live.streamtheworld.com/ATL_CRI_FMAAC/HLS/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/57746/logo_tIsIXMxiIk.png",Radio Atlântida FM
+https://liverdatlcx.rbsdirect.com.br/primary/atl_cxs.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/96675/logo_4TGoK0XcRV.png",Nossa Radio USA
+https://www.appradio.app:8134/live
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/64231/logo_f8Ylh0ncUP.png",Rádio Cidade
+https://stm2.xcast.com.br:12864/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/58122/logo_G5Wh9bRPdg.png",Super Rádio Colombo
+https://stm26.xcast.com.br:10966/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/57377/logo_kbXfihq6kM.png",Rádio Madruga FM
+https://06.stmip.in:27180/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/56307/logo_M256AuT3NG.png",Rádio Sete Colinas
+https://8300.brasilstream.com.br/stream?rand=v6hPc
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/56268/logo_SkOCMm0iLx.png",Clube FM Radio
+https://8093.brasilstream.com.br/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/64927/logo_MJwNWstn3A.png",Rádio Estância
+http://server3.webradios.com.br:9454/9454
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/62733/logo_KLZfxGYowO.png",Rádio Web Maisde Deus
+https://hts04.brascast.com:9628/live
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/60230/logo_pzbkHsVWfD.png",Clube FM Radio
+https://8177.brasilstream.com.br/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/60197/logo_e2nfGCUMG5.png",Rádio Litoral FM
+https://27423.live.streamtheworld.com/LITORAL_CACHOEIROAAC.aac
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/60004/logo_uaazAfRs1G.png",Nativa FM Radio
+https://stm25.xcast.com.br:7668/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/58227/logo_Ph5b4StQPQ.png",Rádio Caturite
+https://radio.saopaulo01.com.br:10976/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/64328/logo_1KxiLCwQSk.png",Rádio Progresso
+https://servidor26.brlogic.com:8158/live?type=.mp3
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/64120/logo_CvVg0nn60P.png",Radio Brasil
+http://shoutcast.sunrisenet.com.br:8002/1
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/57937/logo_RkGjic77BB.png",Rádio Massa FM
+https://glaudiotecnology.srv.br/listen/massa_fm_107.3_fm/massafm107?
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/59275/logo_s9V27rrkd7.png",Rádio Litoral FM
+https://27323.live.streamtheworld.com/LITORAL_LINHARESAAC.aac
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/58909/logo_wMKQ2gDyzX.png",Radio Band FM
+https://8048.brasilstream.com.br/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/57610/logo_JoRRUy7zzB.png",Radio Atlântida FM
+https://24403.live.streamtheworld.com/ATL_CHAAAC/HLS/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/56992/logo_W5ynySFQc2.png",Rádio Zona Norte FM
+https://sv15.hdradios.net:6730/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/56198/logo_KQVIVOjk9a.png",Rádio Cidadã FM
+https://stm01.virtualcast.com.br:8246/cidadapousoalegre?
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/64794/logo_85e3nqv1Mt.png",Rádio Sertões de Mombaça
+https://stm3.audiplushd.com.br:7668/stream?1761526891209
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/63924/logo_mBLeVydjM8.png",Rádio Mania
+https://stream1.svrdedicado.org:7115/1
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/63876/logo_pmTcuV7xsN.png",Rádio Cultura
+https://rrdns-imprensafm.webnow.com.br/culturafm.mp3
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/58666/logo_NsDuxvF9TO.png",Rádio Massa FM
+https://radio.saopaulo01.com.br/8198/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/57959/logo_ZWg6zwHvQO.png",Radio Atlântida FM
+https://26583.live.streamtheworld.com/ATL_BLUAAC/HLS/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/57750/logo_gqe1v0O5qC.png",Rádio Novo Tempo
+https://stream.live.novotempo.com/radio/smil:rntMaringaPR.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/56691/logo_uP6WffGU9s.png",Rede Serra Dourada Radio
+https://qrkkg7qqzj.zoeweb.tv/rcristalina/rcristalina.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/63490/logo_D92pB4USbS.png",Rádio Alvorada
+https://8494.brasilstream.com.br/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/59986/logo_xFjStliqMd.png",Clube FM Radio
+https://s06.maxcast.com.br:8046/live
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/58635/logo_27ciRCoGql.png",Rádio Band FM
+http://paineldj.com.br:11698/
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/58192/logo_UL36oIRwAK.png",Rádio Cultura FM
+https://stm22.xcast.com.br:10832/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/57740/logo_W92zbmeeng.png",Radio Atlântida FM
+https://liverdatlpel.rbsdirect.com.br/primary/atl_pel.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/63860/logo_Owdv2ORneD.png",Rádio Max
+https://stm6.painelvox.com:8416/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/62310/logo_x8csqKZjU9.png",Rádio Plus Samba
+https://stm22.painelcast.com:6842/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/60241/logo_3PyW0JMABE.png",Rede Aleluia Radio
+https://14398c.ha.azioncdn.net/primary/sp_araraquara.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/58454/logo_vuHwt3AslW.png",Alegria 89.5 FM Radio
+https://superaudio.radio.br/stream/alegriapel?
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/57705/logo_R1dSIcD203.png",Rádio Novo Tempo
+https://stream.live.novotempo.com/radio/smil:rntCampinasSP.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/64778/logo_7pgkgq3HMb.png",Rádio Sertanejo Universitário
+https://player.transmissaodigital.com/proxy/6752
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/63883/logo_54o08nj7PV.png",Rádio Cultura Municipal
+https://stm7.xcast.com.br:10230/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/60100/logo_5W5R6pfjik.png",Clube FM Radio
+https://8191.brasilstream.com.br/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/59102/logo_hpzh40JSbd.png",Rádio Band FM
+https://19253.live.streamtheworld.com/BANDFM_SP.mp3
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/58255/logo_HCzxMu9GjU.png",Rádio Massa FM
+https://stm01.virtualcast.com.br:8124/massafrancisbeltrao
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/57979/logo_hag5eWQwXf.png",Radio Atlântida FM
+https://liverdatlsc.rbsdirect.com.br/primary/atl_scr.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/57206/logo_MKmQayJNWU.png",Rádio Altinho FM
+https://stm1.uppcast.info:7060/stream?
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/63992/logo_BqI7b5xVr2.png",Nova Brasil FM Radio
+https://27353.live.streamtheworld.com/NOVABRASIL_ARAAAC.aac
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/62431/logo_ffTHXUbI1T.png",Rádio Difusora Sul da Bahia
+https://stm6.srvstm.com:7116/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/57773/logo_Qvn57HeVDe.png",Rádio Metropolitana
+http://cloud.cdnseguro.com:8008/
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/56989/logo_zVto708Uic.png",Rádio 102 FM
+https://rrdns-rcr.webnow.com.br/radio102.aac
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/64184/logo_dJ2mRstcCu.png",Rádio Band FM
+https://stm23.xcast.com.br:7378/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/59694/logo_5qyYYZaUB8.png",Rádio Gaúcha
+https://1162747t.ha.azioncdn.net/primary/gau_serra.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/58206/logo_DI6x7s1STq.png",Interativa FM Radio
+https://radio.saopaulo01.com.br:10766/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/57134/logo_ffGzhOuyLZ.png",Rádio Ativa FM
+https://stm28.xcast.com.br:8002/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/57102/logo_2CGJlERBHW.png",Jovem Pan FM Radio
+https://9643.brasilstream.com.br/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/56646/logo_URNAYRT3LS.png",Rádio Amplitude FM
+https://stma1.pluscast.net.br:7026/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/64121/logo_ygJHpTuePj.png",Radio Difusora
+https://stm12.srvstm.com:10774/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/59279/logo_Dv5U5XfEg2.png",Nova Brasil FM Radio
+https://24373.live.streamtheworld.com/NOVABRASIL_RECAAC.aac
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/56994/logo_o7ITb7XpiT.png",Rádio Montanhesa
+http://wz6.dnip.com.br/rlider90hd/rlider90hd.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/56543/logo_2XdzO3LWkX.png",Rádio Alternativa
+https://servidor30.brlogic.com:8050/live
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/64892/logo_B2YeFCiJ3v.png",Radio Master Digital
+https://stm4.colossocast.com.br:7782/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/64604/logo_4qm4KKppPR.png",Radio Fascinacao AM
+https://hts09.brascast.com:8320/live
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/60117/logo_lGjcPoUgCA.png",Rádio Itatiaia
+https://8372.brasilstream.com.br/stream?
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/59978/logo_Q1EqBmR1gF.png",Rede Aleluia Radio
+https://14398c.ha.azioncdn.net/primary/sp_franca.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/57178/logo_Ko0KRrrjBF.png",Boas Novas Radio
+https://stm2.aovivodigital.com.br:11868/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/57086/logo_7tHGhu901A.png",Rádio Torre de Davi
+https://stm13.stmsrv.com:8240/stream?1762299943315
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/57067/logo_zNa3Btbql2.png",Nossa FM Radio
+https://stm1.voxplayer.com.br:6682/?1761490609268
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/63989/logo_tBLCCC7N38.png",Rádio Evidência
+https://webradios.net/api/proxy-stream.php?ip=sv11.hdradios.net&ampport=7232&ampmount=%2Fstream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/59080/logo_Pwp6D68R8m.png",Rádio Estação Amambai
+https://server22.srvsh.com.br:6816/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/58072/logo_4NOWTqPasQ.png",Rádio Massa FM
+https://hts01.brascast.com:8868/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/64516/logo_P92ymQl1vv.png",Rádio Grande Rio FM
+https://stm12.pluscast.com.br:7294/
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/57556/logo_O3pJhdnbfc.png",Rádio Líder FM
+https://whd1.webradios.com.br:18558/8558
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/56852/logo_3Dr1RnAeQU.png",Rádio Só MPB
+https://srv1.braudio.com.br:7008/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/63839/logo_6GgFvN8OsM.png",Rádio Mais FM
+http://stream1.sempremaisfm.com.br:3650/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/63774/logo_5R1VFDYqCq.png",Rádio Massa FM
+https://radio.saopaulo01.com.br/9708/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/61462/logo_bBdqQdDutc.png",RádioSat Só Forró
+https://stm7.xcast.com.br:10734//stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/60164/logo_B3SakuIFhn.png",Rede Aleluia Radio
+https://14398c.ha.azioncdn.net/primary/pr_londrina.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/58238/logo_KTcO8ti7eR.png",São Bento FM Radio
+https://shout25.crossradio.com.br:18174/live
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/58021/logo_mFh3DnQpYW.png",Rádio Atlântida FM
+https://26583.live.streamtheworld.com/ATL_FLOAAC/HLS/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/57613/logo_4afVBWMxiQ.png",Rádio Novo Tempo
+https://stream.live.novotempo.com/radio/smil:rntPocosDeCaldasMG.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/57596/logo_hl0KP995LF.png",Rádio Só Forró
+http://stm5.audiplushd.com.br:7612/
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/63878/logo_E1DPfFM9B0.png",Rádio Band FM
+https://stm15.xcast.com.br:10402/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/60350/logo_TaDT0o1ONd.png",Rede Aleluia Radio
+https://204398c.ha.azioncdn.net/primary/radio98_5fm.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/58448/logo_iwY5tqEY3m.png",Correio do Valle FM Radio
+https://shout25.crossradio.com.br:18088/live
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/57575/logo_TJA9KsFP1f.png",Rádio Clube Deus é Amor
+https://26643.live.streamtheworld.com/MS_RADIOONLINE2AAC.aac
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/60047/logo_Nm7PPajeR6.png",Rede Aleluia Radio
+https://64398c.ha.azioncdn.net/primary/radio102_9fm.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/58433/logo_DQvwN2TACv.png",Rádio Caxias
+http://stream.radiocaxias.com.br/stream/rdcaxias
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/57500/logo_EmJBeqolB2.png",Rádio Três Marias FM
+https://radiortm.jmvstream.com/streamstream.nsv&amptype=aac
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/56978/logo_OeI879dP7a.png",Rádio Rural
+https://stm0.inovativa.net/listen/ruralfm/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/56740/logo_pfNROPUoa2.png",Rádio Independência FM
+https://streaming.radiosenlinea.com.ar/8070/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/64542/logo_25t9N5dv4U.png",Canal 100.1 FM Radio
+https://painel.radiosms.com.br/8018/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/64213/logo_gRlfDXkxDE.png",Rádio Cultura
+https://azura1.cmaudioevideo.com:8020/radio.mp3
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/57952/logo_Bn4EkJ0luR.png",Rede Aleluia Radio
+https://44398c.ha.azioncdn.net/primary/marumbyfm.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/57860/logo_Kzgfj6vyOs.png",Radio Atlântida FM
+https://liverdatlpf.rbsdirect.com.br/primary/atl_pfu.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/56443/logo_luUmF2VkNA.png",Rádio Mix Tupã
+https://live10.livemus.com.br:27164/stream?
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/63987/logo_KLedYxzEkw.png",Rádio Clube FM
+http://r15.ciclano.io:4350/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/60104/logo_33LSUXm79l.png",Rádio FM 103
+https://radio.saopaulo01.com.br:10954/streamm
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/60029/logo_8LkB8iLplr.png",Rádio Massa FM
+https://stm01.virtualcast.com.br:8134/massapimentabueno
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/60005/logo_G2V690JsUK.png",Rede Aleluia Radio
+https://14398c.ha.azioncdn.net/primary/sp_aracatuba.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/57941/logo_QpEDp1oKz2.png",Rádio Clube
+https://stm1.aovivodigital.com.br:10776/
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/57699/logo_pnqWfQYUx0.png",Rádio Massa FM
+https://stm01.virtualcast.com.br:8154/massablumenau
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/56285/logo_Oml0KX7rSq.png",Nova Peruibe FM Radio
+https://stm4.conectastreaming.com:7170/stream//
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/31531/logo_Ku2gpi3uQY.png",Klassik Radio - Movie
+https://klassikr.streamabc.net/klr-movienational-aac-128-2085172
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/64009/logo_ejXTkWQgoH.png",104 FM + Alternativa Radio
+https://stm10.voxhd.com.br:6760/stream?
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/60201/logo_vv8XuKGFOt.png",Nativa FM Radio
+https://sonicpanel.oficialserver.com:7041/
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/58098/logo_jCm43T6cHH.png",Rádio Massa FM
+https://stm01.virtualcast.com.br:8152/massaflorianopolis
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/57129/logo_GJIugpGoZc.png",Radio Doce Rio
+https://hts06.brascast.com:8984/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/64207/logo_cnuFXqGuLF.png",Rádio Prata
+http://r15.ciclano.io:8792/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/64135/logo_nQk5zQYAu7.png",Rádio Nativa
+http://streaming10.hstbr.net:8172/live
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/59979/logo_q0CoA3z2Rf.png",Nova Brasil FM Radio
+https://27383.live.streamtheworld.com/NOVABRASIL_RAOAAC.aac
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/58228/logo_a5EoaWVuD9.png",Parahyba FM 103.9 Radio
+https://stm1.xcast.com.br:9538/000000
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/64685/logo_IWAkvjDQjN.png",Rádio Nova Mix FM
+https://stm2.xcast.com.br:8686/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/64099/logo_TPgzH6F82O.png",Rádio Torre Forte
+http://stm3.voxhd.com.br:8116/stream?1761530371546
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/59907/logo_hYvAVf4y72.png",CBN Floripa Radio
+https://24383.live.streamtheworld.com/CBN_FLO.mp3
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/58829/logo_fSZkh0HLNP.png",Nova Brasil FM Radio
+https://27323.live.streamtheworld.com/NOVABRASIL_FORAAC.aac
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/64208/logo_SJI4svpOjQ.png",Rádio Integração
+https://streaming.midiaplayhost.com.br:8060/stream?
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/64002/logo_wtBgT28aLE.png",Rádio Band FM
+https://27433.live.streamtheworld.com/BANDFM_SPAAC_SC
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/63882/logo_GkGZD87dS6.png",Rádio Difusora Aparecida
+https://hts07.brascast.com:13690/live
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/57671/logo_KLxD7JJFRH.png",Rádio Novo Tempo
+https://stream.live.novotempo.com/radio/smil:rntAfonsoClaudioES.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/62568/logo_q6DKxWUWdi.png",Nativa FM Radio
+https://stm16.xcast.com.br:7138/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/57545/logo_nRg4kuv48Y.png",Rádio Novo Tempo Pernambuco
+https://s05.w3bserver.com:20012/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/57502/logo_n2csD8L3io.png",Rádio Rural AM
+https://radio.saopaulo01.com.br:10945/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/56969/logo_UnuKL3F4tD.png",Alternativa FM Radio
+https://stm23.srvaudio.com.br:9722//
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/64915/logo_amEYZFz8Rp.png",Rádio Independência FM
+https://hts03.brascast.com:8406/live
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/64205/logo_vIoiUVo5aA.png",Rádio Nativa
+https://stm11.xcast.com.br:12184/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/60273/logo_hJhvhqUOLB.png",Rádio Atalaia FM
+https://s08.w3bserver.com/listen/atalaia/radio.mp3
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/60252/logo_32dvJOfot4.png",Rede Aleluia Radio
+https://14398c.ha.azioncdn.net/primary/sc_blumenau.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/56111/logo_a4ZXfAhNZG.png",Rádio Novo Tempo
+https://stream.live.novotempo.com/radio/smil:rntSalvadorBA.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/64074/logo_7uSKZUIcla.png",Rádio Bainhas Pimenta
+https://stm26.srvaudio.com.br:9516/?
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/59105/logo_0QjiBWRB7u.png",Nova Brasil FM Radio
+https://19213.live.streamtheworld.com/NOVABRASIL_RIOAAC.aac
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/58733/logo_d81qOga0pX.png",Rádio Massa FM
+https://stm01.virtualcast.com.br:8180/massataquaritinga
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/58437/logo_gmBxKJ8GO1.png",Santa Maria FM Radio
+https://shout25.crossradio.com.br:18208/live
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/56143/logo_bWKJfWMSzV.png",Rádio FM do Povo Web
+https://server25.srvsh.com.br:7070/stream//
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/60303/logo_5Nwv9zrz4F.png",Rede Aleluia Radio
+https://14398c.ha.azioncdn.net/primary/rj_voltaredonda.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/60135/logo_ttHbdm8i3B.png",Rede Aleluia Radio
+https://14398c.ha.azioncdn.net/primary/sp_sjcampos.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/60000/logo_bTNYRC4nKf.png",Rede Aleluia Radio
+https://14398c.ha.azioncdn.net/primary/sp_ribpreto.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/59268/logo_i8yiu02aWm.png",Xingó FM Radio
+https://imagens.radioxingofm.com.br/top10/2025/03/1-lauana-prado-e-simone-mendes-saudade-burra.mp3
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/58570/logo_Sw4W27UxoZ.png",Rádio Agora FM
+https://stm4.srvif.com:8834/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/57956/logo_sz6QzZMJM1.png",Rádio Catarinense Band FM
+https://transoeste.streams.com.br/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/56807/logo_Vrv1l9ox9z.png",Rádio Opção
+https://streaming.radioopcao.com/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/56118/logo_N9XpHTEFf0.png",Rádio Iracema
+https://stm6.xcast.com.br:8696/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/63697/logo_xFO5yX4S9m.png",Rádio Nativa
+https://stm28.xcast.com.br:12038/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/58351/logo_Iby0TWaEZs.png",Rádio Venâncio Aires
+https://virtues.live:8322/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/57498/logo_32N3hwLLZM.png",Rádio Projeção FM
+https://player.transmissaodigital.com/proxy/7644
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/57000/logo_p4EHl0SFY9.png",Rádio Mariana FM
+https://stm26.srvaudio.com.br:11854/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/63413/logo_9Qiu32NWMb.png",Rádio Mpb Popular
+https://stm23.xcast.com.br:8600/stream?
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/60196/logo_tWCCQLLrLQ.png",Rede Aleluia Radio
+https://94398c.ha.azioncdn.net/primary/radio88_5fm.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/58266/logo_M3BBhEa0yi.png",Rádio Novo Tempo
+https://stream.live.novotempo.com/radio/smil:rntSaoJoseDoRioPretoSP.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/56514/logo_Razz5LZTdi.png",Rede Serra Dourada Radio
+https://qrkkg7qqzj.zoeweb.tv/rsmda/rsmda.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/64408/logo_otjVJ894Io.png",Rádio Cidade Mix FM
+https://stm2.srvif.com:7980/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/64243/logo_E9ccxRq9I0.png",Rádio Nova 102 FM
+https://sonicpanel.oficialserver.com:7016/
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/63495/logo_hJ0tKL534s.png",Rádio Cidade
+https://live1.livemus.com.br:27148/stream?
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/61602/logo_75VtgRKKdb.png",Rádio É+ FM
+https://streaming.knbcdn.com.br:8443/emais-fm
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/60103/logo_kQPdyKSpLV.png",Rádio Bandeirantes AM
+https://27413.live.streamtheworld.com/RADIOBANDEIRANTESAAC.aac
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/60050/logo_skpYsbLslH.png",Rede Aleluia Radio
+https://14398c.ha.azioncdn.net/primary/rj_macae.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/64032/logo_URGPi7zVz3.png",Radio Ilha
+https://stm2.voxhd.com.br:8158/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/60284/logo_eGwQyXsWRr.png",Rede Aleluia Radio
+https://84398c.ha.azioncdn.net/primary/radio105_5fm.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/60036/logo_0lBdQ2D71S.png",Nativa FM Radio
+https://stma1.svrstream.com.br:8170/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/58375/logo_JkqbF9vDAJ.png",Arapuan FM Radio
+https://streaming.engelhosting.com.br:10036/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/57530/logo_zobt3e8LON.png",Rádio Liberdade de Piripiri FM
+https://stm1.pluscast.com.br:7174/
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/57248/logo_Ai2vKxNFSL.png",Garbosa FM Radio
+https://stm12.voxhd.com.br:12618/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/64195/logo_z7mA80Zi2f.png",Rádio Criativa
+https://streaming.ei3.com.br/radio/8020/radio
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/60188/logo_9DvhrkFde4.png",Rede Aleluia Radio
+https://u9f60a6dec.map.azionedge.net/primary/radiocaraguatatuba102_7fm.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/57209/logo_dIkVa8l7IO.png",Rádio Nova 93 FM
+http://11.stmip.net:8542/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/64282/logo_gSIb3c94cf.png",Rádio Tucano FM
+http://centova13.ciclanohost.com.br:8056/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/63339/logo_c1RcSbQohd.png",RÁDIO CONASEP NEWS
+https://servidor28-5.brlogic.com:7084/live
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/60220/logo_qeRUR6mf0u.png",Rede Aleluia Radio
+https://14398c.ha.azioncdn.net/primary/sp_saocarlos.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/60076/logo_URArGQW3LY.png",Mundo Livre FM Radio
+https://rrdns-continental.webnow.com.br:80/mllondrina.mp3
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/57894/logo_fVxqRQagHz.png",Rádio Bandeirantes FM
+https://26483.live.streamtheworld.com/RADIOBANDEIRANTESAAC/HLS/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/64533/logo_1KenKEzNAs.png",Pericuma FM Radio
+https://stream.jmhost.com.br/radio/4080/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/64268/logo_p0nEo3j0eb.png",Rádio Trapiá
+https://stm25.srvaudio.com.br:9458/
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/60243/logo_aadyILievD.png",Rede Aleluia Radio
+https://14398c.ha.azioncdn.net/primary/mg_jfora.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/60067/logo_UWzGG8JMjZ.png",Rádio Litoral FM
+https://27393.live.streamtheworld.com/LITORAL_VITORIA.mp3
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/57920/logo_xGOWzvmkFD.png",Rádio Camboriú
+https://hts06.brascast.com:12414/live
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/57798/logo_xNfVXFpiic.png",Arapuan FM Radio
+https://streaming.engelhosting.com.br:10030/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/57465/logo_vyKxchR2xQ.png",Rádio Planalto 105.9 FM
+https://cast2.youngtech.radio.br/radio/8440/radio
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/57147/logo_Qlp8NKyCfP.png",90.7 FM Nossa Rádio
+https://azura4.cmaudioevideo.com:8070/radio.mp3
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/57044/logo_BYzrJNjkBk.png",Rádio Taperoá FM
+https://hts03.brascast.com:8850/live
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/60008/logo_3zHdslsyTm.png",Rede Aleluia Radio
+https://114398c.ha.azioncdn.net/primary/radiovitoriaregia.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/59420/logo_w7mulwt3lE.png",Rádio Alta Frequência
+https://cc4.streammaximum.com:20028/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/58198/logo_WxgA0LXSa9.png",Rede Aleluia Radio
+https://194398c.ha.azioncdn.net/primary/radio99_3fm.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/56965/logo_GbeLYOPKPI.png",Rádio Integração FM
+https://stm5.voxhd.com.br:8494/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/63169/logo_xhKnvJLp6f.png",CBN Radio
+https://26563.live.streamtheworld.com/CBN_VITORIA.mp3
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/57271/logo_h6yyO0BEwk.png",Alternativa FM Radio
+https://srv1.uaihost.audio:7042/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/64017/logo_E3YBVSaoRd.png",Rádio Massa FM
+https://stm01.virtualcast.com.br:8226/massamirandopolis
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/64016/logo_hrOpy8uc00.png",Rádio Band FM
+https://24373.live.streamtheworld.com/BANDFM_SPAAC/HLS/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/61531/logo_szNsdVv1e1.png",Alternativa Web Rádio
+https://server17.srvsh.com.br:8568/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/60187/logo_3JSOOCJW2g.png",Rede Aleluia Radio
+https://214398c.ha.azioncdn.net/primary/radio98_1fm.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/60019/logo_FP1KFffonE.png",Rede Aleluia Radio
+https://384398c.ha.azioncdn.net/primary/brasilia.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/57395/logo_JhmhKELjdv.png",Rádio Novo Tempo
+https://stream.live.novotempo.com/radio/smil:rntCuritibaPR.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/57345/logo_i4mVZqq60A.png",Rádio Balacobaco
+https://stm1.voxpainel.com.br:8024/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/57291/logo_spq0WhGiDq.png",Rádio Associativa FM
+https://stm2.voxhd.com.br:7648/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/57197/logo_JdUej7B5Xh.png",Rádio Studio FM
+https://stm22.voxhd.com.br:10512/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/64857/logo_Q6nNmd9epr.png",Band FM de Eunápolis Radio
+https://hts09.brascast.com:10884/live
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/60171/logo_RTDG2V5FH3.png",Rede Aleluia Radio
+https://14398c.ha.azioncdn.net/primary/sp_piracicaba.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/60071/logo_eKj5uqUgAb.png",Rádio Metropolitana
+https://cloud.cdnseguro.com:2563/
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/58866/logo_X8G7ZedWsN.png",Rádio Araguaia
+https://live.ojc.com.br/e9cd_7/myStream.m3u8
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/58830/logo_MCAu6krlyF.png",Rádio Massa FM
+https://stm01.virtualcast.com.br:8104/massajaru
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/58005/logo_fLe7BqnSb0.png",Arapuan FM Radio
+https://streaming.engelhosting.com.br:10028/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/56102/logo_WnnHnOHkt8.png",Feliz FM Radio
+https://streaming.fox.srv.br:8140/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/62624/logo_461zVO4omw.png",Clube FM Radio
+https://8138.brasilstream.com.br/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/59058/logo_qfeVOS2rZf.png",Rádio Massa FM
+https://stm01.virtualcast.com.br:8136/massaassis
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/58173/logo_iz4bouckug.png",Rádio Massa FM
+https://stm01.virtualcast.com.br:8158/massabrusque
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/57069/logo_g5XwvPrHk0.png",Clube FM Radio
+https://servidor17.brlogic.com:8262/live
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/64158/logo_vI27RUR7cb.png",Rádio Band FM
+https://stm12.xcast.com.br:10774/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/63675/logo_L2GKwIk23N.png",Rede Aleluia Radio
+https://14398c.ha.azioncdn.net/primary/sp_sjriopreto.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/58864/logo_8Bkz24RWhI.png",Nova Brasil FM Radio
+https://26573.live.streamtheworld.com/NOVABRASIL_SSAAAC.aac
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/58449/logo_C5LdJnTs9h.png",96fm Natal-RN Radio
+http://r10.ciclano.io:6258/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/58376/logo_sMZyDlW0yz.png",Rádio Alternativa FM
+https://whd1.webradios.com.br:18568/8568
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/64211/logo_nNFOwoHJuW.png",Nativa FM Radio
+http://142.4.192.161:9330/
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/60244/logo_V9dRylz2FM.png",Rádio Massa FM
+https://stm01.virtualcast.com.br:8058/massanovaandradina
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/59057/logo_dI1ant7gFD.png",Rádio Band FM
+https://stm4.xcast.com.br:13060/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/56130/logo_wZu5IBSmNY.png",Rádio Itatiaia
+https://radio.saopaulo01.com.br:7000/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/64182/logo_VxJestEhHK.png",Rádio Cidade
+http://r18.ciclano.io:9693/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/58816/logo_1SYn3Qsyjx.png",Rádio Massa FM
+https://stm01.virtualcast.com.br:8130/massavilhena
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/57551/logo_r9tmfEYC0D.png",Web Rádio Toca Tudo
+https://centova3.transmissaodigital.com:20055/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/59911/logo_mprc3dsgu5.png",Rádio Mais FM
+http://wz6.dnip.com.br/maisfmpb88/maisfmpb88.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/56381/logo_BlBug0bOmj.png",Rádio Malhação
+https://stm22.xcast.com.br:11248/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/63271/logo_LMKgtVUcjX.png",Rádio Serra Jovem
+https://stm4.audiplushd.com.br:7690/?1760629140887
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/60160/logo_tgEossIER7.png",Rede Aleluia Radio
+https://14398c.ha.azioncdn.net/primary/sp_limeira.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/59482/logo_xVrhQo59wf.png",Itapema FM Radio
+https://27353.live.streamtheworld.com/ITA_FLO.mp3
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/58653/logo_GwljN1ugB8.png",Nova Brasil FM Radio
+https://23043.live.streamtheworld.com/NOVABRASIL_SPAAC.aac
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/56630/logo_WxY7iLeJvp.png",Rádio Vanguarda
+https://sonicpanel.oficialserver.com:7001/stream&amptype=ac+
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/64193/logo_8YHj7XyLsw.png",Rádio Alternativa
+https://stm2.voxhd.com.br:8164/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/63795/logo_sI57cr6bRg.png",Rádio Massa FM
+https://stm01.virtualcast.com.br:8234/massapresidentevenceslau
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/63101/logo_t8znSEu1fa.png",780 AM Nossa Rádio
+https://azura4.cmaudioevideo.com:8100/radio.mp3
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/56218/logo_Loa4G38HO2.png",Rádio Itatiaia
+https://8002.brasilstream.com.br/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/56215/logo_ilX0MH0Vcl.png",Nova Brasil FM Radio
+https://stm01.virtualcast.com.br:8280/novabrasilmantiqueira
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/58101/logo_X2dign4PVE.png",Radio CBN
+https://27443.live.streamtheworld.com/CBN_BSBAAC.aac
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/57797/logo_adTLxGRlNx.png",Rádio FM 99
+https://hts02.brascast.com:8862/live
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/56976/logo_z8NlAkkpX9.png",Rádio Bom Sucesso
+https://stm19.xcast.com.br:11984/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/63750/logo_hnA3GNbhdv.png",Rádio Massa FM
+https://radio.saopaulo01.com.br:10855/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/63480/logo_xzqCdCkKmw.png",Clube FM Radio
+https://s1.dvr.ovh:7066/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/57251/logo_F3IuQLBac3.png",Rádio Hora
+https://srvradio.indioweb.com.br/listen/radio_hora/radiohora.mp3
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/63993/logo_Y7pIeB5YWT.png",Rádio Jornal
+https://stma1.svrstream.com.br:8464/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/59061/logo_ImPXzo8dR4.png",Rádio Gaúcha
+https://liverdgausm.rbsdirect.com.br/primary/gau_centro.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/58446/logo_x0G8mCRphj.png",Rádio Band FM
+https://player-ssl.painelstream.net:9268/live
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/58219/logo_hvhwHOTz2P.png",Rádio Band FM Campos
+https://radio.saopaulo01.com.br/8182/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/57449/logo_SvqCtpWl3P.png",Rádio Brega Show
+http://stm1.voxpainel.com.br:9000/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/57249/logo_ZhcTD97xEE.png",Rádio 87.5 FM
+https://servidor26-2.brlogic.com:8134/live
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/57080/logo_v5BUIaiEAU.png",Rádio Band FM
+https://player-ssl.painelstream.net:9282/live
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/56909/logo_Oh7LlihGCo.png",Mega Fortaleza Radio
+https://stm6.srvvox.com.br:7386/stream?
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/64682/logo_YCdzGRbZS6.png",Rádio Ativa FM
+https://hts02.brascast.com:10710/live
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/64015/logo_0VxUvHIgom.png",Rádio Harmonia
+https://stm4.srvif.com:8676/stream/?
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/63704/logo_V7WFS9pA0v.png",Rádio Massa FM
+https://stm04.virtualcast.com.br:8012/massapassofundo?
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/60265/logo_zcCSZPgIfO.png",Rede Aleluia Radio
+https://264398c.ha.azioncdn.net/primary/radio90_7fm.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/60028/logo_4QJlwBkSc2.png",Rede Aleluia Radio
+https://234398c.ha.azioncdn.net/primary/radio94_9fm.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/59486/logo_aoSynqKjdT.png",Click 105 FM Radio
+https://s01.brascast.com:9914/live
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/58252/logo_lHAVzsHWvj.png",Rádio Massa FM
+https://stm01.virtualcast.com.br:8148/massacianorte
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/58132/logo_DRRPNxOsoW.png",Radio CBN
+https://24283.live.streamtheworld.com/CBN_BHAAC.aac
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/57366/logo_BdTMrH4Xno.png",101.5 FM Nossa Rádio
+https://azura4.cmaudioevideo.com:8140/radio.mp3
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/57127/logo_9V1JpBYFML.png",Rádio Serra Negra FM
+https://8052.brasilstream.com.br/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/64736/logo_m3Yv76N6sl.png",Rede Liberal Radio
+http://177.105.192.70:9750/liberalfm.mp3
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/64154/logo_vNWo9wFq1e.png",Rádio Escuta
+https://stm3.srvif.com:8054/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/60728/logo_k4iczO5UPs.png",Rádio Love Hits
+https://stm1.ahtvox.com.br:7028/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/60310/logo_NnYzPW0hqQ.png",Rádio Massa FM
+https://stm01.virtualcast.com.br:8168/massalitoralpr
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/60144/logo_jmlJYtTmfG.png",Rede Aleluia Radio
+https://14398c.ha.azioncdn.net/primary/sp_sorocaba.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/57108/logo_oNP8iXrPky.png",Rádio Jesus é o Senhor Web
+https://server20.srvsh.com.br:8466/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/56252/logo_DonIWF1r73.png",Rádio Studio 55 Flashback
+http://stm42.stmsrv.com:8030/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/58961/logo_iPCe5ltZ0x.png",Rádio Massa FM
+https://stm01.virtualcast.com.br:8044/massaceuazul
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/57425/logo_uQw2atZU10.png",Radio Cidade em dia
+https://rrdns-rcr.webnow.com.br/cidade.aac
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/57278/logo_7EhI1BPsgc.png",96.7 FM Nossa Rádio
+https://azura4.cmaudioevideo.com:8110/radio.mp3
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/57176/logo_gVvOL4msVi.png",Correio da Serra FM Radio
+https://shout25.crossradio.com.br:18086/live
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/56837/logo_Cy9p2YFtMW.png",Rádio Doce Terra FM
+https://hts06.brascast.com:8984/live
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/64844/logo_UfbkAFbStN.png",Rádio Educadora
+https://hts02.brascast.com:9100/live
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/64269/logo_8Xib4GNfS8.png",Rádio Mortugaba FM
+https://cast4.hoost.com.br:8612/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/60581/logo_ZXAF77hIG6.png",Meridional FM Radio
+https://8114.brasilstream.com.br/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/60302/logo_BwwNUvsJtz.png",Rádio Antena A
+https://sonicpanel.oficialserver.com:7029/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/60296/logo_4zTrAOCrNB.png",Rede Aleluia Radio
+https://154398c.ha.azioncdn.net/primary/radiomarcozero.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/60078/logo_TGDeuH0xf5.png",Rede Aleluia Radio
+https://14398c.ha.azioncdn.net/primary/rj_angra.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/59452/logo_5lpFu4Zr8p.png",Radio Digital Vida Renascer FM
+https://stm22.srvaudio.com.br:9470/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/58930/logo_xGpXYt8g7T.png",Rádio Band FM
+https://hts06.brascast.com:12766/live
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/57933/logo_nopNgBbaXp.png",Rádio Cidade FM
+https://stm1.aovivodigital.com.br:9830/
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/57092/logo_wFsdmHdyRV.png",Rádio Cidade FM
+https://rrdns-rcr.webnow.com.br/tb.aac
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/56963/logo_8spkELIInB.png",Radio Clube FM
+https://streaming.livespanel.com:21009/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/64693/logo_TIq8Rr7qC5.png",RB Líder FM Radio
+https://centova5.transmissaodigital.com:20115/stream%20
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/63912/logo_Ytvbou99jG.png",Palmeira FM Radio
+https://stm22.painelcast.com:6800/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/60098/logo_5hiBIWg8qv.png",Rede Aleluia Radio
+https://14398c.ha.azioncdn.net/primary/go_anapolis.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/60086/logo_ZMoZfKK8ZH.png",Rede Aleluia Radio
+https://14398c.ha.azioncdn.net/primary/rj_campos.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/57913/logo_Y5DD50Q9LU.png",Nova Onda Radio
+https://virtues.live:8076/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/57477/logo_qqeG8cgklj.png",Rádio Primeiro Minuto
+https://hts01.brascast.com:11020/live
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/57117/logo_pWZpERJ8OB.png",Radio Tangara AM
+https://paineldj.com.br:20006/
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/56427/logo_mBbJUQSOTz.png",Nativa FM Radio
+https://stm26.srvaudio.com.br:9362/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/56246/logo_h2azBGRhNq.png",Radio Raio de Sol 104.9 FM
+https://stm39.srvstm.com:7606/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/64579/logo_vtGWTx7kAD.png",Rádio Araibu FM
+https://sv11.hdradios.net:6786/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/63691/logo_AFZZGdkMyS.png",Rádio Magnificat
+https://stm4.srvif.com:8594/stream/?1760978253543
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/62424/logo_N6RyLUQGIk.png",Rádio Liberdade 101.9 FM
+https://azura4.cmaudioevideo.com:8350/radio.aac?
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/60134/logo_DigiohVGdd.png",Nova Brasil FM Radio
+https://27413.live.streamtheworld.com/NOVABRASIL_SPAAC_SC
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/59283/logo_SqkzRxxVYh.png",Clube FM Radio
+https://stream.jmhost.com.br/radio/4070/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/58233/logo_8IFkpXEicP.png",Radio Clube FM
+https://stm01.virtualcast.com.br:8296/clubelages
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/57357/logo_qUBRfVQjIG.png",Rádio Asas da Esperança FM
+https://webradios.net/api/proxy-stream.php?ip=sv11.hdradios.net&ampport=7716&ampmount=%2Fstream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/57035/logo_Ysl4b7A9W6.png",Rádio Regional FM
+https://wms5.webradios.com.br:19054/9054
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/64922/logo_OgC72rGMyy.png",Rádio Gospel  FM
+http://shoutcast2.s12.com.br:16000/stream&amptype=mp3
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/64728/logo_F1vaQKMgUY.png",Rádio Central FM
+https://stream3.svrdedicado.org/8174/stream?1760041964117
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/58237/logo_Gfqtqb5Cmz.png",Rádio Cidade 101
+https://painel.radiosms.com.br:7010/radio
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/56928/logo_9UswRUxRjS.png",Rádio Interativa FM
+https://stm8.xcast.com.br:7574//
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/64019/logo_7E5QqdJqGj.png",Rádio Difusora
+http://azura4.cmaudioevideo.com:8300/radio.mp3
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/63435/logo_hVVDGxoHZT.png",Rádio 101 FM
+https://nl.digitalrm.pt:8012/stream?n=3d0f68a5a2ce0f1c25e6
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/57547/logo_4sMTm5C8rb.png",Rádio Band FM
+https://server24.srvsh.com.br:8232/?
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/57436/logo_mvnielP1uk.png",Rádio Band FM
+http://r13.ciclano.io:8171/live
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/57219/logo_OkfT8Im1sC.png",Rádio Terra FM
+https://stm1.stmsrv.com:8450/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/56927/logo_z3z58lytxE.png",Rádio Cidade Diamantina FM
+https://8074.brasilstream.com.br/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/56445/logo_IlJk00NqiX.png",Rádio Eldorado AM
+https://hts05.brascast.com:9858/stream?
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/64221/logo_jT1ZZaeTBx.png",Rádio Universitária
+http://stream2.painel-stm.com:7010/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/63699/logo_U44WNDSAmX.png",Rádio Gazeta Online
+https://shout25.crossradio.com.br:18006/1?
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/60355/logo_jMyWjK8hWl.png",Rádio Massa FM
+https://stm04.virtualcast.com.br:8026/massacascavel?
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/57638/logo_VaNGbl3kmJ.png",Radio CBN
+https://26493.live.streamtheworld.com/CBN_RJAAC.aac
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/57187/logo_6ia2S1ghCN.png",Voce FM Radio
+https://radio.saopaulo01.com.br:10878/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/64916/logo_6avOqja5Rf.png",Rádio Fm Sertaneja
+https://stm1.matutos.com.br:9184/
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/64613/logo_ErW7Eg7AxQ.png",Rádio Jamacaru FM
+https://stm1.glaudiotecnology.uk:7004/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/59173/logo_VU4urCnhF4.png",Verdes Mares FM 87,9 Radio
+https://player.streaminghd.net.br/ssl.php?p=7122&amps=stm2
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/57048/logo_u1zv9G3OKo.png",95.7 FM Nossa Rádio
+https://azura4.cmaudioevideo.com:8090/radio.mp3
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/64096/logo_7EGQPFauoP.png",Rádio Nova Cristal
+https://hts05.brascast.com:11316/live
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/64089/logo_MXhhB4joqZ.png",RadiAtiva Radio
+https://stm8.xcast.com.br:7634/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/63793/logo_dthsuWPiDB.png",Rádio Massa FM
+https://stm01.virtualcast.com.br:8288/massaitabirito
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/60268/logo_twBcYrGzvm.png",Rede Aleluia Radio
+https://14398c.ha.azioncdn.net/primary/sc_criciuma.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/60130/logo_YM05LuqPKV.png",Rádio Massa FM
+https://stm01.virtualcast.com.br:8164/massacacoal
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/59186/logo_6HyVG3KBZU.png",Rádio Estrada Real FM
+https://r6.ciclano.io:15008/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/29723/logo_V2tki31rup.png",Klassik Radio - Brazil
+https://klassikr.streamabc.net/klassikr-brazil-aac-128-2379645
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/64340/logo_myHKM4G9aY.png",Boas Novas FM Radio
+https://s01.taaqui.org:9158/live
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/63457/logo_glrNEd1jN0.png",Rádio Itaberá FM 98.7
+https://servidor26-2.brlogic.com:8118/live
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/62433/logo_2WBk7JAxfJ.png",FM Super Radio
+https://azura4.cmaudioevideo.com:8030/radio.aac?
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/60441/logo_kiUObwQchq.png",Rádio Forrozada
+https://stm4.voxhd.com.br:7804/stream?
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/60347/logo_6Emz8v4F9z.png",Rádio FM 102
+https://radio.saopaulo01.com.br:10948/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/57557/logo_x0KndW6yRz.png",Rádio Pedra FM
+https://hts01.brascast.com:8116/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/57368/logo_AF24OFlexS.png",Rádio Nova Onda FM
+https://stm28.srvaudio.com.br:9906/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/57296/logo_SVHkrCIELg.png",Radio Solidaria FM
+https://stm1.glaudiotecnology.uk:7017/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/57032/logo_iy8a91qwiy.png",Rádio Zumbi dos Palmares JP
+https://player.ipstm.net/ssl.php?ip=srv11.ipstm.net&ampport=31414&ampmount=%2F%3B
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/57003/logo_S431sOT2xe.png",Rádio Afogados FM
+https://audio01.stmserver.com/listen/afogados_fm/radio
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/64173/logo_dyMkrnPnA0.png",Rádio Nascente
+https://servidor38-5.brlogic.com:7116/live?source=website
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/63856/logo_wfZSAtnl89.png",Rádio Nativa FM
+https://cast4.hoost.com.br:20145/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/60357/logo_J39XoeBvn4.png",Rádio Massa FM
+https://wms5.webradios.com.br:19046/9046
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/57542/logo_fLZSCe1tRC.png",Rádio Segredo FM
+https://hts02.brascast.com:8156/live
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/56536/logo_7frYHU9AZ7.png",Rádio Tucunare
+https://azura4.cmaudioevideo.com:8340/radio.mp3
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/61024/logo_IDZdrwq0pM.png",Rádio Fronteira
+https://s01.svrdedicado.org:7366/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/60976/logo_xCVY5mx0Kn.png",Alternativa FM Radio
+http://euroticast5.euroti.com.br:8074/
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/60939/logo_NcfRc15rI0.png",Fay Só Forró Radio
+https://stm2.brsrv.xyz:7194/streaming
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/60319/logo_7YQgjoxHaq.png",Tropical FM Radio
+https://painelstream.net/player-ssl/rvn01/8084
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/58642/logo_J7lx23Bqjc.png",Radio Top Midia
+https://stm15.voxhd.com.br:7672/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/57155/logo_PVVAUl5w70.png",Rádio Brasilvox
+https://sv15.hdradios.net:9348/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/64491/logo_vuCtI9jEub.png",Rádio Vida Nova FM
+https://stma1.pluscast.net.br:7014/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/64105/logo_yAFz89tJZo.png",Rádio Araras
+https://casthttps.suaradionanet.net/10841/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/61386/logo_O7caHZTkEG.png",Rádio Sociedade
+https://stream.hospedandosites.com.br:8012/
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/60272/logo_Ekg5z73Hrc.png",Rede Aleluia Radio
+https://14398c.ha.azioncdn.net/primary/rs_pelotas.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/60037/logo_y1S5ECNO8L.png",Rádio Massa FM
+https://radio.saopaulo01.com.br/8222/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/58003/logo_3lgBsM41zo.png",Rádio Thalento
+https://hts02.brascast.com:11496/live
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/57792/logo_hor6r9iOsH.png",Rádio Conquista
+https://s01.transmissaodigital.com:7366/1
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/56765/logo_vFpCLDKSuQ.png",Radio JK
+https://radio.saopaulo01.com.br/8054/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/64865/logo_JHqD4SAOvT.png",União FM Radio
+https://stm15.xcast.com.br:7898/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/62439/logo_wQPejtPU9V.png",Rádio Fronteira
+https://8028.brasilstream.com.br/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/58986/logo_8z56BUDZZX.png",Rádio Band FM
+https://wms5.webradios.com.br:19044/9044
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/58155/logo_KFuIKQ08Xg.png",Rádio Bizz FM
+https://srv3.soundstream.com.br/listen/radiobizz/live?
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/58546/logo_jSahTaoo2x.png",Radio Alternativa Gurinhem
+https://whd1.webradios.com.br:18524/8524
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/57163/logo_2qwG3enedl.png",Radio CBN Joao Pessoa FM
+https://servidor25.brlogic.com:7018/live
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/64738/logo_0thSZcSK1M.png",Rádio CPA
+https://streamingradiocpafm.amaisouvida.com.br/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/64155/logo_e153ELuXwz.png",Rádio Conexão
+https://streaming.radioconexao.net/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/60341/logo_gGuhSb3vbh.png",Rádio Globo
+https://24403.live.streamtheworld.com/RADIO_GLOBO_RJAAC.aac
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/60339/logo_esNUVEJMlF.png",Radio Cabrito
+https://scrc.radiocabrito.com:13386/
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/60293/logo_bbRHtYosLX.png",Rede Aleluia Radio
+https://14398c.ha.azioncdn.net/primary/pr_cascavel.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/58651/logo_r4Yi9IeVam.png",Correio do Agreste FM Radio
+https://shout25.crossradio.com.br:18094/live
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/56586/logo_2KnDzd9gw5.png",Rádio Mixagem
+https://proxy.mixagem.radio.br/?type=http&ampnocache=119370%3B
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/63836/logo_AAHPKEM7EE.png",Rádio Massa FM
+https://sonicpanel.oficialserver.com/8378/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/63811/logo_haFAbw7FL4.png",Rádio Massa FM
+https://paineldj.com.br:20004/live
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/60242/logo_DCHwJuKkWy.png",Rede Aleluia Radio
+https://164398c.ha.azioncdn.net/primary/radioliberdadefm.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/58826/logo_eiCoiZ3Yq0.png",Rádio Massa FM
+https://stm01.virtualcast.com.br:8156/massatelemaco
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/60155/logo_VfqfwpJksl.png",Rádio Massa FM
+https://stm01.virtualcast.com.br:8114/massajiparana
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/58353/logo_6aNnXBYr5e.png",Rádio Bandeirantes AM
+http://r13.ciclano.io:8927/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/56121/logo_cgQzceLu6L.png",Rádio 98FM
+https://24493.live.streamtheworld.com/98FM_CWBAAC.aac
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/64541/logo_Bpc2FVInrv.png",Ativa FM Radio
+https://stream.comandohost.com.br:8010/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/64435/logo_irc7c2GtcU.png",Minha Cidade Radio
+https://stm19.xcast.com.br:11200/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/64030/logo_RhAV5gC30f.png",Nativa FM Radio
+https://stm25.xcast.com.br:12262/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/60227/logo_lXkp4vY32f.png",Clube FM Radio
+https://shout25.crossradio.com.br:18390/1
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/60094/logo_NHstHeSYil.png",Rádio Massa FM
+https://stm01.virtualcast.com.br:8146/massaparaiso
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/58011/logo_xaK138Bdc4.png",Radio Cordeiro
+https://stm7.painelcast.com:7590/
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/62242/logo_1KWHvweYy4.png",Rádio 96 FM Nova Serrana
+https://9779.brasilstream.com.br/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/60180/logo_VFEeUR9MOo.png",Rede Aleluia Radio
+https://14398c.ha.azioncdn.net/primary/sp_preprudente.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/58657/logo_CG9xJoHLHz.png",Rádio Grande Vale FM
+https://sonicpanel.oficialserver.com:7004/stream&amptype=ac+
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/60297/logo_NxzaC6W1kO.png",Rede Aleluia Radio
+https://14398c.ha.azioncdn.net/primary/ba_fsantana.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/60127/logo_k5UQclIX8P.png",Rede Aleluia Radio
+https://244398c.ha.azioncdn.net/primary/radio93_5fm.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/59276/logo_kxUp4ImAxa.png",Rádio Universidade
+https://s26.maxcast.com.br:8280/live
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/57673/logo_3KwgLPhp0q.png",Rádio Clube
+https://stm10.virtualcast.com.br:8450/clubesaodomingos
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/57376/logo_FpDxBByU61.png",Rádio Solidariedade FM
+https://stream3.svrdedicado.org:7063/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/57207/logo_tcS1rSM9TA.png",Rádio Paulista FM
+https://hts01.brascast.com:8352/live
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/57036/logo_A68UbcXwxJ.png",Rádio Cidade Parnaíba
+https://stm3.srvif.com:7880/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/62929/logo_Ryu7NY7qmz.png",CBN Salvador Radio
+https://sv1.audiostream.com.br:8030/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/60080/logo_9dvdVDeWOQ.png",Rede Aleluia Radio
+https://14398c.ha.azioncdn.net/primary/ba_ilheus.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/58904/logo_HpWV96fcdp.png",Mega 102 FM Radio
+http://142.4.192.161:8008/
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/64688/logo_f9jSpuKfBh.png",Rádio Vale FM 95.1
+https://radio.saopaulo01.com.br:10923/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/60213/logo_wH3U4we6Sa.png",Rede Aleluia Radio
+https://74398c.ha.azioncdn.net/primary/radio105fm.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/64744/logo_HpLYqFGdpw.png",Rádio Ativa
+https://stm04.virtualcast.com.br:8030/massaivinhema?1761528303327
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/57505/logo_CdwuJUjaZB.png",Rádio Princesa FM
+https://centova.svdns.com.br:2210/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/57288/logo_dsL2ovqwHF.png",Rádio Porto do Capim
+https://sv12.hdradios.net:6862/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/63268/logo_8eEsLMx4zU.png",Rádio 94 FM
+https://cast4.audiostream.com.br:20001/94fm
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/60352/logo_tJ7KdNL1lK.png",Rede Aleluia Radio
+https://184398c.ha.azioncdn.net/primary/radiocapitalfm.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/60301/logo_hkRZRke1vb.png",Rede Aleluia Radio
+https://134398c.ha.azioncdn.net/primary/radiorecord.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/59630/logo_k3X2ZtywmL.png",Sertaneja FM Radio
+https://stm1.radionline.top:7062/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/59484/logo_4f8nyk1qL2.png",Rádio Videira
+https://paineldj.com.br:20007/
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/59286/logo_8tKWJJhQhJ.png",Rádio Gazeta
+http://wz4.dnip.com.br/gazetafmtshd/gazetafmtshd.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/59087/logo_ZNKXyKeuPB.png",Rádio Aperipe
+http://midia.aperipeam.infonet.com.br:1947/live/aperipeam/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/57587/logo_Q3cbhOukV8.png",Rádio Panorama FM
+https://stm1.glaudiotecnology.uk:7890/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/57456/logo_0a9WsNMILU.png",Rádio Nova Geração FM
+https://stm1.brasilcast.xyz:7058/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/57192/logo_CcuMAQX0bX.png",Rádio Transmineral FM
+https://stm2.stream2.com.br:7070/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/56542/logo_96GmnFnfEu.png",Rádio Diamantina
+https://10.stmip.in:28624/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/58345/logo_JbDiadmG9C.png",Clube FM Radio
+https://9703.brasilstream.com.br/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/63806/logo_Qb7RWaE4xP.png",Rádio Massa FM
+https://stm01.virtualcast.com.br:8066/massacuiaba
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/57033/logo_tAhRFL80D4.png",Rádio Santana FM
+https://stm8.painelvox.com:6768/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/64216/logo_J0IFa8iz3h.png",Rádio Paulista FM
+https://s1.bycast.com.br:8001/live
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/64110/logo_cFt8A0SNlE.png",Rádio Comunitária Heliópolis
+https://hts07.brascast.com:13038/live
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/64094/logo_ezJidrLuoo.png",Rádio Estrada
+https://livecasthd.com.br/play.php?porta=27112
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/64067/logo_x95AzFmyVe.png",Rádio Imprensa
+http://rrdns-imprensafm.webnow.com.br/imprensafm64k.mp3
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/63957/logo_Dl1HEULRoe.png",Rádio ABCD.SOM
+https://cc4.streammaximum.com:20065/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/63579/logo_HPpcCv3AlL.png",Rádio Mais Nordeste
+https://stm15.voxhd.com.br:9398/
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/62798/logo_HgmGBFV4pX.png",Rádio Pernambucanidade
+https://stm1.pousadavirtual.com.br:7064/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/60309/logo_MWHUNDhuxc.png",Rede Aleluia Radio
+https://14398c.ha.azioncdn.net/primary/rj_barramansa.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/60274/logo_lBu8uDmuEv.png",Riacho Doce Mix Radio
+https://stm4.conectastreaming.com:7028/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/60258/logo_SjzP4NQkk3.png",Rede Aleluia Radio
+https://254398c.ha.azioncdn.net/primary/radio91fm.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/60173/logo_5GBJwKNgbj.png",Rede Aleluia Radio
+https://374398c.ha.azioncdn.net/primary/goiania.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/60133/logo_eDrLZlUyZk.png",Rede Aleluia Radio
+https://224398c.ha.azioncdn.net/primary/radio96fm.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/59343/logo_NlPxGtU7Gd.png",Rádio Forró Ceará
+https://radio.forroceara.com.br/listen/forroceara/radio.mp3
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/58656/logo_SXspUPqBC0.png",Rádio Tropical
+https://stm2.aovivodigital.com.br:10428/
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/58647/logo_Cl6IjGJZRw.png",Alternativa FM Radio
+https://hts02.brascast.com:12882/live
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/58580/logo_jhWiG5Yvm5.png",Parada Mpb Radio
+https://centova2.ipstm.net:20019/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/58576/logo_wgw2SwVmMh.png",Web Radio Premier
+https://s01.transmissaodigital.com:6810/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/57581/logo_UrAaRrRDal.png",Rádio Orobó FM
+https://stream.hdbr.studio/listen/orobofm/stream.aac
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/57083/logo_BZe0lmFUdm.png",Rádio Liberdade FM
+https://casthttps1.suaradionanet.net/13722/stream?
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/56242/logo_GbBPHj6sgx.png",UFMG Radio
+https://www.ufmg.br/

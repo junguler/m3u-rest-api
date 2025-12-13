@@ -57,3 +57,7 @@ https://y98fm.streamon.fm/listen.m3u
 http://ice42.securenetsystems.net/JOYFM242
 #EXTINF:-1,Y 98 FM
 http://ice42.securenetsystems.net/Y98FM
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/86492/logo_Dph48DMHxx.png",Gospel 107.1 Radio
+https://c25.radioboss.fm/stream/186
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/L50WC.png",GOSPEL 107.1 FM
+https://c25.radioboss.fm:8186/stream#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/L50WC.png",GOSPEL 107.1 FM

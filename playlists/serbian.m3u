@@ -333,8 +333,6 @@ http://centova.dukahosting.com:8676/;
 http://vladix.dukahosting.com:8010/sid=1
 #EXTINF:-1,Radio Srpski Sion
 http://fmradiolive.net:8006/;
-#EXTINF:-1,RSG Party Time
-https:/http:/adio.boom93.com/;stream/1
 #EXTINF:-1,Radio SUNCE
 http://media.srb-streaming.com:9060/;
 #EXTINF:-1,Radio Mostarka i Zana
@@ -637,3 +635,7 @@ https://naxi64ssl.streaming.rs:9162/
 https://stream.laut.fm/yugotopia-beat-club?ref=radiode
 #EXTINF:-1,PLAY Radio 
 https://stream.playradio.rs:8443/play.aac
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/41118/logo_ceoRvryIuR.png",Radio Šumadinac Strana
+https://media.srb-streaming.com/stream/radio-sumadinac-strana
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/39007/logo_pqLMppyWzL.png",Radio OxFM
+http://mpc.my-control-panel.eu:8002/

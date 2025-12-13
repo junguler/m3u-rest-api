@@ -1041,7 +1041,6 @@ https://edge2.audioxi.com/SUN?listening-from-radio-garden=1663664751
 https://stream.audioxi.com/TD
 #EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/41495.png",98FM
 https://stream.audioxi.com/98
-#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/41501.png",FM104 Radio
 #EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/41509.png",Galway Bay FM
 https://wg.cdn.tibus.net/galwaybay.mp3
 #EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/41526.png",South East Radio
@@ -1234,7 +1233,6 @@ https://0nlineradio.stream42.radiohost.de/0r-trending-charts?ref=tiny&upd-meta&u
 https://edge68.stream.galaxy-oberfranken.de/galaxy-oberfranken?aggregator=radiode
 #EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/82527507.png",Radio Hagen Live
 https://edge62.streamonkey.net/wf-radiohagen?aggregator=Radiode
-#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/84454891.png",WDR Cosmo - Radio Forum Live
 #EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/6295240.png",Radio Euskirchen Live
 https://radioeuskirchen--di--nacs-ais-lgc--01--cdn.cast.addradio.de/radioeuskirchen/live/mp3/high?ar-distributor=f0e3&_art=dj0yJmlwPTEwMS4wLjQ1LjE0OSZpZD1pY3NjeGwtdG82ZWFzaW1iJnQ9MTY2ODUwNDgyNyZzPTc4NjZmMjljIzYxMDcyMzYwOTU4ZDA5MTllYmMyZTNhOGUxOTUzMmIy
 #EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/2976956.png",Radio Mülheim 92.9 Live
@@ -1679,7 +1677,6 @@ https://nl4.mystreaming.net/uber/easydavidsoul/icecast.audio
 https://18863.live.streamtheworld.com/XHCTOFM_SC
 #EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/41560838.jpg",XHEPC Sonido Estrella
 https://radioforte.com/8010/stream
-#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/7542.png",NEON Radio
 #EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/35133548.jpg",Súper 98.1 FM
 https://ss1.audiorama.com.mx:6626/stream
 #EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/13803982.jpg",Firza MPC Radio

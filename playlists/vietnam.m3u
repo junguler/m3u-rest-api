@@ -93,3 +93,9 @@ http://118.107.85.4:1935/live/smil:CRTV.smil/playlist.m3u8
 http://118.107.85.4:1935/radio/lamdong_aac/chunklist_w1647434900.m3u8
 #EXTINF:-1,RFA (Radio Free Asia) ch.2 – Hanoi – Vietnam
 https://rfahls-i.akamaihd.net/hls/live/226233/RFALive_2/index.m3u8
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/83678/logo_Iq4Nuw9EiQ.png",VOV 5 Radio
+https://stream.vovmedia.vn/vov5
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/83677/logo_Bg1MndJWux.png",Quran in Vietnamese Radio
+https://www.qurantranslations.net/sound/English/AbdulBaset_AbdulSamad/002.mp3?type=.mp3%2F%3Bstream.mp3
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/83682/logo_BZbr8LlJri.png",VOV 2 Radio
+https://stream.vovmedia.vn/vov2/

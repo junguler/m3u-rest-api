@@ -51,3 +51,13 @@ http://167.114.11.79:5730/
 https://listen1.mixlr.com/6d84b6a7265cdc8d241bd1a4d40e0d6f
 #EXTINF:-1,ABK Radio
 https://sr6.inmystream.it/proxy/abkradio?mp=/stream.mp3
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/78596/logo_pfiWcuAiVZ.png",Antenna Web Yaoundé Radio
+https://halo.streamerr.co/listen/italiavera/stream.mp3
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/78597/logo_uShhdijt4A.png",Hero Radio (Cameroon)
+https://a2.asurahosting.com:6790/Cameroon.mp3
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/78594/logo_HxSWZELcZ1.png",ICT University Radio
+https://icturadio.radioca.st/stream
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/TCKKSX.png",Old Timer's Radio
+https://servidor31.brlogic.com:7150/live?identifier=otr&source=1507
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/W8HVU.png",Old Timers' Radio
+https://servidor31.brlogic.com:7150/live#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/TCKKSX.png",Old Timer's Radio

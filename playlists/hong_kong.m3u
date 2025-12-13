@@ -101,3 +101,9 @@ http://sr2.inmystream.info:8040/stream/
 https://28093.live.streamtheworld.com/AXR_HONGKONG.mp3
 #EXTINF:-1,Whisperings:Solo Piano Radio – 鋼琴獨奏網路音樂電台 – Kowloon – Kowloon City – HK
 http://pianosolo.streamguys.net/live
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/131706.v1.png",89.7 Hard Rock Fm
+https://radio1.reans.net/listen/hard_rock_fm/radio.mp3
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/75134.v9.png",AXR Hong Kong
+https://22283.live.streamtheworld.com/AXR_HONGKONGAAC.aac
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/29286.png",Fing Radio
+https://bluesfan.stream.laut.fm/bluesfan?t302=2025-11-07_15-07-51&uuid=d82aa7f6-faf4-4c0c-8281-23f417bd1676

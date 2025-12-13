@@ -57,3 +57,5 @@ http://quraan.us:9922/*.mp3
 http://quraan.us:9922/
 #EXTINF:-1,تفسير بن عثيمين رحمه الله
 https://qurango.net/radio/tafseer
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/80307/logo_pq5cfiUZzk.png",Quran Radio
+https://radio.mp3islam.com/listen/quran_radio/radio.mp3

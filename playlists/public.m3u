@@ -531,8 +531,6 @@ https://stream.radiofrance.fr/fipelectro/fipelectro.m3u8
 http://stream3.radiocenter.si:8100/;stream/1
 #EXTINF:-1,MANGORADIO
 https://mangoradio.stream.laut.fm/mangoradio?t302=2023-04-25_19-32-31&uuid=7a7af72a-a278-4bf4-a714-be8bb44d1f64
-#EXTINF:-1,KPRG
-https:/http:/adiobzlive.rai.it/RAI_Suedtirol
 #EXTINF:-1,RADIO ESTAÇÃO GOSPEL
 https://stm3.srvif.com:7130/stream
 #EXTINF:-1,WBAA Public Radio

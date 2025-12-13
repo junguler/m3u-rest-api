@@ -235,3 +235,5 @@ https://stream.zeno.fm/4d3rkqafuqzuv
 https://node-08.zeno.fm/az1yzc710bruv
 #EXTINF:-1,Voice Of America - Korea
 https://voa46.akacast.akamaistream.net/7/448/437828/v1/ibb.akacast.akamaistream.net/voa46
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/92639/logo_TxgUMq23sS.png",DKNET 730 AM Radio
+https://us1new.listen2myradio.com:2199/listen.php?port=10095&amptype=s2&ampmount=%2Fstream

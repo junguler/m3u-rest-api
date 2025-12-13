@@ -109,8 +109,6 @@ https://regiocast.streamabc.net/regc-radiobobpowermetal7971779-mp3-192-4551381?s
 https://free.rcast.net/5452
 #EXTINF:-1,Dark-Metal-radio
 https://dark-metal-radio.stream.laut.fm/dark-metal-radio?t302=2023-04-25_19-36-11&uuid=2d324121-b9f6-4306-92ef-1ee550b478e7
-#EXTINF:-1,Prog Palace Radio&#039;s The Armory
-https:/http:/adiometalon.comhttp:/adio/8000http:/adio.mp3
 #EXTINF:-1,PPN Radio
 https://streaming.brol.tech/rtfmlounge
 #EXTINF:-1,Powerhead Radio
@@ -151,3 +149,11 @@ https://metality.stream.laut.fm/metality?t302=2025-09-14_18-35-59&uuid=eac98c86-
 https://metalrules.stream.laut.fm/metalrules?t302=2025-09-14_18-35-59&uuid=bae7329a-6afc-4bef-b3ef-6376f6aa99c3
 #EXTINF:-1,THRASH OR DIE
 https://thrashordie.stream.laut.fm/thrashordie?t302=2025-09-14_18-35-59&uuid=41b29183-067c-4389-a109-0a6cf5c79d27
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/27479/logo_k9pnmHbS77.png",METAL-UP-YOUR-ASS Radio
+https://metal-up-your-ass.stream.laut.fm/metal-up-your-ass
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/29907/logo_Jj9yYhW4al.png",Radio Bob! Power Metal
+https://regiocast.streamabc.net/regc-radiobobpowermetal7971779-mp3-192-4551381?sABC=6935r362%230%239prp8520p95q9068n24214n9qo3snn92%23zrqvncynlre&aw_0_1st.playerid=mediaplayer&amsparams=playerid:mediaplayer;skey:1765139298
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/39634/logo_47gUkZg0nU.png",Metal Maximum Radio (MMR)
+https://s5.ssl-stream.com:8022/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/26585/logo_JFSAB6DMoo.png",Chaos-Radio
+https://chaos-radio.stream.laut.fm/chaos-radio?t302=2025-12-07_20-28-18&uuid=d0a14a82-74ec-449d-8822-7aa84ba5e67c

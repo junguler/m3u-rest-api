@@ -587,8 +587,6 @@ https://spoonradiohardrock.ice.infomaniak.ch/spoon-hardrock-hd.aac
 http://server.fantasyradio.co.uk:8300/;stream/1
 #EXTINF:-1,Radio Paradise [Mobile AAC+ 32k]
 http://stream.radioparadise.com/aac-32
-#EXTINF:-1,CKEA &quot;95.7 CRUZ FM&quot; Edmonton, AB
-http:/http:/adio.stereoscenic.com/mod-s
 #EXTINF:-1,Joy Hits UK
 http://stream.joyhits.online:8070/joyhitshq.mp3
 #EXTINF:-1,Kings Radio Davao
@@ -605,8 +603,6 @@ http://stream.wtsq.org:7118/;
 http://stream.radioparadise.com/aac-24
 #EXTINF:-1,Radio Free Americana [64kbps AAC+]
 http://janus.cdnstream.com:5140/live
-#EXTINF:-1,CHKS &quot;K-106.3&quot; Sarnia, ON
-http:/http:/adiomalva.ddns.net:8000http:/mbc.ogg
 #EXTINF:-1,SomaFM DEF CON Radio 64k
 http://ice2.somafm.com/defcon-64-aac
 #EXTINF:-1,WMNF 88.5 (Tampa) - Community Conscious Radio
@@ -617,8 +613,6 @@ https://sp2.servidorrprivado.com/8264/;
 http://hdradiopartymix-rfritschka.radioca.st/;
 #EXTINF:-1,HD Radio - Hot 100 (USA) 128k mp3
 http://hdradiohot100-rfritschka.radioca.st/;
-#EXTINF:-1,CJSS &quot;Boom 101.9&quot; Cornwall, ON
-http:/http:/adioamd-i.akamaihd.net/hls/live/562166/cisl/master.m3u8
 #EXTINF:-1,Classical Music (fadefm.com) 64k aac+
 http://ec2.yesstreaming.net:1570/stream
 #EXTINF:-1,KFMG-LP 98.9/99.1 Des Moines, IA  (MP3)

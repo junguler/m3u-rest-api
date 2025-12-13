@@ -401,3 +401,9 @@ https://cheetah.streemlion.com:3720/stream
 https://ec6.yesstreaming.net:1345/stream
 #EXTINF:-1,FSJ Radio - XRN Australia
 https://us01.xrn.com.au/listen/fsj/fsjsd
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/102752/180_hn2oATqsUD.png",Latin Jazz Radio
+https://spn.liveradiofree.com/latin-jazz-96
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/88783/logo_fqcAGzGLE8.png",Radio Bellissima Jazz
+https://strw3.openstream.co/2174?aw_0_1st.collectionid%3D6091%26stationId%3D6091%26publisherId%3D2198%26k%3D1765139209
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/44304/logo_rZsLT8rPaC.png",Relax Cafe Radio
+https://edge05.cdn.bitflip.ee:8888/cafe?_i=14a94da4

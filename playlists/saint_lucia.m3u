@@ -87,3 +87,15 @@ https://free.rcast.net/62265
 https://auds2.intacs.com/caribbeankissfm
 #EXTINF:-1,RFI 102.1 FM – 102.1 FM – Soufrière – LC
 http://167.114.131.90:5908/stream.mp3
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/40757.v15.png",Real Strong Radio
+http://158.69.114.190:8028/stream
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/42555.v6.png",Caribbean Hot FM
+https://audiovs.intacs.com/caribbeanhotfm
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/86697/logo_ncivDNgoqJ.png",Caribbean Kiss FM Radio
+https://auds1.intacs.com/caribbeankissfm
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/86696/logo_XDclqbY0eV.png",7kings Radio
+https://az13.yesstreaming.net:8100/radio.mp3
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/WVUYIB.png",KNC RADIO
+https://s4.radio.co/s5c3f76f25/listen
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/3V5IZ.png",Relaxing Jazz
+http://stream-02-eu.relaxingjazz.com/stream/1/

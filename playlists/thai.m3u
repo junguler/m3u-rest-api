@@ -81,8 +81,6 @@ https://cdn-th2.livestreaming.in.th/shoutcast/8615
 https://streaming.flexconnect.net/voiceflex/voiceflex/playlist.m3u8
 #EXTINF:-1,requestradio/looktung/
 http://27.254.142.208:8300/;
-#EXTINF:-1,Cool fahrenheit
-http:/http:/adio1.comgig.com:4096/;stream.m4a
 #EXTINF:-1,Vipak radio
 http://103.22.182.105:7068/;stream.mp3
 #EXTINF:-1,Новое Радио

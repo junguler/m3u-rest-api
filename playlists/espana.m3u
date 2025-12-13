@@ -233,8 +233,6 @@ https://kathy.torontocast.com:2880/?lang=*
 http://only-romantic-radio.stream.laut.fm/only-romantic-radio?t302=2025-09-14_00-36-56&uuid=5e357522-ccc9-4aa7-8cfb-dae84384eec6
 #EXTINF:-1,Bravo! Golden Hits
 http://megadiscoradio.stream.laut.fm/megadiscoradio?t302=2025-09-14_00-36-58&uuid=ce4546a6-f1f4-4bfd-ab65-063f715540a9
-#EXTINF:-1,CEUTA FM
-[html5radio radiolink="http://46.105.233.234:8238/" radiotype="shoutcast1" bcolor="000000" image="shoutcast-icecast-html5-player-player.jpg" title="Onda Digital FM" artist="Globalmedia"]
 #EXTINF:-1,MoreMusicDigitalRadio
 http://london-ssd.myautodj.com/8079
 #EXTINF:-1,A Xente de Teo

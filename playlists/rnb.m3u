@@ -4635,8 +4635,6 @@ http://hypefm.listen2myradio.com/
 http://streamdb2web.securenetsystems.net/v4/index.cfm?stationCallSign=ROCK1&amprelocateURL=true
 #EXTINF:-1,Rkp Christian Country And Southern Gospel Radio
 https://listen.streamon.fm/rkpradio
-#EXTINF:-1,Svemocni Jez Rock And Roll Radio
-Title1=http://:8830
 #EXTINF:-1,Villa Indie Radio
 http://195.154.185.139:80/radio/3487/stream/10643
 #EXTINF:-1,Day And Night
@@ -8425,8 +8423,6 @@ https://hit4music.stream.laut.fm/hit4music?t302=2025-09-07_05-03-00&uuid=a290d5b
 https://streamdb3web.securenetsystems.net/v5/3DSJ
 #EXTINF:-1,Sense Fm
 https://strw3.openstream.co/788?aw_0_1st.collectionid%3D6813%26stationId%3D6813%26publisherId%3D812%26k%3D1757221382
-#EXTINF:-1,K 92.7
-/urlParser?l=http%3A%2F%2Fwww.lg73.com%2FLG73_128k.pls
 #EXTINF:-1,100.3 R&B
 https://14553.live.streamtheworld.com/WOSLFMAAC.aac?dist=onlineradiobox
 #EXTINF:-1,RENZ 510 Radio
@@ -8843,8 +8839,6 @@ http://pipel.kloud.xyz:8010/radio.mp3?1559030142736
 https://vertenradio.com:8443/stream
 #EXTINF:-1,B106.3 FM
 https://myb106.com/listen-live/popup/
-#EXTINF:-1,Willatalie
-<iframe src="https://tunein.com/embed/player/s76236/" style="width:100% height:100px" scrolling="no" frameborder="no"></iframe>
 #EXTINF:-1,Tamar Valley Country
 http://tamarvalleycountry.com-listen.live/
 #EXTINF:-1,Metal Live Radio
@@ -9189,8 +9183,6 @@ http://108.59.9.147:8048/stream
 http://85.195.72.226:11084/
 #EXTINF:-1,Antena 1
 https://antenaone.crossradio.com.br/stream/2;
-#EXTINF:-1,That 70&#039;s Channel
-https:/http:/adiorecord.hostingradio.ru/trap96.aacp
 #EXTINF:-1,101.ru - Русский Рэп
 https://pub0202.101.ru:8443/stream/pro/aac/64/43?
 #EXTINF:-1,DFM Rap
@@ -9217,8 +9209,6 @@ https://tntradio.hostingradio.ru:8027/hhr128.mp3
 http://ukrootsfm.mywire.org:8000/;
 #EXTINF:-1,ESSENTIEL Radio - Kids
 https://essentielradioing.streamakaci.com:80/essentielkidz.mp3
-#EXTINF:-1,GotRadio - R&amp;B Classics
-https:/http:/sa.streamabc.nethttp:/egc-rsasachsenbeatles9332348-aacplus-64-5150025?sABC=65097550%230%234r22236104s8nr3n29rss56oo6qo07n6%23bayvarenqvbobk&aw_0_1st.playerid=onlineradiobox&amsparams=playerid:onlineradiobox;skey:1695118672
 #EXTINF:-1,GotRadio - OG&#039;s Hip Hop n R&amp;B
 http://gr01.cdnstream.com:8580/;
 #EXTINF:-1,101.ru - R&#039;n&#039;B
@@ -9233,8 +9223,6 @@ https://1pvkedm.stream.laut.fm/1pvkedm
 https://pub0202.101.ru:8443/stream/pro/aac/64/445
 #EXTINF:-1,ESSENTIEL Radio - Bible
 https://essentielradioing.streamakaci.com:80/essentielbible.mp3
-#EXTINF:-1,Funky Radio
-https:/http:/adio.theheatdb.com/sid=1
 #EXTINF:-1,M Radio - Années 2000
 https://mfmwr-020.ice.infomaniak.ch/mfmwr-020.mp3
 #EXTINF:-1,Purple Current
@@ -9245,16 +9233,8 @@ http://192.99.8.192:3630/stream/
 https://streaming.shoutcast.com/smoothjazz-crooze-aac
 #EXTINF:-1,BB Radio - Party &amp; Dance
 https://irmedia.streamabc.net/irm-bbrpartydance-mp3-192-4317033
-#EXTINF:-1,181.FM 80&#039;s Lite RnB
-https:/http:/s6-krk2.rmfstream.pl/TOP5RNB
-#EXTINF:-1,Powerhitz - Jamz
-https:/http:/adio61.ru/live
 #EXTINF:-1,Pop Extremo
 https://www.popextremo.mx/envivo
-#EXTINF:-1,Big R Radio - R&amp;B
-http:/http:/adyo.yayin.com.tr:5998/stream/1/
-#EXTINF:-1,Mettaswara 2000&#039;s
-https:/http:/adio12.pro-fhi.net/live/Funkagroove
 #EXTINF:-1,La Rocka 91.7 FM
 http://5.135.183.124:8243/;stream/1
 #EXTINF:-1,Hitradio Center
@@ -9269,14 +9249,8 @@ https://live.radyofenomen.com/fenomenoriental/abr/playlist.m3u8
 https://live.radyofenomen.com/fenomendans/abr/playlist.m3u8
 #EXTINF:-1,Radio Belizemix
 http://206.221.188.122:8010/live
-#EXTINF:-1,Vagalume.FM - R&amp;B
-https:/http:/eunion.ice.infomaniak.chhttp:/eunion-128.mp3
 #EXTINF:-1,Antenne Bayern Black Music
 https://s4-webradio.antenne.de/black-beatz
-#EXTINF:-1,2000 FM - R &amp; B | Hip-Hop
-https:/http:/s8-krk2-cyfronet.rmfstream.pl/REGGAE
-#EXTINF:-1,Ado FM
-https:/http:/tlberlin.streamabc.nethttp:/tlb-jamfm2000er-mp3-192-1030612?sABC=650975ps%230%234r22236104s8nr3n29rss56oo6qo07n6%23&aw_0_1st.playerid=&amsparams=playerid:;skey:1695118799
 #EXTINF:-1,Fleet R&amp;B Radio
 http://www.fleetradionetwork.com:8021/;
 #EXTINF:-1,KISS FM - R&#039;n&#039;B
@@ -9297,8 +9271,6 @@ https://ice10.securenetsystems.net/SUNRADIO
 https://listen7.myradio24.com/9427?
 #EXTINF:-1,Radio Regenbogen - Hip-Hop &amp; R&#039;n&#039;B
 https://audiotainment-sw.streamabc.net/atsw-hiphop-mp3-128-5590407?sABC=65097356%230%234r22236104s8nr3n29rss56oo6qo07n6%23bayvarenqvbobk&aw_0_1st.playerid=onlineradiobox&amsparams=playerid:onlineradiobox;skey:1695118166
-#EXTINF:-1,R&amp;B 94.1
-https:/http:/adio.streemlion.com:1655/stream
 #EXTINF:-1,1LIVE Hip Hop &amp; RnB
 https://d111.rndfnk.com/ard/wdr/1live/hiphoprnb/mp3/128/stream.mp3?cid=01GRBVXQTV71K0738S0E6965EM&sid=2VcBvC6CF4m1CInAN0XrVs3AiD2&token=XT8binIRT8Zte1vkHTdsQXh21y8UZXCGw0ZOYrm2t3k&tvf=-60gtoBfhhdkMTExLnJuZGZuay5jb20
 #EXTINF:-1,OpenLab
@@ -9321,8 +9293,6 @@ https://musicalheatwave.radioca.st/;
 https://divine.radioca.st/;
 #EXTINF:-1,BestNetRadio - Classic R&#039;n&#039;B
 https://das-edge14-live365-dal02.cdnstream.com/a02232
-#EXTINF:-1,Radio Pembrokeshire
-https:/http:/adiocustoms.cdnstream1.com/shaqfu
 #EXTINF:-1,La 98
 http://stream.playerlive.info:8025/live.aac
 #EXTINF:-1,BestNetRadio - R&#039;n&#039;B
@@ -9339,14 +9309,10 @@ https://ice24.securenetsystems.net/WBRX
 https://icecast.skyrock.net/s/hit_skyrock_aac_64k
 #EXTINF:-1,Skyrock Premier sur le Rap
 https://icecast.skyrock.net/s/1er_rap_aac_64k
-#EXTINF:-1,WQRB R&amp;B RADIO
-https:/http:/adio.colourful.com/mp3
 #EXTINF:-1,West Coast Fleet Radio
 http://server1.fleetradionetwork.com:8331/;
 #EXTINF:-1,Radiohashtag+
 https://edge09.streamonkey.net/schweinfurt-radiohashtagplus
-#EXTINF:-1,Sweet&#039;n&#039;Sour Radio
-https:/http:/adio.soundtrack24.eu/listen/todays/http:/adio
 #EXTINF:-1,113.FM Q-Radio
 https://113fm-atunwadigital.streamguys1.com/1054
 #EXTINF:-1,Ostseewelle - Dance &amp; Black Hits
@@ -9365,10 +9331,6 @@ http://www.songcastradio.com:9038/;stream
 https://fast.citrus3.com:8496/stream
 #EXTINF:-1,Traxx FM  Rap
 https://traxx015.ice.infomaniak.ch/traxx015-low.mp3
-#EXTINF:-1,Jam&#039;n 94.7
-https:/http:/adio.streemlion.com:5095/stream
-#EXTINF:-1,Urban Hit - Maroc
-https:/http:/adio.canstream.co.uk:9065/live.mp3
 #EXTINF:-1,WDR COSMO Afrobeat
 http://d131.rndfnk.com/ard/wdr/cosmo/afrobeat/mp3/128/stream.mp3?cid=01FC1V5VCFKEYJPBGTCGMZKXWZ&sid=2VbyC6natjl84FYlP0T8osHvvPA&token=JnXVan9F3-VF4aWuK4aMVn7t_K9OQI8mSSFpTXKhCNo&tvf=iuogzldZhhdkMTMxLnJuZGZuay5jb20
 #EXTINF:-1,Qute 89.9
@@ -9381,8 +9343,6 @@ https://urbanhitblack.ice.infomaniak.ch/urbanhitblack128.mp3
 https://ice24.securenetsystems.net/KXCA
 #EXTINF:-1,Win 91 FM Chicago
 https://s11.myradiostream.com:24578/listen.mp3?nocache=1682447622
-#EXTINF:-1,Capital 87.7 FM
-https:/http:/apmusic.stream.laut.fmhttp:/apmusic
 #EXTINF:-1,Radiotunes - 00s R&amp;B
 https://ice8.securenetsystems.net/WMRS
 #EXTINF:-1,European Hit Radio - Urban
@@ -9393,14 +9353,10 @@ https://s20.myradiostream.com/:18588/listen.mp3
 http://stream3.radiocenter.si:9020/;stream/1
 #EXTINF:-1,Radio Gas
 https://backstuw-radio-daun.stream.laut.fm/backstuw-radio-daun?t302=2023-04-25_20-34-14&uuid=d9ad280d-c33a-4ea8-8e47-13bf743d721d
-#EXTINF:-1,Pulse Int&#039;l Radio
-https:/http:/egiocast.streamabc.nethttp:/egc-barbaradiogerliebeslieder3828211-mp3-192-6686668
 #EXTINF:-1,Urban Hit - Alancienne
 https://urbanhitalancienne.ice.infomaniak.ch/urbanhitalancienne.mp3
 #EXTINF:-1,NOVA 100% Dansk
 https://live-bauerdk.sharp-stream.com/DK_HQ_RP11.aac
-#EXTINF:-1,Spark Radio
-https:/http:/er.stream.laut.fmhttp:/er
 #EXTINF:-1,HOUSTON 107 STAR FM
 https://s32.myradiostream.com:19404/listen.mp3?nocache=1682449687
 #EXTINF:-1,B87FM
@@ -9447,8 +9403,6 @@ https://edge01.streamonkey.net/fhn-meinlieblingsradio
 http://stream3.radiocenter.si:8060/;stream/1
 #EXTINF:-1,Freedom 91 FM Boston
 https://s44.myradiostream.com:8068/listen.mp3?nocache=1682447622
-#EXTINF:-1,Simulator.FM
-https:/http:/adio.hhls.frhttp:/adio/8000http:/adio.mp3
 #EXTINF:-1,iLive Toronto
 https://ice9.securenetsystems.net/KADL
 #EXTINF:-1,Blackbox @ Work
@@ -9481,8 +9435,6 @@ https://n7-fm.stream.laut.fm/n7-fm?t302=2023-04-25_20-06-30&uuid=ed360198-9f4c-4
 https://0nlineradio.stream13.radiohost.de/0r-chillout?upd-meta=0&upd-scheme=https&_art=dD0xNzU2OTcxMjI5JmQ9OWQ5ZjU1ZWIwZmMxZDc3NjFkZTA
 #EXTINF:-1,0nlineradio Urban
 https://0nlineradio.stream13.radiohost.de/0r-urban?upd-meta=0&upd-scheme=https&_art=dD0xNzU2OTcxMjMwJmQ9MDg0MjI4MWFiOGQzMTg5YjFkNTY
-#EXTINF:-1,Citysoundz  R&amp;b Radio
-https:/http:/autemusik-de-hz-fal-stream14.radiohost.de/sex?ref=radiobrowser
 #EXTINF:-1,Refuge Worldwide
 https://streaming.radio.co/s3699c5e49/listen
 #EXTINF:-1,1.fm top rap
@@ -9493,8 +9445,6 @@ http://sc2.streamwithq.com:8048/;
 https://0nlineradio.stream13.radiohost.de/0r-lovehits?upd-meta=0&upd-scheme=https&_art=dD0xNzU2OTcxMjMyJmQ9NWY3YjM3ZWMxNTNmYWFhMTNjMzY
 #EXTINF:-1,Carbon Sound
 http://current.stream.publicradio.org/carbonsound.mp3
-#EXTINF:-1,.100 Hip hop and RNB FM
-http:/http:/nb.ice.infomaniak.chhttp:/nb-128.mp3
 #EXTINF:-1,Subtle Radio
 https://subtle.out.airtime.pro/subtle_a
 #EXTINF:-1,DOO WOP FOREVER - CALM RADIO
@@ -9541,8 +9491,6 @@ https://1000oldies.stream.laut.fm/1000oldies
 https://s3.radio.co/sf2bda8390/listen
 #EXTINF:-1,Strul FM
 https://stream.streamaudio.de:8000/strul-fm
-#EXTINF:-1,Big R Radio - New R&amp;B
-https:/http:/autemusik-de-hz-fal-stream15.radiohost.dehttp:/m-deutschrap-classic_mp3-192?ref=radiobrowser
 #EXTINF:-1,Radio Relativa
 https://streamer.radio.co/sd6131729c/listen
 #EXTINF:-1,Max Radio – Le rythme des années 2010

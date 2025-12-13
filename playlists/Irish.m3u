@@ -205,3 +205,9 @@ http://26143.live.streamtheworld.com/WROLAM
 http://stream.audioxi.com/98
 #EXTINF:-1,Radio Celtic-Sounds
 http://celtic-sounds.stream.laut.fm/celtic-sounds?t302=2025-09-19_04-48-34&uuid=38e0897b-7834-45b5-89b3-d7068a56a77e
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/37463/logo_Ochp5IMs0j.png",The Sound of Ireland Radio
+https://ais-sa2.cdnstream1.com/2548_128.mp3
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/37405/logo_GqlwpZa31w.png",Cork&#x27;s 96 FM Radio
+https://assets.wireless.radio/audio/georestriction-barkers/onic.mp3
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/103196/logo_Qrf6ULq4zw.png",West Limerick 102FM Radio
+https://s29.myradiostream.com/:17796/listen.mp3?nocache=1765139174

@@ -125,8 +125,6 @@ https://qurango.net/radio/jamal_shaker_abdullah
 https://qurango.net/radio/muftah_alsaltany_aldori_an_abi_amr
 #EXTINF:-1,MP3 Quran - Yasser Al-Dosari Radio
 https://qurango.net/radio/yasser_aldosari
-#EXTINF:-1,UFM KSA
-https:/http:/adio.al7eah.net/8010/stream
 #EXTINF:-1,84.7 Bee Cool Fm
 https://ny.mysonicserver.com/8054/stream
 #EXTINF:-1,101.69 Marites Fm Radio
@@ -163,3 +161,13 @@ https://radioquran.net/audio/001.mp3
 https://mbcfm-riyadh-prod-dub.shahid.net/out/v1/69c8a03f507e422f99cf5c07291c9e3a/index.m3u8
 #EXTINF:-1,القرآن للقلب – Riyadh – SA-O1
 https://edge.mixlr.com/channel/rwumx
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/128405.v1.png",rdg البرازيل
+https://stream2.svrdedicado.org/8354/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/80174/logo_rrkYz332PD.png",Favradio
+https://stream.hornhost.com:8109/stream.mp3
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/80175/logo_GACnujLOI5.png",Sabeel Al Anbiyya Radio
+https://radio.hhost.host/8044/stream
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/X5Z0TU.png",Abdulbasit Abdulsamad - MJAWOAD Radio
+http://streams.abidingradio.org:7820/1
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/I4IM89.png",Shaik Abu Bakr Al Shatri Radio
+http://janus.shoutca.st:8195/

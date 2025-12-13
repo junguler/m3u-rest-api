@@ -7,3 +7,9 @@ http://zoka.radioca.st:8301/stream
 http://dreamsiteradiocp2.com:8114/stream/
 #EXTINF:-1,Radio Kivu
 http://serveur2.wanastream.com:25000/
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/0JN3O.png",GEANT RADIO
+https://servidor31.brlogic.com:7070/live
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/HPEKK7.png",Radio pourim
+https://zoka.radioca.st/stream?type=http&nocache=5882
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/KYUXXU.png",RADIO POURIM
+https://zoka.radioca.st/stream?type=http&nocache=1489#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/0JN3O.png",GEANT RADIO

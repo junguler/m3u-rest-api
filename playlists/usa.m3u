@@ -4595,8 +4595,6 @@ https://streamer.radio.co/s4831b69da/listen
 https://das-edge16-live365-dal02.cdnstream.com/a64984
 #EXTINF:-1,Musicwaver Adult Hits
 http://pureplay.cdnstream1.com/6022_128.mp3
-#EXTINF:-1,95.5 KLOS - Los Angeles Rock
-<!--VosCast.com Flash Player--> <script type="text/javascript" src="http://cdn.voscast.com/player/?key=b5185aef16b00fdde338617fb1ca4c96"></script> <!--End Player-->
 #EXTINF:-1,Tune Vizion
 https://station.voscast.com/5fc6a5727d6ad/
 #EXTINF:-1,Radio Jazz
@@ -5213,8 +5211,6 @@ http://wpln.streamguys.org/wplnfm.mp3
 http://shout.wnsr.com:8989/stream.mp3
 #EXTINF:-1,Radio WCQR
 https://positivealtradio.streamguys1.com/wcqrmp3
-#EXTINF:-1,Radio WSMC
-Web Proxy  http://eu3.radioboss.fm/stream/richmedi.pls?mp=/stream
 #EXTINF:-1,Radio WAWL
 http://s32.myradiostream.com:9204/
 #EXTINF:-1,IMBR - International Missionary Baptist Radio
@@ -20619,8 +20615,6 @@ https://wrif.com/
 https://14923.live.streamtheworld.com/KFIAAMAAC_SC?dist=onlineradiobox
 #EXTINF:-1,K-Hit 107.5 FM
 https://18543.live.streamtheworld.com/KHYTFM.mp3?dist=onlineradiobox
-#EXTINF:-1,Radio Inmaculada
-/urlParser?l=http%3A%2F%2Fvilma.serverroom.net%3A6342%2Flisten.pls
 #EXTINF:-1,KQAM
 http://162.244.80.178:8016/
 #EXTINF:-1,chroniX AGGRESSION
@@ -23009,8 +23003,6 @@ https://18733.live.streamtheworld.com/WYVNFMAAC.aac
 https://18183.live.streamtheworld.com/WJAGAMAAC_SC
 #EXTINF:-1,XL Country
 https://xlcountry.com/listen-live/
-#EXTINF:-1,Shepherd's Chapel
-/urlParser?l=http%3A%2F%2Ftess.fast-serv.com%3A8570%2Flisten.pls
 #EXTINF:-1,Dai Phat Thanh Viet Nam
 https://c13.radioboss.fm:18127/stream
 #EXTINF:-1,Liberty News Radio
@@ -33463,8 +33455,6 @@ https://das-edge14-live365-dal02.cdnstream.com/a66219
 https://us2new.listen2myradio.com:2199/listen.php?port=8431&amptype=s2&ampmount=/stream
 #EXTINF:-1,Music Moves Soundz Radio
 https://s9.citrus3.com:8242/stream
-#EXTINF:-1,Atravankado Radio
-http//:50.148.44.81:8300/
 #EXTINF:-1,DanceGruv Radio
 https://dncgrvradio.out.airtime.pro:8000/dncgrvradio_a
 #EXTINF:-1,Yikes Radio

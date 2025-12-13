@@ -181,8 +181,6 @@ https://www.popextremo.mx/envivo
 http://eco.onestreaming.com:8217/;stream.nsv
 #EXTINF:-1,Mad Radio
 http://i4.streams.ovh:7038/;stream.mp3
-#EXTINF:-1,Panikos FM
-https:/http:/adiogroup-stream31.radiohost.dehttp:/adio-frankfurt_mp3-192
 #EXTINF:-1,Radio Arhaggelos
 http://eco.onestreaming.com:8536/;
 #EXTINF:-1,Ραδιο Ευβοια 104.1
@@ -305,8 +303,6 @@ http://shoutcast.24radio.gr:8012/;
 https://sh.onweb.gr//8832/stream/
 #EXTINF:-1,STAR FM Nürnberg
 https://starfm.streamabc.net/30-simulcastnbg-mp3-192-1687176?sABC=644r7578%230%23962r723o49208qn2513s10sq3734srs0%23rkcybqvb&aw_0_1st.playerid=explodio&amsparams=playerid:explodio;skey:1682863480
-#EXTINF:-1,Rock Radio America (USA) 128k mp3
-http:/http:/adio.streamings.gr:8027/stream
 #EXTINF:-1,Fasma 99.7
 https://fasmafm.radioca.st/stream?type=http&nocache=83
 #EXTINF:-1,Zoo 90.8

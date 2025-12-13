@@ -101,8 +101,6 @@ https://djmarcel.stream.laut.fm/djmarcel?t302=2025-09-17_21-54-07&uuid=814d7d8b-
 https://pub0102.101.ru:8443/stream/air/mp3/256/100
 #EXTINF:-1,IMusic.am-fusion
 https://radio.imusic.am/fusion.mp3?1596641052
-#EXTINF:-1,IMusic.am-Ethno
-http:/streaming.radio.co/sb64369622/listen
 #EXTINF:-1,WOLR
 https://streaming.brol.tech/rtfmlounge
 #EXTINF:-1,Armenian Christian Radio – Bashde Radio
@@ -131,3 +129,13 @@ http://eu.stream4cast.com:8006/stream
 http://138.201.84.106:8050/
 #EXTINF:-1,LOVE RADIO
 https://loveradio.streamingmedia.it/play
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/43015.v3.png",Armenian Christian Radio - Bashde Radio
+https://streams.radio.co/sa0bf8ec29/listen
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/72215.v4.png",Armenian Gospel Radio
+https://s8.myradiostream.com:15554/listen.mp3?nocache=1762527482
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/42839.v5.png",Radio Aurora, Yerevan
+http://stream.radioaurora.am:8050/
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/80146/logo_3SMBJe7pEl.png",Armenian Gospel Radio
+https://s8.myradiostream.com:15554/listen.mp3?nocache=1765138471
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/station-logo-no.png",Mega Armenia
+https://media.rcn.com.co/audios/lamega/Daniel_tres_palacios.mp3#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/79LJBM.png",Bashde

@@ -57,22 +57,6 @@ https://privateness.stream.laut.fm/privateness
 https://neue-burg-radio.stream.laut.fm/neue-burg-radio
 #EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/92883360.jpg",RADIO 538
 https://21633.live.streamtheworld.com/RADIO538.mp3?dist=radioly
-#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/4681.png",Acoustic FM
-#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/4716.png",Non-stop Hitradio
-#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/4748.png",Radio Tijdloos
-#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/4785.png",Big City Hit Radio
-#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/4787.png",Dance Radio 1
-#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/4820.png",Atalanta FM
-#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/4842.png",Radio 50
-#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/4847.png",Toppers van Toen
-#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/4848.png",J-Last Radio
-#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/4850.png",60XL
-#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/4859.png",Gold Star Radio
-#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/4863.png",Alaska Radio
-#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/4911.png",Classic Rock Records
-#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/4914.png",Indie Imagination Radio
-#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/4924.png",Jofox Radio
-#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/4928.png",Radio Hits4U!
 #EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/46577085.png",Klassik Radio Live
 https://klassikr.streamabc.net/klr-krdnational-aac-128-3888428
 #EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/60350215.png",Sunshine live - Drum N Bass Live
@@ -199,7 +183,6 @@ https://25333.live.streamtheworld.com/SUBLIMEAAC.aac
 https://kool.stream.laut.fm/kool
 #EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/6374291.png",Veronica Non-stop
 https://23623.live.streamtheworld.com/DAB02_AAC.aac
-#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/79082283.jpg",Super Clásica
 #EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/40447259.jpg",Kairos 90.9 FM
 https://c7.radioboss.fm:18255/KAIROSFM
 #EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/84767147.jpg",Color Radio 102.5
@@ -1032,8 +1015,6 @@ http://server-07.stream-server.nl:8388/;
 https://play.citymusic.be/citymusic.mp3
 #EXTINF:-1,Joe 80&#039;s &amp; 90&#039;s
 https://icecast-qmusicbe-cdp.triple-it.nl/joe_80s_90s.aac
-#EXTINF:-1,Wild FM
-https:/http:/adio.intergalactic.fm/2aac
 #EXTINF:-1,Radio Fantasy Rotterdam
 https://caster04.streampakket.com/proxy/8024/stream
 #EXTINF:-1,Radio Superstar Belgium
@@ -1316,8 +1297,6 @@ https://flashhitradio.stream.laut.fm/flashhitradio?t302=2023-04-25_20-22-57&uuid
 https://pjd2radiofm.radioca.st/;
 #EXTINF:-1,Radio Paradijs
 https://sonic.magicdragon.nl/8008/stream
-#EXTINF:-1,Slingeland FM
-https:/http:/adio.avulo.nl/stream
 #EXTINF:-1,XL Music
 https://s2.myradiostream.com:4384/;listen.mp3
 #EXTINF:-1,1 Mini 2

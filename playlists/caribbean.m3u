@@ -739,3 +739,25 @@ http://s4.radio.co/s76dc39863/listen
 http://192.95.18.39:5768/stream/
 #EXTINF:-1,WEAA 88.9 FM – WEAA
 http://stream.radio.co/s9f46a9bb1/low
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/97102/logo_SxJ6kBhVOs.png",Hindsight Media Radio 103.5 FM
+https://das-edge16-live365-dal02.cdnstream.com/a04749
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/28303/logo_EWevm4imtQ.png",WDR COSMO Zan Zendegi Azadî – Frau Leben Freiheit – Jin Jiyan Azadî Radio
+https://d141.rndfnk.com/ard/wdr/cosmo/special/mp3/128/stream.mp3?cid=01FC1V9F68QXT4S8JJA6F9WE1K&sid=36X9digRKAlBRo76LInNpdIuGYj&token=GE54bcTTKJAtQ44FmtQbGIOJSaIfhk3aUPJvbrptQAg&tvf=2MCCCxEffxhkMTQxLnJuZGZuay5jb20
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/86746/logo_lFAfJUELRf.png",Spiceislander Radio
+https://fire.doscast.com/8002/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/95092/logo_voHggdQvaB.png",Fierte Haitienne FM Radio
+https://stream3.rcast.net/65300
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/97153/logo_NT89ymbh4T.png",Soufriere Hills Radio
+https://das-edge62-live365-dal03.cdnstream.com/a68427
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/88432/logo_auAu7TVowS.png",Caribbean Variety Mix Radio
+https://online.jamminvibezradio.com/listen/caribbean/stream.low
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/85598/logo_k0kWOtFZK9.png",Ritmo Antiyano Radio
+https://ec6.yesstreaming.net:3105/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/88911/logo_lh3TRkrEnh.png",Caribbean Christmas Mix Radio
+https://online.jamminvibezradio.com/listen/christmas/stream.low
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/86750/logo_wLslHp62A1.png",We Hide Out FM Radio
+https://s19.myradiostream.com/:18234/listen.mp3
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/88704/logo_ClBwbpLCfh.png",Reggae Classic Hits Mix Radio
+https://online.jamminvibezradio.com/listen/reggae/live.aac
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/100101/logo_io3qAzdKok.png",CaribXR Radio
+https://a12.asurahosting.com/listen/caribxr/radio.mp3

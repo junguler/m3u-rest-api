@@ -49,3 +49,27 @@ https://listen5.myradio24.com/s383718
 https://nl4.mystreaming.net/uber/jjraljarreau/icecast.audio
 #EXTINF:-1,Радио «Русские Эмираты» radio
 http://a4.radioheart.ru:8041/RH32763
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/130427.v3.png",Gulf Radio
+https://stream.chiliradio.app/gulfradio
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/131732.v2.png",Кинозал.ТВ
+https://listen4.myradio24.com/kinozaltv
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/130559.v3.png",Antenna Web Abu Dhabi
+https://halo.streamerr.co/listen/italiavera/stream.mp3
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/113594.v1.png",Country Music Radio - Alabama
+https://2.mystreaming.net/uber/cmralabama/icecast.audio
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/108007.v2.png",Easy Instrumentals
+https://2.mystreaming.net/uber/easyinstrumentals/icecast.audio
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/118243.v5.png",Starbox - Blues
+https://2.mystreaming.net/uber/starboxblues/icecast.audio
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/117719.v3.png",Boomerang 20's
+https://2.mystreaming.net/uber/boomerang1920s/icecast.audio
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/117935.v2.png",Just Jazz - Al Jarreau
+https://2.mystreaming.net/uber/jjraljarreau/icecast.audio
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/106343.v4.png",For Kids Bathtime Fun
+https://2.mystreaming.net/uber/forkidzbathtimefun/icecast.audio
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/112310.v1.png",Classical Radio - Beethoven
+https://2.mystreaming.net/uber/crbeethoven/icecast.audio
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/90922.v7.png",Exclusively Adele
+https://2.mystreaming.net/er/adele/icecast.audio
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/116680.v4.png",Love Radio - 50's
+https://2.mystreaming.net/uber/lr1950s/icecast.audio

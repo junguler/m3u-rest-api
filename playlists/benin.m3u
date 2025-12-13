@@ -39,3 +39,9 @@ http://listen.radioking.com/radio/47608/stream/84424
 http://listen.radioking.com/radio/51919/stream/88927
 #EXTINF:-1,Radio Tokpa FM 104.3 FM
 http://live.radiotokpa.info/
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/78121/logo_XPLJUtwRNB.png",Antenna Web Cotonou Radio
+https://halo.streamerr.co/listen/italiavera/stream.mp3
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/78122/logo_emBDXc8ehf.png",Hero Radio (Benin)
+https://a2.asurahosting.com:6790/benin.mp3
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/78119/logo_99To9jt54r.png",bip radio
+https://ice.creacast.com/bipradio

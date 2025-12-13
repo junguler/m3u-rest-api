@@ -41,8 +41,6 @@ https://reggae-radio105network.radioca.st/
 https://s46.myradiostream.com/:6076/;
 #EXTINF:-1,Radio Malta
 https://s38.myradiostream.com/:6982/;
-#EXTINF:-1,Calypso Radio 101.8FM
-https:/http:/adiopatata.stream.laut.fmhttp:/adiopatata
 #EXTINF:-1,Like One Malta
 https://likeradiostream.com/likeoneuk
 #EXTINF:-1,Radju Marija Malta
@@ -107,3 +105,23 @@ https://uk23freenew.listen2myradio.com/live.mp3?typeportmount=s1_32639_stream_70
 https://s9.voscast.com:7825/1
 #EXTINF:-1,Campus FM 103.7
 https://rbx2.hnux.com/http://e11648.cloudrad.io:8174/campusfm_live?_=0.8869989400879168
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/8686.v22.png",Radju Marija Malta
+http://dreamsiteradiocp.com:8102/
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/129320.v8.png",Antenna Web Malta
+https://italiavera.radioca.st/stream
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/77651.v4.png",Radio Malta 2
+https://s11.myradiostream.com:4954/
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/7992.v8.png",Magic Malta Radio
+https://s46.myradiostream.com/:6076/
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/44789/logo_Tpk5Weddr0.png",Mediterranea Radio
+https://stream2.xdevel.com/audio6s194-49/stream/icecast.audio
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/44770/logo_OGNCEptE1J.png",Pure Radio
+http://65.109.97.137:8010/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/44757/logo_PoMu5YJVEn.png",Radju Lehen il-Belt Radio
+https://az.wannastream.com/radio/8010/radjulehenil-beltvictoria
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/44792/logo_nGIgUNFqSw.png",Antenna Web Marsaskala Radio
+https://halo.streamerr.co/listen/italiavera/stream.mp3
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/44769/logo_cuP8cnRd4e.png",Radju Malta 2 Radio
+http://s11.myradiostream.com:4954/
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/44784/logo_pKvSJSxNkk.png",Lehen il-Belt Gorgjana Radio
+https://s37.myradiostream.com:9088/listen.mp3

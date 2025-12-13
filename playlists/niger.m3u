@@ -39,3 +39,7 @@ http://edge.mixlr.com/channel/zbfuy
 https://italiavera.radioca.st/stream
 #EXTINF:-1,Express Radio 90.3 FM – 90.3 FM – NE-8
 http://pollux.shoutca.st:9118/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/80010/logo_1xLMKScW1L.png",Hero Radio (Niger)
+https://a2.asurahosting.com:6790/niger.mp3
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/80009/logo_2rO9G1bCcX.png",Antenna Web Niamey Radio
+https://halo.streamerr.co/listen/italiavera/stream.mp3

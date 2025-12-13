@@ -299,8 +299,6 @@ https://http-live.sr.se/srsapmi-mp3-128
 https://stream.dbmedia.se/gkMP3
 #EXTINF:-1,Radio Topp 40 Bara Hits
 https://live-bauerse-fm.sharp-stream.com/topp40_mp3
-#EXTINF:-1,Lugna Klassiker
-https:/http:/b.enson.sehttp:/b3
 #EXTINF:-1,Radio Viking
 https://n22a-eu.rcs.revma.com/qp6w2wzrruhvv?rj-ttl=5&rj-tok=AAABiLP0V8wAPAfHho3jJ6cjbw
 #EXTINF:-1,All Radio
@@ -311,8 +309,6 @@ https://streaming.943.se/litefm
 https://live-cdn.sr.se/pool2/p2/p2.isml/p2.m3u8
 #EXTINF:-1,Radio Gävle
 http://kepler.shoutca.st:8271/;stream
-#EXTINF:-1,MusikMixense
-http:/http:/adio.tabyenskilda.se:8050/;
 #EXTINF:-1,Polarlicht
 https://polarlicht.stream.laut.fm/polarlicht
 #EXTINF:-1,Oldies FM Gävle

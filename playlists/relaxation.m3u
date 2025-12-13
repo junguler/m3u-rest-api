@@ -57,7 +57,6 @@ https://cast1.torontocast.com:2865/stream
 https://securestream.radioshd.info:7013/stream/1/
 #EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/42750.png",Radio Rossini
 https://radiorossini.stream.laut.fm/radiorossini
-#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/43065.png",Radio Buddha Bar
 #EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/6971899.jpg",baden.fm Relax Live
 https://edge13.streamonkey.net/badenfm-relax?aggregator=hofmeir
 #EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/69058972.jpg",Super Relax FM

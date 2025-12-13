@@ -193,8 +193,6 @@ http://play14.tikast.com:9009/index.html/;
 https://sv10.hdradios.net:21920/;
 #EXTINF:-1,Leblon Gospel
 https://sonicpanel.oficialserver.com/8254/stream
-#EXTINF:-1,Odyssey Radio
-https:/http:/adiko.jp/#!/live/RADIOBERRY
 #EXTINF:-1,RADIO wonderstorage
 https://live.776.fm/
 #EXTINF:-1,Вокалоид радио (Vocaloid Radio on mikupa.ru)
@@ -523,3 +521,15 @@ https://www.fm797.co.jp/mf/bcs_na.mp3
 https://streaming.radio.co/se4a8e6a93/listen
 #EXTINF:-1,Big B Radio #Jpop Station 
 https://antares.dribbcast.com/proxy/jpop?mp=/s
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/50467/logo_wfcjDopsSM.png",J-pop Project Radio
+https://26343.live.streamtheworld.com/SAM10AAC139.mp3
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/80064/logo_hp2X7YbVse.png",J1 HITS Radio
+https://jenny.torontocast.com:8056/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/80103/logo_B6yZV9rhzI.png",J1 Gold Radio
+https://jenny.torontocast.com:8062/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/80065/logo_NEUoLJaz0b.png",J1 Xtra Radio
+https://jenny.torontocast.com:8058/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/50481/logo_8pgROYQXga.png",J-pop Idols Project Radio
+https://15113.live.streamtheworld.com/SAM05AAC121.mp3
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/99052/logo_mgJhGRyfbg.png",TJS Japanese Radio Station
+https://s8.citrus3.com:8200/stream

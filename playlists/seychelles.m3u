@@ -47,3 +47,9 @@ http://mediaserv68.live-streams.nl:8012/RadioActive
 https://panel.beheerstream.com:2199/tunein/italoradiofm.pls
 #EXTINF:-1,ISKC Radio Group – ISKC Hardrock Channel
 http://mediaserv68.live-streams.nl:8012/HardRockChannel/
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/47822.v6.png",ItaloRadio.fm
+http://54.36.89.71:8102/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/78563/logo_7z1mzWgZ4q.png",Antenna Web Victoria Radio
+https://halo.streamerr.co/listen/italiavera/stream.mp3
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/78564/logo_d4sZFzQYdK.png",Hero Radio (Seychelles)
+https://a2.asurahosting.com:6790/seychelles.mp3

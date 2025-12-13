@@ -9,3 +9,7 @@ https://nl4.mystreaming.net/er/calvinharris/icecast.audio
 https://alwaysmusic.stream.laut.fm/alwaysmusic?t302=2025-09-17_22-22-53&uuid=5eef841f-80b9-4512-aeba-c6e080777565
 #EXTINF:-1,Radio SwissJu Listen live
 https://server4.streamserver24.com:61420/
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/79189/logo_JxX1JH3La3.png",Antenna Web Mbabane Radio
+https://halo.streamerr.co/listen/italiavera/stream.mp3
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/79190/logo_rC3RxOFQNN.png",Hero Radio (Swaziland)
+https://a2.asurahosting.com:6790/swaziland.mp3

@@ -17,3 +17,7 @@ https://stream4.xdevel.com/audio0s976407-1191/stream/icecast.audio
 https://bissau.radio/listen/4361
 #EXTINF:-1,Rádio Voz de Quelélé
 https://player.srvsh.com.br/proxy/6770
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/78217/logo_L3lcIBVbYU.png",Antenna Web Bissau Radio
+https://halo.streamerr.co/listen/italiavera/stream.mp3
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/78218/logo_jukomvvHTQ.png",Hero Radio (Guinea Bissau)
+https://a2.asurahosting.com:6790/bissau.mp3

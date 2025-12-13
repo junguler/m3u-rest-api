@@ -103,3 +103,11 @@ https://audio.bfmtv.com/rmcradio_128.mp3
 https://n12.rcs.revma.com/v4hf7bwspwzuv
 #EXTINF:-1,( REM ) Radio Evangile Martinique – Fort-de-France – MQ-MQ
 http://51.210.8.69:8000/?type=http&nocache=14
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/76036/logo_fAHYXkihV8.png",RCI Martinique Radio
+https://stream.rcs.revma.com/t0abpqyspwzuv
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/76044/logo_W2ZYMraxIw.png",Antenna Web Fort-de-France Radio
+https://halo.streamerr.co/listen/italiavera/stream.mp3
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/76041/logo_48szNILILx.png",Radio Céleste
+https://hoth.alonhosting.com:4015//stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/76043/logo_NKt9qYvrfK.png",LouangeFM Radio
+https://ukwesta.streaming.broadcast.radio/louangefm

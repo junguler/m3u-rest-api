@@ -9,3 +9,7 @@ https://2.mystreaming.net/uber/easyfranksinatra/icecast.audio
 https://15113.live.streamtheworld.com/977_HITSAAC_SC?dist=onlineradiobox
 #EXTINF:-1,Movies Broadway Singers and Beyond radio
 https://das-edge11-live365-dal03.cdnstream.com/a41788
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/81341/logo_k7Zm8iudJ2.png",Exclusively Frank Sinatra Radio
+https://nl4.mystreaming.net/er/franksinatra/icecast.audio
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/82386/logo_f30fFMBYo4.png",Easy Frank Sinatra Radio
+https://nl4.mystreaming.net/uber/easyfranksinatra/icecast.audio

@@ -13,3 +13,7 @@ https://kapfradio19.stream.laut.fm/kapfradio19?t302=2025-09-17_21-58-15&uuid=ac9
 https://streams.radio.co/sb2da1473e/listen
 #EXTINF:-1,radio lusitana jersey
 http://lyra.shoutca.st:8010/
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/41JNIG.png",Bailiwick Radio Classics
+https://streaming.radio.co/s20224a067/listen
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/386XPS.png",Bailiwick Radio Hits
+https://streamer.radio.co/s5af29b339/listen

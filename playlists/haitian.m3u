@@ -55,3 +55,5 @@ http://192.99.8.192:3184/stream
 https://rhmfm.radioca.st//live
 #EXTINF:-1,Zones FM - Haitian radio from New York
 https://free.rcast.net/209510
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/97284/logo_knLbXLAFOf.png",Radio Impact Inter
+http://broadcast.shoutcheap.com:8245/stream

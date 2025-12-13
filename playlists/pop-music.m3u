@@ -163,7 +163,6 @@ https://streamingp.shoutcast.com/JamendoLounge?lang=*
 https://18853.live.streamtheworld.com/977_HITS_SC
 #EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/5543875.png",Cocktail FM
 https://listen.radioking.com/radio/245467/stream/289642
-#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/114969505.png",Jeff Radio Hit
 #EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/112806366.jpg",Radio Scoop Pop-Rock
 https://scooprock.ice.infomaniak.ch/radioscoop-rock-64.aac
 #EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/29874084.png",Beur FM
@@ -178,7 +177,6 @@ https://futuradiopopsweet.ice.infomaniak.ch/frsweet-128.mp3
 https://listen.radioking.com/radio/39962/stream/76445
 #EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/4123140.png",Christmas Hits 1
 https://str3.openstream.co/1514?aw_0_1st.collectionid%3D4726%26stationId%3D4726%26publisherId%3D1538%26k%3D1759195042
-#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/53082670.jpg",Modem Radio
 #EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/23422784.png",GASCOGNE FM
 https://hosting.studioradiomedia.fr:3340/gascognefm
 #EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/30000221.png",Radio RG30
@@ -231,7 +229,6 @@ https://edge68.streams.baden.fm/badenfm-onair
 https://audiotainment-sw.streamabc.net/atsw-russia-mp3-128-8184454?sABC=64rqo25q%230%230233qq994nn6os4s0n9np59p9ssps3pp%23gjy48&aw_0_1st.playerid=twl48&amsparams=playerid:twl48skey:1693299293
 #EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/35107353.jpeg",Radio Ton - Region Heilbronn
 https://radioton.stream26.radiohost.de/radioton-hn_aac-64?upd-meta&upd-scheme=https&_art=dD0xNzU5MTk1MzQ0JmQ9ZTBmOGFlMjM1NmEwZTFjODAwNDk
-#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/4691509.jpeg",Radio Ton - 80er Live
 #EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/18116544.png",ANTENNE BAYERN Lovesongs
 https://s8-webradio.antenne.de/lovesongs?aw_0_1st.playerid=MyTuner
 #EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/26099320.png",ENERGY München
@@ -602,7 +599,6 @@ https://listen.radioking.com/radio/4876/stream/13091
 https://radiocotevaroise.ice.infomaniak.ch/radiocotevaroise-128.mp3
 #EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/13344106.png",NRJ HITS REMIX
 https://streaming.nrjaudio.fm/ou4we9htd2ko?origine=radio.net&aw_0_1st.station=NRJ-Hits-Remix
-#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/71778309.png",90's Party
 #EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/109764186.jpg",R' La Plagne
 https://hosting.studioradiomedia.fr:1795/stream
 #EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/39181643.jpg",Contact FM
@@ -733,7 +729,6 @@ https://27583.live.streamtheworld.com/OLP_BOGOTAAAC.aac?dist=radioly
 https://ice04.fluidstream.net/fluid7104.aac?FLID=6
 #EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/113137943.png",Radio Padova
 https://sphera.fluidstream.eu/rpd.aac?FLID=6
-#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/60906403.jpg",LoveRadio
 #EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/103995500.png",Olímpica Stereo - Bucaramanga 97.7 FM
 https://26583.live.streamtheworld.com/OLP_BUCARAMANGAAAC.aac?dist=radioly
 #EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/22379167.png",Olímpica Stereo - Montería 90.5 FM
@@ -1052,7 +1047,6 @@ https://nl4.mystreaming.net/er/belindacarlisle/icecast.audio
 https://nl4.mystreaming.net/uber/sportifyaerobics/icecast.audio
 #EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/312715.jpg",Country Music Radio - K.D.Lang
 https://nl4.mystreaming.net/uber/cmrkdlang/icecast.audio
-#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/47103017.jpg",Exclusively LANY
 #EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/60440096.jpg",Exclusively Burna Boy
 https://nl4.mystreaming.net/er/burnaboy/icecast.audio
 #EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/55213498.jpg",Exclusively Charli XCX

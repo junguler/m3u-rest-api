@@ -67,3 +67,21 @@ https://halo.streamerr.co/radio/8070/radio.mp3
 https://radiostreamfm.com/radio/8040/dolfijnlatin.mp3
 #EXTINF:-1,Easy 97.9 FM – 97.9 FM – Willemstad
 http://64.150.176.42:8011/live
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/75048.v17.png",Radio Amadeus
+https://curastreamz.com:7003/stream?type=http&ampampnocache=2
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/85599/logo_OpR4HR8LXu.png",X104.3 Radio
+https://www.streamcontrol.net:8444/s/16520/
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/85612/logo_3gtiJnNBYg.png",Paradise FM Nonstop Radio
+https://stream.paradisefm.cw/ParadiseNonstop
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/85619/logo_lQeN5g9JZA.png",Paradise 00s &amp; 10s Radio
+https://stream.paradisefm.cw/00s10s
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/85617/logo_jNf6ukWsuK.png",Paradise 60s &amp; 70s Radio
+https://stream.paradisefm.cw/60s70s
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/85598/logo_k0kWOtFZK9.png",Ritmo Antiyano Radio
+https://ec6.yesstreaming.net:3105/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/85603/logo_bndZ0nYZ5V.png",Radio Pearl FM
+https://live2.tensila.com/pearl-v-1.pearlfm/hls/master.m3u8
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/85605/logo_dtieK0y6S2.png",Radio Amadeus
+https://curastreamz.com:7003/stream?type=http&ampnocache=2
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/85618/logo_upaS1k9SUm.png",Paradise 80s &amp; 90s Radio
+https://stream.paradisefm.cw/80s90s

@@ -59,3 +59,9 @@ https://streaming.brol.tech/rtfmlounge
 https://s62.radiolize.com/radio/8050/radio.mp3?_=1
 #EXTINF:-1,Freedom FM – 106.5 FM – Fig Tree – Saint John Figtree – Saint Kitts and Nevis
 https://sonic01.instainternet.com/8302/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/86483/logo_k6IFIymR1f.png",Freedom FM Radio
+https://media.slactech.com:8012/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/103360/logo_TR1l5cdTIh.png",CENTRALPRAISE SKB Radio
+https://radio.vousstream.com/8002/stream
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/997CU.png",2020 Vision Radio
+http://perseus.shoutca.st:8218/

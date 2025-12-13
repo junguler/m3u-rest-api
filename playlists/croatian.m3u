@@ -305,8 +305,6 @@ http://s8.iqstreaming.com:8036/stream
 https://live.radiocrash.net/;stream.nsv
 #EXTINF:-1,Club Music Radio - LOVE SONGS
 http://cmr-hosting.com:8040/;stream.nsv
-#EXTINF:-1,Hrvatski Radio Vukovar
-http:/http:/adiostream.optiklink.com:8100/live.mp3
 #EXTINF:-1,KLFM
 https://klfmorgborg.radioca.st/;
 #EXTINF:-1,City Radio
@@ -375,8 +373,6 @@ http://c5.hostingcentar.com:8432/;
 https://s5.radio.co/s8cf5effc6/listen
 #EXTINF:-1,Club Music Radio - ExYU-POP-ROCK
 https://cmr-hosting.com/8080/stream
-#EXTINF:-1,Radio Dalmacija Rokija
-http:/http:/adiorojc.streamradio.com.hr:8974/;
 #EXTINF:-1,Antena Zagreb Xmass
 http://live.antenazagreb.hr:8015/stream
 #EXTINF:-1,Rama
@@ -399,8 +395,6 @@ https://cmr-hosting.com/9700/stream
 http://c5.hostingcentar.com:8442/;
 #EXTINF:-1,Onyx
 https://stream.master-dizajn.com/8030/stream
-#EXTINF:-1,Radio Dalmacija mix (miXmas)
-https:/http:/adio.vaticannews.va/stream-hr
 #EXTINF:-1,WFDD HD3 - Wake Radio
 https://wfdd.streamguys1.com/wfdd3
 #EXTINF:-1,Schwendermarkt
