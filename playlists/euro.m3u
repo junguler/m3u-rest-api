@@ -1,22 +1,14 @@
 #EXTM3U
-#EXTINF:-1,IDN - Italian Dance Network
-http://stream.radioschedule.info:8000/stream.mp3
-#EXTINF:-1,Radio Club 80
-http://stream.radioclub80.cl:8030/stream.euro80mp3
-#EXTINF:-1,RMI Disco
-http://cast1.torontocast.com:1340/stream
-#EXTINF:-1,Radio Club 80 Euro Hits
-http://stream.radioclub80.cl:8030/stream.euro80flac
 #EXTINF:-1,Европа Плюс
 https://ep256.hostingradio.ru:8052/europaplus256.mp3
 #EXTINF:-1,DFM Дискач 90-х
 https://dfm-disc90.hostingradio.ru/disc9096.aacp
 #EXTINF:-1,Европа Плюс - Light
 https://europaplus.hostingradio.ru:8014/ep-light128.mp3
+#EXTINF:-1,Play 90&#039;s
+https://live.playradio.org:8443/90HD
 #EXTINF:-1,Radyo Fenomen
 https://live.radyofenomen.com/fenomen/abr/playlist.m3u8
-#EXTINF:-1,TechnoBase.FM
-https://listener3.mp3.tb-group.fm/tb.mp3
 #EXTINF:-1,Радио Modern Talking
 https://pub0202.101.ru:8443/stream/pro/aac/64/115?
 #EXTINF:-1,Europa Plus
@@ -29,8 +21,6 @@ https://dfm-disco.hostingradio.ru/disco96.aacp
 http://streaming.radiodancefloor.it:443/;stream.nsv
 #EXTINF:-1,101.ru - Euro Hits
 https://pub0202.101.ru:8443/stream/pro/aac/64/82
-#EXTINF:-1,Donat FM - Зарубежные Хиты
-https://c6.radioboss.fm:18089/stream
 #EXTINF:-1,Oxygen Magyar Zene
 https://oxygenmusic.hu:8443/oxygenmagyarzene_128
 #EXTINF:-1,Italian Dance Network
@@ -67,8 +57,6 @@ https://teleradio1.stream.laut.fm/teleradio1?pl=pls&t302=2021-02-09_14-07-22&uui
 http://stream.bn-radio.de:8000/bn-radio.mp3
 #EXTINF:-1,DANCE WAVE RADIO
 https://dance-wave-radio.stream.laut.fm/dance-wave-radio?pl=m3u&t302=2023-05-10_13-16-08&uuid=0d84a7ab-d92b-46bc-9115-f73d60f828c2
-#EXTINF:-1,Радио Spinner - EuroDance Classic
-https://live.radiospinner.com/erdncclssc-96
 #EXTINF:-1,Europe 1 Musique
 https://wr.lmn.fm/e1-wr5.aac?aw_0_1st.playerid=lgrdnwsRadioplayer
 #EXTINF:-1,Dancezone
@@ -84,7 +72,7 @@ http://club93.stream.laut.fm/club93?t302=2023-04-25_19-28-03&uuid=93d59825-bc2d-
 #EXTINF:-1,BDJ Eurodance 90s
 https://bdjeurodance90s.stream.laut.fm/bdjeurodance90s?t302=2023-04-25_19-39-15&uuid=6a29d9f8-1c86-4666-a087-4237a06caa6c
 #EXTINF:-1,Радио 90s Eurodance
-https://listen1.myradio24.com/5967
+https://listen9.myradio24.com/5967
 #EXTINF:-1,InterStacja - Eurodance
 http://4stream.pl:18180/;
 #EXTINF:-1,BDJ Radio – 80s &amp; 90s Sound of your Life
@@ -104,15 +92,13 @@ https://sp3.streams.ovh/8070/stream
 #EXTINF:-1,Zona Electrónica Urban Revolution
 https://st1.urbanrevolution.es:8443/zonaelectronica
 #EXTINF:-1,0nlineradio GRAN PRIX
-https://0nlineradio.stream42.radiohost.de/0r-grandprix?ref=radiobrowser&upd-meta=0&upd-scheme=https&_art=dD0xNzU2OTQxNDE3JmQ9OWQ2YjFiNWM3MjdlNTIwNzUxMWM
+https://0nlineradio.stream42.radiohost.de/0r-grandprix?ref=radiobrowser&upd-meta&upd-scheme=https&_art=dD0xNzY2MDE0MDIxJmQ9YjQ1YjBjYjFmMjZhNWFjM2QxNTU
 #EXTINF:-1,World Radio Network Europe (WRN)
 http://streaming.edmradio.online:8025/WRN-E
 #EXTINF:-1,Hitradio X
 https://clubclassics.stream.laut.fm/clubclassics?pl=m3u&t302=2023-05-10_12-34-17&uuid=ff92b960-6199-420a-890d-ff235a7a8db5
 #EXTINF:-1,Technolovers EURODANCE
-https://0nlineradio.stream42.radiohost.de/technolovers-eurodance?ref=radiobrowser&upd-meta=0&upd-scheme=https&_art=dD0xNzU2OTQxNDE3JmQ9Yjg0MjRmMzllMzNlOTkxYjExNGM
-#EXTINF:-1,Радио Spinner - Classic EuroDisco
-https://live.radiospinner.com/clsscrdsc-96
+https://0nlineradio.stream42.radiohost.de/technolovers-eurodance?ref=radiobrowser&upd-meta&upd-scheme=https&_art=dD0xNzY2MDE0MDIxJmQ9NGIwZWY5ZTM3OWY3NzI5NzA1MWE
 #EXTINF:-1,Laut.FM Eurodance
 http://eurodance.stream.laut.fm/eurodance?t302=2023-04-25_19-31-42&uuid=1d2eb789-0aac-4e8b-8c3f-702922deff8b
 #EXTINF:-1,DrGnu - 70th Rock
@@ -132,13 +118,13 @@ https://eurobeat.stream.laut.fm/eurobeat?pl=m3u&t302=2023-05-10_12-35-15&uuid=0e
 #EXTINF:-1,Radio Mirage - Euro Dance
 http://s0.radiohost.pl:9569/;
 #EXTINF:-1,104.6 RTL Dance-Hits - 0 - Germany - dance - dj remix - eurodance
-http://regiocast.streamabc.net/regc-90s90seurodance7558633-mp3-192-3419489?sABC=68p1q3nr%230%23781o8qo1qnnp5oros5r6o8p876335p33%23ienqvb&aw_0_1st.playerid=vradio&amsparams=playerid:vradio;skey:1757533102
+http://regiocast.streamabc.net/regc-90s90seurodance7558633-mp3-192-3419489?sABC=69433o18%230%2301p8o76751n3q8177351p9r34427o903%23ienqvb&aw_0_1st.playerid=vradio&amsparams=playerid:vradio;skey:1766013720
 #EXTINF:-1,90s Heaven - 128 - Greece - 80s - 90s - eurodance - greek - house - pop - rap - rnb - rock
-http://regiocast.streamabc.net/regc-90s90seurodance7558633-mp3-128-2300952?sABC=68p1q3nr%230%23781o8qo1qnnp5oros5r6o8p876335p33%23enqvbqr&aw_0_1st.playerid=radiode&amsparams=playerid:radiode;skey:1757533102
+http://regiocast.streamabc.net/regc-90s90seurodance7558633-mp3-128-2300952?sABC=69433o18%230%2301p8o76751n3q8177351p9r34427o903%23enqvbqr&aw_0_1st.playerid=radiode&amsparams=playerid:radiode;skey:1766013720
 #EXTINF:-1,Day Dee Eurodance Radio - 128 - Bosnia And Herzegovina - dance - dj remix - eurodance
 http://daydeeeurodance.stream.laut.fm/daydeeeurodance
 #EXTINF:-1,eurodance - 128 - Germany - dance & electronicdiscoeurodanceitalo-discopoptran
-https://eurodance.stream.laut.fm/eurodance?t302=2025-09-10_19-38-23&uuid=cd8e10a2-c478-4b4f-9356-b3f82d01d1c4
+https://eurodance.stream.laut.fm/eurodance?t302=2025-12-17_23-22-01&uuid=14d77e6d-92b7-43db-81c2-5d2c0dfdf036
 #EXTINF:-1,EuroDance 90 radio - 128 - France - dancefloor - electronic dance music - eurodance - pop dance - pop music
 https://stream-eurodance90.fr/radio/8000/128.mp3?1627933323
 #EXTINF:-1,Eurodance-X-Press - 128 - Austria - 90s - dance - eurodance - top40
@@ -154,7 +140,7 @@ http://streams.ffh.de/ffhchannels/mp3/hqeurodance.m3u
 #EXTINF:-1,laut.fm eurobeat - 128 - Germany -
 http://stream.laut.fm/eurobeat.m3u
 #EXTINF:-1,Laut.FM Eurodance - 128 - Germany - euro disco - eurodance - italo disco - synthpop
-http://eurodance.stream.laut.fm/eurodance?t302=2025-09-10_19-38-25&uuid=1906d85a-bd6e-4249-abb7-e1d07ba5e1e2
+http://eurodance.stream.laut.fm/eurodance?t302=2025-12-17_23-22-03&uuid=cb17028f-4b2b-417f-858d-bb188ca144ac
 #EXTINF:-1,M1.FM 90s - 48 - Germany - 90s - dance - eurodance
 https://live.m40radio.fr/listen/m40-eurodance/m40-eurodance-128.mp3
 #EXTINF:-1,Online DJ Radio 64 - 64 - Bulgaria - dance - eurodance - house - top40
@@ -169,18 +155,18 @@ http://79.120.39.202:8002/eurodance
 http://213.141.131.10:8000/europeanfolk
 #EXTINF:-1,Radio Eurodance Classic - Pure and Addictive - 128 - Canada - 90's - 90s - eurodance
 https://www.radio-eurodance-classic.eu/stream/128mp3.m3u
+#EXTINF:-1,Radio ITALOPOWER! - 192 - France - 80's - eurodisco - italodisco - rarities
+https://euroticast.com/play.php?play=8444&player=winamp
 #EXTINF:-1,Radio Na Stoku - 160 - Poland - dance - disco polo - eurodance - pop music
 https://centova2.euroti.com.br:20062/;
 #EXTINF:-1,Radio Record - Summer Dance - 0 - The Russian Federation - dance - dance music - dance pop - eurodance
-http://audiotainment-sw.streamabc.net/atsw-90erdance-mp3-128-7929578?sABC=68p1q3o4%230%23781o8qo1qnnp5oros5r6o8p876335p33%23gjy&aw_0_1st.playerid=twl&amsparams=playerid:twl;skey:1757533108
+http://audiotainment-sw.streamabc.net/atsw-90erdance-mp3-128-7929578?sABC=69433o1r%230%2301p8o76751n3q8177351p9r34427o903%23gjy&aw_0_1st.playerid=twl&amsparams=playerid:twl;skey:1766013726
 #EXTINF:-1,Record Neurofunk - 0 - The Russian Federation - drum&bass - drum'n'bass - neurofunk
 https://radiorecord.hostingradio.ru/neurofunk96.aacp
 #EXTINF:-1,SR1 Europawelle - 128 - Germany - europawelle - saarland - sr1
 http://euroticast5.euroti.com.br:8004/
 #EXTINF:-1,Sunshine Live - Die 90er - 0 - Germany - 90s - dance - electronica - eurodance
 https://sunsl.streamabc.net/sunsl-eurodance-mp3-192-9832422
-#EXTINF:-1,Technolovers EURODANCE - 192 - Germany - 80's - 80er - 80s - 90's - 90er - 90s - dance - dance music - euro disco - euro hits - eurodance - pop dance
-https://0nlineradio.stream42.radiohost.de/technolovers-eurodance?ref=radiobrowser&upd-meta&upd-scheme=https&_art=dD0xNzU3NTMzNDA4JmQ9YzVmNTU2YWYzMTcxYTVhYzYxNzY
 #EXTINF:-1,UK Bass Radio - 192 - The United Kingdom Of Great Britain And Northern Ireland - breakbeat hardcore - drum and bass - drumfunk - dubstep - garage - hardcore - house - jump-up - jungle - liquid funk - neurofunk - old skool - rollers - techno - techstep - trance - uk bass - uk funky - uk garage - ukedm - ukg
 https://stream-10.pmteurope.com:8040/stream
 #EXTINF:-1,Европа Плюс Великий Новгород 103.2 FM - 117 - The Russian Federation - euro hits - music - pop - region 53 - velikiy novgorod

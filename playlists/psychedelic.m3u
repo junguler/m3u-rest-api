@@ -1,30 +1,136 @@
 #EXTM3U
-#EXTINF:-1,Cosmic FuzzFm (CFFM)
-https://15113.live.streamtheworld.com/SAM04AAC335.mp3
-#EXTINF:-1,Radio Flash
-http://stream2.xdevel.com/audio5s194-48/stream/icecast.audio
-#EXTINF:-1,Psychedelic Jukebox
-http://eagle.streemlion.com:4157/stream
-#EXTINF:-1,MixLive.ie - Psybient Sunset
-http://2.58.194.54:8876/stream/
-#EXTINF:-1,Psyland Radio
-https://sp.streams.ovh/8020/stream
-#EXTINF:-1,Radio Eigekai
-https://streaming.brol.tech/rtfmlounge
-#EXTINF:-1,Radioparty.pl - Trance
-http://s2.radioparty.pl:8000/trance
-#EXTINF:-1,PsyStream
-https://radio.psymusic.co.uk/listen/psystream/radio1_192k.mp3
-#EXTINF:-1,Nice Tunes Radio
-http://eu10.fastcast4u.com:5120/stream
 #EXTINF:-1,Psybient Sunset on MixLive.ie
 http://2.58.194.54:8876/stream
 #EXTINF:-1,RockRadio (MRG.fm)
 http://62.149.196.16:8080/stream
+#EXTINF:-1,neurotrancemitter
+http://neurotrancemitter.stream.laut.fm/neurotrancemitter
+#EXTINF:-1,chillout area
+http://chillout-area.stream.laut.fm/chillout-area
+#EXTINF:-1,bluestarradio
+http://bluestarradio.stream.laut.fm/bluestarradio
+#EXTINF:-1,lovebasefm
+http://lovebasefm.stream.laut.fm/lovebasefm
+#EXTINF:-1,psychedelic goa trance pro darkspy
+http://psychedelic_goa_trance_pro_darkspy.stream.laut.fm/psychedelic_goa_trance_pro_darkspy
+#EXTINF:-1,zorba
+http://zorba.stream.laut.fm/zorba
+#EXTINF:-1,classic progrock fm
+http://classic-progrock-fm.stream.laut.fm/classic-progrock-fm
+#EXTINF:-1,amorsaal
+http://amorsaal.stream.laut.fm/amorsaal
+#EXTINF:-1,the world wont listen
+http://the-world-wont-listen.stream.laut.fm/the-world-wont-listen
+#EXTINF:-1,psytrancelicious
+http://psytrancelicious.stream.laut.fm/psytrancelicious
+#EXTINF:-1,bluffphonica
+http://bluffphonica.stream.laut.fm/bluffphonica
+#EXTINF:-1,goafm
+http://goafm.stream.laut.fm/goafm
+#EXTINF:-1,fatamorgana
+http://fatamorgana.stream.laut.fm/fatamorgana
+#EXTINF:-1,daddykwhv
+http://daddykwhv.stream.laut.fm/daddykwhv
+#EXTINF:-1,ghostdog
+http://ghostdog.stream.laut.fm/ghostdog
+#EXTINF:-1,radio laika
+http://radio-laika.stream.laut.fm/radio-laika
+#EXTINF:-1,oldinn resort
+http://oldinn-resort.stream.laut.fm/oldinn-resort
+#EXTINF:-1,nummer 1 oldies
+http://nummer_1_oldies.stream.laut.fm/nummer_1_oldies
+#EXTINF:-1,freakshow
+http://freakshow.stream.laut.fm/freakshow
+#EXTINF:-1,beatz of electronic
+http://beatz_of_electronic.stream.laut.fm/beatz_of_electronic
+#EXTINF:-1,radio chartsfm
+http://radio-chartsfm.stream.laut.fm/radio-chartsfm
+#EXTINF:-1,musikzirkus
+http://musikzirkus.stream.laut.fm/musikzirkus
+#EXTINF:-1,vortex surfer
+http://vortex-surfer.stream.laut.fm/vortex-surfer
+#EXTINF:-1,deep tech club
+http://deep-tech-club.stream.laut.fm/deep-tech-club
+#EXTINF:-1,krennerland
+http://krennerland.stream.laut.fm/krennerland
+#EXTINF:-1,synthaulos radio
+http://synthaulos-radio.stream.laut.fm/synthaulos-radio
+#EXTINF:-1,klangrebellion
+http://klangrebellion.stream.laut.fm/klangrebellion
+#EXTINF:-1,eventarena hells gate
+http://eventarena-hells_gate.stream.laut.fm/eventarena-hells_gate
+#EXTINF:-1,club backnang
+http://club-backnang.stream.laut.fm/club-backnang
+#EXTINF:-1,netlabel org
+http://netlabel_org.stream.laut.fm/netlabel_org
+#EXTINF:-1,stone prog
+http://stone-prog.stream.laut.fm/stone-prog
+#EXTINF:-1,massregelvollzugsklinik
+http://massregelvollzugsklinik.stream.laut.fm/massregelvollzugsklinik
+#EXTINF:-1,deisterrock
+http://deisterrock.stream.laut.fm/deisterrock
+#EXTINF:-1,all wat gaud is
+http://all-wat-gaud-is.stream.laut.fm/all-wat-gaud-is
+#EXTINF:-1,soundmania
+http://soundmania.stream.laut.fm/soundmania
+#EXTINF:-1,coloursofrock
+http://coloursofrock.stream.laut.fm/coloursofrock
+#EXTINF:-1,ecbsend
+http://ecbsend.stream.laut.fm/ecbsend
+#EXTINF:-1,rock ohne grenzen
+http://rock-ohne-grenzen.stream.laut.fm/rock-ohne-grenzen
+#EXTINF:-1,rocafm
+http://rocafm.stream.laut.fm/rocafm
+#EXTINF:-1,freeqradio
+http://freeqradio.stream.laut.fm/freeqradio
+#EXTINF:-1,jesus alternative plattenkiste
+http://jesus-alternative-plattenkiste.stream.laut.fm/jesus-alternative-plattenkiste
+#EXTINF:-1,moshhead gothic
+http://moshhead-gothic.stream.laut.fm/moshhead-gothic
+#EXTINF:-1,shamanic tunes
+http://shamanic_tunes.stream.laut.fm/shamanic_tunes
+#EXTINF:-1,bestof1969
+http://bestof1969.stream.laut.fm/bestof1969
+#EXTINF:-1,globalbeatz
+http://globalbeatz.stream.laut.fm/globalbeatz
+#EXTINF:-1,rockin
+http://rockin.stream.laut.fm/rockin
+#EXTINF:-1,promofabrik radio
+http://promofabrik-radio.stream.laut.fm/promofabrik-radio
+#EXTINF:-1,an ro art
+http://an-ro-art.stream.laut.fm/an-ro-art
+#EXTINF:-1,reddrock
+http://reddrock.stream.laut.fm/reddrock
+#EXTINF:-1,futschfm
+http://futschfm.stream.laut.fm/futschfm
+#EXTINF:-1,trockendock
+http://trockendock.stream.laut.fm/trockendock
+#EXTINF:-1,silberp
+http://silberp.stream.laut.fm/silberp
+#EXTINF:-1,technolofm
+http://technolofm.stream.laut.fm/technolofm
+#EXTINF:-1,psyradio  fm  psytrance
+http://streamer.psyradio.org:8040/listen.mp3
+#EXTINF:-1,Hirschmilch Chill
+http://hirschmilch.de:7000/chillout.mp3
+#EXTINF:-1,88 Cores Radio 2
+http://96.230.123.74:80/default.m4a
+#EXTINF:-1,Arctic Monkeys FanLoop Radio
+http://streamingp.shoutcast.com/JamendoLounge?lang=*
+#EXTINF:-1,Psyland Radio
+https://sp.streams.ovh/8020/stream
+#EXTINF:-1,Radio Eigekai
+https://streaming.brol.tech/rtfmlounge
+#EXTINF:-1,Technicolor Web of Sound - 60s Psychedelic Rock
+https://das-edge11-live365-dal03.cdnstream.com/a01650
+#EXTINF:-1,PARTY VIBE RADIO : PSYCHEDELIC TRANCE + PROGRESSIVE + GOA
+https://free.rcast.net/249701
+#EXTINF:-1,SONGCAST RADIO - Alternative
+https://free.rcast.net/247478
+#EXTINF:-1,Psychedelic Jukebox
+https://stream1.rcast.net/69989
 #EXTINF:-1,Babaganousha Radio
 http://188.68.42.236:8000/psytrance
-#EXTINF:-1,Mugadavanje
-http://radio.mugadavanje.rs:8000/mugadavanje
 #EXTINF:-1,DFM Psy Trance
 https://dfm-psytrance.hostingradio.ru/psytrance96.aacp
 #EXTINF:-1,DFM Armin Van Buuren
@@ -72,11 +178,9 @@ http://streamer.psyradio.org:8020/;
 #EXTINF:-1,RadiOzora Chill
 http://chill.out.airtime.pro:8000/chill_a
 #EXTINF:-1,Technolovers - PSYTRANCE
-https://0nlineradio.stream42.radiohost.de/technolovers-psytrance?ref=radiobrowser&upd-meta=0&upd-scheme=https&_art=dD0xNzU2OTQ2MzM4JmQ9Mzk5ZDBlNGIyMTQ3NDRiODkzYzI
+https://0nlineradio.stream13.radiohost.de/technolovers-psytrance?ref=radiobrowser&upd-meta&upd-scheme=https&_art=dD0xNzY2MDIxNTAzJmQ9NmQxZjM2NjRjYTY1MjcyZTEwNDI
 #EXTINF:-1,psyradio * fm - progressive
 http://streamer.psyradio.org:8010/;listen.mp3
-#EXTINF:-1,Sunshine Live - Psytrance
-http://sunsl.streamabc.net/sunsl-christmas-mp3-192-7547837
 #EXTINF:-1,laut.fm - Shamanic Tunes
 http://shamanictunes.stream.laut.fm/shamanic_tunes?t302=2023-04-25_19-36-37&uuid=b5bb2ae5-85cf-4276-b10c-1e42cbb5878b
 #EXTINF:-1,Radio Babaganousha Psytrance
@@ -109,141 +213,9 @@ http://smokespace.stream.laut.fm/smokespace?t302=2023-04-25_19-41-52&uuid=f5ac07
 https://freakquency.stream.laut.fm/freakquency?pl=pls&t302=2023-05-09_22-09-12&uuid=ed066126-6e48-4031-8022-637c18a4992d
 #EXTINF:-1,psyradio * fm - psytrance
 http://streamer.psyradio.org:8030/;listen.mp3
-#EXTINF:-1,neurotrancemitter
-http://neurotrancemitter.stream.laut.fm/neurotrancemitter
-#EXTINF:-1,chillout area
-http://chillout-area.stream.laut.fm/chillout-area
-#EXTINF:-1,psychedelic goa trance pro darkspy
-http://psychedelic_goa_trance_pro_darkspy.stream.laut.fm/psychedelic_goa_trance_pro_darkspy
-#EXTINF:-1,classic progrock fm
-http://classic-progrock-fm.stream.laut.fm/classic-progrock-fm
-#EXTINF:-1,psytrancelicious
-http://psytrancelicious.stream.laut.fm/psytrancelicious
-#EXTINF:-1,bluestarradio
-http://bluestarradio.stream.laut.fm/bluestarradio
-#EXTINF:-1,amorsaal
-http://amorsaal.stream.laut.fm/amorsaal
-#EXTINF:-1,lovebasefm
-http://lovebasefm.stream.laut.fm/lovebasefm
-#EXTINF:-1,daddykwhv
-http://daddykwhv.stream.laut.fm/daddykwhv
-#EXTINF:-1,nummer 1 oldies
-http://nummer_1_oldies.stream.laut.fm/nummer_1_oldies
-#EXTINF:-1,the world wont listen
-http://the-world-wont-listen.stream.laut.fm/the-world-wont-listen
-#EXTINF:-1,zorba
-http://zorba.stream.laut.fm/zorba
-#EXTINF:-1,electrocity
-http://electrocity.stream.laut.fm/electrocity
-#EXTINF:-1,bluffphonica
-http://bluffphonica.stream.laut.fm/bluffphonica
-#EXTINF:-1,goafm
-http://goafm.stream.laut.fm/goafm
-#EXTINF:-1,freakshow
-http://freakshow.stream.laut.fm/freakshow
-#EXTINF:-1,beatz of electronic
-http://beatz_of_electronic.stream.laut.fm/beatz_of_electronic
-#EXTINF:-1,stone prog
-http://stone-prog.stream.laut.fm/stone-prog
-#EXTINF:-1,fatamorgana
-http://fatamorgana.stream.laut.fm/fatamorgana
-#EXTINF:-1,ghostdog
-http://ghostdog.stream.laut.fm/ghostdog
-#EXTINF:-1,club backnang
-http://club-backnang.stream.laut.fm/club-backnang
-#EXTINF:-1,musikzirkus
-http://musikzirkus.stream.laut.fm/musikzirkus
-#EXTINF:-1,all wat gaud is
-http://all-wat-gaud-is.stream.laut.fm/all-wat-gaud-is
-#EXTINF:-1,deisterrock
-http://deisterrock.stream.laut.fm/deisterrock
-#EXTINF:-1,moshhead gothic
-http://moshhead-gothic.stream.laut.fm/moshhead-gothic
-#EXTINF:-1,eventarena hells gate
-http://eventarena-hells_gate.stream.laut.fm/eventarena-hells_gate
-#EXTINF:-1,shamanic tunes
-http://shamanic_tunes.stream.laut.fm/shamanic_tunes
-#EXTINF:-1,soundmania
-http://soundmania.stream.laut.fm/soundmania
-#EXTINF:-1,radio laika
-http://radio-laika.stream.laut.fm/radio-laika
-#EXTINF:-1,technolofm
-http://technolofm.stream.laut.fm/technolofm
-#EXTINF:-1,vortex surfer
-http://vortex-surfer.stream.laut.fm/vortex-surfer
-#EXTINF:-1,klangrebellion
-http://klangrebellion.stream.laut.fm/klangrebellion
-#EXTINF:-1,deep tech club
-http://deep-tech-club.stream.laut.fm/deep-tech-club
-#EXTINF:-1,rock ohne grenzen
-http://rock-ohne-grenzen.stream.laut.fm/rock-ohne-grenzen
-#EXTINF:-1,netlabel org
-http://netlabel_org.stream.laut.fm/netlabel_org
-#EXTINF:-1,oldinn resort
-http://oldinn-resort.stream.laut.fm/oldinn-resort
-#EXTINF:-1,massregelvollzugsklinik
-http://massregelvollzugsklinik.stream.laut.fm/massregelvollzugsklinik
-#EXTINF:-1,krennerland
-http://krennerland.stream.laut.fm/krennerland
-#EXTINF:-1,bestof1969
-http://bestof1969.stream.laut.fm/bestof1969
-#EXTINF:-1,promofabrik radio
-http://promofabrik-radio.stream.laut.fm/promofabrik-radio
-#EXTINF:-1,radio chartsfm
-http://radio-chartsfm.stream.laut.fm/radio-chartsfm
-#EXTINF:-1,reddrock
-http://reddrock.stream.laut.fm/reddrock
-#EXTINF:-1,rocafm
-http://rocafm.stream.laut.fm/rocafm
-#EXTINF:-1,smokespace
-http://smokespace.stream.laut.fm/smokespace
-#EXTINF:-1,jesus alternative plattenkiste
-http://jesus-alternative-plattenkiste.stream.laut.fm/jesus-alternative-plattenkiste
-#EXTINF:-1,trockendock
-http://trockendock.stream.laut.fm/trockendock
-#EXTINF:-1,ecbsend
-http://ecbsend.stream.laut.fm/ecbsend
-#EXTINF:-1,coloursofrock
-http://coloursofrock.stream.laut.fm/coloursofrock
-#EXTINF:-1,futschfm
-http://futschfm.stream.laut.fm/futschfm
-#EXTINF:-1,an ro art
-http://an-ro-art.stream.laut.fm/an-ro-art
-#EXTINF:-1,synthaulos radio
-http://synthaulos-radio.stream.laut.fm/synthaulos-radio
-#EXTINF:-1,globalbeatz
-http://globalbeatz.stream.laut.fm/globalbeatz
-#EXTINF:-1,rockin
-http://rockin.stream.laut.fm/rockin
-#EXTINF:-1,freeqradio
-http://freeqradio.stream.laut.fm/freeqradio
-#EXTINF:-1,silberp
-http://silberp.stream.laut.fm/silberp
-#EXTINF:-1,bierkraut
-http://bierkraut.stream.laut.fm/bierkraut
-#EXTINF:-1,psyradio  fm  psytrance
-http://streamer.psyradio.org:8040/listen.mp3
-#EXTINF:-1,88 Cores Radio 2
-http://96.230.123.74:80/default.m4a
-#EXTINF:-1,Arctic Monkeys FanLoop Radio
-http://streamingp.shoutcast.com/JamendoLounge?lang=*
-#EXTINF:-1,Psiconauta
-https://strw3.openstream.co/932?aw_0_1st.collectionid%3D6517%26stationId%3D6517%26publisherId%3D956%26k%3D1758348721
-#EXTINF:-1,PsyBraziL Entertainment Radio
-http://186.236.237.155:8000/
+#EXTINF:-1,LuxuriaMusic
+https://ice10.securenetsystems.net/LUXOMP3
 #EXTINF:-1,Radio progRock
 https://pavo.prostreaming.net:8012/stream
-#EXTINF:-1,Hirschmilch Chill
-http://hirschmilch.de:7000/chillout.mp3
 #EXTINF:-1,Club Backnang
-https://club-backnang.stream.laut.fm/club-backnang?t302=2025-09-14_18-36-28&uuid=a293f04c-2852-4ed6-8b8f-20972aa656cb
-#EXTINF:-1,Technicolor Web of Sound - 60s Psychedelic Rock
-https://free.rcast.net/261434
-#EXTINF:-1,PARTY VIBE RADIO : PSYCHEDELIC ROCK
-https://free.rcast.net/254029
-#EXTINF:-1,PARTY VIBE RADIO : PSYCHEDELIC TRANCE + PROGRESSIVE + GOA
-https://free.rcast.net/249701
-#EXTINF:-1,SONGCAST RADIO - Alternative
-https://free.rcast.net/247478
-#EXTINF:-1,Advent Talk Radio
-https://free.rcast.net/12670
+https://club-backnang.stream.laut.fm/club-backnang?t302=2025-12-18_01-26-46&uuid=7fe695e2-5a46-49c0-9a88-c1c9bad8d0df

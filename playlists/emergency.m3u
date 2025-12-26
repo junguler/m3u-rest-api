@@ -1,69 +1,31 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/10998.png",Berkeley Fire
-https://d3ctxlq1ktw2nl.cloudfront.net/staging/2022-7-19/281550395-44100-2-75876812e2667.m4a
-#EXTINF:-1,San Mateo Fire Dispatch Control 1
-http://stream.firedispatch.com:7401/control1
-#EXTINF:-1,San Mateo Fire Dispatch Control 2
-http://stream.firedispatch.com:7407/control2
-#EXTINF:-1,San Mateo Fire Dispatch Control 3
-http://stream.firedispatch.com:7402/control3
-#EXTINF:-1,San Mateo Fire Dispatch Command 11
-http://stream.firedispatch.com:7405/command11
-#EXTINF:-1,San Mateo Fire Dispatch Command 21
-http://stream.firedispatch.com:7408/command21
-#EXTINF:-1,San Mateo Fire Dispatch Command 31
-https://cast1.sql2.smrn.com/7403/
 #EXTINF:-1,Emisora Defensa Civil Colombiana
 https://cloud8.vsgtech.co/8084/stream
+#EXTINF:-1,Cumbre 1470 AM radio
+https://sp.unoredcdn.net/8158/stream
+#EXTINF:-1,Radio Bomberos
+https://chileservidores.cl/audio/?p=9938&t=0
+#EXTINF:-1,San Mateo Fire Dispatch Command 31
+https://cast1.sql2.smrn.com/7403/
 #EXTINF:-1,San Mateo Fire Dispatch Tac-15
 https://cast1.sql2.smrn.com/7406/
 #EXTINF:-1,San Mateo Fire Dispatch vFire-21
 https://cast1.sql2.smrn.com/7408/
-#EXTINF:-1,Cumbre 1470 AM radio
-https://sp.unoredcdn.net/8158/stream
-#EXTINF:-1,San Mateo Fire Dispatch Control 1 radio
-https://cast1.sql2.smrn.com/7401/
-#EXTINF:-1,.977 Today&amp#39s Hits
-https://26343.live.streamtheworld.com/977_HITSAAC_SC?dist=onlineradiobox
-#EXTINF:-1,Radio Bomberos
-https://sonicpanel.chileservidores.cl/8002/stream
-#EXTINF:-1,San Mateo Fire Dispatch Tac-25
-http://cast1.dfw.smrn.com:7001/tac25
-#EXTINF:-1,99.9 The Fan
-https://ais-sa8.cdnstream1.com/2750_64.aac
-#EXTINF:-1,South Metro Fire Rescue
-https://www.broadcastify.com/webPlayer/23085stream.nsv
-#EXTINF:-1,San Mateo Fire Dispatch Command 51
-http://cast1.dfw.smrn.com:7004/command51
-#EXTINF:-1,San Mateo Fire Dispatch Tac-35
-http://stream.firedispatch.com:7404/tac35
-#EXTINF:-1,Metropolitan Washington Airports Authority Public Safety
+#EXTINF:-1, Beardstown Fire
 https://www.broadcastify.com/webPlayer/1605
 #EXTINF:-1,VC Brandaris Terschelling
 http://www.tbandsma.nl:8000/
-#EXTINF:-1,FM-UU
-http://fmuu.jp/simul/fmuu_simul_stop.mp3
-#EXTINF:-1,FMわぃわぃ
-https://tcc117.jp/fmyy/asx/simulbroadcast.mp3
-#EXTINF:-1,Georgetown Emergency Operations Radio – WGEO
-http://ice9.securenetsystems.net:80/WGEO
-#EXTINF:-1,RADIO Wonder Storage FM Drama City
-http://153.126.158.50/live1/radiotxt.m3u8
-#EXTINF:-1,えふえむ・エヌ・ワン
-http://hls-edge1.mitene.jp/fmn1/hls/live01.m3u8
-#EXTINF:-1,湘南ビーチFM
-https://shonanbeachfm.out.airtime.pro/shonanbeachfm_a
-#EXTINF:-1,警察廣播電臺 - 全國治安交通網
-http://stream.pbs.gov.tw:1935/live/mp3:PBS/playlist.m3u8
-#EXTINF:-1,FM Mot.com
-http://mtist.as.smartstream.ne.jp/30019/livestream/playlist.m3u8
-#EXTINF:-1,警察廣播電臺 - 高雄分臺
-http://stream.pbs.gov.tw:1935/live/KSS/playlist.m3u8
-#EXTINF:-1,警察廣播電臺 - 宜蘭分臺
-http://stream.pbs.gov.tw:1935/live/ELS/playlist.m3u8
-#EXTINF:-1,警察廣播電臺 - 臺南分臺
-http://stream.pbs.gov.tw:1935/live/TNS/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/10998.png",Berkeley Fire
+https://d3ctxlq1ktw2nl.cloudfront.net/staging/2022-7-19/281550395-44100-2-75876812e2667.m4a
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/56522957.jpg",Radio Vital
+https://streaming.ejercitodeamor.com:7005/
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/102636/logo_iKAjmLVvBD.png",San Mateo Fire Dispatch Command 11 Radio
 https://cast1.sql2.smrn.com/7430/
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/102557/logo_ehsD5bTPfo.png",San Mateo Fire Dispatch Tac-25 Radio
+http://cast1.dfw.smrn.com:7001/tac25
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/91946/logo_qfX2V4MrRS.png",San Mateo Fire Dispatch Control 1 Radio
+https://cast1.sql2.smrn.com/7401/
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/102605/logo_nh2L1vCaXA.png",San Mateo Fire Dispatch Tac-45 Radio
 http://cast1.dfw.smrn.com:7003/tac45
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/91810/logo_XxRXTm3mQq.png",San Mateo Fire Dispatch Command 51 Radio
+http://cast1.dfw.smrn.com:7004/command51

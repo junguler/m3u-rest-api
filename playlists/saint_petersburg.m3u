@@ -13,6 +13,8 @@ https://pub0101.101.ru:8443/stream/air/mp3/256/100
 https://dfm.hostingradio.ru/dfm96.aacp
 #EXTINF:-1,Дорожное радио
 https://dorognoe.hostingradio.ru/dorognoe
+#EXTINF:-1,Радио Юмор FM
+https://ic5.101.ru:8000/v5_1
 #EXTINF:-1,Радио Монте-Карло
 https://montecarlo.hostingradio.ru/montecarlo96.aacp
 #EXTINF:-1,НАШЕ Радио
@@ -54,15 +56,15 @@ https://hermitage.hostingradio.ru/hermitage128.mp3
 #EXTINF:-1,
 https://icecast-radioclassica.cdnvideo.ru/sberzvuk
 #EXTINF:-1,Радио Фантастики
-https://listen6.myradio24.com/55699
+https://listen9.myradio24.com/55699
 #EXTINF:-1,Royal Radio
 https://c22.radioboss.fm/stream/186
 #EXTINF:-1,Made In Russia - Dance Radio
-https://listen7.myradio24.com/9083
+https://listen8.myradio24.com/9083
 #EXTINF:-1,Chillout Radio
 https://cast.chilloutradio.ru:8040/live
 #EXTINF:-1,Radio SPB1
-https://listen2.myradio24.com/2666
+https://listen8.myradio24.com/2666
 #EXTINF:-1,Радио Zefirot
 https://listen5.myradio24.com/66490
 #EXTINF:-1,ARadio

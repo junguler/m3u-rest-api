@@ -1,14 +1,10 @@
 #EXTM3U
 #EXTINF:-1,radioimpactoweb
 https://s19.maxcast.com.br:8746/live
-#EXTINF:-1,Les IREductibles
-https://free.rcast.net/259882
 #EXTINF:-1,Senior Citizens Radio Aurora (ZdS)
 https://free.rcast.net/258880
 #EXTINF:-1,Rede Blitz
 https://c32.radioboss.fm:8254/source
-#EXTINF:-1,Eduardo Dicaro
-https://free.rcast.net/257827
 #EXTINF:-1,Dubstep24h
 https://stream.24dubstep.pl/listen/dubstep24h/live
 #EXTINF:-1,KING FM Classical Christmas Channel
@@ -21,28 +17,20 @@ https://free.rcast.net/248871
 https://free.rcast.net/246034
 #EXTINF:-1,Radio Educativa FM
 https://free.rcast.net/245849
-#EXTINF:-1,Traktor Stream
-https://free.rcast.net/245740
-#EXTINF:-1,Dubstep.fm
-https://free.rcast.net/243246
 #EXTINF:-1,Airtime!
 https://keithfem2.out.airtime.pro/keithfem2_a
 #EXTINF:-1,Shepton LifeStream
 https://free.rcast.net/239700
 #EXTINF:-1,Streaming by Securenet Systems Cirrus(R)
 https://ice8.securenetsystems.net/KGFL
-#EXTINF:-1,Campus FM
-https://free.rcast.net/235999
 #EXTINF:-1,reyfm-original
-https://reyfm.stream37.radiohost.de/reyfm-original_mp3-192?upd-meta=0&upd-scheme=https&_art=dD0xNzU3MzAyNTcyJmQ9OWI0MGY5NTM2ZDVkNzVmMzIyYWE
+https://reyfm.stream17.radiohost.de/reyfm-original_mp3-192?upd-meta&upd-scheme=https&_art=dD0xNzY1OTkyMzI1JmQ9NjkwMmM2N2YxMmExN2M3MjE1ZDc
 #EXTINF:-1,/ReteDue_Room2
-https://free.rcast.net/235231
+http://livestreaming-node-1.srg-ssr.ch/srgssr/retedue/mp3/128
 #EXTINF:-1,bigbeatbrighton
 https://free.rcast.net/235178
 #EXTINF:-1,no name
 https://free.rcast.net/235014
-#EXTINF:-1,ONEDANCE
-https://strm112.1.fm/allmixedup_mobile_mp3
 #EXTINF:-1,dublab
 https://free.rcast.net/233413
 #EXTINF:-1,C4Y - CITY 4 YOU - Only Hits - ITALIAN TALK - Italy Italia
@@ -53,16 +41,20 @@ https://free.rcast.net/230666
 https://free.rcast.net/213684
 #EXTINF:-1,Educare Radio
 https://free.rcast.net/212483
+#EXTINF:-1,Radio ELECTRO www.radiogora.ru
+https://free.rcast.net/211740
 #EXTINF:-1,1Mix Radio - Only the Best Trance Music..
 https://free.rcast.net/211700
-#EXTINF:-1,1Mix Radio
-https://free.rcast.net/209691
+#EXTINF:-1,ABN Antioch OTR, Scheduled Old-time radio sub-genres and preferring today's date
+https://free.rcast.net/210651
 #EXTINF:-1,The Global Voice presents Tripledutch with Aad Leeflang.
 https://free.rcast.net/209458
 #EXTINF:-1,Unspecified name
 https://free.rcast.net/208467
 #EXTINF:-1,ஸ்ரீ - SRi FM
 https://free.rcast.net/207794
+#EXTINF:-1,Radio Edukasi
+https://free.rcast.net/206591
 #EXTINF:-1,FREQUENCE 3 - Une Rafale de Tubes sans pub en HD !
 https://free.rcast.net/205850
 #EXTINF:-1,Deep Radio Europe

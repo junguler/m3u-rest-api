@@ -21,8 +21,6 @@ https://icecdn-19d24861e90342cc8decb03c24c8a419.msvdn.net/icecastRelay/S12572409
 https://stream.dimensionesuonosoft.radio/audio/dssc.stream_aac/playlist.m3u8
 #EXTINF:-1,Italian Dance Network
 http://italiandancenetwork.com:8000/stream.mp3?type=.mp3
-#EXTINF:-1,RAI Gr Parlamento
-https://icecdn-19d24861e90342cc8decb03c24c8a419.msvdn.net/icecastRelay/S32576004/GxPKuXIdZBcL/icecast
 #EXTINF:-1,ITALIAN RADIO only (romantic) Italian Music
 https://italianradio.streamingmedia.it/play
 #EXTINF:-1,DeeGay Club
@@ -43,8 +41,6 @@ https://icecdn-19d24861e90342cc8decb03c24c8a419.msvdn.net/icecastRelay/S74167340
 https://stream.lolliradio.net/lolli_dance.mp3?FLID=8&aw_0_req.gdpr=true&type=.mp3
 #EXTINF:-1,Classic Hits  anni 70 80 90
 https://classichitsradio.streamingmedia.it/play
-#EXTINF:-1,Radio Capital Classic Rock
-https://streamcdnm8-4c4b867c89244861ac216426883d1ad0.msvdn.net/webradio/capitalclassicrock/playlist.m3u8
 #EXTINF:-1,LolliRadio Happy
 https://stream.lolliradio.net/lolli_happy.mp3?FLID=8&aw_0_req.gdpr=true&type=.mp3
 #EXTINF:-1,ClassicalRadio (MRG.fm)
@@ -91,14 +87,14 @@ https://stream.lolliradio.net/lolli_soul.aac?FLID=8
 https://station3.webradio-host.net/8012/stream
 #EXTINF:-1,Radio Mania
 https://ice09.fluidstream.net/fluid0913.mp3?FLID=8&type=.mp3
-#EXTINF:-1,Radio Tsunami METAL
-https://station3.webradio-host.net/8010/stream
 #EXTINF:-1,New Hits Radio Italia
 https://newhitsradio.streamingmedia.it/play
 #EXTINF:-1,Radio Day
 http://audio1.meway.tv:8074/;stream.mp3
 #EXTINF:-1,I Love Music
 https://sr10.inmystream.it:18166/stream
+#EXTINF:-1,Radio Cusano Campus
+https://bay1.streamfm.it:8030/aacp
 #EXTINF:-1,Duran radio
 https://station3.webradio-host.net/8008/stream
 #EXTINF:-1,Radio Dolcissima
@@ -137,8 +133,6 @@ http://s6.mediastreaming.it:7190/;
 http://dreamsiteradiocp3.com:8096/;
 #EXTINF:-1,DimensioneItalia.Net
 http://usa1-vn.mixstream.net:9278/;;
-#EXTINF:-1,Radio Canale Zero
-https://s26.myradiostream.com/:21268/;
 #EXTINF:-1,Radio News 24 - Nord
 https://stream6.xdevel.com/audio6s975889-649/stream/icecast.audio
 #EXTINF:-1,Radio Tsunami Classica
@@ -149,8 +143,6 @@ https://stream3.xdevel.com/audio3s975388-103/stream/icecast.audio
 https://station3.webradio-host.net/8034/stream
 #EXTINF:-1,Goody Music Radio
 https://goody2021.out.airtime.pro/goody2021_a
-#EXTINF:-1,Radio Tsunami REGGAE
-https://station3.webradio-host.net/8018/stream
 #EXTINF:-1,Lolli Radio Dance
 https://stream.lolliradio.net/lolli_dance.mp3
 #EXTINF:-1,Lolli Radio Happy Station
@@ -191,8 +183,6 @@ http://nr9.newradio.it:9021/stream
 http://stream.lolliradio.net/lolli_oldies.mp3
 #EXTINF:-1,Radio Immagina
 https://shoutcast2.streamingmedia.it/proxyhttp:/adioimmagina?mp=/stream/;
-#EXTINF:-1,WebLive Radio
-https://weblivetv.radioca.st/stream
 #EXTINF:-1,Radio Incontro Donna
 http://nr7.newradio.it:9375/stream
 #EXTINF:-1,SOUL RADIO
@@ -215,7 +205,5 @@ https://bay1.streamfm.it:8010/aacp
 https://nrf1.newradio.it:10296/stream
 #EXTINF:-1,Potradio
 https://s2.radio.co/sd3468e083/listen
-#EXTINF:-1,Radio Tsunami INDIE
-https://station3.webradio-host.net/8014/stream
 #EXTINF:-1,Radio Viva Forever
 https://sp3.server89.com/9384/stream

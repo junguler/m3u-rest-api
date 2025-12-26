@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1,The Quran Radio | Arabic
-http://ec4.yesstreaming.net:1960/stream
-#EXTINF:-1,The Quran Radio | English
-http://ec4.yesstreaming.net:1750/stream
-#EXTINF:-1,Etzanda Irratia - 80 - Spain - music - spoken word
-https://nl4.mystreaming.net/er/neworder/icecast.audio
 #EXTINF:-1,Radio Twente Gold
 https://c18.radioboss.fm:8403/stream
 #EXTINF:-1,104fm
@@ -15,18 +9,14 @@ https://free.rcast.net/257946
 https://streams.kut.org/4428_56
 #EXTINF:-1,RT Medias HTTPS
 https://free.rcast.net/256996
-#EXTINF:-1,RadOo's Audio: Data saver
-https://free.rcast.net/254885
 #EXTINF:-1,Unspecified name
 https://free.rcast.net/252504
 #EXTINF:-1,Science, news, international news and features, health and fitness -- spoken word programming.
 https://streamer.radionewark.com/
-#EXTINF:-1,Deep flow metal
-https://free.rcast.net/70631
+#EXTINF:-1,The Word
+https://mcbi.streamguys1.com/live2
 #EXTINF:-1,Word of Truth Radio Christmas
 https://free.rcast.net/249526
-#EXTINF:-1,Stl Smooth Jazz
-https://free.rcast.net/247536
 #EXTINF:-1,Beyond Words
 https://free.rcast.net/247491
 #EXTINF:-1,INEEDAWORDRADIO
@@ -35,8 +25,6 @@ https://free.rcast.net/247318
 https://free.rcast.net/246577
 #EXTINF:-1,WOFR - Word of Faith Radio
 https://free.rcast.net/246567
-#EXTINF:-1,THE BLAST BLENDER Hi Fi Christian Hot CHR @ 32 kbps
-https://free.rcast.net/245429
 #EXTINF:-1,metal devastation radio
 https://free.rcast.net/245059
 #EXTINF:-1,THE WELL
@@ -53,14 +41,16 @@ https://free.rcast.net/235324
 https://play.radiorivendell.com/radio/8000/radio.mp3
 #EXTINF:-1,Radio Cas Rock
 https://free.rcast.net/232422
+#EXTINF:-1,98.1 KISS FM
+https://a1.asurahosting.com:8840/radio.mp3
 #EXTINF:-1,Violent Forces Radio: '80s Thrash
 https://free.rcast.net/215204
 #EXTINF:-1,His Word Online
 https://free.rcast.net/213450
 #EXTINF:-1,A.D.M. Hardstyle Radio
 https://free.rcast.net/213317
-#EXTINF:-1,WOFR Bible Station
-https://free.rcast.net/211444
+#EXTINF:-1,Jackson Radio
+https://free.rcast.net/208930
 #EXTINF:-1,PulsRadio 90
 https://free.rcast.net/208772
 #EXTINF:-1,Goodly Words Radio
@@ -75,19 +65,13 @@ https://free.rcast.net/9012
 https://free.rcast.net/1371
 #EXTINF:-1,God's Word In Music
 https://free.rcast.net/13671
-#EXTINF:-1,Radio Simret
-https://free.rcast.net/10885
 #EXTINF:-1,Nauagos Kanenas
 https://free.rcast.net/14222
-#EXTINF:-1,DI Radio Digital Impulse - Rik Tights Trance
-https://free.rcast.net/14250
 #EXTINF:-1,Solid Gold Oldies
 https://free.rcast.net/6575
-#EXTINF:-1,Radio Sylvia
-https://free.rcast.net/1233
 #EXTINF:-1,RadiJohan
 https://free.rcast.net/11228
-#EXTINF:-1,KRUN 1400 Ballinger, TX. News, Weather, Sports, and Today s Best Traditional Country
-https://free.rcast.net/5867
 #EXTINF:-1,WHIC
 https://free.rcast.net/1014
+#EXTINF:-1,Etzanda Irratia - 80 - Spain - music - spoken word
+https://2.mystreaming.net/er/neworder/icecast.audio

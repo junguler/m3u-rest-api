@@ -65,8 +65,6 @@ https://stream02.pcradio.biz/rpr_90er_trash-med
 https://stream02.pcradio.biz/it_70_80-med
 #EXTINF:-1,Radio Vintage Plus
 https://stream02.pcradio.biz/rvplus_be-med
-#EXTINF:-1,NYAMKIN.RU Cooking Site Radio
-https://stream02.pcradio.biz/nyamkin_fm-med
 #EXTINF:-1,Radio Pogoda Bydgoszcz 103.5 FM
 https://stream02.pcradio.biz/rad_plpogod-med
 #EXTINF:-1,ROCK FM 70er Rock Radio
@@ -75,14 +73,10 @@ https://stream02.pcradio.biz/regenbo2_70srock-med
 https://stream02.pcradio.biz/goldfm_932-med
 #EXTINF:-1,80s80s Love Radio
 https://stream02.pcradio.biz/eightys80s_love-med
-#EXTINF:-1,RetroPop Radio
-https://stream02.pcradio.biz/retropop_es-med
 #EXTINF:-1,Dorozhnoe Radio
 https://stream02.pcradio.biz/dorozhnoe-med
 #EXTINF:-1,Costa Del Mar - Funky Radio
 https://stream02.pcradio.biz/cdm_funky-med
-#EXTINF:-1,Radiospazioweb
-https://stream02.pcradio.biz/rad_spziwb-med
 #EXTINF:-1,90s90s In the Mix Radio
 https://stream02.pcradio.biz/s90s90_inmix-med
 #EXTINF:-1,Fun Radio 80s-90s
@@ -109,20 +103,12 @@ https://stream02.pcradio.biz/kiss_cz-med
 https://stream02.pcradio.biz/rijnmond_nl-med
 #EXTINF:-1,Radio Dechovka
 https://stream02.pcradio.biz/dechovka_cz-med
-#EXTINF:-1,Pure Radio
-https://stream02.pcradio.biz/pureradio_one-med
 #EXTINF:-1,Radio Titine
 https://stream02.pcradio.biz/radiotitine-med
-#EXTINF:-1,FM Hits 80s Radio
-https://stream02.pcradio.biz/fmhits_80s-med
 #EXTINF:-1,Radio Riel - Ragtime
 https://stream02.pcradio.biz/radioriel_ragtime-med
 #EXTINF:-1,Radio Best FM (Bratislava)
 https://stream02.pcradio.biz/bestfm_sk-med
-#EXTINF:-1,ROCK FM Radio
-https://stream02.pcradio.biz/regenbogen2-med
-#EXTINF:-1,Mega Hit FM - Classics Radio
-https://stream02.pcradio.biz/megahitfm_classics-med
 #EXTINF:-1,Motown Magic Oldies Radio
 https://stream02.pcradio.biz/motown_magic_oldies-med
 #EXTINF:-1,Legendy FM Radio
@@ -145,8 +131,8 @@ https://stream02.pcradio.biz/regenbo_80er-med
 https://stream02.pcradio.biz/regenbo_oldies-med
 #EXTINF:-1,Złote Przeboje Radio
 https://stream02.pcradio.biz/rad_zlote-med
-#EXTINF:-1,Dorozhnoe (Omsk) Radio
-https://stream02.pcradio.biz/dorozhnoe_omsk-med
+#EXTINF:-1,Nostalgie Radio
+https://stream02.pcradio.biz/nostalgie_fr-med
 #EXTINF:-1,Starflight Radio The Mix
 https://stream02.pcradio.biz/starflight_radio-med
 #EXTINF:-1,Pal Nostalji Radio
@@ -173,14 +159,14 @@ https://stream02.pcradio.biz/toponline_ch2-med
 https://stream02.pcradio.biz/omh_riga-med
 #EXTINF:-1,7080rocks Radio
 https://stream02.pcradio.biz/rocks7080-med
+#EXTINF:-1,Oldies America Radio
+https://stream02.pcradio.biz/rad_ldsmrc-med
 #EXTINF:-1,P9 Retro Radio
 https://stream02.pcradio.biz/p9_retro-med
 #EXTINF:-1,Best FM Mexico Radio
 https://stream02.pcradio.biz/bestfm_online-med
 #EXTINF:-1,101FM - 80er Radio
 https://stream02.pcradio.biz/fm101_80er-med
-#EXTINF:-1,Rádio Super Funk Melody Radio
-https://stream02.pcradio.biz/super_funk_melody-med
 #EXTINF:-1,RT1 - 2000er Radio
 https://stream02.pcradio.biz/rt1_2000er-med
 #EXTINF:-1,Classic Hits (Brazil) Radio
@@ -211,8 +197,6 @@ https://stream02.pcradio.biz/nostalgie_deu-med
 https://stream02.pcradio.biz/radio32_goldies-med
 #EXTINF:-1,Radio Leipzig - 90er XXL
 https://stream02.pcradio.biz/leipzig_90xxl-med
-#EXTINF:-1,Different Radio 747 AM
-https://stream02.pcradio.biz/different_747-med
 #EXTINF:-1,Radio 1 FM 93.6
 https://stream02.pcradio.biz/radio1_936-med
 #EXTINF:-1,ORF Radio Vorarlberg
@@ -233,6 +217,8 @@ https://stream02.pcradio.biz/fresh80s_de-med
 https://stream02.pcradio.biz/rad_rctcno-med
 #EXTINF:-1,Coco&Jambo Radio
 https://stream02.pcradio.biz/cocojambo_laut-med
+#EXTINF:-1,DR P5 Radio
+https://stream02.pcradio.biz/dr_dk_p5-med
 #EXTINF:-1,RMC 90 Radio
 https://stream02.pcradio.biz/rmc_90-med
 #EXTINF:-1,90s Eurodance Radio
@@ -253,16 +239,10 @@ https://stream02.pcradio.biz/rpr_90er_dance-med
 https://stream02.pcradio.biz/sunshinelive_80er-med
 #EXTINF:-1,Callisto Radio
 https://stream02.pcradio.biz/callisto_radio-med
-#EXTINF:-1,RT1 - 90er Radio
-https://stream02.pcradio.biz/rt1_90er-med
 #EXTINF:-1,FFH Just 90s Radio
 https://stream02.pcradio.biz/ffh_90s-med
 #EXTINF:-1,Caroline Community Radio 94.7 FM
 https://stream02.pcradio.biz/caroline_comm-med
-#EXTINF:-1,Sveriges Radio P4 (SR P4)
-https://stream02.pcradio.biz/sveriges_p4-med
-#EXTINF:-1,Radio Caroline Flashback
-https://stream02.pcradio.biz/caroline_co_flash-med
 #EXTINF:-1,Berliner Rundfunk 91.4 Radio
 https://stream02.pcradio.biz/berlin_rund914-med
 #EXTINF:-1,Old radio
@@ -335,14 +315,14 @@ https://stream02.pcradio.biz/bellisima_it_clas-med
 https://stream02.pcradio.biz/good_times_revival-med
 #EXTINF:-1,Hit FM (Moscow) Radio
 https://stream02.pcradio.biz/hitfmfeelgood-med
-#EXTINF:-1,E FM 88.3 Radio
-https://stream02.pcradio.biz/efm_lk883-med
 #EXTINF:-1,NBC Milano Radio
 https://stream02.pcradio.biz/nbc_70_80-med
 #EXTINF:-1,Radio Dresden - 90er XXL
 https://stream02.pcradio.biz/radiodresden_90-med
 #EXTINF:-1,SWR1 Baden-Wuerttemberg Radio
 https://stream02.pcradio.biz/swr1_badden-med
+#EXTINF:-1,Gorod FM Radio
+https://stream02.pcradio.biz/gorodfm_org-med
 #EXTINF:-1,RMC 80 Radio
 https://stream02.pcradio.biz/rmc_80-med
 #EXTINF:-1,Retro Latin Hits (Lima) Radio
@@ -357,6 +337,8 @@ https://stream02.pcradio.biz/guldkanalen_90-med
 https://stream02.pcradio.biz/arabella_de_live-med
 #EXTINF:-1,Angel Radio
 https://stream02.pcradio.biz/angelradio_couk-med
+#EXTINF:-1,Greatest Songs Radio
+https://stream02.pcradio.biz/mjoy_greatest-med
 #EXTINF:-1,Radio Beta - Hity 80's a 90's
 https://stream02.pcradio.biz/beta_8090-med
 #EXTINF:-1,Radio Tirol
@@ -457,22 +439,20 @@ https://stream02.pcradio.biz/bdj_8090-med
 https://stream02.pcradio.biz/rad_rd1bg-med
 #EXTINF:-1,Signál Rádio (Brno) Radio
 https://stream02.pcradio.biz/signal_cz_brno-med
-#EXTINF:-1,Asia Dream Radio - J-Pop Sakura
-https://stream02.pcradio.biz/rad_sdrmrdjpp-med
 #EXTINF:-1,Sky Radio - 80's
 https://stream02.pcradio.biz/skyradio_80s-med
 #EXTINF:-1,Go FM (Sibiu) Radio
 https://stream02.pcradio.biz/gofm_ro-med
 #EXTINF:-1,Bayern 1 Radio
 https://stream02.pcradio.biz/bayern_1-med
+#EXTINF:-1,Radio Saarschleifenland (RSL)
+https://stream02.pcradio.biz/rsl_de-med
 #EXTINF:-1,Record Technopop Radio
 https://stream02.pcradio.biz/record_techpop-med
 #EXTINF:-1,Radio Rodnyh Dorog
 https://stream02.pcradio.biz/rodnyh_dorog-med
 #EXTINF:-1,Record 60's Dance Radio
 https://stream02.pcradio.biz/rad_rcrd60dnc-med
-#EXTINF:-1,Belfast 89.3 FM Radio
-https://stream02.pcradio.biz/belfast_89-med
 #EXTINF:-1,Schlager Radio
 https://stream02.pcradio.biz/schlagerradio_fm-med
 #EXTINF:-1,Expat Radio Scotland
@@ -493,8 +473,6 @@ https://stream02.pcradio.biz/lubafmpcradio-med
 https://stream02.pcradio.biz/big_l_radio-med
 #EXTINF:-1,80s80s Summer Radio
 https://stream02.pcradio.biz/rad_rd88smmr-med
-#EXTINF:-1,0N 2010s Radio
-https://stream02.pcradio.biz/rad_ontwel-med
 #EXTINF:-1,Radio Bamberg
 https://stream02.pcradio.biz/bamberg_radio-med
 #EXTINF:-1,Retro FM (Moscow) - Vecherinka Radio
@@ -513,8 +491,6 @@ https://stream02.pcradio.biz/kbc_1602am-med
 https://stream02.pcradio.biz/berlinrundfunk_100perc-med
 #EXTINF:-1,Radyo 45lik Radio
 https://stream02.pcradio.biz/rad_rdy45lk-med
-#EXTINF:-1,Diskoteka 80h-90h Radio
-https://stream02.pcradio.biz/rad_dnc89-med
 #EXTINF:-1,Paranoia Web Radio
 https://stream02.pcradio.biz/paranoiaweb_com-med
 #EXTINF:-1,Calypso Ten 18 Radio
@@ -523,8 +499,6 @@ https://stream02.pcradio.biz/rad_clpsrd-med
 https://stream02.pcradio.biz/rpr1_de_oldies-med
 #EXTINF:-1,RS2 Kulthits Radio
 https://stream02.pcradio.biz/rs2_kult-med
-#EXTINF:-1,Radio Fantasy Classix
-https://stream02.pcradio.biz/fantasyde_classix-med
 #EXTINF:-1,Radio Salü Kulthits
 https://stream02.pcradio.biz/salue_kulthits-med
 #EXTINF:-1,Wow Music Gold Radio
@@ -555,8 +529,6 @@ https://stream02.pcradio.biz/antenne_tue_yester-med
 https://stream02.pcradio.biz/rfmradio-med
 #EXTINF:-1,HR3 Radio
 https://stream02.pcradio.biz/hr3-med
-#EXTINF:-1,Donat FM - USSR music Radio
-https://stream02.pcradio.biz/donat_ussr-med
 #EXTINF:-1,NPO Radio 5
 https://stream02.pcradio.biz/radio5nl-med
 #EXTINF:-1,Arabella Disco Night Radio
@@ -635,10 +607,6 @@ https://stream02.pcradio.biz/artcity-med
 https://stream02.pcradio.biz/record_superdisco-med
 #EXTINF:-1,Radio Nostalgia
 https://stream02.pcradio.biz/nostalgia_su-med
-#EXTINF:-1,Much fm Eurdance Radio
-https://stream02.pcradio.biz/rad_mchfmrdnc-med
-#EXTINF:-1,Dorozhnoe - Nostalgia Radio
-https://stream02.pcradio.biz/dorozhnoe_nostalgia-med
 #EXTINF:-1,Radio Erzgebirge
 https://stream02.pcradio.biz/rad_erzgebirge-med
 #EXTINF:-1,Bremen Eins Radio
@@ -663,6 +631,8 @@ https://stream02.pcradio.biz/rad_rdprivrprm-med
 https://stream02.pcradio.biz/nineties_rus_pcradio-med
 #EXTINF:-1,Radio Line
 https://stream02.pcradio.biz/radioline24_info-med
+#EXTINF:-1,Activa FM (Alicante) Radio
+https://stream02.pcradio.biz/wwwactivafm-med
 #EXTINF:-1,Maximum - Millenium Radio
 https://stream02.pcradio.biz/maximum_00-med
 #EXTINF:-1,Record 1970-s Radio
@@ -725,8 +695,6 @@ https://stream02.pcradio.biz/rpr1_de_90er-med
 https://stream02.pcradio.biz/montecarlo_gold-med
 #EXTINF:-1,Radio Margherita Giovane
 https://stream02.pcradio.biz/rad_rdimrghrtgiovan-med
-#EXTINF:-1,Donskoe Radio
-https://stream02.pcradio.biz/rad_donskyrdtg-med
 #EXTINF:-1,Your Day (Tvoy Den') Radio
 https://stream02.pcradio.biz/tvoyden_myrh-med
 #EXTINF:-1,RPR1. Best of 80's Radio
@@ -741,8 +709,6 @@ https://stream02.pcradio.biz/rad_tsntv-med
 https://stream02.pcradio.biz/retrofm_ru_90s-med
 #EXTINF:-1,Monte-Carlo (Moscow) Radio
 https://stream02.pcradio.biz/montecarlo_moscow-med
-#EXTINF:-1,Staroe Dobroe Radio
-https://stream02.pcradio.biz/staroedobroe_ru-med
 #EXTINF:-1,Hit FM (Orenburg) Radio
 https://stream02.pcradio.biz/hitfm_oren-med
 #EXTINF:-1,Soyuz FM Radio
@@ -767,8 +733,6 @@ https://stream02.pcradio.biz/radiomv_ru-med
 https://stream02.pcradio.biz/rad_rdbtb-med
 #EXTINF:-1,Joe1 03.6 FM Radio
 https://stream02.pcradio.biz/rad_joyfmnl-med
-#EXTINF:-1,Radio Super Diskach 90-h
-https://stream02.pcradio.biz/rad_spinnersupdiscach-med
 #EXTINF:-1,Radio Rossosh
 https://stream02.pcradio.biz/rad_rossschru-med
 #EXTINF:-1,Melodia FM Radio
@@ -789,12 +753,12 @@ https://stream02.pcradio.biz/rad_rdgldwbrad-med
 https://stream02.pcradio.biz/rad_rdussrmscw-med
 #EXTINF:-1,80s80s Rock Radio
 https://stream02.pcradio.biz/rad_88srckd-med
-#EXTINF:-1,Radio Stad Den Haag
-https://stream02.pcradio.biz/rad_rdstddnhg-med
 #EXTINF:-1,Ugra Radio
 https://stream02.pcradio.biz/ugra_ru-med
 #EXTINF:-1,bigFM Throwback Radio
 https://stream02.pcradio.biz/rad_bgfmthrback-med
+#EXTINF:-1,Radio NOSTALGIE SIBERIA
+https://stream02.pcradio.biz/rad_nstlgiesbry-med
 #EXTINF:-1,DFM Remake Radio
 https://stream02.pcradio.biz/rad_dfmremak-med
 #EXTINF:-1,Radio Sintezi
@@ -817,6 +781,8 @@ https://stream02.pcradio.biz/rad_dnmtr-med
 https://stream02.pcradio.biz/rad_absltbll-med
 #EXTINF:-1,Wow Music 2010 Radio
 https://stream02.pcradio.biz/rad_twothsndwwmsic-med
+#EXTINF:-1,Kronehit Disco Radio
+https://stream02.pcradio.biz/rad_krnhtdsc-med
 #EXTINF:-1,Dancing Fox Radio
 https://stream02.pcradio.biz/rad_dancngfoxs-med
 #EXTINF:-1,SOUL RADIO Classics Radio

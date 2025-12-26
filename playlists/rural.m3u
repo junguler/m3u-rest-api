@@ -2,7 +2,7 @@
 #EXTINF:-1,Radio Rural
 http://radiolatina.live:9206/stream/
 #EXTINF:-1,KFRM Radio 550 AM - KFRM
-http://19003.live.streamtheworld.com/KFRMAM.mp3
+http://18213.live.streamtheworld.com/KFRMAM.mp3
 #EXTINF:-1,Radio 7
 http://netradio.radio7.hu:8300/stream.mp3
 #EXTINF:-1,KDSN - KDSN-FM
@@ -15,7 +15,3 @@ https://live.ojc.com.br/e9cd_4/myStream.m3u8
 https://master.letio.com/io/?gs=8582&ampgsm=8582&amptype=live.m3u8
 #EXTINF:-1,Sentinela FM
 http://srv1.uaihost.audio:7020/
-#EXTINF:-1,KDSN – KDSN-FM
-https://master.letio.com/io/?gs=8582&
-#EXTINF:-1,Radio Dhading
-http://live.itech.host:9449/live

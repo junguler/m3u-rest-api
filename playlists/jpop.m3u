@@ -1,116 +1,32 @@
 #EXTM3U
-#EXTINF:-1,Candid Radio Pennsylvania
-https://stream.zeno.fm/aq2smvms008uv
-#EXTINF:-1,Candid Radio New Mexico
-https://stream.zeno.fm/sx7crmks008uv
-#EXTINF:-1,Candid Radio Nevada
-https://stream.zeno.fm/3c5s097r008uv
-#EXTINF:-1,Candid Radio Montana
-https://stream.zeno.fm/3awa1u7r008uv
-#EXTINF:-1,Candid Radio Missouri
-https://stream.zeno.fm/yz2s1b7r008uv
-#EXTINF:-1,Candid Radio Mississippi
-https://stream.zeno.fm/bekt826r008uv
-#EXTINF:-1,Candid Radio Maryland
-https://stream.zeno.fm/d8yyteqvz08uv
-#EXTINF:-1,Candid Radio Indiana
-https://stream.zeno.fm/9nny5nmuz08uv
-#EXTINF:-1,Candid Radio Idaho
-https://stream.zeno.fm/nm5evbmuz08uv
-#EXTINF:-1,Candid Radio Georgia
-https://stream.zeno.fm/kxwdm7q8yy8uv
-#EXTINF:-1,Candid Radio Florida
-https://stream.zeno.fm/gdxkc3q8yy8uv
-#EXTINF:-1,Candid Radio Colorado
-https://stream.zeno.fm/7rmpask8yy8uv
-#EXTINF:-1,Candid Radio California
-https://stream.zeno.fm/hh0cxhk8yy8uv
-#EXTINF:-1,Candid Radio Arkansas
-https://stream.zeno.fm/qtv49ak8yy8uv
-#EXTINF:-1,Candid Radio Arizona
-https://stream.zeno.fm/8m8864h8yy8uv
-#EXTINF:-1,Candid Radio Alaska
-https://stream.zeno.fm/p7yw1wh8yy8uv
-#EXTINF:-1,Candid Radio Alabama
-https://stream.zeno.fm/esz7z4g8yy8uv
-#EXTINF:-1,Candid Radio Wis
-https://stream.zeno.fm/cqzr6tus008uv
-#EXTINF:-1,Candid Radio West Virginia
-https://stream.zeno.fm/bff78zts008uv
-#EXTINF:-1,Candid Radio Washington
-https://stream.zeno.fm/byfbewts008uv
-#EXTINF:-1,Candid Radio WY
-https://stream.zeno.fm/5dune0us008uv
-#EXTINF:-1,Candid Radio Virginia
-https://stream.zeno.fm/wwfckqts008uv
-#EXTINF:-1,Candid Radio Vermont
-https://stream.zeno.fm/0kyvzkts008uv
-#EXTINF:-1,Candid Radio Utah
-https://stream.zeno.fm/v0pwddts008uv
-#EXTINF:-1,Candid Radio Texas
-https://stream.zeno.fm/t50y19ss008uv
-#EXTINF:-1,Candid Radio Tennessee
-https://stream.zeno.fm/rexv14ss008uv
-#EXTINF:-1,94.5 KISS FM
-https://stream.zeno.fm/ymrz7tqxwc9uv
-#EXTINF:-1,Radio Free Otaku
-https://streaming.radio.co/s8267e5edc/listen
-#EXTINF:-1,Radio KZOO Hawaii
-https://us2.maindigitalstream.com/ssl/KZOO
-#EXTINF:-1,PLUS RADIO US ZABAVNA
-https://playerservices.streamtheworld.com/api/livestream-redirect/SAM06AAC231_SC
-#EXTINF:-1,Japanisu!
-https://stream.radioani.me/radio/8000/radio.mp3
+#EXTINF:-1,1 Otaku Music Radio
+http://streamingp.shoutcast.com/JamendoLounge?lang=*
+#EXTINF:-1,Animecol Radio
+http://186.147.235.2:80/animecol
+#EXTINF:-1,J-Pop Powerplay
+https://kathy.torontocast.com:3560/
+#EXTINF:-1,J-Pop Powerplay Kawaii
+https://kathy.torontocast.com:3060/
+#EXTINF:-1,OnlyHit Japan
+http://ais-sa3.cdnstream1.com/2629_64.aac
 #EXTINF:-1,Topazz FM 107.5
 https://streaming.brol.tech/rtfmlounge
-#EXTINF:-1,Radio Anime Nexus
-https://cast.animenexus.net/listen/animenexus/animenexus
-#EXTINF:-1,shadowfr69 Radio
-https://radio.shadowfr69.eu/mp3
-#EXTINF:-1,Radio ALFA Anime
-http://nrf1.newradio.it:10328/alfaanime
-#EXTINF:-1,J-Pop Sakura
-http://cast1.torontocast.com:2170/
-#EXTINF:-1,J-Pop Powerplay
-http://kathy.torontocast.com:3560/
-#EXTINF:-1,Asia DREAM Radio - Japan Hits
-http://cast1.torontocast.com:2120/
-#EXTINF:-1,J-Pop Powerplay Kawaii
-http://kathy.torontocast.com:3060/
-#EXTINF:-1,Animu Radio Brazil - Brazil's most moe radio!
-http://cast.animu.com.br:9079/
-#EXTINF:-1,Otaku Music Radio
-http://kathy.torontocast.com:2880/
-#EXTINF:-1,Radio AMC
-http://stm16.painelcast.com:6728/
+#EXTINF:-1,J Club Powerplay Hiphop
+https://kathy.torontocast.com:3350/stream
+#EXTINF:-1,J Rock Powerplay
+https://kathy.torontocast.com:3340/.mp3
+#EXTINF:-1,J Pop Powerplay Kawaii
+https://kathy.torontocast.com/kawaii
+#EXTINF:-1,J Pop Powerplay
+https://kathy.torontocast.com:3560/.mp3
+#EXTINF:-1,J Idols Project Radio
+http://bluford.torontocast.com:8081/stream/
 #EXTINF:-1,raste.live
 https://das-edge11-live365-dal03.cdnstream.com/a39214
 #EXTINF:-1,MYX P-Pop Radio
 https://das-edge11-live365-dal03.cdnstream.com/a63316
 #EXTINF:-1,Radio for Humans
 https://das-edge13-live365-dal02.cdnstream.com/a61089
-#EXTINF:-1,J Pop Powerplay
-https://kathy.torontocast.com:3560/
-#EXTINF:-1,1 Otaku Music Radio
-http://streamingp.shoutcast.com/JamendoLounge?lang=*
-#EXTINF:-1,Animecol Radio
-http://186.147.235.2:80/animecol
-#EXTINF:-1,J-Music =3
-https://kathy.torontocast.com:3060/
-#EXTINF:-1,OnlyHit Japan
-http://ais-sa3.cdnstream1.com/2629_64.aac
-#EXTINF:-1,AniSon.FM аниме радио
-https://pool.anison.fm/AniSonFM(128)
-#EXTINF:-1,Asia DREAM Radio
-https://cast1.torontocast.com:2120/
-#EXTINF:-1,Radio Anime 24
-https://ssl-1.radiohost.pl:7028/stream
-#EXTINF:-1,JPop Powerplay Kawaii - 128 - The United States Of America - idol - idols - japanese - japanese idols - japanese music - jpop
-http://jpopsuki.fm:2199/tunein/jpopsuki-stream.pls
-#EXTINF:-1,Radio Caprice - J-Pop - 320 - The Russian Federation - j-pop - japanese - jpop - radcap - radio caprice
-http://79.111.119.111:8000/jpop
-#EXTINF:-1,TofuPop Radio - 128 - Thailand - asian pop - cpop - jpop
-https://2.mystreaming.net/er/jpop/icecast.audio
 #EXTINF:-1,Asian Tsunami
 https://listen3.myradio24.com/tsunami
 #EXTINF:-1,BOX : Weeb Anime Radio
@@ -121,21 +37,9 @@ https://nl4.mystreaming.net/er/jpop/icecast.audio
 https://listen.japanisu.com/listen/japanisu/radio.mp3
 #EXTINF:-1,Japanradio
 https://stream.japanradio.de/live
-#EXTINF:-1,JPopsuki Radio!
-https://free.rcast.net/239570
-#EXTINF:-1,[ Stereo Anime ]
-https://radio.stereoanime.net/listen/stereoanime/128
-#EXTINF:-1,J-Pop Sakura 懐かしい
-https://cast1.torontocast.com:2170/.mp3
-#EXTINF:-1,Japan Hits - asia DREAM radio
-https://cast1.torontocast.com:2120/.mp3
-#EXTINF:-1,J Club Powerplay Hiphop
-https://kathy.torontocast.com:3350/stream
-#EXTINF:-1,J Rock Powerplay
-https://kathy.torontocast.com:3340/.mp3
-#EXTINF:-1,J Pop Powerplay Kawaii
-https://kathy.torontocast.com/kawaii
-#EXTINF:-1,J Idols Project Radio
-http://bluford.torontocast.com:8081/stream/
-#EXTINF:-1,Chikararadio Com
-http://206.190.130.180/tunein.php/personal/stream/1playlist.pls
+#EXTINF:-1,Radio AMC
+https://stm16.painelcast.com:6728/stream
+#EXTINF:-1,JPop Powerplay Kawaii - 128 - The United States Of America - idol - idols - japanese - japanese idols - japanese music - jpop
+http://jpopsuki.fm:2199/tunein/jpopsuki-stream.pls
+#EXTINF:-1,Radio Caprice - J-Pop - 320 - The Russian Federation - j-pop - japanese - jpop - radcap - radio caprice
+http://79.111.119.111:8000/jpop

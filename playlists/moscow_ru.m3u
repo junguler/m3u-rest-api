@@ -13,6 +13,8 @@ https://pub0101.101.ru:8443/stream/air/mp3/256/100
 https://dfm.hostingradio.ru/dfm96.aacp
 #EXTINF:-1,Дорожное радио
 https://dorognoe.hostingradio.ru/dorognoe
+#EXTINF:-1,Радио Юмор FM
+https://ic5.101.ru:8000/v5_1
 #EXTINF:-1,Радио Монте-Карло
 https://montecarlo.hostingradio.ru/montecarlo96.aacp
 #EXTINF:-1,НАШЕ Радио
@@ -47,8 +49,6 @@ https://www.loveradio.ru/
 https://dfm-dfmdeep.hostingradio.ru/dfmdeep96.aacp
 #EXTINF:-1,Радио Книга
 https://bookradio.hostingradio.ru:8069/fm
-#EXTINF:-1,Радио Искатель
-https://iskatel.hostingradio.ru:8015/iskatel-128.mp3
 #EXTINF:-1,Пи FM
 https://cdn.pifm.ru/mp3
 #EXTINF:-1,Радио JAZZ
@@ -133,8 +133,6 @@ https://icecast-vgtrk.cdnvideo.ru/moscowfm128?
 https://nashe1.hostingradio.ru:18000/nashe20-128.mp3
 #EXTINF:-1,Relax FM - Life
 https://pub0102.101.ru:8443/stream/trust/mp3/128/267?
-#EXTINF:-1,Радио Premium
-https://listen2.rpfm.ru/premium128
 #EXTINF:-1,101.RU - Chillоut
 https://pub0202.101.ru:8443/stream/trust/mp3/128/24
 #EXTINF:-1,101.ru - Виктор Цой и группа «КИНО»
@@ -149,8 +147,6 @@ https://jfm1.hostingradio.ru:14536/metal.mp3
 https://jfm1.hostingradio.ru:14536/ijstream.mp3
 #EXTINF:-1,Европа Плюс - Light
 https://europaplus.hostingradio.ru:8014/ep-light128.mp3
-#EXTINF:-1,Megapolis FM
-https://megapolisfm.hostingradio.ru/megapolisfm96.aacp
 #EXTINF:-1,Relax FM - Latino
 https://pub0302.101.ru:8000/stream/trust/mp3/128/265?
 #EXTINF:-1,Классика Жанра - Юмор FM
@@ -250,7 +246,7 @@ https://dfm-popdance.hostingradio.ru/popdance96.aacp
 #EXTINF:-1,DFM Tech House
 https://dfm-techhouse.hostingradio.ru/techhouse96.aacp
 #EXTINF:-1,Радио Наш Шансон
-https://listen2.myradio24.com/8144
+https://listen10.myradio24.com/8144
 #EXTINF:-1,101.ru - Gangsta &amp; Hip-Hop
 https://pub0202.101.ru:8443/stream/pro/aac/64/8
 #EXTINF:-1,DFM Organic House
@@ -527,6 +523,8 @@ https://dfm-festivalgold.hostingradio.ru/festivalgold96.aacp
 https://maximum-soft.hostingradio.ru/maxsoft96.aacp
 #EXTINF:-1,Радио Maximum - BRITPOP
 https://maximum-britpop.hostingradio.ru/maxbritpop96.aacp
+#EXTINF:-1,Радио Бархат
+https://albrin.online:9000/nonstop
 #EXTINF:-1,Yum FM
 https://yumfm.hostingradio.ru/yumfm128.mp3
 #EXTINF:-1,Tanz FM
@@ -539,8 +537,6 @@ https://pub0202.101.ru:8443/stream/pro/aac/64/444
 https://pub0101.101.ru/stream/trust/mp3/128/258
 #EXTINF:-1,Soho FM
 https://listen4.myradio24.com/sohofm
-#EXTINF:-1,Радио 13
-http://play.radio13.ru/mp3
 #EXTINF:-1,TrueColors Radio
 https://listen7.myradio24.com/45329
 #EXTINF:-1,DFM Swedish House Mafia
@@ -548,7 +544,7 @@ https://dfm-housemafia.hostingradio.ru/housemafia96.aacp
 #EXTINF:-1,Радио Maximum - Beats &amp; Riffs
 https://maximum-erock.hostingradio.ru/maxerock96.aacp
 #EXTINF:-1,Радио Alex – Best Lounge Music
-https://listen7.myradio24.com/avmarushak
+https://listen8.myradio24.com/avmarushak
 #EXTINF:-1,Радио Новое Чистое
 https://live-ssl.ncradio.fm/192.mp3
 #EXTINF:-1,Классное радио - РДШ
@@ -567,6 +563,8 @@ https://europarussia.ru:8006/live
 https://djin.amgradio.ru/djin
 #EXTINF:-1,Радио Art City
 https://listen7.myradio24.com/artcity
+#EXTINF:-1,Радио Тема
+https://listen1.myradio24.com/trollbro5
 #EXTINF:-1,101.ru - Mainstream
 https://pub0202.101.ru:8443/stream/pro/aac/64/87?
 #EXTINF:-1,Джон Радио
@@ -577,6 +575,8 @@ https://alexfm.stream.laut.fm/alexfm
 https://dfm-garrix.hostingradio.ru/garrix96.aacp
 #EXTINF:-1,DFM Calvin Harris
 https://dfm-harris.hostingradio.ru/harris96.aacp
+#EXTINF:-1,Радио Поколение Z
+https://listen7.myradio24.com/djmashkoff
 #EXTINF:-1,Радио Aurum Inutile
 https://a5.radioheart.ru:8014/auruminutile
 #EXTINF:-1,Справедливое Радио
@@ -584,9 +584,13 @@ https://spravedlivo.hostingradio.ru:8022/spravedlivo128.mp3
 #EXTINF:-1,Радио Двух Сердец
 https://s05.volnorez.com/live-app/881102
 #EXTINF:-1,Лидер радио
-https://stream.volnorez.com/live-app/900927
+https://s05.volnorez.com/live-app/900927
+#EXTINF:-1,Radio 19-22
+http://onair.radio1922.ru/64.aac
 #EXTINF:-1,PIRAT.FM
 https://c22.radioboss.fm:18416/piratfm
+#EXTINF:-1,Radio Look Info
+https://s05.volnorez.com/live-app/820112
 #EXTINF:-1,8 BIT FM
 https://listen4.myradio24.com/85516
 #EXTINF:-1,AITCH FM Techno
@@ -596,7 +600,7 @@ https://vtcradio.com:8005/stream
 #EXTINF:-1,Радио Монте-Карло - Новогоднее
 https://mc-newyear.hostingradio.ru/newyear96.aacp
 #EXTINF:-1,Newpride FM
-https://listen3.myradio24.com/25274
+https://listen9.myradio24.com/25274
 #EXTINF:-1,Радио Джаз 89,1FM
 http://jazz.streamr.ru/jazz-128.mp3
 #EXTINF:-1,Комерсант (Kommersant FM) 93.6 Москва
@@ -604,9 +608,7 @@ http://kommersant77.hostingradio.ru:8016/kommersant64.mp3
 #EXTINF:-1,Radio Jazz 89.1 FM
 http://main.hostingradio.ru:80/jazz-128.mp3
 #EXTINF:-1,Спокойное радио
-https://listen1.myradio24.com/6262
-#EXTINF:-1,Best FM
-http://nashe.streamr.ru/best-128.mp3
+https://listen9.myradio24.com/6262
 #EXTINF:-1,ULTRA
 http://nashe1.hostingradio.ru/ultra-256
 #EXTINF:-1,MIR TV
@@ -617,6 +619,12 @@ https://listen1.myradio24.com/7859
 http://ic6.101.ru:8000/stream/trust/mp3/128/20
 #EXTINF:-1,101.ru - Electronic
 http://pub0302.101.ru:8000/stream/pro/aac/64/132
+#EXTINF:-1,Звезда ТВ🌟(ТВЧ)📺
+https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8
+#EXTINF:-1,Звезда ТВ🌟(ТСЧ)
+https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_sdhigh.m3u8
+#EXTINF:-1,VostokFM-MSK
+https://air2.volna.top/VostokFM-MSK
 #EXTINF:-1,RadioMv.com | Russian Christian Radio
 http://142.44.243.11:2202/;
 #EXTINF:-1,Everhoof Радио
@@ -630,31 +638,7 @@ https://listen4.myradio24.com/69846
 #EXTINF:-1,Радио ТОРНАДО
 http://listen1.myradio24.com:9000/torrnado
 #EXTINF:-1,Enigmatic Station
-https://listen2.myradio24.com/8226
-#EXTINF:-1,Радио Spinner - Хиты 80х
-https://live.radiospinner.com/80hs-96
-#EXTINF:-1,Радио Spinner - Classic EuroDisco
-https://live.radiospinner.com/clsscrdsc-96
-#EXTINF:-1,Радио Spinner - Вечеринка 80х
-https://live.radiospinner.com/80sprty-96
-#EXTINF:-1,Радио Spinner - Рок Хиты 80х
-https://live.radiospinner.com/80srckhts-96
-#EXTINF:-1,Радио Spinner - Enigmatic Bar
-https://live.radiospinner.com/ngmtcbr-96
-#EXTINF:-1,Радио Spinner - Pop Hits
-https://live.radiospinner.com/pphts-96
-#EXTINF:-1,Радио Spinner - Synth Pop
-https://live.radiospinner.com/synthpp-96
-#EXTINF:-1,Радио Spinner - Soft Rock
-https://live.radiospinner.com/sftrck-96
-#EXTINF:-1,Радио Spinner - Хиты 90х
-https://live.radiospinner.com/90hs-96
-#EXTINF:-1,Радио Spinner - Downtempo Lounge
-https://live.radiospinner.com/downtempo-lounge-96
-#EXTINF:-1,Радио Spinner - EuroDance Classic
-https://live.radiospinner.com/erdncclssc-96
-#EXTINF:-1,Радио Spinner - СССР Хит
-https://live.radiospinner.com/sssrht-64
+https://listen8.myradio24.com/8226
 #EXTINF:-1,Radio Sputnik Mundo
 https://icecast-rian.cdnvideo.ru/voicespa
 #EXTINF:-1,101.ru - Ласковый Май

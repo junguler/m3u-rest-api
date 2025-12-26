@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1,100hitz - Rap
+http://206.217.213.235:9010
+#EXTINF:-1,CHAMELEONRADIO.NET
+http://jpdofunk3.com.br:8158/stream
 #EXTINF:-1,The Block 105 Radio
 https://das-edge16-live365-dal02.cdnstream.com/a87626
 #EXTINF:-1,HipHopGods
@@ -33,7 +37,3 @@ https://das-edge17-live365-dal02.cdnstream.com/a81669
 https://das-edge15-live365-dal02.cdnstream.com/a52123
 #EXTINF:-1,In Da Mix Radio
 https://das-edge17-live365-dal02.cdnstream.com/a77403
-#EXTINF:-1,100hitz - Rap
-http://206.217.213.235:9010
-#EXTINF:-1,CHAMELEONRADIO.NET
-http://jpdofunk3.com.br:8158/stream

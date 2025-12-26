@@ -1,8 +1,20 @@
 #EXTM3U
+#EXTINF:-1,Mix FM 104.3
+http://c2.radioboss.fm:8184/stream
+#EXTINF:-1,TRT Kurdî Radyo
+https://radio-trtradyo6.live.trt.com.tr/master.m3u8
+#EXTINF:-1,Rûdaw Radio
+http://audiostreaming.itworkscdn.com:9006/*.nsv
+#EXTINF:-1,Dengi Kurdsat
+http://uk3.internet-radio.com:8011/stream
+#EXTINF:-1,New Life Radio
+https://s2.radio.co/sd3c7f8539/listen
+#EXTINF:-1,Arta FM
+http://edge.mixlr.com/channel/qtgru
+#EXTINF:-1,Radio Mariam Iraq
+http://dreamsiteradiocp4.com:8044/stream.mp3
 #EXTINF:-1,Cemre Fm Mardin
 http://yayin1.canliyayin.org:8024/stream
-#EXTINF:-1,Dengi Kurdsat
-http://uk3.internet-radio.com:8011/stream?type=http&nocache=74
 #EXTINF:-1,Diyarbakır Can Radyo
 http://yayin1.yayindakiler.com:2028/
 #EXTINF:-1,Gundi FM
@@ -13,8 +25,6 @@ http://yayin6.radyohizmeti.com:7050/stream.mp3
 https://listen.radioking.com/radio/119251/stream/158701
 #EXTINF:-1,KURDmix
 http://solid55.streamupsolutions.com:32000/stream
-#EXTINF:-1,MIX FM
-http://c2.radioboss.fm:8184/stream
 #EXTINF:-1,Özgür Kürtçe Müzik
 https://ssl123.ozelip.com:7000/
 #EXTINF:-1,Radyo Denge Kurdi
@@ -29,10 +39,18 @@ https://anadolu.liderhost.com.tr:10939/?1651228613876
 https://radio-trtradyo6.medya.trt.com.tr/master.m3u8
 #EXTINF:-1,Waar Radio
 https://streaming.brol.tech/rtfmlounge
+#EXTINF:-1,Radyo Dengbej
+https://wesan.radyodengbej.com:8056
+#EXTINF:-1,Radio Celebrated
+http://yayin.firatfm.com:3065/stream
+#EXTINF:-1,Arta fm
+http://edge.mixlr.com/channel/qtgru?fbclid=IwAR1l9qMBusEENGOwhj4ltKLd
 #EXTINF:-1,NEW ORLEANS MUSIC
-https://new-orleans.stream.laut.fm/new-orleans?ref=radiode&t302=2025-09-06_23-01-55&uuid=56b7c13d-739d-45f5-9182-829f956ea2ab
-#EXTINF:-1,Radyo Hevi
-https://anadolu.liderhost.com.tr:10939/;?1648035949562
+https://new-orleans.stream.laut.fm/new-orleans?ref=radiode&t302=2025-12-17_17-48-24&uuid=ae7cb285-07b9-461d-a8f0-0113f2b892d6
+#EXTINF:-1,Firat FM
+http://yayin.firatfm.com:3065/
+#EXTINF:-1,Bernama Kurdî
+http://0nlineradio.stream13.radiohost.de/0r-trending-charts?ref=tiny&path=addrad.io%2F4WRMVF&upd-meta&upd-scheme=http&_art=dD0xNzY1OTk0MDA2JmQ9MTU0ZDY3MWRlNDc2NzI0MTEyYjU
 #EXTINF:-1,Denge Qamishlo
 https://dengeqamishlo.stream.laut.fm/dengeqamishlo
 #EXTINF:-1,Denge Cudi
@@ -41,49 +59,17 @@ https://denge-cudi.stream.laut.fm/denge-cudi
 https://derkimihd.stream.laut.fm/derkimihd?t302=2023-09-19_12-15-15&uuid=b4483d57-e104-4a85-8468-30e760cc467b
 #EXTINF:-1,ڕادیۆ نەوا
 https://www.radionawa.com/Live.aspx
+#EXTINF:-1,FSK
+http://198.7.59.28:8146/;
 #EXTINF:-1,Orkes Radio
 http://5.9.71.122:8257/stream
 #EXTINF:-1,Kurdistan24
 https://audio-edge-3mayu.fra.h.radiomast.io/04b1ce4c-24f2-4172-b756-065832ef78bf
-#EXTINF:-1,Radio Mahabad
-http://s1.cdn1.iranseda.ir:1935/liveedgeprovincial/radio-mahabad/playlist.m3u8
-#EXTINF:-1,Firat FM
-http://yayin.firatfm.com:3065/
-#EXTINF:-1,Arta fm
-http://edge.mixlr.com/channel/qtgru
-#EXTINF:-1,Bernama Kurdî
-http://0nlineradio.stream13.radiohost.de/0r-trending-charts?ref=tiny&path=addrad.io%2F4WRMVF&upd-meta&upd-scheme=http&_art=dD0xNzU4MTU2NjQ3JmQ9MmE4ZTA0NzMxNWFjM2MyNjljZTY
-#EXTINF:-1,Radyo Dengbej
-https://wesan.radyodengbej.com:8056
-#EXTINF:-1,Radio Celebrated
-http://yayin.firatfm.com:3065/stream
-#EXTINF:-1,Radyo Dersim
-http://edge.mixlr.com/channel/qtgru?fbclid=IwAR1l9qMBusEENGOwhj4ltKLd
-#EXTINF:-1,TRT Kurdî Radyo
-https://radio-trtradyo6.live.trt.com.tr/master.m3u8
-#EXTINF:-1,Rûdaw Radio
-http://audiostreaming.itworkscdn.com:9006/*.nsv
-#EXTINF:-1,New Life Radio
-https://s2.radio.co/sd3c7f8539/listen
-#EXTINF:-1,Radio Mariam Iraq
-http://dreamsiteradiocp4.com:8044/stream.mp3
-#EXTINF:-1,Kurd Mix
-http://solid55.streamupsolutions.com:32000/stream/
-#EXTINF:-1,Rudaw News Radio
-https://l3.itworkscdn.net/itwaudio/9006/stream
-#EXTINF:-1,Denge Welat
-https://dengegel-rojavaradio.radioca.st/stream
-#EXTINF:-1,denge cudi
-https://denge-cudi.stream.laut.fm/denge-cudi?pl=m3u
-#EXTINF:-1,radyozergan
-http://yayin1.yayindakiler.com:3194/stream
-#EXTINF:-1,Rebaz FM
-https://rasti.out.airtime.pro/rasti_a
-#EXTINF:-1,Waar Radio Official Stream
-https://c2.radioboss.fm:18564/stream
-#EXTINF:-1,NEW ORLEANS MUSIC 
-https://stream.laut.fm/new-orleans?ref=radiode
-#EXTINF:-1,ONE FM 
-https://stream.zenolive.com/kxbs5p6e8ueuv
-#EXTINF:-1,Radio Firat FM 87.3
-https://anadolu.liderhost.com.tr:10912/stream/1/
+#EXTINF:-1,Dicle FM
+https://dicle-rojavaradio.radioca.st/stream
+#EXTINF:-1,mezopotamya radyo
+https://anadolu.liderhost.com.tr/9404/.mp3
+#EXTINF:-1,WAAR RADIO
+https://c2.radioboss.fm:8564/stream
+#EXTINF:-1,Parzink
+https://a1.asurahosting.com/listen/parzink/radio.mp3

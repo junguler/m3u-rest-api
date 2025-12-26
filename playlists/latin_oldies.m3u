@@ -13,18 +13,16 @@ https://live.proradiosonline.com/listen/melancolia/aac
 http://185.23.192.118:8004/;stream.mp3
 #EXTINF:-1,Jammfm Radio Costa del Sol
 http://stream.jammfmradio.com:8075/;stream.nsv
+#EXTINF:-1,17600Radio
+https://servidor35-3.brlogic.com:8772/live
 #EXTINF:-1,Radio Calima
 https://escucha.calima.fm/stream
 #EXTINF:-1,Ona Mar FM
 https://streaming.enacast.com/onamar128.mp3
 #EXTINF:-1,Canciones Inolvidables
 https://live.proradiosonline.com/listen/canciones_inolvidables/aac
-#EXTINF:-1,WonderFM Lleida
-http://wonderfm.com:8025/;stream.nsv
 #EXTINF:-1,Grupo Planet Music
 https://sonicpanel.streamsolutions.us/8004/;
-#EXTINF:-1,Cool Radio Gold
-https://coolradi.casthost.net/stream
 #EXTINF:-1,HIT24 Radio
 https://stream.tunerplay.com/listen/hit24radio/hit24.mp3
 #EXTINF:-1,The Best Fm

@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1,J Church "Open 25 Hours"
-https://free.rcast.net/261716
 #EXTINF:-1,Default Stream
 https://free.rcast.net/259244
 #EXTINF:-1,Radio MRS
@@ -9,8 +7,6 @@ https://free.rcast.net/258024
 https://netradio.live24.gr/erasport
 #EXTINF:-1,Fully Open Radio
 https://hello.citrus3.com:8262/stream
-#EXTINF:-1,live
-https://free.rcast.net/256108
 #EXTINF:-1,Imaret Online
 https://radio.divographics.com:8040/radio.mp3
 #EXTINF:-1,Kool Mello radio
@@ -29,10 +25,6 @@ https://asima.out.airtime.pro:8000/radiojazzcopenhagen_a
 https://free.rcast.net/241302
 #EXTINF:-1,UpBeat.pw/Discord
 https://free.rcast.net/235834
-#EXTINF:-1,LYL Radio
-https://free.rcast.net/234816
-#EXTINF:-1,Radio Eyesee
-https://free.rcast.net/232741
 #EXTINF:-1,Chepito Rios Online Radio
 https://free.rcast.net/218635
 #EXTINF:-1,Open Stage Radio
@@ -47,18 +39,12 @@ https://free.rcast.net/208261
 https://free.rcast.net/208064
 #EXTINF:-1,Graffiti Urban Radio
 https://free.rcast.net/206810
-#EXTINF:-1,Door of Hope Ministries
-https://free.rcast.net/206495
-#EXTINF:-1,Romantic and Love Music
-https://free.rcast.net/205456
 #EXTINF:-1,Nordic Lodge Copenhagen
 https://free.rcast.net/204503
 #EXTINF:-1,ANONradio
 https://free.rcast.net/70127
 #EXTINF:-1,Shopen Anime Radio
 https://s97.radiolize.com:8040/radio.mp3
-#EXTINF:-1,NAKED RADIO LIVE
-https://free.rcast.net/68266
 #EXTINF:-1,Radio ALFA Anime
 https://nrf1.newradio.it:10328/alfaanime
 #EXTINF:-1,Open-Stage Project on MixLive.ie
@@ -66,4 +52,4 @@ https://free.rcast.net/12292
 #EXTINF:-1,Real Hardstyle Radio
 https://free.rcast.net/12445
 #EXTINF:-1,Open-Stage on MixLive.net
-https://strw3.openstream.co/957?aw_0_1st.collectionid%3D6525%26stationId%3D6525%26publisherId%3D981%26k%3D1757304419
+https://strw3.openstream.co/957?aw_0_1st.collectionid%3D6525%26stationId%3D6525%26publisherId%3D981%26k%3D1765996271

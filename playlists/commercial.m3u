@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1,93.9 KSOU
 https://ice24.securenetsystems.net/KSOU
+#EXTINF:-1,Athens Deejay 95.2
+http://netradio.live24.gr/athensdeejay
 #EXTINF:-1,CFAN "99.3 The River" Miramichi, NB
 http://mbsradio.leanstream.co/CFANFM-MP3
 #EXTINF:-1,CFAX 1070 (Victoria, BC)
@@ -11,8 +13,6 @@ http://newcap.leanstream.co/CFCBAM
 http://live.leanstream.co/CFCOFM
 #EXTINF:-1,CFCY 95.1 Charlottetown, PE
 http://mbsradio.leanstream.co/CFCYFM-MP3
-#EXTINF:-1,CFEL 102.1 "BLVD FM"  Levis, QC
-http://streaming.cfel.leclerccommunication.ca:8000/cfel.mp3
 #EXTINF:-1,CFEX "X 92.9" Calgary, AB
 http://ais-sa1.streamon.fm/7251_64k.aac
 #EXTINF:-1,CFGQ 107.3 "Q107" Calgary, AB
@@ -25,8 +25,6 @@ http://live.leanstream.co/CFGXFM
 http://live.leanstream.co/CFHKFM-MP3?args=web_02
 #EXTINF:-1,CFJO "O 97.3" Thetford MInes, QC
 http://stream.statsradio.com:8012/stream
-#EXTINF:-1,CFLG 104.5 "Fresh Radio" Cornwall, ON
-http://live.leanstream.co/CFLGFM-MP3
 #EXTINF:-1,CFLN 97.9 "Big Land - Labrador's FM" Happy Valley-Goose Bay, NL
 http://newcap.leanstream.co/CFLNFM
 #EXTINF:-1,CFMC 95.1 "C95" Saskatoon, SK  -AAC
@@ -43,8 +41,6 @@ http://ais-sa1.streamon.fm/7032_32k.aac
 http://live.leanstream.co/CFNYFM-MP3
 #EXTINF:-1,CFNY 102.1 Toronto, ON (AAC+)
 http://live.leanstream.co/CFNYFM
-#EXTINF:-1,CFOS 560 Owen Sound, ON
-http://bayshore.leanstream.co/CFOSAM
 #EXTINF:-1,CFOX 99.3 Vancouver, BC
 http://live.leanstream.co/CFOXFM-MP3
 #EXTINF:-1,CFPL-FM 95.9 "FM96" London, ON
@@ -85,8 +81,6 @@ http://live.leanstream.co/CHKSFM
 https://provisioning.streamtheworld.com/pls/CHKXFMAAC.pls
 #EXTINF:-1,CHLQ 93.1 "Q93" Charlottetown, PE
 http://mbsradio.leanstream.co/CHLQFM-MP3
-#EXTINF:-1,CHMJ 730 Vanvouver, BC
-http://live.leanstream.co/CHMJAM
 #EXTINF:-1,CHMX "My 92.1" Regina. SK
 http://ais-sa1.streamon.fm/7257_64k.aac
 #EXTINF:-1,CHNL 610 "Radio NL" Kamloops, BC
@@ -181,16 +175,10 @@ http://mbsradio.leanstream.co/CJRWFM-MP3
 http://ais-sa1.streamon.fm/7097_32k.aac
 #EXTINF:-1,CJSP/CJWF "Windsor's Country 95.9 && 92.7" Leamington, ON
 http://live.leanstream.co/CJWFFM
-#EXTINF:-1,CJSS "Boom 101.9" Cornwall, ON
-http://live.leanstream.co/CJSSFM-MP3
 #EXTINF:-1,CJTN 107.1 "Rock 107" Trenton, ON
 http://live.leanstream.co/CJTNFM-MP3
 #EXTINF:-1,CJWW "Country 600" Saskatoon, SK
 https://provisioning.streamtheworld.com/pls/CJWWAMAAC.pls
-#EXTINF:-1,CJXK 95.3 "K-Rock" Cold Lake, AB
-http://newcap.leanstream.co/CJXKFM
-#EXTINF:-1,CJXL 96.1 "XL 96" Moncton, NB
-http://newcap.leanstream.co/CJXLFM
 #EXTINF:-1,CJXY 107.9 "Y108" Burlington, ON
 http://live.leanstream.co/CJXYFM-MP3
 #EXTINF:-1,CJYQ "930 KIXX Country" St. John's, NL
@@ -278,7 +266,7 @@ http://bayshore.leanstream.co/CKYCFM
 #EXTINF:-1,CKYL 610 "YL Country" Peace River, AB
 https://provisioning.streamtheworld.com/pls/CKYLFMAAC.pls
 #EXTINF:-1,Hot 91.1
-https://17793.live.streamtheworld.com/MAR_HOT91AAC/HLS/playlist.m3u8
+https://26303.live.streamtheworld.com/MAR_HOT91AAC/HLS/playlist.m3u8
 #EXTINF:-1,KAYL 101.7
 https://ice23.securenetsystems.net/KAYL
 #EXTINF:-1,KCHE Classic Hits 92.1
@@ -306,7 +294,7 @@ https://provisioning.streamtheworld.com/pls/KXIXFM.pls
 #EXTINF:-1,KXKL 105.1 "Kool 105" Denver, CO
 https://provisioning.streamtheworld.com/pls/KXKLFMAAC.pls
 #EXTINF:-1,m2o
-https://streamcdnc3-4c4b867c89244861ac216426883d1ad0.msvdn.net/radiom2o/radiom2o/master_ma.m3u8
+https://streamcdne3-4c4b867c89244861ac216426883d1ad0.msvdn.net/radiom2o/radiom2o/master_ma.m3u8
 #EXTINF:-1,OFM 94 && 97 FM Bloemfontein
 http://edge.iono.fm/xice/ofm_live_medium.aac
 #EXTINF:-1,Radio Antena 3 91.7 FM
@@ -334,7 +322,7 @@ https://provisioning.streamtheworld.com/pls/WJXBFMAAC.pls
 #EXTINF:-1,WKKY 104.7 Geneva, OH
 http://ice3.securenetsystems.net/WKKY
 #EXTINF:-1,WKND 99.5, Montreal City
-http://streaming.cjpx.leclerccommunication.ca:8000/cjpx.mp3?type=.mp3&1597284756
+http://streaming.cjpx.leclerccommunication.ca:8000/cjpx.mp3?type=.mp3\u00261597284756
 #EXTINF:-1,WLS-AM 890 Chicago, IL
 https://provisioning.streamtheworld.com/pls/WLSAMAAC.pls
 #EXTINF:-1,WNSX "Star 97.7" Winter Harbor, ME
@@ -344,7 +332,17 @@ http://wprb.streamguys1.com/live
 #EXTINF:-1,WPTF "News Radio 680" Raleigh, NC
 https://provisioning.streamtheworld.com/pls/WPTFAMAAC.pls
 #EXTINF:-1,Zinc 96.1
-https://22963.live.streamtheworld.com/MAR_ZINC96AAC/HLS/playlist.m3u8
+https://17793.live.streamtheworld.com/MAR_ZINC96AAC/HLS/playlist.m3u8
+#EXTINF:-1,radiorsj.be - 100% Commercial Free
+https://free.rcast.net/248080
+#EXTINF:-1,Radio LTB Commercial
+https://free.rcast.net/247834
+#EXTINF:-1,Commercial Service
+https://free.rcast.net/234511
+#EXTINF:-1,THP Commercial Stream
+https://free.rcast.net/234462
+#EXTINF:-1,A66FM non stop commercial free music live from Athens Greece
+https://free.rcast.net/2062
 #EXTINF:-1,Radio Nowy Świat
 https://n20a-eu.rcs.revma.com/ypqt40u0x1zuv?rj-ttl=5&rj-tok=AAABiLP17U8AA4GbtWJVVdFFsQ
 #EXTINF:-1,Q107
@@ -357,8 +355,6 @@ https://wwoz-sc.streamguys1.com/wwoz-hi.mp3
 https://bayshore.leanstream.co/CKYCFM?args=web_01&uid=e4f7ef46-0897-4e53-8b5d-664e18091357
 #EXTINF:-1,Country 105 FM
 https://live.leanstream.co/CKRYFM
-#EXTINF:-1,Show Radyo
-http://46.20.3.229/;
 #EXTINF:-1,Y108 Rocks
 https://live.leanstream.co/CJXYFM
 #EXTINF:-1,Rock 107
@@ -367,8 +363,6 @@ https://live.leanstream.co/CJTNFM-MP3?quinte_web
 https://ic2527.c972.fastserv.com:80/spoonradio_aacp_128
 #EXTINF:-1,95.5 Hits FM
 https://starboard.streamb.live/SB00160
-#EXTINF:-1,BLVD 102.1 FM
-http://streaming.cfel.leclerccommunication.ca:8000/cfel.mp3?1494574554697.mp3
 #EXTINF:-1,Mix 97.1 FM
 https://live.leanstream.co/CIGLFM-MP3
 #EXTINF:-1,CISN Country
@@ -400,11 +394,9 @@ https://live.leanstream.co/CJKRFM
 #EXTINF:-1,Country 105
 https://ais-sa1.streamon.fm/7238_128k.aac/playlist.m3u8
 #EXTINF:-1,Traxx FM Ambient
-https://traxx011.ice.infomaniak.ch/traxx011-low.mp3
+http://plainmaster.bcast.infomaniak.ch:8000/traxx011-low.mp3
 #EXTINF:-1,Peggy@99.1
 https://live.leanstream.co/CJGVFM
-#EXTINF:-1,CFOS
-https://bayshore-ais.leanstream.co/CFOSAM
 #EXTINF:-1,FM 96
 https://live.leanstream.co/CFPLFM
 #EXTINF:-1,Ocean 100
@@ -489,8 +481,6 @@ https://live.leanstream.co/CKCBFM-MP3
 https://mbsradio.leanstream.co/CFCYFM-MP3
 #EXTINF:-1,Real Country 97.9
 https://newcap.leanstream.co/CKWBFM
-#EXTINF:-1,KRAZE
-https://ais-sa1.streamon.fm/7265_64k.aac/playlist.m3u8
 #EXTINF:-1,The Beach
 https://bayshore.leanstream.co/CFPSFM
 #EXTINF:-1,Radio Contexto Ñuble
@@ -509,6 +499,8 @@ https://traxx014.ice.infomaniak.ch/traxx014-low.mp3
 https://newcap.leanstream.co/CJEGFM
 #EXTINF:-1,Hot 93.7
 https://newcap.leanstream.co/CKWYFM
+#EXTINF:-1,Country 104.7 - WKKY
+https://ice3.securenetsystems.net/WKKY
 #EXTINF:-1,Traxx FM Deluxe
 https://traxx001.ice.infomaniak.ch/traxx001-low.mp3
 #EXTINF:-1,Traxx FM Latino
@@ -549,14 +541,16 @@ https://ais-sa1.streamon.fm/7239_128k.aac/playlist.m3u8
 http://s1.knixx.fm/dein_webradio_128.mp3
 #EXTINF:-1,Rock 94
 https://ais-sa1.streamon.fm/7097_32k.aac
+#EXTINF:-1,Star 97.7 FM - WNSX
+https://ice7.securenetsystems.net/WNSX
 #EXTINF:-1,KIDE Radio
 http://peridot.streamguys.com:7470/live-mp3
+#EXTINF:-1,Sioux Ritmo
+https://ice23.securenetsystems.net/KSOUAM
 #EXTINF:-1,Radio Paradise [MP3 128k]
 http://stream-uk1.radioparadise.com/mp3-128
 #EXTINF:-1,KMNO 91.7 FM Mana&#039;o Radio Maui
 http://tektite.streamguys1.com:5250/live
-#EXTINF:-1,Athens Deejay 95.2
-http://netradio.live24.gr/athensdeejay
 #EXTINF:-1,Radio Paradise [128k AAC (Europe)]
 http://stream-uk1.radioparadise.com/aac-128
 #EXTINF:-1,WRBB 104.9 FM Boston, MA
@@ -569,6 +563,8 @@ https://s5.radio.co/s20251311a/listen
 https://kchungradio.out.airtime.pro/kchungradio_a
 #EXTINF:-1,harz-börde-welle
 http://server26678.streamplus.de/;stream.mp3
+#EXTINF:-1,Abusia Radio
+https://ice66.securenetsystems.net/ABUSIA
 #EXTINF:-1,KRVM 91.9 Eugene, OR
 http://lin2.san.fast-serv.com:6008/stream
 #EXTINF:-1,Spoon Radio - Rock Ballads
@@ -583,8 +579,6 @@ https://spoonradioalternativerock.ice.infomaniak.ch/spoon-alternativerock-hd.aac
 https://spoonradioacousticrock.ice.infomaniak.ch/spoon-acousticrock-hd.aac
 #EXTINF:-1,Spoon Radio - Hard Rock
 https://spoonradiohardrock.ice.infomaniak.ch/spoon-hardrock-hd.aac
-#EXTINF:-1,Fantasy Radio 97.0 - Devizes
-http://server.fantasyradio.co.uk:8300/;stream/1
 #EXTINF:-1,Radio Paradise [Mobile AAC+ 32k]
 http://stream.radioparadise.com/aac-32
 #EXTINF:-1,Joy Hits UK
@@ -592,7 +586,7 @@ http://stream.joyhits.online:8070/joyhitshq.mp3
 #EXTINF:-1,Kings Radio Davao
 http://us1.amfmph.com:8708/live
 #EXTINF:-1,Ohm Radio 96.3 FM (WOHM LP)
-http://das-edge15-live365-dal02.cdnstream.com/a92834
+https://das-edge16-live365-dal02.cdnstream.com/a92834
 #EXTINF:-1,Radio Paradise (320k)
 http://stream-uk1.radioparadise.com/aac-320
 #EXTINF:-1,Radio Paradise [Main Mix 64k AAC+]
@@ -621,23 +615,9 @@ http://18.220.54.199:8002/;
 https://madfm-gecko.radioca.st/stream
 #EXTINF:-1,RES.RADIO
 https://edge.mixlr.com/channel/zwtuo
-#EXTINF:-1,CFML 107.9 Burnaby, BC
-http://ais-sa1.streamon.fm/7161_64k.aac/playlist.m3u8
 #EXTINF:-1,CKUT 90.3 FM
 https://ckut.out.airtime.pro/ckut_a
 #EXTINF:-1,WAPS 91.3 &quot;The Summit&quot; Akron, OH
 http://streamer2.legatocommunications.com/wapshq
 #EXTINF:-1,SomaFM Groove Salad Classic 128k
 https://ice2.somafm.com/gsclassic-128-mp3
-#EXTINF:-1,radiorsj.be - 100% Commercial Free
-https://free.rcast.net/248080
-#EXTINF:-1,Radio LTB Commercial
-https://free.rcast.net/247834
-#EXTINF:-1,Commercial Service
-https://free.rcast.net/234511
-#EXTINF:-1,THP Commercial Stream
-https://free.rcast.net/234462
-#EXTINF:-1,DISCONET.FM | AAC64
-https://free.rcast.net/210945
-#EXTINF:-1,A66FM non stop commercial free music live from Athens Greece
-https://free.rcast.net/2062

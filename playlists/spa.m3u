@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1,1 Splash Spa
 http://ais-sa2.cdnstream1.com/2347_128.mp3
-#EXTINF:-1,Day Spa
-http://ec3.yesstreaming.net:1950/stream
 #EXTINF:-1,deepspaceradio
 https://das-edge15-live365-dal02.cdnstream.com/a71161
 #EXTINF:-1,Radio Sydney
@@ -15,16 +13,12 @@ https://i-radio.info:8005/radio
 https://free.rcast.net/260727
 #EXTINF:-1,Radio 50F.RU Club Music
 https://listen4.myradio24.com/paradise
-#EXTINF:-1,dub
-https://free.rcast.net/259594
 #EXTINF:-1,idobi Howl. idobi.com
 https://free.rcast.net/259570
 #EXTINF:-1,Flow Radio Espana
 https://st1.urbanrevolution.es:8445/flow
 #EXTINF:-1,Unspecified name
 https://free.rcast.net/259496
-#EXTINF:-1,/space
-https://free.rcast.net/259249
 #EXTINF:-1,1 radio blitz (hauptstream)
 https://free.rcast.net/258672
 #EXTINF:-1,chill
@@ -35,86 +29,58 @@ https://free.rcast.net/258263
 https://free.rcast.net/258175
 #EXTINF:-1,Holy Forever Radio
 https://holyforever-radio.com:1045/stream
-#EXTINF:-1,HOUSE RADIO SPAIN
-https://free.rcast.net/257414
 #EXTINF:-1,RADIO NUEVA ESPARTA
 https://free.rcast.net/257321
-#EXTINF:-1,HISPAHITS
-https://free.rcast.net/257194
-#EXTINF:-1,Flow Radio España
-https://free.rcast.net/257173
-#EXTINF:-1,Radio_Shakh
-https://free.rcast.net/71214
 #EXTINF:-1,Radio Hispaniola
 https://free.rcast.net/256590
 #EXTINF:-1,Radio Espace Latino
 https://egwr-espace-latino.ice.infomaniak.ch/egwr-espace-latino.mp3
 #EXTINF:-1,tvclassique-radio.com
 https://free.rcast.net/256285
-#EXTINF:-1,DNBRadio - 24-7 Live Dj Mixes - All Flavors of DnB via @dnbradio
-https://free.rcast.net/255913
 #EXTINF:-1,Cadena Space FM ---- [Hosted by TxRxStreaming]
 https://free.rcast.net/255628
-#EXTINF:-1,Curated Zero Spectrum Radio
-https://free.rcast.net/255499
 #EXTINF:-1,Haarlem Shuffle
 https://stream.tbmp.nl:8000/xmasradiohigh.mp3
 #EXTINF:-1,saRAvaDIO
 https://free.rcast.net/254414
-#EXTINF:-1,Radio Space 104 FM
-https://free.rcast.net/254271
-#EXTINF:-1,TestRadio
-https://free.rcast.net/253887
 #EXTINF:-1,Hispanoamérica Radio
 https://free.rcast.net/253247
 #EXTINF:-1,RePlayScape
 https://free.rcast.net/252939
-#EXTINF:-1,Radiominor.ru - Space Rangers
-https://free.rcast.net/252710
-#EXTINF:-1,Radio Bandit Romania
-https://free.rcast.net/252200
 #EXTINF:-1,Radio 80 Spain
 https://free.rcast.net/251953
-#EXTINF:-1,Nomads Essences
-https://free.rcast.net/251099
 #EXTINF:-1,radio guate
 https://radioguatedigital.com/live/
 #EXTINF:-1,Radio Spazio Noi
 https://free.rcast.net/250642
 #EXTINF:-1,Alles Oberkrain
 https://free.rcast.net/250601
-#EXTINF:-1,Sparks 108 FM
-https://free.rcast.net/250360
 #EXTINF:-1,Radio Spazio 104.7
 https://free.rcast.net/249574
 #EXTINF:-1,Now Wave Radio
-https://das-edge13-live365-dal02.cdnstream.com/a78360
+https://das-edge63-live365-dal03.cdnstream.com/a78360
 #EXTINF:-1,Konflict Radio
 https://free.rcast.net/249321
 #EXTINF:-1,techno
 https://free.rcast.net/249193
 #EXTINF:-1,Spaks Radio
 https://free.rcast.net/248752
+#EXTINF:-1,drumBase.space
+https://radio.drumbase.space/listen/drumbase.space/radio.mp3
 #EXTINF:-1,Hi On Line Lounge Radio
 https://free.rcast.net/248357
 #EXTINF:-1,RadioMv.com | Spanish (128Kbps)
 https://free.rcast.net/248191
 #EXTINF:-1,Soul Mouth Radio
 https://free.rcast.net/247918
-#EXTINF:-1,7ochentaespanol
-https://free.rcast.net/247756
-#EXTINF:-1,rockeros.net rock en español
-https://free.rcast.net/247572
 #EXTINF:-1,Deep Space One: Deep ambient electronic and space music. [SomaFM]
 https://free.rcast.net/246425
-#EXTINF:-1,Terry Callaghan's Classic Alternative Channel
-https://free.rcast.net/246145
+#EXTINF:-1,Dead Good Radio
+https://free.rcast.net/245821
 #EXTINF:-1,radio-shoppe.com (Eastern Time)
 https://free.rcast.net/245735
-#EXTINF:-1,Spenchmoniakki
-https://free.rcast.net/245650
 #EXTINF:-1,Main
-https://free.rcast.net/245635
+http://audio-edge-qse4n.yyz.g.radiomast.io/abe5f558-c883-47de-91ea-e04a06ed1fd4
 #EXTINF:-1,Planetary Radio - Pasadena Arizona - Stockholm Sweden
 https://free.rcast.net/244823
 #EXTINF:-1,Mi Amigo Radio
@@ -123,20 +89,16 @@ https://nr12.newradio.it:8662/Live
 https://free.rcast.net/244248
 #EXTINF:-1,Space Beat
 https://90116.web.hosting-russia.ru/listen/space_beat/radio.mp3
-#EXTINF:-1,ALMG Espaço Democrático
-https://free.rcast.net/243886
-#EXTINF:-1,Rádio ALMG
-https://free.rcast.net/243515
 #EXTINF:-1,WOTR - Crime Time Radio USA
 https://free.rcast.net/243238
-#EXTINF:-1,TheSparky
-https://free.rcast.net/243235
 #EXTINF:-1,Sun Radio - Bar (Bar - Soulside Radio)
 https://free.rcast.net/243186
 #EXTINF:-1,Rythmos 106 fm Xanthi
 https://free.rcast.net/242921
 #EXTINF:-1,RadioArt - Spa
 https://free.rcast.net/242416
+#EXTINF:-1,LandesWelle GrillWelle
+https://edge23.streamonkey.net/landeswelle-grillwelle?aggregator=rewrite/mp3-192/web
 #EXTINF:-1,Radio Espace Disco by Radio Espace {Powered by Infomaniak.Net}
 https://free.rcast.net/242251
 #EXTINF:-1,onda digital fm espana
@@ -150,7 +112,7 @@ https://free.rcast.net/242211
 #EXTINF:-1,Radio Wegbereiter
 https://radio.missionsdienst-wegbereiter.de:8000/radio.mp3
 #EXTINF:-1,ACB Media 4
-https://free.rcast.net/241802
+https://das-edge62-live365-dal03.cdnstream.com/a89697
 #EXTINF:-1,RadioVoceSpazio | Rete 1
 https://free.rcast.net/241267
 #EXTINF:-1,WZBT 91.1 Gettysburg College
@@ -159,8 +121,6 @@ https://free.rcast.net/241227
 https://free.rcast.net/240881
 #EXTINF:-1,spanishparty
 https://free.rcast.net/240874
-#EXTINF:-1,vorleser.net-Radio - Spannung
-https://free.rcast.net/240199
 #EXTINF:-1,SMC Radio
 https://nrf1.newradio.it:10396/stream
 #EXTINF:-1,Station Name
@@ -177,42 +137,38 @@ https://spacefm.live/radio/8000/spacefm128
 https://wmse.streamguys1.com/wmselivemp3
 #EXTINF:-1,Spanish Radio
 https://airtime.dclm.org/radio/8100/spanish
-#EXTINF:-1,spanishtophits
-https://free.rcast.net/235649
 #EXTINF:-1,bigbeatbrighton
 https://free.rcast.net/235178
 #EXTINF:-1,EL_poolside_lounge
-https://0nlineradio.stream13.radiohost.de/lounge-poolside-lounge?upd-meta=0&upd-scheme=https&_art=dD0xNzU3MzE5NTU4JmQ9ZTNmOTdkZDM1NGNkNWU4ZDA1NzA
+https://0nlineradio.stream42.radiohost.de/lounge-poolside-lounge?upd-meta&upd-scheme=https&_art=dD0xNzY2MDIzMDkzJmQ9MmFlZmM0MDJkOWFkYjkzY2QwNmI
 #EXTINF:-1,Radio Mast Spanish
 https://audio-edge-es6pf.mia.g.radiomast.io/475ebed1-595e-4717-b888-64fe8fc6b09f
 #EXTINF:-1,EL_spa_lounge
-https://0nlineradio.stream13.radiohost.de/lounge-spa-lounge?upd-meta=0&upd-scheme=https&_art=dD0xNzU3MzE5NTU4JmQ9M2RlZmFmZWQzODI0M2FlZDNiZjI
-#EXTINF:-1,PulsRadio DANCE
-https://radiorecord.hostingradio.ru/techno96.aacp
+https://0nlineradio.stream42.radiohost.de/lounge-spa-lounge?upd-meta&upd-scheme=https&_art=dD0xNzY2MDIzMDkzJmQ9Y2QxNGI0OTFhMDg3MGUxODE1MzE
 #EXTINF:-1,RFI espagnol-
 https://rfienespagnol64k.ice.infomaniak.ch/rfienespagnol-64.mp3
 #EXTINF:-1,ESPACE FM
 https://free.rcast.net/233647
-#EXTINF:-1,Radio Unique FM
-https://free.rcast.net/233277
 #EXTINF:-1,SECTOR | Space channel
 https://free.rcast.net/232807
 #EXTINF:-1,praise
 https://free.rcast.net/232748
 #EXTINF:-1,NOVA_1069
-https://free.rcast.net/232724
+http://23203.live.streamtheworld.com/NOVA_1069_AAC48.aac?src=redirect
 #EXTINF:-1,spa
 https://free.rcast.net/232705
 #EXTINF:-1,Byblos Radio meets Beirut Nights: Mediterranean Lebanese Greek Turkish Armenian Italian French Spanish Arabic Hebrew Persian & more
 https://free.rcast.net/232627
 #EXTINF:-1,EL_sleep_meditation
-https://0nlineradio.stream13.radiohost.de/lounge-sleep-meditation?upd-meta=0&upd-scheme=https&_art=dD0xNzU3MzE5NTYyJmQ9M2NhNTQzNmQ5M2Q2M2M1OTI2MjE
+https://0nlineradio.stream42.radiohost.de/lounge-sleep-meditation?upd-meta&upd-scheme=https&_art=dD0xNzY2MDIzMDkzJmQ9NzY3MDA0MmFlYTk4ZjEzZjk3OGM
 #EXTINF:-1,Space Odyssey (myNoise Radio)
 https://free.rcast.net/232260
 #EXTINF:-1,www.spacesynth.ru
 https://free.rcast.net/232123
+#EXTINF:-1,BBN Spanish AAC
+https://free.rcast.net/231564
 #EXTINF:-1,charthits
-https://rautemusik.stream25.radiohost.de/charthits?upd-meta=0&upd-scheme=https&_art=dD0xNzU3MzE5NTYzJmQ9MmI5MzY0NjVlN2Q2ZmNlOGNmMjI
+https://rautemusik.stream39.radiohost.de/charthits?upd-meta&upd-scheme=https&_art=dD0xNzY2MDIzMDk1JmQ9ZmE0NDI5NDRlZTlhOGJmYTlmMTA
 #EXTINF:-1,Radio Patriot
 https://free.rcast.net/230898
 #EXTINF:-1,1RADIO.SPACE 24/7
@@ -223,8 +179,6 @@ https://free.rcast.net/218483
 https://free.rcast.net/215718
 #EXTINF:-1,Play Urban [Mobile]
 https://free.rcast.net/215388
-#EXTINF:-1,Radio VBC, Spassk, 101.3FM
-https://free.rcast.net/215280
 #EXTINF:-1,RadioJust4u!
 https://free.rcast.net/215121
 #EXTINF:-1,44F911-VHF - Lapeer County Michigan, Fire Dispatch 151.1300 - moses.bz
@@ -247,16 +201,10 @@ https://free.rcast.net/213513
 https://free.rcast.net/213494
 #EXTINF:-1,El Salvador FM - HDRADIOSTREAMING.COM
 https://free.rcast.net/212568
-#EXTINF:-1,76F911-VHF - Sanilac County Michigan, Fire Dispatch 151.01000 - moses.bz
-https://free.rcast.net/212124
 #EXTINF:-1,SoulJack Digital Radio
 https://free.rcast.net/211858
-#EXTINF:-1,76P911-VHF - Sanilac County Michigan, Police Dispatch 155.53500 - moses.bz
-https://free.rcast.net/211715
 #EXTINF:-1,Mabu Beatz Dub Techno
 https://free.rcast.net/211587
-#EXTINF:-1,Mindalia Radio España
-https://free.rcast.net/210889
 #EXTINF:-1,Old Deep House Music
 https://free.rcast.net/210006
 #EXTINF:-1,78F911-VHF - Shiawassee County Michigan, Fire Dispatch 154.3550 - moses.bz
@@ -269,8 +217,6 @@ https://free.rcast.net/208293
 https://free.rcast.net/208210
 #EXTINF:-1,Ezequiel 34:26 Radio
 https://free.rcast.net/208050
-#EXTINF:-1,DJ.Moments Radio1
-https://free.rcast.net/207894
 #EXTINF:-1,Free Music Radio
 https://free.rcast.net/207711
 #EXTINF:-1,HitMIX Classics
@@ -283,40 +229,18 @@ https://free.rcast.net/205864
 https://www.tuneintoradio1.com/listen/caya_radio/radio.mp3
 #EXTINF:-1,Intense Radio - We love Dance
 https://free.rcast.net/205212
-#EXTINF:-1,Radio Space '90
-https://free.rcast.net/204561
-#EXTINF:-1,Sparks 108 fm
-https://free.rcast.net/70007
 #EXTINF:-1,Radio Voz Do Emigrante
-https://stream1.rcast.net/69186
-#EXTINF:-1,Space Coast Metal
-https://free.rcast.net/68401
-#EXTINF:-1,Radio Quartieri Spagnoli
-https://stream1.rcast.net/69193
+https://stream2.rcast.net/69186
 #EXTINF:-1,Asparagus Radio
 https://free.rcast.net/67044
-#EXTINF:-1,Big Bear Scanner
-https://free.rcast.net/1025
-#EXTINF:-1,rockeros.net rock en espaÃ±ol
-https://free.rcast.net/8968
 #EXTINF:-1,Radio Room Family Classics
 https://free.rcast.net/3603
 #EXTINF:-1,XRadio
 https://free.rcast.net/12831
 #EXTINF:-1,http://rescatandolasvidasparacristo.weebly.com/
 https://free.rcast.net/8767
-#EXTINF:-1,Venice Classic Radio Italia
-https://free.rcast.net/12864
 #EXTINF:-1,Goodvybe Radio
 https://free.rcast.net/1612
-#EXTINF:-1,Christmas Radio Club Stream
-https://free.rcast.net/2130
-#EXTINF:-1,DarkSparkRadio
-https://free.rcast.net/16472
-#EXTINF:-1,Combo Livre POP
-https://free.rcast.net/16217
-#EXTINF:-1,Clubbers Paradise
-https://free.rcast.net/14958
 #EXTINF:-1,Spectrum FM Spain
 https://free.rcast.net/11382
 #EXTINF:-1,Spazio Radio *
@@ -335,8 +259,6 @@ https://free.rcast.net/3765
 https://free.rcast.net/9672
 #EXTINF:-1,Space Unicorn Radio
 https://free.rcast.net/13516
-#EXTINF:-1,Dynamic Resonance Radio
-https://free.rcast.net/17104
 #EXTINF:-1,Radio Plus Espagne
 https://free.rcast.net/12793
 #EXTINF:-1,RadioPlus Espagne
@@ -345,5 +267,3 @@ https://free.rcast.net/7418
 https://free.rcast.net/65247
 #EXTINF:-1,Space Radio-Macedonia-Skopje
 https://free.rcast.net/200481
-#EXTINF:-1,Radio Histórias
-https://free.rcast.net/62451

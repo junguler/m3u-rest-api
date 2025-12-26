@@ -1,22 +1,26 @@
 #EXTM3U
+#EXTINF:-1,Sports Talk 1400 KREF
+https://ice9.securenetsystems.net/KREF
 #EXTINF:-1,News Radio 1000 KTOK
 https://stream.revma.ihrhls.com/zc1909
 #EXTINF:-1,1560 The Franchise 2
-https://24883.live.streamtheworld.com/KEBCAMAAC.aac
+https://13743.live.streamtheworld.com/KEBCAMAAC.aac
 #EXTINF:-1,K-LOVE Radio
-https://emf-seg001222.cdnstream1.com/seg001222-i64.aac?platform=airable&city=san-jose&country=united-states&geo_api=abstract_ip&latitude=37.3361663&longitude=-121.890591&opawg_result=false&region=california&segment=001222&t=1&k=A4Tx7VCTNRYqEiu77oWESQ8oNyJB9s1zTqt9uXilrHClFrD0gkEr4yD9XMWaVCg6UnOt3gpnYutybZ8FdjOaKYDYC66uZma0bGtQPFERvQkwYMAnbGmxx2lLbdQDJ4CbRr2gOg
+https://emf-seg001222.cdnstream1.com/seg001222-i64.aac?platform=airable&city=san-jose&country=united-states&geo_api=abstract_ip&latitude=37.3361663&longitude=-121.890591&opawg_result=false&region=california&segment=001222&t=1&k=l-40saNkzDiWaBu0cQGsRSV24ApdPbC-f1qEikcw5AtKTbgbsyxZEaKaeC9xj362XFBZAWeHjsvIo4rq1thoTdC4ZY1P3rxLqV__2RgVul-pmDnMoAQxI4yyq9Gvb8InFsJ7
 #EXTINF:-1,WWLS The Sports Animal
-https://18193.live.streamtheworld.com/WWLSAMAAC.aac
+https://26183.live.streamtheworld.com/WWLSAMAAC.aac
 #EXTINF:-1,107.7 The Franchise
-https://22963.live.streamtheworld.com/KRXOFMAAC.aac
+https://18433.live.streamtheworld.com/KRXOFMAAC.aac
 #EXTINF:-1,News Talk 1520 KOKC
-https://24963.live.streamtheworld.com/KOKCAMAAC.aac
+https://14613.live.streamtheworld.com/KOKCAMAAC.aac
 #EXTINF:-1,94.7 The Ref
 https://stream.revma.ihrhls.com/zc1901
 #EXTINF:-1,OKC'S CBS Sports Radio 105.3
 https://crystalout.surfernetwork.com:8001/KINB-FM_MP3
+#EXTINF:-1,99.7 Hank FM
+https://ice8.securenetsystems.net/KNAH
 #EXTINF:-1,Exitos 96.5 OKC
-https://27153.live.streamtheworld.com/KRXOHD3AAC.aac
+https://14993.live.streamtheworld.com/KRXOHD3AAC.aac
 #EXTINF:-1,101.9 The Twister
 https://stream.revma.ihrhls.com/zc1913
 #EXTINF:-1,KJ103
@@ -24,35 +28,35 @@ https://stream.revma.ihrhls.com/zc1905
 #EXTINF:-1,96.1 KXY
 https://stream.revma.ihrhls.com/zc1917
 #EXTINF:-1,V103 OKC
-https://24943.live.streamtheworld.com/KOMAHD3AAC.aac
+https://27153.live.streamtheworld.com/KOMAHD3AAC.aac
 #EXTINF:-1,Alice 104.9
-https://14023.live.streamtheworld.com/KKWDFMAAC.aac
+https://14983.live.streamtheworld.com/KKWDFMAAC.aac
 #EXTINF:-1,Heart & Soul 92.1 & 1140
 https://crystalout.surfernetwork.com:8001/KRMP_MP3
 #EXTINF:-1,92.5 KOMA
-https://24973.live.streamtheworld.com/KOMAFMAAC.aac
+https://27143.live.streamtheworld.com/KOMAFMAAC.aac
 #EXTINF:-1,Air1 Radio
-https://emf-seg001029.cdnstream1.com/seg001029-i64.aac?platform=iheart&city=san-jose&country=united-states&geo_api=abstract_ip&latitude=37.3361663&longitude=-121.890591&opawg_result=false&region=california&segment=001029&t=1&k=z4R7n-JrT3YJub5hnDRooj2FG0qS_70wzdwVHjs4DlAHYAWxVxLgeZSfh85J4yCaFwE_qYpg6-LRR8hX9VdDj5OuK7mRmYztaGBnxFd4dN8JzTYJIWYnvB-F391Hkl1bQ--H8Ew
+https://emf-seg001029.cdnstream1.com/seg001029-i64.aac?platform=iheart&city=san-jose&country=united-states&geo_api=abstract_ip&latitude=37.3361663&longitude=-121.890591&opawg_result=false&region=california&segment=001029&t=1&k=rANqeIinPqd1jqD9LGb82Q-gGwY3odAow7iNj0hIQtSPMvooVQ9XXWuaHWHbZeguEfNJ0Sx0IwsEG7Ts7dG6Ffn5tXpxviDcnccvbcPyQpxdeoLbqmiVsWXA4e7yzoUZ0BSZ
 #EXTINF:-1,104.5 KRXO
-https://22973.live.streamtheworld.com/KRXOHD2AAC.aac
+https://14093.live.streamtheworld.com/KRXOHD2AAC.aac
 #EXTINF:-1,La Zeta 106.7
-https://22963.live.streamtheworld.com/KTUZFMAAC.aac
+https://13743.live.streamtheworld.com/KTUZFMAAC.aac
 #EXTINF:-1,98.9 KISS FM
-https://18533.live.streamtheworld.com/KYISFMAAC.aac
+https://22983.live.streamtheworld.com/KYISFMAAC.aac
 #EXTINF:-1,Power 103.5
 https://crystalout.surfernetwork.com:8001/KVSP_MP3
 #EXTINF:-1,Oasis Radio Network
 https://oasis.streamguys1.com/live-aac
 #EXTINF:-1,Rock 100.5 The KATT
-https://17793.live.streamtheworld.com/KATTFMAAC.aac
+https://14013.live.streamtheworld.com/KATTFMAAC.aac
 #EXTINF:-1,98.5 El Patron
 https://stream.revma.ihrhls.com/zc6969
 #EXTINF:-1,93.3 Jake FM
-https://14943.live.streamtheworld.com/KJKEFMAAC.aac
+https://18253.live.streamtheworld.com/KJKEFMAAC.aac
 #EXTINF:-1,Magic 104.1 KMGL
-https://16603.live.streamtheworld.com/KMGLFMAAC.aac
+https://27143.live.streamtheworld.com/KMGLFMAAC.aac
 #EXTINF:-1,WKY 930 AM The Sports Animal
-https://18443.live.streamtheworld.com/WKYAMAAC.aac
+https://14983.live.streamtheworld.com/WKYAMAAC.aac
 #EXTINF:-1,1340 The Game
 https://stream.revma.ihrhls.com/zc3066
 #EXTINF:-1,Oklahoma Catholic Radio
@@ -68,6 +72,6 @@ https://stream.revma.ihrhls.com/zc5158
 #EXTINF:-1,The Spy FM
 https://19003.live.streamtheworld.com/KOSUHD2AAC.aac
 #EXTINF:-1,KGOU News
-https://26273.live.streamtheworld.com/KGOUFMAAC.aac
+https://26443.live.streamtheworld.com/KGOUFMAAC.aac
 #EXTINF:-1,KOSU Radio
 https://26273.live.streamtheworld.com/KOSUFM_NEWS.mp3

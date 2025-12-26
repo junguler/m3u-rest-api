@@ -1,23 +1,7 @@
 #EXTM3U
-#EXTINF:-1,Radio Myata - Gold Hits
-https://drh-connect.dline-media.com/gold
-#EXTINF:-1,Classic Hits 89: Throwback Radio
-https://free.rcast.net/261319
-#EXTINF:-1,POWER HIT RADIO
-https://drh-node-02.dline-media.com/powerhit128
-#EXTINF:-1,Radio Sydney
-https://free.rcast.net/260901
-#EXTINF:-1,HITradio 915
-https://free.rcast.net/260795
-#EXTINF:-1,Linkupradio.com Stream
-https://free.rcast.net/260753
-#EXTINF:-1,Radio Olympia - 100% Piratenhits en Nederlandstalige muziek
-https://streams.olympia-streams.nl/olympia
-#EXTINF:-1,SavageRadio
-https://free.rcast.net/260699
 #EXTINF:-1,RTL Deutschlands Hit-Radio National
-https://free.rcast.net/243862
+http://rtlberlin.streamabc.net/rtlb-rtldenational-mp3-192-3082173?sABC=6942n092%230%2312379rp91o06984n9681popsqonn81on%23&aw_0_1st.playerid=&amsparams=playerid:;skey:1765974162
 #EXTINF:-1,RTL Deutschlands Hit-Radio UKW
-https://free.rcast.net/240764
+http://rtlberlin.streamabc.net/rtlb-rtldeukw-mp3-192-6593468?sABC=6942n092%230%2312379rp91o06984n9681popsqonn81on%23ighare&aw_0_1st.playerid=vtuner&amsparams=playerid:vtuner;skey:1765974162
 #EXTINF:-1,RTL Deutschlands Hit-Radio Die besten Hits aller Zeiten
-https://free.rcast.net/235119
+http://rtlberlin.streamabc.net/rtlb-rtldebestehits-aacplus-64-5270603?sABC=6942n092%230%2312379rp91o06984n9681popsqonn81on%23&aw_0_1st.playerid=&amsparams=playerid:;skey:1765974162

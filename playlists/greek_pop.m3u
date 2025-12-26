@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1,STUDIO 545
+https://azuracast.streams.ovh/radio/8120/radio.mp3
 #EXTINF:-1,Laikos FM
 https://netradio.live24.gr/laikos876
 #EXTINF:-1,Ραδιο Ευβοια 104.1
@@ -23,6 +25,8 @@ http://cast4.magicstreams.gr:10155/;stream.mp3
 https://i5.streams.ovh:14099/stream
 #EXTINF:-1,Σφαίρα Θεσσαλίας 101.6
 http://cast3.radiohost.ovh:8280/stream
+#EXTINF:-1,Melody 94.9
+http://i2.streams.ovh:7121/stream?type=http&nocache=42
 #EXTINF:-1,Magic 98.2
 https://netradio.live24.gr/magic982
 #EXTINF:-1,La Famiglia

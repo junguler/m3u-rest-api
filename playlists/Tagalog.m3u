@@ -1,77 +1,21 @@
 #EXTM3U
-#EXTINF:-1,Atlantis Radio
-https://us2.amfmph.com:8080/stream?1609414161410
-#EXTINF:-1,DZTP Radyo Tirad Pass
-http://stream.zeno.fm/qe40zt70kv8uv.m3u
-#EXTINF:-1,Remix Radio Philippines
-http://209.126.124.126:8063/stream2
-#EXTINF:-1,V-Hive Radio Philippines
-http://192.99.8.192:3154/vhiveradiostream
-#EXTINF:-1,Radyo Natin Laguna
-https://wave.radyonatinfm.com/listen/dzva/laguna
-#EXTINF:-1,Radyo Natin Hamtic
-https://link.radyonatinfm.com/listen/dyjj/hamtic
-#EXTINF:-1,Radyo Natin Calapan
-https://sound.radyonatinfm.com/listen/dwca/calapan
-#EXTINF:-1,Radyo Natin Laoang
-https://io.radyonatinfm.com/listen/dyrn/laoang
-#EXTINF:-1,Radyo Natin Tiwi
-https://io.radyonatinfm.com/listen/dwru/tiwi
-#EXTINF:-1,Radyo Natin Pinamalayan
-https://sound.radyonatinfm.com/listen/dwmk/pinamalayan
-#EXTINF:-1,Radyo Natin Iba
-https://phils.radyonatinfm.com/listen/dwrq/iba
-#EXTINF:-1,Radyo Natin Calbayog
-https://net.radyonatinfm.com/listen/dysi/calbayog
-#EXTINF:-1,Radyo Natin Borongan
-https://fx.radyonatinfm.com/listen/dysd/borongan
-#EXTINF:-1,Palawan Wave FM
-https://xcite.radyoph.com/listen/dzrt/dzrt
-#EXTINF:-1,Radyo Natin Ormoc
-https://fx.radyonatinfm.com/listen/dyxc/ormoc
-#EXTINF:-1,Radyo Natin Paracale
-https://mbc.radyonatinfm.com/listen/dzvn/paracale
-#EXTINF:-1,Radyo Natin Victoria
-https://wave.radyonatinfm.com/listen/dwmj/victoria
-#EXTINF:-1,Radyo Natin Dipolog
-https://mbc.radyonatinfm.com/listen/dxbd/dipolog
-#EXTINF:-1,Radyo Natin Bongabong
-https://sound.radyonatinfm.com/listen/dwmh/bongabong
-#EXTINF:-1,Radyo Natin Lucban
-https://link.radyonatinfm.com/listen/dwrh/lucban
-#EXTINF:-1,Radyo Natin Bugasong
-https://net.radyonatinfm.com/listen/dybg/bugasong
-#EXTINF:-1,Radyo Natin Alaminos
-https://pinas.radyonatinfm.com/listen/dwsf/alaminos
-#EXTINF:-1,Radyo Natin Pilar
-https://mbc.radyonatinfm.com/listen/dwmp/pilar
-#EXTINF:-1,Radyo Natin San Jose City (Nueva Ecija)
-https://phils.radyonatinfm.com/listen/dwsy/sanjose
-#EXTINF:-1,Radyo Natin San Jose (Occidental Mindoro)
-https://fx.radyonatinfm.com/listen/dwrm/sanjose
-#EXTINF:-1,Radyo Natin Boac
-https://phils.radyonatinfm.com/listen/dzvh/boac
-#EXTINF:-1,Pines FM Bataraza
-https://xcite.radyoph.com/listen/pines/pinesfm
-#EXTINF:-1,Brigada News FM Dumaguete
-https://dumaguetestream.brigadanews.ph/;
-#EXTINF:-1,JAKXFM
-http://62.138.18.102:8150/stream
 #EXTINF:-1,CyberPinoy Radio
 https://securestreams.autopo.st:1215/stream
+#EXTINF:-1,CBCP Online Radio
+http://opportunity.shoutca.st:8000/autodj
 #EXTINF:-1,Mabuhay Music Radio
 http://nap.casthost.net:8031/stream
+#EXTINF:-1,JAKXFM
+http://62.138.18.102:8150/stream
 #EXTINF:-1,Prime FM Tagalog
 https://free.rcast.net/238358
 #EXTINF:-1,Vegiemax Plus Stream
 https://free.rcast.net/213934
 #EXTINF:-1,A - V-Hive Radio Philippines - The hottest pop Pinoy, OPM, Tagalog radio station.
 https://free.rcast.net/5058
-#EXTINF:-1,EAR FM
-https://cast2.asurahosting.com/proxy/geronide/stream
-#EXTINF:-1,Spirit FM 103.9
-https://stream.zeno.fm/fz4z4r8sty8uv
-#EXTINF:-1,TMMRFM - Tambayan Natin 'To!
-https://tmmrfm.radioca.st/stream
-#EXTINF:-1,KILIGSFM
-https://bnt.devzhosting.com/radio/8050/radio.mp3?fbclid=IwAR10z6LBZnLAqHMF6HyBKx7twIIxZ4t4GGgU3IfOdTI0b0mexbBELM185X0
+#EXTINF:-1,Atlantis Radio
+https://us2.amfmph.com:8080/stream?1609414161410
+#EXTINF:-1,V-Hive Radio Philippines
+http://192.99.8.192:3154/vhiveradiostream
+#EXTINF:-1,Bespren Radio
+http://streamnavs.net:8089/live

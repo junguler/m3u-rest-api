@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1,Radio Zwiebel - 192 - Germany - alternate - chill - classic - elektro - indie - pop - rock
-https://whffalternate.channel.whff.radio/8032/stream
 #EXTINF:-1,AlternativeRadio
 https://edge3.peta.live365.net/b87537_128mp3
 #EXTINF:-1,delta radio I love Hamburg
@@ -16,4 +14,6 @@ https://live.radiocenzura.pl:8000/radio.mp3
 #EXTINF:-1,Radio Cobra Detroit
 https://streaming.radio.co/s09cc170d0/listen
 #EXTINF:-1,Radio WOW
-https://radiowow.stream.laut.fm/radiowow?t302=2025-09-14_18-23-19&uuid=55d4e36a-885b-45fc-9ce3-3629c427a4a1
+https://radiowow.stream.laut.fm/radiowow?t302=2025-12-17_14-24-12&uuid=955f93c1-6db7-43e1-afbb-8de678005dc6
+#EXTINF:-1,Radio Zwiebel - 192 - Germany - alternate - chill - classic - elektro - indie - pop - rock
+https://whffalternate.channel.whff.radio/8032/stream

@@ -1,12 +1,16 @@
 #EXTM3U
 #EXTINF:-1,Radyo Fenomen
 https://live.radyofenomen.com/fenomen/abr/playlist.m3u8
+#EXTINF:-1,Power FM
+https://live.powerapp.com.tr/powerfm/abr/playlist.m3u8
 #EXTINF:-1,PashPash Radio
 https://hits.pashpashradio.com:7000/;stream.nsv
 #EXTINF:-1,Joy Turk
 https://22183.live.streamtheworld.com:443/JOY_TURKAAC.aac
 #EXTINF:-1,Akra FM
 https://cdn3.akradyo.net/akracanli2/_definst_/livestream_aac/playlist.m3u8
+#EXTINF:-1,Joy FM
+https://22193.live.streamtheworld.com:443/JOY_FMAAC.aac
 #EXTINF:-1,Number1 Deep House
 https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e35cb55bf5_1/playlist.m3u8
 #EXTINF:-1,Number 1 FM
@@ -43,8 +47,6 @@ https://listen.powerapp.com.tr/powerlove/abr/playlist.m3u8
 https://live.radyofenomen.com/fenomenturk/abr/playlist.m3u8
 #EXTINF:-1,Show Radyo
 http://46.20.3.229/;
-#EXTINF:-1,Turk Rap FM
-http://95.173.188.166:9984/;
 #EXTINF:-1,Power XL
 https://listen.powerapp.com.tr/powerextralounge/abr/playlist.m3u8
 #EXTINF:-1,Houseland
@@ -65,8 +67,6 @@ https://moondigitaledge.radyotvonline.net/saritramvay/playlist.m3u8
 https://listen.powerapp.com.tr/powersmoothjazz/abr/playlist.m3u8
 #EXTINF:-1,Discoland
 https://moondigitaledge.radyotvonline.net/discoland/playlist.m3u8
-#EXTINF:-1,Acik Radyo
-https://stream.34bit.net/stream.mp3
 #EXTINF:-1,Radyo Ekin
 http://yayin.turkhosted.com:6006/;
 #EXTINF:-1,HAYATMiX
@@ -89,10 +89,10 @@ https://live.radyofenomen.com/fenomenclubbin/abr/playlist.m3u8
 https://90s.pashpashradio.com:7001/;stream.nsv
 #EXTINF:-1,Power Greece
 https://listen.powerapp.com.tr/powergreece/abr/playlist.m3u8
+#EXTINF:-1,Number1 Dance
+https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e33b514f52_1/playlist.m3u8
 #EXTINF:-1,Popland
 https://moondigitaledge.radyotvonline.net/popland/playlist.m3u8
-#EXTINF:-1,Number1 Türk 90’lar
-https://n10101m.mediatriple.net/numberone90s
 #EXTINF:-1,Number1 Slow
 https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e3a53317d4_1/playlist.m3u8
 #EXTINF:-1,Number1 Türk Fm
@@ -103,18 +103,16 @@ https://listen.powerapp.com.tr/powerturkakustik/abr/playlist.m3u8
 https://live.radyofenomen.com/fenomenrap/abr/playlist.m3u8
 #EXTINF:-1,Radyo Fenomen Akustik
 https://live.radyofenomen.com/fenomenakustik/abr/playlist.m3u8
-#EXTINF:-1,Radyo Fenomen Oriental
-https://live.radyofenomen.com/fenomenoriental/abr/playlist.m3u8
 #EXTINF:-1,Radyo Fenomen Dans
 https://live.radyofenomen.com/fenomendans/abr/playlist.m3u8
 #EXTINF:-1,Mio Radio
 http://s2.myradiostream.com:13662/;
 #EXTINF:-1,PowerTürk Taptaze
 https://listen.powerapp.com.tr/powerturktaptaze/abr/playlist.m3u8
+#EXTINF:-1,JoyTurk Rock
+https://23613.live.streamtheworld.com:443/JOYTURK_ROCK128AAC.aac
 #EXTINF:-1,Number1 Disco
 https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e41c778cb0_1/playlist.m3u8
-#EXTINF:-1,Number1 Lounge
-https://n10101m.mediatriple.net/lounge
 #EXTINF:-1,Arabesk Turk
 http://yayin.arabeskturk.com:8000/stream?icy=http
 #EXTINF:-1,Radyo Pal DOĞA
@@ -125,8 +123,6 @@ https://moondigitaledge.radyotvonline.net/danceland/playlist.m3u8
 https://anadolu.liderhost.com.tr:10871/;stream.nsv
 #EXTINF:-1,Lig Radyo
 https://ligradyo.radyotvonline.net/ligradyo
-#EXTINF:-1,Number1 Classic
-https://n10101m.mediatriple.net/classic
 #EXTINF:-1,Power R&amp;B Hip Hop
 https://listen.powerapp.com.tr/powerrbhiphop/abr/playlist.m3u8
 #EXTINF:-1,Greekland
@@ -141,12 +137,12 @@ https://moondigitaledge.radyotvonline.net/akustikland/playlist.m3u8
 http://yayin.radiomoodtr.com:5862/;stream/1
 #EXTINF:-1,Radyo 90
 https://live.radyo.in/9054/stream
+#EXTINF:-1,Number1 Heart
+https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e367972335_1/playlist.m3u8
 #EXTINF:-1,Tezene
 https://moondigitaledge.radyotvonline.net/tezene/playlist.m3u8
 #EXTINF:-1,Dolunay FM
 http://yayin1.canliyayin.org:8318/;
-#EXTINF:-1,Number1 Best Of
-https://n10101m.mediatriple.net/bestof
 #EXTINF:-1,Dream Türk Radyo
 https://live.duhnet.tv//S2/HLS_LIVE/dreamturknp/playlist.m3u8
 #EXTINF:-1,Turkuvaz Romantik
@@ -173,8 +169,6 @@ https://sslyayin.radyoyayini.com:7009/default
 https://kiyi.radioca.st/stream
 #EXTINF:-1,Müzeyyen
 https://moondigitaledge.radyotvonline.net/muzeyyen/playlist.m3u8
-#EXTINF:-1,Number1 Eller Havaya
-https://n10101m.mediatriple.net/ellerhavaya
 #EXTINF:-1,Jazzland
 https://moondigitaledge.radyotvonline.net/jazzland/playlist.m3u8
 #EXTINF:-1,Radio Glamorize
@@ -189,8 +183,6 @@ https://arazaman.stream.laut.fm/arazaman
 https://haberturkradyo.radyotvonline.net/haberturkradyo
 #EXTINF:-1,Radyo Derman
 https://ssl120.radyotelekom.com.tr/8710/stream/;
-#EXTINF:-1,Number1 Jazz
-https://n10101m.mediatriple.net/jazz
 #EXTINF:-1,X Radio
 https://stream.xradio.com.tr:8770/stream
 #EXTINF:-1,Radyo Dengê Kurdî
@@ -203,8 +195,6 @@ https://yayin.radyoarabesk.com.tr:8000/stream
 http://dijimedya.radyotvonline.net/goldturk
 #EXTINF:-1,Karma Türk
 https://yayin.radyomadyo.com:8006/stream
-#EXTINF:-1,Radyo Kara Kutu
-https://player.web.tr/listen/dfd13033c49a6569801474108a8bf098
 #EXTINF:-1,Kiss Dance
 http://dijimedya.radyotvonline.net/kissdance
 #EXTINF:-1,A Haber Radyo News
@@ -213,8 +203,6 @@ https://trkvz-radyolar.ercdn.net/anewsradyo/playlist.m3u8
 https://anadolu.liderhost.com.tr:6010/;stream.nsv
 #EXTINF:-1,Arabesk Vadisi
 https://arabeskv.80.yayin.com.tr/;
-#EXTINF:-1,Number1 Üsküdar Musiki
-https://n10101m.mediatriple.net/musiki
 #EXTINF:-1,Kıyı Türkçe
 https://kiyiturk.radioca.st/stream
 #EXTINF:-1,Radyo 7 Kuran Meali
@@ -261,18 +249,18 @@ https://gece.radioca.st/stream
 https://sslyayin.netyayin.net/3442/stream
 #EXTINF:-1,Kıyı Caz
 https://caz.radioca.st/stream
-#EXTINF:-1,Radyo Deva
-http://95.173.188.156:9976/;stream.nsv
 #EXTINF:-1,Karadeniz Akustik
 https://karadenizakustik.radyotvonline.net/;?type=http&nocache=3230
+#EXTINF:-1,Number 1 Fred Astaire
+https://eustr75.mediatriple.net/Number1Media/31_Number1_Fred_Astaire.stream/playlist.m3u8
 #EXTINF:-1,Radyo Eksen 96.2
 http://eksenwmp.radyotvonline.com/;stream.mp3
+#EXTINF:-1,ITU College Radio -Classical
+http://160.75.86.29:8088/stream/5/
 #EXTINF:-1,Radyo MODyAn
 http://stream.radio.co/s55d598f42/listen
 #EXTINF:-1,Gözyaşı FM
 http://yayin1.canliyayin.org:8700/;*.mp3
-#EXTINF:-1,Diyanet Kur&#039;an Radyo
-https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3c14192aa92.smil/playlist.m3u8
 #EXTINF:-1,A Haber Radyo
 https://trkvz-radyolar.ercdn.net/ahaberradyo/playlist.m3u8
 #EXTINF:-1,Arabesk Alemi

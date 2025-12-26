@@ -3,8 +3,6 @@
 https://techno-paradize.stream.laut.fm/techno-paradize
 #EXTINF:-1,Radio Minimal mix
 https://minimalmix.radioca.st/media
-#EXTINF:-1,ClubTime.FM
-https://listener3.mp3.tb-group.fm/clt.mp3
 #EXTINF:-1,Panorama80
 https://panorama80.stream.laut.fm/panorama80
 #EXTINF:-1,Best Of Techno
@@ -25,8 +23,6 @@ https://netlabelorg.stream.laut.fm/netlabel_org?t302=2023-04-25_19-39-09&uuid=39
 https://clubnight.stream.laut.fm/clubnight
 #EXTINF:-1,The Tube | NTS
 https://stream-mixtape-geo.ntslive.net/mixtape26
-#EXTINF:-1,Evosonic Radio
-http://radio.connectingbeats.de:8000/radio.mp3
 #EXTINF:-1,Culture Failure
 http://culturefailure.com:8000/;
 #EXTINF:-1,Thegooshradio Monochrome
@@ -38,13 +34,13 @@ https://chronischelektronisch.stream.laut.fm/chronisch_elektronisch?pl=m3u&t302=
 #EXTINF:-1,laut.fm - Greyarea
 http://greyarea.stream.laut.fm/greyarea?t302=2023-04-25_19-37-29&uuid=885576aa-b47b-4af8-898e-1d23d618fc84
 #EXTINF:-1,Technolovers - IBIZA HOUSE
-https://0nlineradio.stream42.radiohost.de/technolovers-ibiza-house?ref=radiobrowser&upd-meta=0&upd-scheme=https&_art=dD0xNzU2OTMxMDA4JmQ9NjY4YTQ2NTBmM2RkNjAwODcwMzU
+https://0nlineradio.stream42.radiohost.de/technolovers-ibiza-house?ref=radiobrowser&upd-meta&upd-scheme=https&_art=dD0xNzY1OTk1OTE2JmQ9OTcyNDE5MGJmOGI3YTBlYzQ5YmY
 #EXTINF:-1,Technolovers - MINIMAL
-https://0nlineradio.stream13.radiohost.de/technolovers-minimal?ref=radiobrowser&upd-meta=0&upd-scheme=https&_art=dD0xNzU2OTMxMDA3JmQ9NTk4YWNhMDRlZTQ5ODQ0ZDg3MjM
+https://0nlineradio.stream42.radiohost.de/technolovers-minimal?ref=radiobrowser&upd-meta&upd-scheme=https&_art=dD0xNzY1OTk1OTE2JmQ9YTI4YmIzOGYwMmViNDMwODBiODk
 #EXTINF:-1,Technolovers - TECHNO
-https://0nlineradio.stream13.radiohost.de/technolovers-techno?ref=radiobrowser&upd-meta=0&upd-scheme=https&_art=dD0xNzU2OTMxMDA4JmQ9N2YxOTdjODUyZDEyMDA5ZTRkMjk
+https://0nlineradio.stream13.radiohost.de/technolovers-techno?ref=radiobrowser&upd-meta&upd-scheme=https&_art=dD0xNzY1OTk1OTEzJmQ9YzYxNmMyMzYyZTY4NDhmOWRjOTE
 #EXTINF:-1,Technolovers - TECHHOUSE
-https://0nlineradio.stream13.radiohost.de/technolovers-techhouse?ref=radiobrowser&upd-meta=0&upd-scheme=https&_art=dD0xNzU2OTMxMDA4JmQ9MTM2ZmQwZDFmYmJmMGExY2IxYzM
+https://0nlineradio.stream13.radiohost.de/technolovers-techhouse?ref=radiobrowser&upd-meta&upd-scheme=https&_art=dD0xNzY1OTk1OTEzJmQ9NzVlY2ZkODE2Y2VmNjU0OWI2NzA
 #EXTINF:-1,NEU RADIO
 https://nr9.newradio.it/proxy/ebaruffa?mp=/stream
 #EXTINF:-1,1LIVE Fiehe

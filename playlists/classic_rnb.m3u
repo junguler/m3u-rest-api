@@ -1,32 +1,4 @@
 #EXTM3U
-#EXTINF:-1,Neckaralb Live Classic Rock
-https://free.rcast.net/261964
-#EXTINF:-1,CLASSICA 96.1
-https://free.rcast.net/261635
-#EXTINF:-1,Classic Hits 89: Throwback Radio
-https://free.rcast.net/261319
-#EXTINF:-1,classica
-https://free.rcast.net/261209
-#EXTINF:-1,Radio Sydney
-https://free.rcast.net/261138
-#EXTINF:-1,MY Generation Radio (MTV Era Classics!)
-https://free.rcast.net/261085
-#EXTINF:-1,DJ PLUSE
-https://free.rcast.net/260805
-#EXTINF:-1,VCR Live | Venice Classic Radio Italia
-https://free.rcast.net/260750
-#EXTINF:-1,Classic Gold Radio
-https://free.rcast.net/260746
-#EXTINF:-1,Olympia Classics - Greatest Hits Of The 60s 70s 80s & 90s
-https://free.rcast.net/260685
-#EXTINF:-1,Classic Jazz FM
-https://c25.radioboss.fm:8176/stream
-#EXTINF:-1,Classical FM Radio
-https://c23.radioboss.fm:8170/stream
-#EXTINF:-1,DnB Gold Era Classics
-https://free.rcast.net/259977
-#EXTINF:-1,Radio Classic
-https://free.rcast.net/259353
 #EXTINF:-1,Back to the Beach Radio
 https://das-edge13-live365-dal02.cdnstream.com/a66531
 #EXTINF:-1,Hot Mic Radio
@@ -59,18 +31,22 @@ https://das-edge14-live365-dal02.cdnstream.com/a90407
 https://das-edge12-live365-dal02.cdnstream.com/a09646
 #EXTINF:-1,Best Net Radio - R&B
 https://das-edge13-live365-dal02.cdnstream.com/a48462
-#EXTINF:-1,FIYA JAMZ
-https://das-edge12-live365-dal02.cdnstream.com/a57684
 #EXTINF:-1,MAPLE Music Cafe • Canadian Music History Radio
 https://das-edge13-live365-dal02.cdnstream.com/a91014
 #EXTINF:-1,WCHI STARZ 1520 RADIO
 https://das-edge12-live365-dal02.cdnstream.com/a56945
 #EXTINF:-1,World American Music
 https://das-edge16-live365-dal02.cdnstream.com/a68564
+#EXTINF:-1,I Remember When Radio
+https://das-edge12-live365-dal02.cdnstream.com/a71163
 #EXTINF:-1,WSLQ I-RADIO
-https://das-edge09-live365-dal03.cdnstream.com/a50261
-#EXTINF:-1,Majic 97 KJMG-DB "The Soul of the City"
-https://das-edge16-live365-dal02.cdnstream.com/a87685
+https://das-edge12-live365-dal02.cdnstream.com/a50261
+#EXTINF:-1,Strange Soundz Radio
+https://das-edge15-live365-dal02.cdnstream.com/a35282
+#EXTINF:-1,RPEntertainment Radio
+https://das-edge15-live365-dal02.cdnstream.com/a07970
+#EXTINF:-1,FCB Soul
+https://das-edge12-live365-dal02.cdnstream.com/a35680
 #EXTINF:-1,DPS RADIO
 https://das-edge11-live365-dal03.cdnstream.com/a70000
 #EXTINF:-1,The Lake
@@ -84,7 +60,7 @@ https://das-edge17-live365-dal02.cdnstream.com/a04468
 #EXTINF:-1,WWOC Radio
 https://das-edge11-live365-dal03.cdnstream.com/a43248
 #EXTINF:-1,Flava1 Radio
-https://das-edge09-live365-dal03.cdnstream.com/a97040
+https://das-edge12-live365-dal02.cdnstream.com/a97040
 #EXTINF:-1,Oldies Mobile by Chad LaBorde
 https://das-edge11-live365-dal03.cdnstream.com/a87029
 #EXTINF:-1,WPTP 100.1 FM
@@ -94,7 +70,7 @@ https://das-edge16-live365-dal02.cdnstream.com/a22180
 #EXTINF:-1,Century  Style Radio
 https://das-edge11-live365-dal03.cdnstream.com/a81004
 #EXTINF:-1,High On Tunes Radio
-https://das-edge09-live365-dal03.cdnstream.com/a41473
+https://das-edge12-live365-dal02.cdnstream.com/a41473
 #EXTINF:-1,JAM98
 https://das-edge17-live365-dal02.cdnstream.com/a51250
 #EXTINF:-1,Eargasm Radio
@@ -110,7 +86,7 @@ https://das-edge17-live365-dal02.cdnstream.com/a60961
 #EXTINF:-1,Hype 1 Radio
 https://das-edge11-live365-dal03.cdnstream.com/a79850
 #EXTINF:-1,WATW - We Are The World FM Online
-https://das-edge09-live365-dal03.cdnstream.com/a15497
+https://das-edge12-live365-dal02.cdnstream.com/a15497
 #EXTINF:-1,Legacy
 https://das-edge13-live365-dal02.cdnstream.com/a67595
 #EXTINF:-1,Chillin' With Steve
@@ -148,7 +124,7 @@ https://das-edge12-live365-dal02.cdnstream.com/a65514
 #EXTINF:-1,KLGD The Legend
 https://das-edge13-live365-dal02.cdnstream.com/a56317
 #EXTINF:-1,WBRP
-https://das-edge09-live365-dal03.cdnstream.com/a72124
+https://das-edge12-live365-dal02.cdnstream.com/a72124
 #EXTINF:-1,TDS Radio
 https://das-edge17-live365-dal02.cdnstream.com/a86740
 #EXTINF:-1,Flip Flop LIVE
@@ -162,13 +138,11 @@ https://das-edge17-live365-dal02.cdnstream.com/a79615
 #EXTINF:-1,VEGE Radio
 https://das-edge11-live365-dal03.cdnstream.com/a57453
 #EXTINF:-1,You B U Radio
-https://das-edge09-live365-dal03.cdnstream.com/a49306
+https://das-edge62-live365-dal03.cdnstream.com/a49306
 #EXTINF:-1,Power 104.7 FM
-https://das-edge09-live365-dal03.cdnstream.com/a08813
+https://das-edge62-live365-dal03.cdnstream.com/a08813
 #EXTINF:-1,MusicalTapestry Radio
 https://das-edge16-live365-dal02.cdnstream.com/a06852
-#EXTINF:-1,Blues After Hours
-https://das-edge17-live365-dal02.cdnstream.com/a56288
 #EXTINF:-1,Best Pop Ever(60s 70s 80s)
 https://das-edge11-live365-dal03.cdnstream.com/a23327
 #EXTINF:-1,ALL KINDS OF BLUES
@@ -178,7 +152,7 @@ https://das-edge11-live365-dal03.cdnstream.com/a94788
 #EXTINF:-1,Condo Jamz Radio
 https://das-edge11-live365-dal03.cdnstream.com/a74972
 #EXTINF:-1,Music Vault
-https://das-edge09-live365-dal03.cdnstream.com/a51543
+https://das-edge62-live365-dal03.cdnstream.com/a51543
 #EXTINF:-1,Muzic Therapy
 https://das-edge17-live365-dal02.cdnstream.com/a98106
 #EXTINF:-1,Busy 1 Radio
@@ -186,11 +160,9 @@ https://das-edge11-live365-dal03.cdnstream.com/a14856
 #EXTINF:-1,Barely Brothers Records Radio
 https://das-edge17-live365-dal02.cdnstream.com/a58492
 #EXTINF:-1,The Konnected Radio
-https://das-edge09-live365-dal03.cdnstream.com/a86041
-#EXTINF:-1,The Beat of Springfield | WSPI.fm
-https://das-edge17-live365-dal02.cdnstream.com/a60845
+https://das-edge62-live365-dal03.cdnstream.com/a86041
 #EXTINF:-1,2000FM - RnB Hip-Hop
-https://das-edge09-live365-dal03.cdnstream.com/a48930
+https://das-edge62-live365-dal03.cdnstream.com/a48930
 #EXTINF:-1,KYCNRADIO.com
 https://das-edge16-live365-dal02.cdnstream.com/a84091
 #EXTINF:-1,Groove Suite
@@ -219,8 +191,6 @@ https://das-edge14-live365-dal02.cdnstream.com/a79246
 https://das-edge14-live365-dal02.cdnstream.com/a33361
 #EXTINF:-1,Best Net Radio - Classic RnB
 https://das-edge14-live365-dal02.cdnstream.com/a02232
-#EXTINF:-1,PUSH Radio
-https://das-edge13-live365-dal02.cdnstream.com/a13848
 #EXTINF:-1,WJVS Radio
 https://das-edge12-live365-dal02.cdnstream.com/a33016
 #EXTINF:-1,The Inner Sanctum
@@ -242,29 +212,37 @@ https://das-edge13-live365-dal02.cdnstream.com/a22830
 #EXTINF:-1, IT’s ON! WITH DaBOMB! RADIO
 https://das-edge12-live365-dal02.cdnstream.com/a26584
 #EXTINF:-1,WQTS Digital Radio
-https://das-edge09-live365-dal03.cdnstream.com/a56671
+https://das-edge62-live365-dal03.cdnstream.com/a56671
 #EXTINF:-1,Urban Media Today Radio
 https://das-edge11-live365-dal03.cdnstream.com/a57166
 #EXTINF:-1,Jazz Variations
 https://das-edge11-live365-dal03.cdnstream.com/a40674
+#EXTINF:-1,Makeout Memories Radio
+https://das-edge13-live365-dal02.cdnstream.com/a53554
+#EXTINF:-1,Vibin wit JBaby
+https://das-edge13-live365-dal02.cdnstream.com/a25038
 #EXTINF:-1,Breezy912.com
 https://das-edge11-live365-dal03.cdnstream.com/a46526
-#EXTINF:-1,The North Mixtape
-https://das-edge16-live365-dal02.cdnstream.com/a95590
+#EXTINF:-1,Oh So Smooth Radio
+https://das-edge13-live365-dal02.cdnstream.com/a74595
 #EXTINF:-1,WEHT
-https://das-edge09-live365-dal03.cdnstream.com/a74099
+https://das-edge62-live365-dal03.cdnstream.com/a74099
+#EXTINF:-1,Terror Dome Entertainment Radio
+https://das-edge13-live365-dal02.cdnstream.com/a27925
+#EXTINF:-1,Road To Rock Radio
+https://das-edge16-live365-dal02.cdnstream.com/a44007
 #EXTINF:-1,G93 Classic Hip Hop & R&B
-https://das-edge09-live365-dal03.cdnstream.com/a28935
+https://das-edge62-live365-dal03.cdnstream.com/a28935
 #EXTINF:-1,Classic Hits KONI 104.7
 https://das-edge11-live365-dal03.cdnstream.com/a21778
 #EXTINF:-1,Texoma's Hot 92 (BMG)
-https://das-edge09-live365-dal03.cdnstream.com/a14589
+https://das-edge62-live365-dal03.cdnstream.com/a14589
 #EXTINF:-1,Mitch Harb's Beach Party
-https://das-edge09-live365-dal03.cdnstream.com/a87053
+https://das-edge62-live365-dal03.cdnstream.com/a87053
 #EXTINF:-1,Smooth Global Radio
 https://das-edge11-live365-dal03.cdnstream.com/a48529
 #EXTINF:-1,GCFX Global Radio
-https://das-edge09-live365-dal03.cdnstream.com/a70810
+https://das-edge62-live365-dal03.cdnstream.com/a70810
 #EXTINF:-1,ROCK-ON RADIO 99.5
 https://das-edge11-live365-dal03.cdnstream.com/a31717
 #EXTINF:-1,Rockin' Ed's Warehouse
@@ -309,16 +287,14 @@ https://das-edge17-live365-dal02.cdnstream.com/a62053
 https://das-edge14-live365-dal02.cdnstream.com/a62543
 #EXTINF:-1,I Axis Radio
 https://das-edge17-live365-dal02.cdnstream.com/a65211
-#EXTINF:-1,United As 1 Radio
-https://das-edge12-live365-dal02.cdnstream.com/a82841
 #EXTINF:-1,Romance- All Day, All Night, All Right
-https://das-edge09-live365-dal03.cdnstream.com/a72661
+https://das-edge62-live365-dal03.cdnstream.com/a72661
 #EXTINF:-1,Plumtree Radio
 https://das-edge13-live365-dal02.cdnstream.com/a74343
 #EXTINF:-1,WJBR Internet Radio
-https://das-edge09-live365-dal03.cdnstream.com/a81358
+https://das-edge62-live365-dal03.cdnstream.com/a81358
 #EXTINF:-1,THINK Radio
-https://das-edge09-live365-dal03.cdnstream.com/a83941
+https://das-edge62-live365-dal03.cdnstream.com/a83941
 #EXTINF:-1,TMR-Tony Mann Radio
 https://das-edge11-live365-dal03.cdnstream.com/a86454
 #EXTINF:-1,AccessRadio247
@@ -328,7 +304,7 @@ https://das-edge13-live365-dal02.cdnstream.com/a94377
 #EXTINF:-1,Hidden City Radio
 https://das-edge11-live365-dal03.cdnstream.com/a95292
 #EXTINF:-1,The Mixx Radio Station
-https://das-edge09-live365-dal03.cdnstream.com/a98419
+https://das-edge62-live365-dal03.cdnstream.com/a98419
 #EXTINF:-1,Kuntry Boi Radio
 https://das-edge16-live365-dal02.cdnstream.com/a21026
 #EXTINF:-1,Power Mixxx Radio
@@ -338,7 +314,7 @@ https://das-edge16-live365-dal02.cdnstream.com/a79476
 #EXTINF:-1,The LUV Factory
 https://das-edge13-live365-dal02.cdnstream.com/a62212
 #EXTINF:-1,THE BEAT
-https://das-edge09-live365-dal03.cdnstream.com/a30553
+https://das-edge62-live365-dal03.cdnstream.com/a30553
 #EXTINF:-1,Cool Music Variety
 https://das-edge11-live365-dal03.cdnstream.com/a41301
 #EXTINF:-1,The Midnight Groove
@@ -357,21 +333,23 @@ https://das-edge15-live365-dal02.cdnstream.com/a94572
 https://das-edge14-live365-dal02.cdnstream.com/a38557
 #EXTINF:-1,RollBack Radio
 https://das-edge14-live365-dal02.cdnstream.com/a06316
-#EXTINF:-1,WSVR-Soul Vibrations Radio
-https://das-edge15-live365-dal02.cdnstream.com/a83273
-#EXTINF:-1,A Classic R&B Tutorial
-http://streamingp.shoutcast.com/JamendoLounge?lang=*
-#EXTINF:-1,Jamm FM
-http://37.97.233.181:8490
-#EXTINF:-1,Solid Gold Soul
-http://176.31.118.194:26094
-#EXTINF:-1,Vibe 1680
-http://148.251.92.113:8188/stream
-#EXTINF:-1,VYB RADIO
-http://195.154.174.198:8160/stream
-#EXTINF:-1,Allsortsdigital Hits Radio
-https://puma.streemlion.com:2220/
-#EXTINF:-1,KHNY Honey 103
-http://162.144.106.6:8080/stream
-#EXTINF:-1,LIVE 105.5
-http://65.21.202.84:8957/stream1055
+#EXTINF:-1,Classic Hits 89: Throwback Radio
+https://free.rcast.net/261319
+#EXTINF:-1,classica
+https://free.rcast.net/261209
+#EXTINF:-1,Radio Sydney
+https://free.rcast.net/261138
+#EXTINF:-1,MY Generation Radio (MTV Era Classics!)
+https://free.rcast.net/261085
+#EXTINF:-1,Classic Gold Radio
+https://free.rcast.net/260746
+#EXTINF:-1,Olympia Classics - Greatest Hits Of The 60s 70s 80s & 90s
+https://free.rcast.net/260685
+#EXTINF:-1,Classic Jazz FM
+https://c25.radioboss.fm:8176/stream
+#EXTINF:-1,Classical FM Radio
+https://c23.radioboss.fm:8170/stream
+#EXTINF:-1,DnB Gold Era Classics
+https://free.rcast.net/259977
+#EXTINF:-1,Radio Classic
+https://free.rcast.net/259353

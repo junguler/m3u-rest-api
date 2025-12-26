@@ -5,5 +5,7 @@ http://80.241.215.175:5000/
 http://80.241.215.175:8000/stream.mp3
 #EXTINF:-1,Radio Umucyo
 http://80.241.215.175:4000/
-#EXTINF:-1,Radio TV 10 87.6 FM
-https://radio10-876fm.ice.infomaniak.ch/radio10-kigali.mp3
+#EXTINF:-1,CITY RADIO - 88.3
+http://s8.iqstreaming.com:8058/stream.nsv
+#EXTINF:-1,Radio Flash Nyagatare 90.4
+http://80.241.215.175:7410/

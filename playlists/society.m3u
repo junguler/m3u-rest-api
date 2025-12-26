@@ -15,10 +15,6 @@ https://stream9.mexiserver.com/8214/stream
 https://streaming.servicioswebmx.com/8118/;
 #EXTINF:-1,Expresión Radio (Ario de Rosales) - 88.3 FM - XHDCP-FM - De Corazón Purépecha, A.C. - Ario de Rosales, MI
 http://streaming.servicioswebmx.com/8118/;
-#EXTINF:-1,Radio Teocelo (Teocelo) - 1490 AM - XEYTM-AM - Teocelo, Veracruz
-https://s01.digitalserver.org/8102/stream
-#EXTINF:-1,Social FM
-http://noasrv.caster.fm:10085/listen
 #EXTINF:-1,La Número Uno (Tecate) - 104.9 FM - XHLNC-FM - Tecate, BC
 http://13806.cloudrad.io:9260/live
 #EXTINF:-1,La Chula (Ensenada) - 98.7 FM - XHPEDV-FM - Ensenada, Baja California

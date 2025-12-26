@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1,Radio Sydney
 https://free.rcast.net/261614
-#EXTINF:-1,Djmalus1979 Radio
-https://free.rcast.net/259605
 #EXTINF:-1,Classic House and Disco Music
 https://classichousemusic.ca/listen/classic_house_music/radio.mp3
 #EXTINF:-1,STREAM 50030
@@ -23,20 +21,18 @@ https://fhhalle.streamabc.net/fhhal-rtlinthemix-mp3-256-1489633?sABC=650973pp%23
 https://n08a-eu.rcs.revma.com/dds1xh9a0mzuv?rj-ttl=5&rj-tok=AAABiq3Rq5oAxnueVOlhNzkm5A
 #EXTINF:-1,ART OF MUSIC
 https://artofmusic.radioca.st/stream1
+#EXTINF:-1,BHJMS Radio 1
+http://srv1.bhjms-radio.de:8000/stream1
 #EXTINF:-1,89.0 RTL Most Wanted
 https://fhhalle.streamabc.net/890rtl-mostwanted-aacplus-64-41?sABC=650973pp%230%234r22236104s8nr3n29rss56oo6qo07n6%23bayvarenqvbobk&aw_0_1st.playerid=onlineradiobox&amsparams=playerid:onlineradiobox;skey:1695118284
 #EXTINF:-1,Lebonmix Soft
 https://stream9.xdevel.com/audio1s976748-1515/stream/icecast.audio
 #EXTINF:-1,1Up Radio
-https://mixlr.com/1upradio
+https://1upradio.mixlr.com/
 #EXTINF:-1,Fanática DANCE
 https://ascl.denial.cl:2020/stream/8030/;
 #EXTINF:-1,Chat-Fire
 https://chat-fire.stream.laut.fm/chat-fire
-#EXTINF:-1,Digitally Imported - Deep Nu-Disco
-https://www.di.fm/deepnudisco
-#EXTINF:-1,Digitally Imported - Disco House
-https://www.di.fm/discohouse
 #EXTINF:-1,Next FM Delight
 https://edge61.live.nextfm.at/nextfm-stream3/stream/mp3
 #EXTINF:-1,DDHT Radio

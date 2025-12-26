@@ -8,9 +8,9 @@ https://maggie.torontocast.com:2020/stream/708090italiadautore
 #EXTINF:-1,Allzic Radio Italia
 http://allzic35.ice.infomaniak.ch/allzic35.mp3
 #EXTINF:-1,BeatGo
-http://beatgo.stream.laut.fm/beatgo?t302=2025-09-21_01-31-50&uuid=a7f7536d-656e-42e8-9a50-ef1199ccf642
+http://beatgo.stream.laut.fm/beatgo?t302=2025-12-17_17-42-36&uuid=f6d0f573-8fb6-4396-89c7-752c3a4ed055
 #EXTINF:-1,Exclusively Radio Italy
-https://2.mystreaming.net/er/italy/icecast.audio
+https://nl4.mystreaming.net/er/italy/icecast.audio
 #EXTINF:-1,FreeTime Radio
 http://nr11.newradio.it:9200/stream
 #EXTINF:-1,Giornale Radio Piemonte Melody
@@ -30,23 +30,21 @@ http://icy.unitedradio.it/R101MadeInItaly.aac
 #EXTINF:-1,Radio Antenna 2
 https://ice17.fluidstream.net/like.aac
 #EXTINF:-1,Radio Azzurra
-http://radioazzurra.stream.laut.fm/radioazzurra?t302=2025-09-21_01-31-51&uuid=e76574ac-10d8-4c5b-b122-dc7130042914
+http://s3.mediastreaming.it:7100/stream.mp3
 #EXTINF:-1,Radio Biberon
 http://nl1.streamingpulse.com:7022/listen.pls
 #EXTINF:-1,Radio Campania
 https://live.radiocampania.eu/radio/8000/radio.mp3
 #EXTINF:-1,Radio Canelli Monferrato
 http://nr5.newradio.it:8533/stream.mp3
-#EXTINF:-1,Radio Company Stile Italiano
-https://sphera.fluidstream.eu/companyitalia.mp3
 #EXTINF:-1,Radio Delta
 https://stream10.xdevel.com/audio5s977483-2058/stream/icecast.audio
 #EXTINF:-1,Radio Delta International
 http://s6.mediastreaming.it:9098/listen.pls
 #EXTINF:-1,Radio Digitalia - Ricordi
-https://radiodigitalia-ricordi.stream.laut.fm/radiodigitalia-ricordi?t302=2021-06-10_16-57-30&uuid=8aef2612-2637-4877-8c1b-d3d775186258
+https://radiodigitalia-ricordi.stream.laut.fm/radiodigitalia-ricordi?t302=2021-06-10_16-57-30\u0026uuid=8aef2612-2637-4877-8c1b-d3d775186258
 #EXTINF:-1,Radio F - Coppa Italiana
-http://edge64.streamonkey.net/fhn-radiofitalohits/stream/mp3?aggregator=fh-tinyurl
+http://edge63.streamonkey.net/fhn-radiofitalohits/stream/mp3?aggregator=fh-tinyurl
 #EXTINF:-1,Radio Fiemme 104
 http://dreamsiteradiocp3.com:8040/stream
 #EXTINF:-1,Radio Giulia
@@ -75,8 +73,6 @@ http://ice08.fluidstream.net/kk_sanremo.mp3
 http://players.fluidstream.net/radio_lady.pls
 #EXTINF:-1,Radio Linea Italia
 https://rblive.it:8110//radio.mp3
-#EXTINF:-1,Radio Magic 2
-http://94.177.187.252:8000/stream/2/
 #EXTINF:-1,Radio Modena 90
 https://stream5.xdevel.com/audio1s975906-621/stream/icecast.audio
 #EXTINF:-1,Radio Monte Carlo Italia
@@ -90,23 +86,23 @@ https://stream5.xdevel.com/audio0s976542-1302/stream/icecast.audio
 #EXTINF:-1,Radio Potenza Centrale
 http://shoutcast.streamingmedia.it:7158/stream
 #EXTINF:-1,Radio Rossini
-https://radiorossini.stream.laut.fm/radiorossini?t302=2025-09-21_01-31-56&uuid=5807ea9a-31a1-483b-bb20-84f5349119b2
+https://radiorossini.stream.laut.fm/radiorossini?t302=2025-12-17_17-42-44&uuid=dc10e9d9-8185-4326-a511-85df668b6ae1
 #EXTINF:-1,Radio Selene
 http://audio1.meway.tv:8013/stream
 #EXTINF:-1,Radio Siena
 http://stream9.xdevel.com/audio0s976727-1440/stream/icecast.audio
-#EXTINF:-1,Radio Studio 7
-https://stream5.xdevel.com/audio0s976596-1365/stream/icecast.audio
 #EXTINF:-1,Radio Tirreno Centrale
 http://nr9.newradio.it:9532/
 #EXTINF:-1,Radio Valentina FM
 http://nr5.newradio.it:8587/stream.mp3
 #EXTINF:-1,Radio Venere
 https://stream10.xdevel.com/audio0s977432-1994/stream/icecast.audio
+#EXTINF:-1,Radio Volami nel Cuore
+https://rci.canaleitalia.tv:8009/
 #EXTINF:-1,Radio Web Italia - Only Italian Music
 http://188.165.206.81:10030/stream
 #EXTINF:-1,RadioBit Italia
-http://radiobititalia.stream.laut.fm/radiobititalia?t302=2025-09-21_01-31-57&uuid=2a89c95e-cb39-439a-8a52-b1788f398e35
+http://radiobititalia.stream.laut.fm/radiobititalia?t302=2025-12-17_17-42-45&uuid=601ec8de-8b12-4814-8fab-70a099a82f06
 #EXTINF:-1,RCS Melody
 http://players.fluidstream.net/rcsmelody.pls
 #EXTINF:-1,RDMIX ITALIAN VINTAGE 70 80 90
@@ -128,7 +124,7 @@ http://nr8.newradio.it:9079/
 #EXTINF:-1,Simply Italia
 https://stream4.xdevel.com/audio1s975968-807/stream/icecast.audio
 #EXTINF:-1,Station Italy
-http://stationitaly.stream.laut.fm/stationitaly?t302=2025-09-21_01-31-58&uuid=bcd92c2b-1637-419f-a9de-75c8459370c3
+http://stationitaly.stream.laut.fm/stationitaly?t302=2025-12-17_17-42-48&uuid=bf061534-120e-4dce-9598-6bd6012cbec5
 #EXTINF:-1,Sunradio - Best international Music
 https://www.sunradio.ch/livestream.m3u
 #EXTINF:-1,Tele Radio Valle Camonica
@@ -141,25 +137,19 @@ http://sr3.inmystream.info:8095/listen.pls
 http://sr2.webradionetwork.eu:8000/
 #EXTINF:-1,FreeTime Radio - Musica Italiana Pop Top 100 - Best Italian Songs - Music from Italy Milano
 https://free.rcast.net/2067
-#EXTINF:-1,RADIO ROKKO - Copyleft Pop Station - Italian WebRadio - www.radiorokko.com
-https://free.rcast.net/15464
 #EXTINF:-1,ITALIAN RADIO only (romantic) Italian Music
 https://italianradio.streamingmedia.it/play
-#EXTINF:-1,Radio Italia Charleroi
-https://str01.fluidstream.net/charleroi.mp3?FLID=8&type=.mp3
-#EXTINF:-1,Radio Energy
-https://strmreg.1.fm/italiaonair_mobile_mp3
 #EXTINF:-1,Deejay - Suona Italia
 https://streamcdnm5-4c4b867c89244861ac216426883d1ad0.msvdn.net/webradio/deejaysuonaitalia/playlist.m3u8
 #EXTINF:-1,ItaliaFM 1
 https://jdiflu00.radioca.st/stream
 #EXTINF:-1,Radio Abruzzo
 http://nl1.streamingpulse.com:8034/stream
+#EXTINF:-1,Radio Action 101
+https://ice07.fluidstream.net/fluid713.aac?FLID=8&type=.aac
 #EXTINF:-1,Radio Valle Camonica
 http://onair20.xdevel.com:8320/1/;
 #EXTINF:-1,RVL LaRadio
 http://nr8.newradio.it:9079/;
-#EXTINF:-1,Radio Luce
-https://c34.radioboss.fm:18255/RadioLuceFM
 #EXTINF:-1,TeleRadio 1
 https://teleradio1.stream.laut.fm/teleradio1?pl=pls&t302=2021-02-09_14-07-22&uuid=5a543a94-02fc-4e33-9779-b2b110cd3967

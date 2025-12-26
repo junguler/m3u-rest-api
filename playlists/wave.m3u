@@ -1,10 +1,76 @@
 #EXTM3U
-#EXTINF:-1,New Wave Radio
-http://digitalaudiobroadcasting.net:1080/stream
-#EXTINF:-1,.113FM Synthetic
-http://113fm.cdnstream1.com:80/1772_128?fromyp=true
-#EXTINF:-1,Anima Amoris [Electro]
-http://amoris.sknt.ru:80/electro
+#EXTINF:-1,vinyl xl
+http://vinyl-xl.stream.laut.fm/vinyl-xl
+#EXTINF:-1,essential
+http://essential.stream.laut.fm/essential
+#EXTINF:-1,this hands so cold
+http://this-hands-so-cold.stream.laut.fm/this-hands-so-cold
+#EXTINF:-1,punkratz
+http://punkratz.stream.laut.fm/punkratz
+#EXTINF:-1,ape45
+http://ape45.stream.laut.fm/ape45
+#EXTINF:-1,waveland fm
+http://waveland-fm.stream.laut.fm/waveland-fm
+#EXTINF:-1,punk
+http://punk.stream.laut.fm/punk
+#EXTINF:-1,80sone
+http://80sone.stream.laut.fm/80sone
+#EXTINF:-1,romance
+http://romance.stream.laut.fm/romance
+#EXTINF:-1,linientreu
+http://linientreu.stream.laut.fm/linientreu
+#EXTINF:-1,justgood80sradio
+http://justgood80sradio.stream.laut.fm/justgood80sradio
+#EXTINF:-1,music is my life
+http://music-is-my-life.stream.laut.fm/music-is-my-life
+#EXTINF:-1,vortex surfer
+http://vortex-surfer.stream.laut.fm/vortex-surfer
+#EXTINF:-1,wavegotik
+http://wavegotik.stream.laut.fm/wavegotik
+#EXTINF:-1,rocknrolle
+http://rocknrolle.stream.laut.fm/rocknrolle
+#EXTINF:-1,phoenix club
+http://phoenix-club.stream.laut.fm/phoenix-club
+#EXTINF:-1,dj harald
+http://dj_harald.stream.laut.fm/dj_harald
+#EXTINF:-1,futurize
+http://futurize.stream.laut.fm/futurize
+#EXTINF:-1,funybot
+http://funybot.stream.laut.fm/funybot
+#EXTINF:-1,nosw podcast
+http://nosw-podcast.stream.laut.fm/nosw-podcast
+#EXTINF:-1,spontis
+http://spontis.stream.laut.fm/spontis
+#EXTINF:-1,irrlichts welt
+http://irrlichts-welt.stream.laut.fm/irrlichts-welt
+#EXTINF:-1,bleakradio
+http://bleakradio.stream.laut.fm/bleakradio
+#EXTINF:-1,hkmusic
+http://hkmusic.stream.laut.fm/hkmusic
+#EXTINF:-1,true mania
+http://true-mania.stream.laut.fm/true-mania
+#EXTINF:-1,mindestensdas
+http://mindestensdas.stream.laut.fm/mindestensdas
+#EXTINF:-1,nightshift alternative
+http://nightshift_alternative.stream.laut.fm/nightshift_alternative
+#EXTINF:-1,electric sound area
+http://electric-sound-area.stream.laut.fm/electric-sound-area
+#EXTINF:-1,soundbar nordheide
+http://soundbar-nordheide.stream.laut.fm/soundbar-nordheide
+#EXTINF:-1,kobaltblau
+http://kobaltblau.stream.laut.fm/kobaltblau
+#EXTINF:-1,helmstedt radio
+http://helmstedt-radio.stream.laut.fm/helmstedt-radio
+#EXTINF:-1,bodensatzradio
+http://bodensatzradio.stream.laut.fm/bodensatzradio
+#EXTINF:-1,anderswelt
+http://anderswelt.stream.laut.fm/anderswelt
+#EXTINF:-1,kraftpaket1422am
+http://kraftpaket1422am.stream.laut.fm/kraftpaket1422am
+#EXTINF:-1,ikm radio
+http://ikm-radio.stream.laut.fm/ikm-radio
+#EXTINF:-1,batroom
+http://batroom.stream.laut.fm/batroom
 #EXTINF:-1,Радио Maximum - Depeche Mode
 https://depechemode.hostingradio.ru/depechemode96.aacp
 #EXTINF:-1,Wave 80
@@ -22,7 +88,7 @@ https://puma.streemlion.com:2910/stream
 #EXTINF:-1,KISS FM
 https://panelautodj.innovatestream.pe:10829/;stream.nsv
 #EXTINF:-1,Club 80s with DJ Bueller
-https://das-edge13-live365-dal02.cdnstream.com/a90225
+https://das-edge17-live365-dal02.cdnstream.com/a90225
 #EXTINF:-1,Panorama80
 https://panorama80.stream.laut.fm/panorama80
 #EXTINF:-1,Flashback Alternatives
@@ -64,11 +130,11 @@ https://ice2.somafm.com/vaporwaves-128-mp3
 #EXTINF:-1,Dark Star FM
 https://darkstarfm.stream.laut.fm/darkstarfm
 #EXTINF:-1,Radio AlternativeMusic.com
-https://das-edge13-live365-dal02.cdnstream.com/a36402
+https://das-edge17-live365-dal02.cdnstream.com/a36402
 #EXTINF:-1,Punk Radio Underground
 https://s1.slotex.pl:7604/stream/1/
 #EXTINF:-1,CJ&#039;s Awesome 80s
-https://das-edge13-live365-dal02.cdnstream.com/a75607
+https://das-edge17-live365-dal02.cdnstream.com/a75607
 #EXTINF:-1,Electrozombies
 https://electrozombies.stream.laut.fm/electrozombies
 #EXTINF:-1,Strawberry Tongue Radio
@@ -86,7 +152,7 @@ https://manager6.streamradio.fr:2355/stream
 #EXTINF:-1,N.A.R.
 https://na-radio.stream.laut.fm/na-radio?t302=2023-04-25_20-06-30&uuid=cf726289-4293-4762-96a9-b5b4d6a47f9d
 #EXTINF:-1,Retro 80s &amp; 90s Flashback Music Radio -The Pulse
-https://das-edge13-live365-dal02.cdnstream.com/a16621
+https://das-edge17-live365-dal02.cdnstream.com/a16621
 #EXTINF:-1,Klangwelt
 https://klangwelt.stream.laut.fm/klangwelt
 #EXTINF:-1,Duran radio
@@ -97,8 +163,6 @@ https://soundsystem.stream.laut.fm/soundsystem?t302=2023-04-25_19-33-44&uuid=582
 https://topschlager.stream.laut.fm/topschlager?t302=2023-04-25_20-16-55&uuid=c7705ecb-0f12-4fc9-b673-faf632fce80c
 #EXTINF:-1,Radio Huemul
 http://01.solumedia.com.ar:8488/stream?icy=http
-#EXTINF:-1,KL Radio
-https://sonic.onlineaudience.co.uk/8036/stream
 #EXTINF:-1,Radio Nachtflug
 http://server26265.streamplus.de/;stream.mp3
 #EXTINF:-1,Tonaktiv
@@ -110,7 +174,7 @@ https://wxb102.mixlr.com/
 #EXTINF:-1,Magic Project Radio
 https://nrf1.newradio.it:10300/stream
 #EXTINF:-1,0nlineradio Neue Deutsche Welle
-https://0nlineradio.stream42.radiohost.de/0r-neuedeutschewelle?upd-meta=0&upd-scheme=https&_art=dD0xNzU2OTQ2NzkwJmQ9MzNjMDhhNTZkZTU3ZTA3NWFiYTQ
+https://0nlineradio.stream42.radiohost.de/0r-neuedeutschewelle?upd-meta&upd-scheme=https&_art=dD0xNzY2MDc3ODY3JmQ9NTgwM2Q1NmU0Y2IzNmZiMjM5ZWM
 #EXTINF:-1,Radio Santana Breda
 https://server5.radio-streams.net:8009/stream
 #EXTINF:-1,The Tube | NTS
@@ -129,8 +193,6 @@ https://edge.iono.fm/xhls/194_high.m3u8
 https://s3-webradio.rockantenne.de/gothic
 #EXTINF:-1,laut.fm - Greyarea
 http://greyarea.stream.laut.fm/greyarea?t302=2023-04-25_19-37-29&uuid=885576aa-b47b-4af8-898e-1d23d618fc84
-#EXTINF:-1,dancewave
-http://onair.dancewave.online:8080/dance.flac.ogg
 #EXTINF:-1,HEXX 9 Radio
 http://46.105.124.120:8604/stream
 #EXTINF:-1,NEU RADIO
@@ -177,86 +239,30 @@ http://ice2.somafm.com/vaporwaves-64-aac
 http://petshopboys.stream.laut.fm/petshopboys?t302=2023-04-25_19-50-39&uuid=cdb84097-91cb-40b3-a4ac-37d43c5b465c
 #EXTINF:-1,Radio Noordvaarder Reiki
 http://stream.radionoordvaarder.nl:8050/;
-#EXTINF:-1,punk
-http://punk.stream.laut.fm/punk
-#EXTINF:-1,vinyl xl
-http://vinyl-xl.stream.laut.fm/vinyl-xl
-#EXTINF:-1,this hands so cold
-http://this-hands-so-cold.stream.laut.fm/this-hands-so-cold
-#EXTINF:-1,wavegotik
-http://wavegotik.stream.laut.fm/wavegotik
-#EXTINF:-1,essential
-http://essential.stream.laut.fm/essential
-#EXTINF:-1,punkratz
-http://punkratz.stream.laut.fm/punkratz
-#EXTINF:-1,waveland fm
-http://waveland-fm.stream.laut.fm/waveland-fm
-#EXTINF:-1,spontis
-http://spontis.stream.laut.fm/spontis
-#EXTINF:-1,linientreu
-http://linientreu.stream.laut.fm/linientreu
-#EXTINF:-1,romance
-http://romance.stream.laut.fm/romance
-#EXTINF:-1,dj harald
-http://dj_harald.stream.laut.fm/dj_harald
-#EXTINF:-1,phoenix club
-http://phoenix-club.stream.laut.fm/phoenix-club
-#EXTINF:-1,justgood80sradio
-http://justgood80sradio.stream.laut.fm/justgood80sradio
-#EXTINF:-1,bleakradio
-http://bleakradio.stream.laut.fm/bleakradio
-#EXTINF:-1,kraftpaket1422am
-http://kraftpaket1422am.stream.laut.fm/kraftpaket1422am
-#EXTINF:-1,ape45
-http://ape45.stream.laut.fm/ape45
-#EXTINF:-1,vortex surfer
-http://vortex-surfer.stream.laut.fm/vortex-surfer
-#EXTINF:-1,electric sound area
-http://electric-sound-area.stream.laut.fm/electric-sound-area
-#EXTINF:-1,music is my life
-http://music-is-my-life.stream.laut.fm/music-is-my-life
-#EXTINF:-1,rocknrolle
-http://rocknrolle.stream.laut.fm/rocknrolle
-#EXTINF:-1,schwarzewelten
-http://schwarzewelten.stream.laut.fm/schwarzewelten
-#EXTINF:-1,ikm radio
-http://ikm-radio.stream.laut.fm/ikm-radio
-#EXTINF:-1,soundbar nordheide
-http://soundbar-nordheide.stream.laut.fm/soundbar-nordheide
-#EXTINF:-1,irrlichts welt
-http://irrlichts-welt.stream.laut.fm/irrlichts-welt
-#EXTINF:-1,anderswelt
-http://anderswelt.stream.laut.fm/anderswelt
-#EXTINF:-1,true mania
-http://true-mania.stream.laut.fm/true-mania
-#EXTINF:-1,nosw podcast
-http://nosw-podcast.stream.laut.fm/nosw-podcast
-#EXTINF:-1,mindestensdas
-http://mindestensdas.stream.laut.fm/mindestensdas
-#EXTINF:-1,nightshift alternative
-http://nightshift_alternative.stream.laut.fm/nightshift_alternative
-#EXTINF:-1,bodensatzradio
-http://bodensatzradio.stream.laut.fm/bodensatzradio
-#EXTINF:-1,hkmusic
-http://hkmusic.stream.laut.fm/hkmusic
-#EXTINF:-1,funybot
-http://funybot.stream.laut.fm/funybot
-#EXTINF:-1,batroom
-http://batroom.stream.laut.fm/batroom
-#EXTINF:-1,futurize
-http://futurize.stream.laut.fm/futurize
-#EXTINF:-1,bluewave
-http://bluewave.stream.laut.fm/bluewave
-#EXTINF:-1,helmstedt radio
-http://helmstedt-radio.stream.laut.fm/helmstedt-radio
-#EXTINF:-1,streetteam berlin on air
-http://streetteam-berlin-on-air.stream.laut.fm/streetteam-berlin-on-air
+#EXTINF:-1,KINK 64kbps
+https://22613.live.streamtheworld.com:443/KINKAAC2_SC
+#EXTINF:-1,Anderswelt Radio
+https://anderswelt.stream.laut.fm/anderswelt?t302=2025-12-18_17-06-13&uuid=52c4731c-2c58-4025-85b9-d307d806459b
+#EXTINF:-1,Bleak Radio
+https://bleakradio.stream.laut.fm/bleakradio?t302=2025-12-18_17-06-13&uuid=15b9a8c0-ceb1-4294-8106-317f245ba162
+#EXTINF:-1,Kraftpaket 1422 AM
+https://kraftpaket1422am.stream.laut.fm/kraftpaket1422am?t302=2025-12-18_17-06-13&uuid=0477016a-4b7b-4a75-9414-abddd10a804e
+#EXTINF:-1,Radio Ape 45
+https://ape45.stream.laut.fm/ape45?t302=2025-12-18_17-06-13&uuid=944f9725-053a-40e1-badb-702997249343
+#EXTINF:-1,RadioWave
+https://radiowave.eu/listen/test/aacHQ
+#EXTINF:-1,Spontis FM
+https://spontis.stream.laut.fm/spontis?t302=2025-12-18_17-06-14&uuid=fd38eaca-0456-4356-b09b-6b63720395d2
+#EXTINF:-1,This Hands So Cold
+https://this-hands-so-cold.stream.laut.fm/this-hands-so-cold?t302=2025-12-18_17-06-14&uuid=2538deda-1362-4cbb-b24b-bd3b0faf15a7
+#EXTINF:-1,Waveland FM
+https://waveland-fm.stream.laut.fm/waveland-fm?t302=2025-12-18_17-06-14&uuid=67f1fb4c-9367-41be-98de-06f2ccc14bd4
 #EXTINF:-1,80s80s Dark Wave - 0 - Germany - dark wave
-http://regiocast.streamabc.net/regc-80s80sdarkwave3426539-mp3-192-3262123?sABC=68p1q973%230%23781o8qo1qnnp5oros5r6o8p876335p33%23&aw_0_1st.playerid=&amsparams=playerid:;skey:1757534579
+http://regiocast.streamabc.net/regc-80s80sdarkwave3426539-mp3-192-3262123?sABC=69443487%230%239q1oo23o42n9980o827rrs629q09ron6%23&aw_0_1st.playerid=&amsparams=playerid:;skey:1766077575
 #EXTINF:-1,80s80s Radio - 0 - Germany - 80s - new wave - pop - rock
 https://regiocast.streamabc.net/regc-80s80swave1065742-mp3-192-3582815?sABC=650ss5q2%231%236q8n52711s704so491o30387q873oo7q%23ubzrcntr&context=fHA6LTE=&aw 0 1st.skey=1695544786&cb=805383115&listenerid=6d8a52711f704fb491b30387d873bb7d&aw 0 1st.playerid=homepage&amsparams=playerid:homepage;skey:1695544786
 #EXTINF:-1,80s80s Wave - 0 -  - 80s - wave
-http://regiocast.streamabc.net/regc-80s80swave1065742-mp3-192-3582815?sABC=68p1q973%230%23781o8qo1qnnp5oros5r6o8p876335p33%23fgernzf.80f80f.qr&aw_0_1st.playerid=streams.80s80s.de&amsparams=playerid:streams.80s80s.de;skey:1757534579
+http://regiocast.streamabc.net/regc-80s80swave1065742-mp3-192-3582815?sABC=69443487%230%239q1oo23o42n9980o827rrs629q09ron6%23fgernzf.80f80f.qr&aw_0_1st.playerid=streams.80s80s.de&amsparams=playerid:streams.80s80s.de;skey:1766077575
 #EXTINF:-1,Andys80s  - 0 - The Netherlands - 80s - alternative - new wave
 http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
 #EXTINF:-1,Atomicwave FM - 128 - Germany - new wave - post-punk - synthpop - synthwave
@@ -294,32 +300,16 @@ https://hubble.shoutca.st:2199/tunein/synthwave.pls
 #EXTINF:-1,Synthwave City FM - New - 320 - The Netherlands -
 https://synthwave-rex.radioca.st/stream
 #EXTINF:-1,Synthwave Neon City laut.fm - 128 - Germany -
-https://synthwave.stream.laut.fm/synthwave?t302=2025-09-10_20-03-04&uuid=665f0557-f09d-41a0-a4c2-42d2df6a21cc
+https://synthwave.stream.laut.fm/synthwave?t302=2025-12-18_17-06-19&uuid=4d8bf3d5-7b92-47c0-8a58-8fec359c744c
 #EXTINF:-1,Synthwave Radio - 128 - The United States Of America -
 https://stream.synthwaveradio.eu/listen/synthwaveradio.eu/radio.mp3
 #EXTINF:-1,the wave - relaxing radio - 0 -  -
-http://rtlberlin.streamabc.net/rtlb-thewave-aacplus-64-4141172?sABC=68p1q978%230%23781o8qo1qnnp5oros5r6o8p876335p33%23&aw_0_1st.playerid=&amsparams=playerid:;skey:1757534584
+http://rtlberlin.streamabc.net/rtlb-thewave-aacplus-64-4141172?sABC=6944348p%230%239q1oo23o42n9980o827rrs629q09ron6%23&aw_0_1st.playerid=&amsparams=playerid:;skey:1766077580
 #EXTINF:-1,the wave - relaxing radio - 0 - Germany - lounge - pop - relax - singer-songwriter - smooth jazz - soul
-http://rtlberlin.streamabc.net/rtlb-thewave-mp3-128-3525376?sABC=68p1q978%230%23781o8qo1qnnp5oros5r6o8p876335p33%23enqvb-oebjfre.vasb&aw_0_1st.playerid=radio-browser.info&amsparams=playerid:radio-browser.info;skey:1757534584
+http://rtlberlin.streamabc.net/rtlb-thewave-mp3-128-3525376?sABC=6944348p%230%239q1oo23o42n9980o827rrs629q09ron6%23enqvb-oebjfre.vasb&aw_0_1st.playerid=radio-browser.info&amsparams=playerid:radio-browser.info;skey:1766077580
 #EXTINF:-1,The wave radio - 0 - Germany -
-https://rtlberlin.streamabc.net/rtlb-thewave-mp3-128-3525376?sABC=68p1q978%230%23nq30s5osn63oqs342r4r22q30o353q83%23xbagnxg&aw_0_1st.playerid=kontakt&amsparams=playerid:kontakt;skey:1757534584
+https://rtlberlin.streamabc.net/rtlb-thewave-mp3-128-3525376?sABC=6944348p%230%23rqop7p561p96680po2n533912117qnr5%23xbagnxg&aw_0_1st.playerid=kontakt&amsparams=playerid:kontakt;skey:1766077580
 #EXTINF:-1,Wavebreaker - 128 - Germany - alternative - ambient - electropop - gothic - indie - new wave
-http://wavebreaker.stream.laut.fm/wavebreaker?t302=2025-09-10_20-03-05&uuid=30d90a0b-7cd2-49c9-93d4-a5b889f33a74
+http://wavebreaker.stream.laut.fm/wavebreaker?t302=2025-12-18_17-06-20&uuid=aa659d74-6480-46a5-bcb6-bd231aea21bf
 #EXTINF:-1,XWave Radio - 128 - The United States Of America - dark wave - darkwave - ebm - gothic - post-punk
 https://xwaveradio.org/wp-content/plugins/shoutcast/listen.pls
-#EXTINF:-1,Anderswelt Radio
-https://anderswelt.stream.laut.fm/anderswelt?t302=2025-09-14_18-41-23&uuid=91145fbb-38e1-4d95-b526-acc1b335baf5
-#EXTINF:-1,Bleak Radio
-https://bleakradio.stream.laut.fm/bleakradio?t302=2025-09-14_18-41-23&uuid=eba3894c-c5d7-48c6-8de9-997b5124bc82
-#EXTINF:-1,Kraftpaket 1422 AM
-https://kraftpaket1422am.stream.laut.fm/kraftpaket1422am?t302=2025-09-14_18-41-26&uuid=2b1f255b-179d-4373-8a39-2555b92b51ec
-#EXTINF:-1,Radio Ape 45
-https://ape45.stream.laut.fm/ape45?t302=2025-09-14_18-41-26&uuid=a71bd3fc-37bc-4451-b12b-e6356f139285
-#EXTINF:-1,RadioWave
-https://radiowave.eu/listen/test/aacHQ
-#EXTINF:-1,Spontis FM
-https://spontis.stream.laut.fm/spontis?t302=2025-09-14_18-41-26&uuid=b2512e79-0c04-4f4d-99be-eb912c94b597
-#EXTINF:-1,This Hands So Cold
-https://this-hands-so-cold.stream.laut.fm/this-hands-so-cold?t302=2025-09-14_18-41-26&uuid=7a3b5d3b-c479-4fc4-85db-ab217191f333
-#EXTINF:-1,Waveland FM
-https://waveland-fm.stream.laut.fm/waveland-fm?t302=2025-09-14_18-41-27&uuid=aa73e987-907a-41d3-9576-4f789436e432

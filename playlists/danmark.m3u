@@ -18,13 +18,13 @@ http://live-icy.gss.dr.dk:8000/A/A05L.mp3
 #EXTINF:-1,Radio Soft
 https://live-bauerdk.sharp-stream.com/radiosoft_dk_tunein_mp3?aw_0_1st.playerid=BMUK_TuneIn&aw_0_1st.skey=1594115476
 #EXTINF:-1,NRJ Denmark
-http://ww25.adwzg3.tdf-cdn.com/8470/nrj_165631.mp3?subid1=20250914-1032-1287-8d15-47694bc14940
+http://ww25.adwzg3.tdf-cdn.com/8470/nrj_165631.mp3?subid1=20251219-0002-4167-98db-9173945308b0
 #EXTINF:-1,DR P4 Kobenhavn
 http://live-icy.gss.dr.dk:8000/A/A08H.mp3
 #EXTINF:-1,DR P4 Midt Vest
 http://live-icy.gss.dr.dk:8000/A/A09H.mp3
 #EXTINF:-1,Radio SydhavsØerne
-https://sydhavsradio.dk/netradio/
+https://netradio.dk/
 #EXTINF:-1,Radio Playback.dk
 http://stream02.radioplayback.dk/stream
 #EXTINF:-1,DR P8 Jazz
@@ -40,7 +40,7 @@ http://live-icy.gss.dr.dk:8000/A/A10H.mp3
 #EXTINF:-1,DR P4 Fyn
 http://live-icy.gss.dr.dk:8000/A/A07H.mp3
 #EXTINF:-1,Radio24Syv
-https://a2.cdn.jetstre.am/sz/VDO-X-404.mp3
+https://a1.cdn.jetstre.am/sz/VDO-X-404.mp3
 #EXTINF:-1,DR P4 Sjaelland
 http://live-icy.gss.dr.dk:8000/A/A11H.mp3
 #EXTINF:-1,RadioUpdate
@@ -61,6 +61,8 @@ http://streaming.radio.co:80/sd9d980ff0/listen
 http://live-icy.gss.dr.dk:8000/A/A06H.mp3
 #EXTINF:-1,Radio Globus
 http://media.wlmm.dk:80/radioglobus
+#EXTINF:-1,902FM
+https://s25.myradiostream.com:15246/listen.mp3?nocache=1766062967
 #EXTINF:-1,Radio SNR
 https://cdn2.cloudrad.io/radiosnr/listen.m3u
 #EXTINF:-1,Radio ALR
@@ -69,6 +71,8 @@ https://streamer.radio.co/s6a9beb92e/listen
 http://chicago.discovertrance.com:9214/
 #EXTINF:-1,Universitetsradioen
 https://uniradio.out.airtime.pro:8443/uniradio_a
+#EXTINF:-1,Radio Rønde
+https://stream.probroadcast.dk/djurs
 #EXTINF:-1,DR P1 (København)
 http://live-icy.gss.dr.dk:8000/A/A03L.mp3
 #EXTINF:-1,DR P4 (Sjælland)
@@ -77,6 +81,8 @@ http://live-icy.gss.dr.dk:8000/A/A11L.mp3
 http://live-icy.gss.dr.dk:8000/A/A25L.mp3
 #EXTINF:-1,DR P4 (Fyn)
 http://live-icy.gss.dr.dk:8000/A/A07L.mp3
+#EXTINF:-1,902FM Det Nye Radio Ballerup
+https://s25.myradiostream.com:15246/stream/1/
 #EXTINF:-1,Radio Viva
 https://stream.probroadcast.dk/radioviva
 #EXTINF:-1,DR P8 Jazz (København)
@@ -105,14 +111,12 @@ https://stream.probroadcast.dk/guldsyd
 https://live-bauerdk.sharp-stream.com/nova_dk_mp3
 #EXTINF:-1,DR P2 (København)
 http://live-icy.gss.dr.dk:8000/A/A04L.mp3
-#EXTINF:-1,Radio Vesterbro
-http://s2.ssl-stream.com:8010/stream/1/
 #EXTINF:-1,Webfm
-https://www.webfm.dk/
+https://webfm.dk/
 #EXTINF:-1,MyRock (Odense)
 https://live-bauerdk.sharp-stream.com/myrock_dk_mp3
 #EXTINF:-1,Radio 4
-https://29053.live.streamtheworld.com/RADIO4.mp3
+https://28563.live.streamtheworld.com/RADIO4.mp3
 #EXTINF:-1,DR P6 Beat (København)
 http://live-icy.gss.dr.dk:8000/A/A29L.mp3
 #EXTINF:-1,DR P4 (Østjylland)
@@ -127,8 +131,6 @@ http://live-icy.gss.dr.dk:8000/A/A02H.mp3
 https://stream.probroadcast.dk/oestfmmp3
 #EXTINF:-1,Globus Guld (Midt)
 https://stream.probroadcast.dk/guldmidt
-#EXTINF:-1,Radio 100
-https://live-bauerdk.sharp-stream.com/radio100_dk_mp3
 #EXTINF:-1,Radio Seni
 https://server4p.com/8004/stream/1/
 #EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/96846.v3.png",90's Hits
@@ -151,8 +153,6 @@ http://live-icy.gss.dr.dk:8000/A/A08L.mp3
 https://live-bauerdk.sharp-stream.com/popfm-premium_96.aac
 #EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/133037.v1.png",Vox Radio International - Danmark
 https://quincy.torontocast.com:2640/stream
-#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/12700.v2.png",WEB fm dk
-https://webfm.dk/
 #EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/128166.v2.png",Frederiksberg Lokalradio
 https://c14.radioboss.fm:18228/autodj
 #EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/132394.v3.png",Free FM - Denmark
@@ -179,6 +179,8 @@ https://live-bauerdk.sharp-stream.com/RP20_premium_96.aac
 https://live-bauerdk.sharp-stream.com/DK_HQ_RP34.aac
 #EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/130220.v3.png",70er Hits
 https://live-bauerdk.sharp-stream.com/RP37_premium_96.aac
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/92137.v3.png",Head FM.net
+https://443-1.reliastream.com/35/stream
 #EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/48425.v3.png",UCB MEDIA
 https://s2.radio.co/s6f04f551c/listen
 #EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/48399.v2.png",Fri-born
@@ -205,8 +207,6 @@ https://marlab.radioca.st/stream
 http://stream.wlmm.dk/skagafm
 #EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/11489.v2.png",Radio Playback
 https://stream02.radioplayback.dk/stream
-#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/129244.v1.png",Radio Djursland
-https://stream.probroadcast.dk/djurs
 #EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/130270.v3.png",Meditation
 https://live-bauerdk.sharp-stream.com/RP12_premium_96.aac
 #EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/121189.v3.png",Northernsounds
@@ -223,8 +223,6 @@ http://10336.cloudrad.io:9010/live
 https://s25.myradiostream.com/:15246/
 #EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/45347.v7.png",Radio Happy DK
 https://streaming.radio.co/sd9d980ff0/listen
-#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/88044.v2.png",Radio 4, Aarhus
-https://22183.live.streamtheworld.com/RADIO4.mp3
 #EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/11700.v8.png",Radio Køge
 https://stream.probroadcast.dk/slrkoegemp3
 #EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/12649.v1.png",Radio Roende
@@ -257,6 +255,8 @@ https://live-bauerdk.sharp-stream.com/radiosoft_dk_mp3
 https://live-bauerdk.sharp-stream.com/DK_HQ_RP07.aac
 #EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/11257.v3.png",DR P5
 http://live-icy.gss.dr.dk/A/A25L.mp3
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/10772.v5.png",Radio 100, Skovlunde
+https://live-bauerdk.sharp-stream.com/radio100_dk_mp3
 #EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/84697.v5.png",Classic Rock, København
 http://stream.wlmm.dk/classicrockkbhmp3
 #EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/96860.v4.png",Radio Vinyl

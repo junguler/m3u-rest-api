@@ -4,7 +4,7 @@ https://server27166.streamplus.de/stream/1/
 #EXTINF:-1,Metal Station
 https://metalstation.stream.laut.fm/metalstation
 #EXTINF:-1,Radio FFN
-http://ffn.stream15.radiohost.de/ffn_mp3-192?upd-meta=0&upd-scheme=http&_art=dD0xNzU2OTQ4NTkwJmQ9YzliNWVmN2Q4OWI1ZjFmMjNkMjI
+http://ffn.stream04.radiohost.de/ffn_mp3-192?upd-meta&upd-scheme=http&_art=dD0xNzY2MDcxMDQyJmQ9ZDQ2ZGMxNzY2M2NhMDhhYTVlZmQ
 #EXTINF:-1,Antenne Niedersachsen
 https://antnds.streamabc.net/ands-antndslive-mp3-192-6295410?sABC=64480r34%230%23n1q9s1ns4osoonq326452q0po510q6pp%23bayvarenqvbobk&aw_0_1st.playerid=onlineradiobox&amsparams=playerid:onlineradiobox;skey:1682443828
 #EXTINF:-1,Pucki
@@ -86,7 +86,7 @@ https://deutschrap.stream.laut.fm/deutschrap
 #EXTINF:-1,320 FM
 http://320fm.de:8030/;
 #EXTINF:-1,Radio FFN Nur 90
-https://ffn.stream03.radiohost.de/neunziger_mp3-192?upd-meta=0&upd-scheme=https&_art=dD0xNzU2OTQ4NTk2JmQ9OWQwNjdmOTY0OTBiY2U3NGEyZmE
+https://ffn.stream29.radiohost.de/neunziger_mp3-192?upd-meta&upd-scheme=https&_art=dD0xNzY2MDcxMDQ4JmQ9Mzk2MTA1NTU2MzdmOWY5NTU1NTg
 #EXTINF:-1,YourTime-FM
 https://yourtime-fm.stream.laut.fm/yourtime-fm
 #EXTINF:-1,Hit Radio Deutschland
@@ -96,7 +96,7 @@ https://stelle-fm.stream.laut.fm/stelle-fm?t302=2023-04-25_20-07-21&uuid=42a79d9
 #EXTINF:-1,Starclub Radio
 https://starclub-radio.stream.laut.fm/starclub-radio?t302=2023-04-25_20-07-35&uuid=3670c773-0e3c-464e-b022-c9ffcfd9e0eb
 #EXTINF:-1,Peppermint FM
-http://ffn.stream23.radiohost.de/peppermintfm_mp3-192?upd-meta=0&upd-scheme=http&_art=dD0xNzU2OTQ4NTk3JmQ9NWY0Yzc5ZTkyMzBhNDBiYzIzYWY
+http://ffn.stream29.radiohost.de/peppermintfm_mp3-192?upd-meta&upd-scheme=http&_art=dD0xNzY2MDcxMDQ5JmQ9MjVjMDQwNTJlN2MzMWNkNmMyZGU
 #EXTINF:-1,Millennium
 https://millennium.stream.laut.fm/millennium?t302=2023-09-19_12-30-54&uuid=ff5078ac-0b6d-448e-af37-6cd59daeba76
 #EXTINF:-1,Ostfriesland-Radio
@@ -107,8 +107,6 @@ https://antnds.streamabc.net/ands-antnds80erparty-mp3-192-3231516?sABC=65097665%
 https://antnds.streamabc.net/ands-antndsxmas-mp3-192-3713335?sABC=650972s7%230%234r22236104s8nr3n29rss56oo6qo07n6%23bayvarenqvbobk&aw_0_1st.playerid=onlineradiobox&amsparams=playerid:onlineradiobox;skey:1695118071
 #EXTINF:-1,Coco und Jambo
 https://cocoundjambo.stream.laut.fm/cocoundjambo?t302=2023-04-25_19-36-10&uuid=58022a84-e504-4c2d-8958-ea0891b13726
-#EXTINF:-1,Sound of Blue
-https://s5.stream-webradiotechnik.de:9902/;stream.nsv
 #EXTINF:-1,Ministry of Soul
 https://yourministryofsoul.stream.laut.fm/yourministryofsoul?t302=2023-04-25_20-25-10&uuid=4650781f-aef0-4570-bdcc-455308c521c4
 #EXTINF:-1,Sterntauscher - DDR-Radio
@@ -132,13 +130,13 @@ https://evergreen-oldies.stream.laut.fm/evergreen-oldies?pl=m3u&t302=2021-04-28_
 #EXTINF:-1,Radio Sunrise 202
 http://streams.radiosunrise.de:8006/mp3/
 #EXTINF:-1,Radio FFN - Gold
-https://ffn.stream22.radiohost.de/ffn-gold_mp3-192?upd-meta=0&upd-scheme=https&_art=dD0xNzU2OTQ4NjAwJmQ9MmQwNDJlNDk0MjMzZmVlY2JhMTY
+https://ffn.stream36.radiohost.de/ffn-gold_mp3-192?upd-meta&upd-scheme=https&_art=dD0xNzY2MDcxMDUxJmQ9ZjMxNjM1MjM3MmQxNDRhYmIwNWM
 #EXTINF:-1,Musik Kultur
 https://musikkultur.stream.laut.fm/musikkultur?t302=2023-04-25_20-06-26&uuid=a1b7d54c-a9cc-425a-bac3-93f4475c7fa0
 #EXTINF:-1,Krautrocker
 https://krautrocker.stream.laut.fm/krautrocker?t302=2023-04-25_20-22-03&uuid=d7bb5afb-139b-41b1-98c3-1eda2f211fdc
 #EXTINF:-1,Radio FFN - Comedy
-https://ffn.stream22.radiohost.de/ffn-comedy_mp3-192?upd-meta=0&upd-scheme=https&_art=dD0xNzU2OTQ4NjAwJmQ9OTY2NDEwMDhhZDBkMGFiMDc5MWE
+https://ffn.stream29.radiohost.de/ffn-comedy_mp3-192?upd-meta&upd-scheme=https&_art=dD0xNzY2MDcxMDUyJmQ9NzA4NTc0NzU1NjVhOWI2ZGU2ODQ
 #EXTINF:-1,Gitarre FM
 https://gitarrefm.stream.laut.fm/gitarrefm
 #EXTINF:-1,Studio Renaldo
@@ -148,7 +146,7 @@ https://aa-schlager.stream.laut.fm/aa-schlager?t302=2023-04-25_20-12-47&uuid=a74
 #EXTINF:-1,ELBE-Deutsch
 https://elbe-deutsch.stream.laut.fm/elbe-deutsch
 #EXTINF:-1,Radio FFN Tannenbaum
-https://ffn.stream22.radiohost.de/tannenbaum_mp3-192?upd-meta=0&upd-scheme=https&_art=dD0xNzU2OTQ4NjAxJmQ9N2QzNzc4MjBjNmIwMDdjMzk1YWI
+https://ffn.stream36.radiohost.de/tannenbaum_mp3-192?upd-meta&upd-scheme=https&_art=dD0xNzY2MDcxMDUzJmQ9ZmZiNWMyYzkwNTkzOGJhYjkzN2U
 #EXTINF:-1,Klangwelt
 https://klangwelt.stream.laut.fm/klangwelt
 #EXTINF:-1,Techrealm-Radio
@@ -159,6 +157,8 @@ https://inspirationofsounds.stream.laut.fm/inspirationofsounds
 https://aa-schlager.stream.laut.fm/aa-schlager
 #EXTINF:-1,Radio Osnabrück
 https://teuto.streamabc.net/teuto-radioosnabrck-mp3-192-8541649?sABC=64481065%230%23n1q9s1ns4osoonq326452q0po510q6pp%23fgernz.enqvbbfanoehrpx.qr&aw_0_1st.playerid=stream.radioosnabrueck.de&amsparams=playerid:stream.radioosnabrueck.de;skey:1682444389
+#EXTINF:-1,Radio Fun and More
+https://radiofunandmore.spcast.eu/stream?time=1766070756
 #EXTINF:-1,Radio Ganymed
 https://ganymed.stream.laut.fm/ganymed
 #EXTINF:-1,Hitradio Buxtehude
@@ -200,7 +200,7 @@ https://metalhead.stream.laut.fm/metalhead?t302=2023-09-19_12-36-48&uuid=a3c3a01
 #EXTINF:-1,SeaSickLand
 https://seasickland.stream.laut.fm/seasickland
 #EXTINF:-1,Radio FFN - 80er
-https://ffn.stream22.radiohost.de/ffn-80er_mp3-192?upd-meta=0&upd-scheme=https&_art=dD0xNzU2OTQ4NjA1JmQ9ODRjNjAwYjdmNWI0ZTA1NGMyMmQ
+https://ffn.stream36.radiohost.de/ffn-80er_mp3-192?upd-meta&upd-scheme=https&_art=dD0xNzY2MDcxMDU3JmQ9MzU3MTgxY2E0ZWQ5NDY4NDVmMzI
 #EXTINF:-1,Radio Back in Time
 https://backintime.stream.laut.fm/back_in_time
 #EXTINF:-1,ELBE-Radio
@@ -246,7 +246,7 @@ https://disco-circus-musicus-in-maerschendorf.stream.laut.fm/disco-circus-musicu
 #EXTINF:-1,Antenne Niedersachsen Schützenfest Hits
 https://antnds.streamabc.net/ands-antndsschuetzenfest-mp3-192-6805889?sABC=65097954%230%234r22236104s8nr3n29rss56oo6qo07n6%23bayvarenqvbobk&aw_0_1st.playerid=onlineradiobox&amsparams=playerid:onlineradiobox;skey:1695119700
 #EXTINF:-1,Radio FFN - Rockt
-https://ffn.stream04.radiohost.de/ffn-rockt_mp3-192?upd-meta=0&upd-scheme=https&_art=dD0xNzU2OTQ4NjA4JmQ9NThjYjkzZjI2NzA2NjhjZmQwMjQ
+https://ffn.stream37.radiohost.de/ffn-rockt_mp3-192?upd-meta&upd-scheme=https&_art=dD0xNzY2MDcxMDU5JmQ9NDI3YTRlZTBiMmM5M2E5NTczMWU
 #EXTINF:-1,Shout FM
 https://shoutfm.stream.laut.fm/shout_fm
 #EXTINF:-1,Nederpop
@@ -269,10 +269,10 @@ https://hrw.stream.laut.fm/hrw?t302=2023-04-25_20-08-15&uuid=d8fe4701-f023-465b-
 https://anmacha24.stream.laut.fm/anmacha24
 #EXTINF:-1,SturmWellenSender-retro
 https://sturmwellensender-retro.stream.laut.fm/sturmwellensender-retro?t302=2023-04-25_20-14-52&uuid=c14c3e6a-844a-42ad-aab5-a2a5b0d491d5
-#EXTINF:-1,Best-Friends-Radio
-https://stream2-alfacast-hosting.com/8012/stream/;
 #EXTINF:-1,Dampfradio Ostfriesland
 https://dampfradio-ostfriesland.stream.laut.fm/dampfradio-ostfriesland?t302=2023-04-25_20-18-59&uuid=36734e5c-5c10-49ba-a5f0-9f25a519d2e6
+#EXTINF:-1,Lüneburger Radio
+https://raum-two.spcast.eu/?time=1766070763
 #EXTINF:-1,Helmstedt-Radio
 https://helmstedt-radio.stream.laut.fm/helmstedt-radio?t302=2023-04-25_20-25-10&uuid=3386a0c7-4645-4266-b4ce-8232e95a18c1
 #EXTINF:-1,Music-Powerbeat
@@ -320,7 +320,7 @@ https://so80s.stream.laut.fm/so80s?t302=2023-09-19_12-34-35&uuid=04da7067-ad83-4
 #EXTINF:-1,Pleasuredome
 https://pleasuredome.stream.laut.fm/pleasuredome?t302=2023-04-25_19-35-52&uuid=151fc610-c671-4470-96a5-5e9283b96280
 #EXTINF:-1,Radio FFN - Hits
-https://ffn.stream03.radiohost.de/ffn-hits_mp3-192?upd-meta=0&upd-scheme=https&_art=dD0xNzU2OTQ4NjEyJmQ9YTc3OGQ2N2FlMzk1NjU2MmQ4Nzc
+https://ffn.stream05.radiohost.de/ffn-hits_mp3-192?upd-meta&upd-scheme=https&_art=dD0xNzY2MDcxMDY0JmQ9ZTVmOWQ2YzY5ZTI4YTBkNzM2OWE
 #EXTINF:-1,SofaSoul
 https://sofasoul.stream.laut.fm/sofasoul?t302=2023-04-25_20-03-30&uuid=41c198ae-b3eb-443a-9593-e2696ecd66c0
 #EXTINF:-1,Hitradio Lüneburg
@@ -443,28 +443,18 @@ https://nsw.streamabc.net/nsw-nswcaq0pnizcnzjbh6-mp3-192-2601293?sABC=65097nnn%2
 https://stationsnetzwerk.stream.laut.fm/stationsnetzwerk?t302=2023-09-19_12-45-02&uuid=af46f4b7-141b-4cb2-9915-6c4f1992a3e7
 #EXTINF:-1,Radio Antenne Schlager
 https://antnds.streamabc.net/ands-antenneschlager-mp3-192-8742257
-#EXTINF:-1,NDR 1 Niedersachsen
-http://f121.rndfnk.com/ard/ndr/ndr1niedersachsen/hannover/aac/64/stream.aac?cid=01FCT9XYE3C7Y8087XEWPRC38Z&sid=2R8xXJaTLfIZj5Xxy4JObLlc7Hj&token=R04j56uKIe7pCQWi8yvD25W6qb_mfUOK0P49fRMHJSc&tvf=LMC8m9U-aBdmMTIxLnJuZGZuay5jb20
 #EXTINF:-1,Shout-FM Nightclub Stream
 http://nightclub.stream.laut.fm/nightclub?t302=2023-04-25_19-30-36&uuid=eea47ccf-2637-45e8-bb23-fdac98966e6d
-#EXTINF:-1,NDR Info Spezial
-http://f131.rndfnk.com/ard/ndr/ndrinfospezial/live/mp3/128/ct/stream.mp3?cid=01FBRKN1A390NP121CHK7KT4AJ&sid=2R8xYOSvCZtDwTuH844NSoOqRYM&token=MZnmiswCYrudZT8__56PsALzOlrH-g6S14M1m95DG9w&tvf=omEIgdc-aBdmMTMxLnJuZGZuay5jb20
 #EXTINF:-1,NDR 1 Niedersachsen (OS)
 http://d141.rndfnk.com/ard/ndr/ndr1niedersachsen/osnabrueck/mp3/128/stream.mp3?cid=01FBQ22P4AF1KQ8TXKTWT2V3TD&sid=2R8xYtdjzGD1FwlPC2nE3n5kUxC&token=Eq-8CO_EG20eiBJFdarXVGaxkw2oIerQnls7h-ojcgI&tvf=rUPBe9g-aBdkMTQxLnJuZGZuay5jb20
 #EXTINF:-1,NDR Info (Niedersachsen)
 http://d111.rndfnk.com/ard/ndr/ndrinfo/niedersachsen/mp3/128/ct/stream.mp3?cid=01FBRKHKTB73QDVNX7A9RT082R&sid=2R8xYuG0YAOlxTCqh5WAa6ptlpd&token=fBhgFeMJSmXeFUx0kZGcu9Jh1FUb9c1IzgLn0_lpVmg&tvf=2J2nlNg-aBdkMTExLnJuZGZuay5jb20
-#EXTINF:-1,NDR 1 OS (AAC+)
-http://f131.rndfnk.com/ard/ndr/ndr1niedersachsen/osnabrueck/aac/64/stream.aac?cid=01FBQ22P4AF1KQ8TXKTWT2V3TD&sid=2R8xZFH4LURaMjRBnsn2dZal85n&token=zmd5HX5RroWqp5mRopPL9KkLPujkQEa8Ja7RwEmGlJI&tvf=CygTLdk-aBdmMTMxLnJuZGZuay5jb20
 #EXTINF:-1,NDR 1 Niedersachsen (LG)
 http://f141.rndfnk.com/ard/ndr/ndr1niedersachsen/lueneburg/mp3/128/stream.mp3?cid=01FBQ1ZR8CTPEVQ14RAZ06QG4E&sid=2R8xlosJBEn1ypC6wl2XKFjwb7Q&token=LG3OqtGm9mmViVb9HpxgknIhB-fZ8jx3WfoUWEUyWts&tvf=V2c4UfA-aBdmMTQxLnJuZGZuay5jb20
 #EXTINF:-1,Radio Nordseewelle (new)
 http://nsw.streamabc.net/nsw-radionswlive-mp3-192-5305115?sABC=64480s86%230%23n1q9s1ns4osoonq326452q0po510q6pp%23&aw_0_1st.playerid=&amsparams=playerid:;skey:1682444166
-#EXTINF:-1,NDR 1 Niedersachsen - Region Osnabrück
-http://f131.rndfnk.com/ard/ndr/ndr1niedersachsen/osnabrueck/aac/64/stream.aac?cid=01FBQ22P4AF1KQ8TXKTWT2V3TD&sid=2R8z1SHhnHN0laD7997nF7ub7oO&token=dNlyonNSOyO0g_txkbOfkkTgQmApM3wcR7V86bXV9n4&tvf=blPhOIA_aBdmMTMxLnJuZGZuay5jb20
 #EXTINF:-1,FFN Rockt
-https://ffn.stream22.radiohost.de/ffn-rockt_mp3-192?upd-meta=0&upd-scheme=https&_art=dD0xNzU2OTQ4NjE5JmQ9NzIxMzJkMmI4Nzg1MjI2ZGMzYmU
-#EXTINF:-1,NDR 2 Oldenburg
-http://d121.rndfnk.com/ard/ndr/ndr1niedersachsen/oldenburg/aac/64/stream.aac?cid=01FBQ21Y1N8XSK51H70YF5QHEH&sid=2R8z6evzOwICu8UUvogRZ7FZMc6&token=miMDu6VAcytz5_P3qQzvnS_BYwHvlOvI0QVuesGSd2Q&tvf=lfF7-ok_aBdkMTIxLnJuZGZuay5jb20
+https://ffn.stream40.radiohost.de/ffn-rockt_mp3-192?upd-meta&upd-scheme=https&_art=dD0xNzY2MDcxMDcwJmQ9MjljNjFhNzQ4Yzk5ODBkZjA4MmU
 #EXTINF:-1,Nineplusonescher Radio
 https://nineplusonescher.stream.laut.fm/nineplusonescher?t302=2023-04-25_20-08-39&uuid=fa25dda1-180f-45b5-97df-c53a7428333e
 #EXTINF:-1,Hitradio-Katernberg

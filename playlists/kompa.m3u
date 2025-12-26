@@ -1,22 +1,12 @@
 #EXTM3U
-#EXTINF:-1,Radio soleil des tropiques
-http://ecmanager4.pro-fhi.net:1850/stream
-#EXTINF:-1,www.telezoukla.com
-http://ecmanager4.pro-fhi.net:2600/stream
-#EXTINF:-1,TROPIC 84
-http://ecmanager4.pro-fhi.net:2740/stream
-#EXTINF:-1,Koneksyon 509
-http://usa10.fastcast4u.com:6280/stream
-#EXTINF:-1,w-hits
-http://ecmanager4.pro-fhi.net:2490/stream
-#EXTINF:-1,Tropiques Tradition
-https://listen.radioking.com/radio/8922/stream/19100
 #EXTINF:-1,Konpa Mix Radio
-https://das-edge09-live365-dal03.cdnstream.com/a15951
+https://das-edge62-live365-dal03.cdnstream.com/a15951
 #EXTINF:-1,Zouk Kompa 24 SEVEN!
 http://192.211.51.158:8052/stream/
 #EXTINF:-1,Radio Tele San Konplexx (RTSK)
 http://s22.myradiostream.com:8080/
+#EXTINF:-1,Koneksyon 509
+http://usa10.fastcast4u.com:6280/stream
 #EXTINF:-1,Radio Haiti Amérique Internationale
 http://173.208.177.90:21406/
 #EXTINF:-1,TDN Radio Caribbean
@@ -35,3 +25,7 @@ https://ecmanager4.pro-fhi.net:1855/stream
 http://ca7.rcast.net:8030/stream
 #EXTINF:-1,CHM Network
 http://c13.radioboss.fm:8254/stream
+#EXTINF:-1,Switch FM Haiti
+http://switchfmhaiti.primcast.com:5494/
+#EXTINF:-1,Tropiques Tradition
+https://listen.radioking.com/radio/8922/stream/19100

@@ -1,7 +1,3 @@
 #EXTM3U
-#EXTINF:-1,BG Radio - БГ Радио
-https://29073.live.streamtheworld.com/BG_RADIOAAC_L.aac
-#EXTINF:-1,BNR Programa Hristo Botev - Програма Христо Ботев
-https://e106-ts.cdn.bg/regstations/fls/HrBotev.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/HCSNS.png",Bulgarian Voice Radio
-http://149.13.0.80/bgradio128#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/HCSNS.png",Bulgarian Voice Radio
+http://149.13.0.80/bgradio128

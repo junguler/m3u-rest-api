@@ -1,102 +1,78 @@
 #EXTM3U
-#EXTINF:-1,Radio Brocken 80er
-https://fhhalle.streamabc.net/fhhal-brocken80er-aacplus-64-6017182?sABC=68p9rn49%230%23p3n6o69035474rp208o85r52n5rr2549%23bayvarenqvbobk&aw_0_1st.playerid=onlineradiobox&amsparams=playerid:onlineradiobox;skey:1758063177
-#EXTINF:-1,Radio 972
-https://28933.live.streamtheworld.com/RADIO972.mp3?dist=onlineradiobox
 #EXTINF:-1,Radio Energy
 https://gmusto.radioca.st/mp3
-#EXTINF:-1,Giant FM
-https://das-edge12-live365-dal02.cdnstream.com/a37861
+#EXTINF:-1,Radio Brocken 80er
+https://fhhalle.streamabc.net/fhhal-brocken80er-aacplus-64-6017182?sABC=6943snon%230%23rqop7p561p96680po2n533912117qnr5%23bayvarenqvbobk&aw_0_1st.playerid=onlineradiobox&amsparams=playerid:onlineradiobox;skey:1766062778
 #EXTINF:-1,Mortalfm
-http://server6.20comunicacion.com:8044/
+http://server6.20comunicacion.com:8044/;
+#EXTINF:-1,R.SA - Partywelle
+https://rsa.streamabc.net/regc-rsasachsen60erold5866133-aacplus-64-7872101?sABC=6943sno9%230%23rqop7p561p96680po2n533912117qnr5%23bayvarenqvbobk&aw_0_1st.playerid=onlineradiobox&amsparams=playerid:onlineradiobox;skey:1766062777
+#EXTINF:-1,Radio 972
+https://19983.live.streamtheworld.com/RADIO972.mp3?dist=onlineradiobox
 #EXTINF:-1,WNBI-LP
-http://wnbi.org:8008/stream/8/
-#EXTINF:-1,ROVA - One Direction
-https://24963.live.streamtheworld.com/ONEDIRECTION_S01AAC.aac?dist=onlineradiobox
-#EXTINF:-1,ROVA - Selena Gomez
-https://24963.live.streamtheworld.com/SELENAGOMEZ_S01AAC.aac?dist=onlineradiobox
-#EXTINF:-1,.977 Today&amp#39s Hits
-https://15113.live.streamtheworld.com/977_HITSAAC_SC?dist=onlineradiobox
-#EXTINF:-1,HappyHits - De beste Top 40 hits uit de jaren 70, 80 en 90. De perfecte mix van Middle of the Road muziek, Dance classics, Rock classics en Nederpop.
-https://mediacp.audiostreamen.nl:8150/stream
-#EXTINF:-1,Glafir russian-pop Music. Artist LENA KATINA
-https://free.rcast.net/253649
-#EXTINF:-1,DANCE POP
-https://free.rcast.net/249386
-#EXTINF:-1,technopop
-https://free.rcast.net/249028
-#EXTINF:-1,RadioDaciaProArges Romania Petrecere Manele Populara Dance
-https://free.rcast.net/247598
-#EXTINF:-1,RadioPitesteanuRomania populara petrecere manele etno dance
-https://free.rcast.net/246157
-#EXTINF:-1,Jack and Jill Radio; Pop Rock Dance 50s Big Band Classical Country Folk Jazz Blues: It's All Here!
-https://free.rcast.net/246139
-#EXTINF:-1,CLI - TONIC - MILANO - Via Procaccini, 34 - Radio In Store
-https://free.rcast.net/241980
-#EXTINF:-1,STUDIO 545
-https://azuracast.streams.ovh/radio/8120/radio.mp3
-#EXTINF:-1,POPDANCE
-https://dfm-popdance.hostingradio.ru/popdance96.aacp
-#EXTINF:-1,Radio Deejay HR
-http://144.76.39.214:7002/stream
-#EXTINF:-1,Radio Mega-HiT Romania
-https://live.radiomegahit.eu:8080/stream
-#EXTINF:-1,XRADIO
-http://185.8.60.5:8000/
-#EXTINF:-1,Radio Dance Music
-http://188.165.206.81:8130/stream
-#EXTINF:-1,Svit Matrasiv Radio
-http://188.191.237.252:8001/sm_radio
-#EXTINF:-1,Radio Doxa
-http://81.210.92.213:8000
-#EXTINF:-1,Radio Dragostea Nu Are Varsta - www.radiodragosteanuarevarsta.com
-https://radio.servereradio.eu:8025/stream
-#EXTINF:-1,Sonic Radio.Rocks
-https://radiohosts.xyz:8000/radio.mp3
+http://wnbi.org:8000/stream/1/
+#EXTINF:-1,Giant FM
+https://streamdb6web.securenetsystems.net/cirruscontent/WROI
+#EXTINF:-1,92.3 The Fox
+https://19273.live.streamtheworld.com/KOFXFMAAC.aac?dist=onlineradiobox
+#EXTINF:-1,BodakQueen Radio
+http://streamingp.shoutcast.com/JamendoLounge?lang=*
+#EXTINF:-1,DANCEableRADIO
+http://176.31.118.194:19580
+#EXTINF:-1,Keyf Station
+https://yayin.radyomadyo.com:8002/stream
 #EXTINF:-1,LHR Fresh dance Music
 http://82.168.150.108:8000/
-#EXTINF:-1,LolliRadio Happy
-https://stream.lolliradio.net:443/lolli_happy.aac
-#EXTINF:-1,RaSat Radio-Satisfaction
-http://85.215.192.51:8000/relay
-#EXTINF:-1,G Ditteo Radio
-http://streamingp.shoutcast.com/JamendoLounge?lang=*
-#EXTINF:-1,Radio 972 radio
-https://23543.live.streamtheworld.com/RADIO972.mp3?dist=onlineradiobox
+#EXTINF:-1,Radio Dance Music
+http://188.165.206.81:8130/stream
+#EXTINF:-1,Radio Deejay HR
+http://144.76.39.214:7002/stream
+#EXTINF:-1,RADIO NAKLO 107,5 MHz
+http://79.137.37.8:10750
+#EXTINF:-1,Radio Schermer
+http://77.235.42.77:80
+#EXTINF:-1,radiohost
+http://91.232.4.33:8024/stream
+#EXTINF:-1,Sonic Radio.Rocks
+https://radiohosts.xyz:8000/radio.mp3
+#EXTINF:-1,vivafm 953
+http://176.31.120.166:8742
+#EXTINF:-1,XRADIO
+http://185.8.60.5:8000/
+#EXTINF:-1,BigFM Dance Radio
+https://audiotainment-sw.streamabc.net/atsw-dance-mp3-128-1726899?sABC=6943so08%230%23rqop7p561p96680po2n533912117qnr5%23barfgbcenqvb&aw_0_1st.playerid=onestopradio&amsparams=playerid:onestopradio;skey:1766062856
+#EXTINF:-1,RPR1 Fitness
+https://audiotainment-sw.streamabc.net/atsw-fitness-mp3-128-9460201?sABC=6943so09%230%23rqop7p561p96680po2n533912117qnr5%23enqvbsz&aw_0_1st.playerid=radiofm&amsparams=playerid:radiofm;skey:1766062857
+#EXTINF:-1,RPR1 Tanzbar
+https://audiotainment-sw.streamabc.net/atsw-tanzbar-mp3-128-3571861?sABC=6943so09%230%23rqop7p561p96680po2n533912117qnr5%23enqvbsz&aw_0_1st.playerid=radiofm&amsparams=playerid:radiofm;skey:1766062857
+#EXTINF:-1,RPR1.90er Pop
+https://audiotainment-sw.streamabc.net/atsw-90erpop-mp3-128-4512525?sABC=6943so09%230%23rqop7p561p96680po2n533912117qnr5%23barfgbcenqvb&aw_0_1st.playerid=onestopradio&amsparams=playerid:onestopradio;skey:1766062857
+#EXTINF:-1,0nlineradio EDM FESTIVAL
+https://0nlineradio.stream42.radiohost.de/0r-edm-festival?ref=radiofm&upd-meta&upd-scheme=https&_art=dD0xNzY2MDYzMTYxJmQ9NjI2MmJiZGJiYTk0OTk2ZTY1NTE
+#EXTINF:-1,0nlineradio 2010s
+https://0nlineradio.stream42.radiohost.de/0r-2010er?ref=appradio&upd-meta&upd-scheme=https&_art=dD0xNzY2MDYzMTYxJmQ9ZmE5MzM1ZmIxMzlhNGQ1NWVkOGM
+#EXTINF:-1,0nlinerradio 2000s
+https://0nlineradio.stream42.radiohost.de/0r-2000er?ref=appradio&upd-meta&upd-scheme=https&_art=dD0xNzY2MDYzMTYxJmQ9MDE3ZjJkZjY4NTljNGNiNWI0OWY
+#EXTINF:-1,bigFM Sports
+https://audiotainment-sw.streamabc.net/atsw-sports-mp3-128-4216612?sABC=6943so0n%230%23rqop7p561p96680po2n533912117qnr5%23barfgbcenqvb&aw_0_1st.playerid=onestopradio&amsparams=playerid:onestopradio;skey:1766062858
+#EXTINF:-1,0nlineradio DEUTSCH
+https://0nlineradio.stream13.radiohost.de/0r-deutsch?ref=radiofm&upd-meta&upd-scheme=https&_art=dD0xNzY2MDYzMTU5JmQ9YTdlYWM4ZTA4YjQzOTIwOTQ4YTI
+#EXTINF:-1,Radiolovesound
+http://radiolovesound.stream.laut.fm/radiolovesound?t302=2025-12-18_13-00-59&uuid=18af76a9-ba93-4f16-b7b4-bde2d51e4a40
+#EXTINF:-1,0nlineradio GRAN PRIX
+https://0nlineradio.stream42.radiohost.de/0r-grandprix?ref=radiofm&upd-meta&upd-scheme=https&_art=dD0xNzY2MDYzMTYyJmQ9NDM4MWIxZjRiMTQzMTgyMzVjYTk
+#EXTINF:-1,0nlineradio DANCE
+https://0nlineradio.stream42.radiohost.de/0r-dance?ref=radiofm&upd-meta&upd-scheme=https&_art=dD0xNzY2MDYzMTYzJmQ9ZDg2NDViZGM0M2NhM2MzMThlZWY
 #EXTINF:-1,Disco-radio SOVA
 https://evcast.mediacp.eu:1965/stream
-#EXTINF:-1,Top 100station
-https://rautemusik.stream39.radiohost.de/top100station_aac-48?upd-meta=0&upd-scheme=https&ref=old&amsparams=old&_art=dD0xNzU3Mzc3NDk3JmQ9MDZmMzE0NGFjZDdmZGUzY2RmNTc
-#EXTINF:-1,BigFM Dance Radio
-https://audiotainment-sw.streamabc.net/atsw-dance-mp3-128-1726899?sABC=68os72nq%230%239r84n2sn8s21916q141429o2r60q5oq0%23barfgbcenqvb&aw_0_1st.playerid=onestopradio&amsparams=playerid:onestopradio;skey:1757377197
-#EXTINF:-1,RPR1 Fitness
-https://audiotainment-sw.streamabc.net/atsw-fitness-mp3-128-9460201?sABC=68os72nq%230%239r84n2sn8s21916q141429o2r60q5oq0%23enqvbsz&aw_0_1st.playerid=radiofm&amsparams=playerid:radiofm;skey:1757377197
-#EXTINF:-1,ANTENNE BAYERN Workout Hits
-http://s8-webradio.antenne.de/workout-hits/stream/mp3?aw_0_1st.playerid=MyTuner?an-uid=6427168739786314769&dot-uid=0ae52204009353f711da024a&amb-uid=3129243929485457110&aw-uid=496701d691b554cedc1fb7549b899846&dbm-uid=CAESEEbOY3J2oB4CQAcvph7s9LM&cto-uid=26930a0e-f907-449c-864d-404b5d9d618c-66b725f6-5553&bsw-uid=af63dd95-0d85-4708-8a4e-f3d900a3586c&dyn-uid=5267274478558955079&ttd-uid=d14d7e6b-bf1a-4e1f-bad4-4e32f212091b&triton-uid=cookie%3A345bdb43-71b8-47fb-b613-7da161aa708a&adt-uid=cuid_975e7101-bac4-11ef-81f6-12707100b72d&aw_0_req_lsid=395aab042974d6ad00dfce845aad63e4
-#EXTINF:-1,RPR1 Tanzbar
-https://audiotainment-sw.streamabc.net/atsw-tanzbar-mp3-128-3571861?sABC=68os72nq%230%239r84n2sn8s21916q141429o2r60q5oq0%23enqvbsz&aw_0_1st.playerid=radiofm&amsparams=playerid:radiofm;skey:1757377197
-#EXTINF:-1,RPR1.90er Pop
-https://audiotainment-sw.streamabc.net/atsw-90erpop-mp3-128-4512525?sABC=68os72nq%230%239r84n2sn8s21916q141429o2r60q5oq0%23barfgbcenqvb&aw_0_1st.playerid=onestopradio&amsparams=playerid:onestopradio;skey:1757377197
-#EXTINF:-1,0nlineradio EDM FESTIVAL
-https://0nlineradio.stream13.radiohost.de/0r-edm-festival?ref=radiofm&upd-meta=0&upd-scheme=https&_art=dD0xNzU3Mzc3NDk4JmQ9MmFhM2Q3MWJiZTcxOGIxZmI4NjA
-#EXTINF:-1,0nlineradio 2010s
-https://0nlineradio.stream13.radiohost.de/0r-2010er?ref=appradio&upd-meta=0&upd-scheme=https&_art=dD0xNzU3Mzc3NDk4JmQ9MWY0N2VmZDczMTc5YWVmODBlNTY
-#EXTINF:-1,0nlinerradio 2000s
-https://0nlineradio.stream42.radiohost.de/0r-2000er?ref=appradio&upd-meta=0&upd-scheme=https&_art=dD0xNzU3Mzc3NDk4JmQ9NGZjZDBiODlkYjBjYTZkZGVjMDY
-#EXTINF:-1,bigFM Sports
-https://audiotainment-sw.streamabc.net/atsw-sports-mp3-128-4216612?sABC=68os72nr%230%239r84n2sn8s21916q141429o2r60q5oq0%23barfgbcenqvb&aw_0_1st.playerid=onestopradio&amsparams=playerid:onestopradio;skey:1757377198
-#EXTINF:-1,0nlineradio DEUTSCH
-https://0nlineradio.stream42.radiohost.de/0r-deutsch?ref=radiofm&upd-meta=0&upd-scheme=https&_art=dD0xNzU3Mzc3NDk4JmQ9ZDBhMmJkMDFmOGU4MjRkNDdjNGY
-#EXTINF:-1,Radiolovesound
-http://radiolovesound.stream.laut.fm/radiolovesound?t302=2025-09-09_00-19-58&uuid=bc34353a-146c-4afa-b196-b30154e3f03e
-#EXTINF:-1,0nlineradio GRAN PRIX
-https://0nlineradio.stream13.radiohost.de/0r-grandprix?ref=radiofm&upd-meta=0&upd-scheme=https&_art=dD0xNzU3Mzc3NDk5JmQ9NjQzNzMyNzYxM2E4YTk3ZDQ1Yjg
-#EXTINF:-1,0nlineradio DANCE
-https://0nlineradio.stream42.radiohost.de/0r-dance?ref=radiofm&upd-meta=0&upd-scheme=https&_art=dD0xNzU3Mzc3NDk5JmQ9MmM1MDFjOWQ0ODQxMDNjZWEwMWM
 #EXTINF:-1,Queerly Radio
 https://play.queerlyradio.com/radio/8000/queerly256.mp3
 #EXTINF:-1,laFRESCA
 https://stream.produccionesdale.com:8899/altacalidad
+#EXTINF:-1,Lockout Radio
+https://radios.blumhost.es/8002/stream
+#EXTINF:-1,Radio CdiS - Castel di Sangro
+http://stream.zeno.fm/7vxqvg9c5p8uv.m3u
 #EXTINF:-1,Radio Nervios
 https://s44.radiolize.com/radio/8050/radio.mp3
 #EXTINF:-1,100 GREATEST OF THE 80s
@@ -112,35 +88,45 @@ https://mediacp.audiostreamen.nl/radiobingo
 #EXTINF:-1,Komilfoo FM
 http://eu1.reliastream.com:7052/stream
 #EXTINF:-1,Radio Summernight FM
-https://radiosummernight.stream.laut.fm/radiosummernight?t302=2025-09-09_00-20-02&uuid=edbc0da5-28b3-492f-a589-47826fa10438
+https://radiosummernight.stream.laut.fm/radiosummernight?t302=2025-12-18_13-01-04&uuid=a457bf90-81ec-413d-95a9-fb10605fc61c
 #EXTINF:-1,my105 DJ Radio
-http://my105.stream16.radiohost.de/my105-djradio_mp3-192?upd-meta=0&upd-scheme=http&_art=dD0xNzU3Mzc3NTAxJmQ9NTk0OWQyMTU2NTZkYzBmZjkzNzA
+http://my105.stream17.radiohost.de/my105-djradio_mp3-192?upd-meta&upd-scheme=http&_art=dD0xNzY2MDYzMTY0JmQ9NGI0Mzg1ZjA5MjZkZTQ3N2YzNWY
 #EXTINF:-1,GALGALATZ - 91.8 FM
 https://glzwizzlv.bynetcdn.com/glglz_mp3
 #EXTINF:-1,Best Pro Radio
-https://strw3.openstream.co/2484?aw_0_1st.collectionid%3D6428%26stationId%3D6428%26publisherId%3D2508%26k%3D1757377202
-#EXTINF:-1,Famed Bar
-https://strw3.openstream.co/1227?aw_0_1st.collectionid%3D6580%26stationId%3D6580%26publisherId%3D1251%26k%3D1757377202
+https://strw3.openstream.co/2484?aw_0_1st.collectionid%3D6428%26stationId%3D6428%26publisherId%3D2508%26k%3D1766062864
 #EXTINF:-1,Latitude Tirana
-https://strw3.openstream.co/1248?aw_0_1st.collectionid%3D6588%26stationId%3D6588%26publisherId%3D1272%26k%3D1757377202
+https://strw3.openstream.co/1248?aw_0_1st.collectionid%3D6588%26stationId%3D6588%26publisherId%3D1272%26k%3D1766062865
 #EXTINF:-1,Xradio
 http://185.8.60.5:8000/listen.pls?sid=1
-#EXTINF:-1,LifeFM
-https://rhema-radio.streamguys1.com/rhema-lifefm.mp3
-#EXTINF:-1,DANCEableRADIO
-http://176.31.118.194:19580
-#EXTINF:-1,Keyf Station
-https://yayin.radyomadyo.com:8002/stream
-#EXTINF:-1,RADIO NAKLO 107,5 MHz
-http://79.137.37.8:10750
-#EXTINF:-1,Radio Schermer
-http://77.235.42.77:80
-#EXTINF:-1,radiohost
-http://91.232.4.33:8024/stream
-#EXTINF:-1,vivafm 953
-http://176.31.120.166:8742
-#EXTINF:-1,YourHitzRadio
-https://server6.emitironline.com:8044/
+#EXTINF:-1,Mortalfm radio
+http://server6.20comunicacion.com:8044/
+#EXTINF:-1,Giant FM radio
+https://das-edge12-live365-dal02.cdnstream.com/a37861
+#EXTINF:-1,HappyHits - De beste Top 40 hits uit de jaren 70, 80 en 90. De perfecte mix van Middle of the Road muziek, Dance classics, Rock classics en Nederpop.
+https://mediacp.audiostreamen.nl:8150/stream
+#EXTINF:-1,DANCE POP
+https://evcast.mediacp.eu:1070/stream
+#EXTINF:-1,technopop
+https://free.rcast.net/249028
+#EXTINF:-1,RadioDaciaProArges Romania Petrecere Manele Populara Dance
+https://free.rcast.net/247598
+#EXTINF:-1,RadioPitesteanuRomania populara petrecere manele etno dance
+https://free.rcast.net/246157
+#EXTINF:-1,Jack and Jill Radio; Pop Rock Dance 50s Big Band Classical Country Folk Jazz Blues: It's All Here!
+https://free.rcast.net/246139
+#EXTINF:-1,CLI - TONIC - MILANO - Via Procaccini, 34 - Radio In Store
+https://free.rcast.net/241980
+#EXTINF:-1,STUDIO 545
+https://azuracast.streams.ovh/radio/8120/radio.mp3
+#EXTINF:-1,POPDANCE
+https://dfm-popdance.hostingradio.ru/popdance96.aacp
+#EXTINF:-1,La Chimba Radio
+http://64.37.50.226:8124/stream
+#EXTINF:-1,Radio Dragostea Nu Are Varsta - www.radiodragosteanuarevarsta.com
+https://radio.servereradio.eu:8025/stream
+#EXTINF:-1,LolliRadio Happy
+https://stream.lolliradio.net:443/lolli_happy.aac
 #EXTINF:-1,Radio Go Light
 http://misato.ru-hoster.com:8026/stream
 #EXTINF:-1,Кинозал.ТВ
@@ -161,18 +147,16 @@ https://icecast-qmusicnl-cdp.triple-it.nl/Joe_nl_nonstop_high.aac
 https://radiorecord.hostingradio.ru/rus96.aacp
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/103213/logo_0qCCh9Xyw6.png",RADIO DANCE 90s
 https://radiodance.streamingmedia.it/audio.aac
-#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/94938/logo_FyUSii1Im1.png",Giant FM Radio
-https://das-edge62-live365-dal03.cdnstream.com/a37861
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/665/logo_AeBq2VhweO.png",Гоп FM - Радио Рекорд
 https://radiorecord.hostingradio.ru/gop96.aacp
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/53613/logo_P5ivmRPR72.png",Radio 972
-https://22653.live.streamtheworld.com/RADIO972.mp3
+https://29053.live.streamtheworld.com/RADIO972.mp3
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/85431/logo_CGYRRjcUXm.png",ROVA - One Direction Radio
-https://27163.live.streamtheworld.com/ONEDIRECTION_S01AAC.aac
+https://14093.live.streamtheworld.com/ONEDIRECTION_S01AAC.aac
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/53960/logo_wOYz2qwmx9.png",Колбасный Цех - Радио Рекорд
 https://radiorecord.hostingradio.ru/pump96.aacp
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/85398/logo_9AOU9bWDmd.png",ROVA - Selena Gomez Radio
-https://22973.live.streamtheworld.com/SELENAGOMEZ_S01AAC.aac
+https://14093.live.streamtheworld.com/SELENAGOMEZ_S01AAC.aac
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/669/logo_Ixsc3uFUTE.png",Remix - Радио Рекорд
 https://radiorecord.hostingradio.ru/rmx96.aacp
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/103424/logo_E2RvJdw3lF.png",Life Radio Non Stop Music
@@ -194,7 +178,7 @@ https://mc-wintercup.hostingradio.ru/wintercup96.aacp
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/102889/180_6SacrHbRyE.png",Радио Unistar - В темпе
 https://stream.unistar.by/unistar_fast_internal/unistar_fast/unistar_fast/unistar_fast_128/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/32246/logo_UyW9nO3rPk.png",Radio Brocken 80er
-https://fhhalle.streamabc.net/fhhal-brocken80er-aacplus-64-6017182?sABC=6935r262%230%239prp8520p95q9068n24214n9qo3snn92%23&aw_0_1st.playerid=&amsparams=playerid:;skey:1765139042
+https://fhhalle.streamabc.net/fhhal-brocken80er-aacplus-64-6017182?sABC=6943so22%230%23rqop7p561p96680po2n533912117qnr5%23&aw_0_1st.playerid=&amsparams=playerid:;skey:1766062882
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/103274/logo_XHzCTod8vX.png",Radio Pitesti 1 Romania
 https://ssl.radios.show:7008/stream
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/157/logo_Ajwlhrq9qG.png",Радио MAKKIRUS
@@ -210,13 +194,13 @@ https://streaming.nrjaudio.fm/oupnhrbgddr9
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/103352/logo_oUJonH6bOO.png",NRJ Pour Le Sport Radio
 https://streaming.nrjaudio.fm/ouy59236zcw2
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/32424/logo_vimIbYpJKD.png",Radio Regenbogen 90er Dance
-https://audiotainment-sw.streamabc.net/atsw-90erdance-mp3-128-7929578?sABC=6935r265%230%239prp8520p95q9068n24214n9qo3snn92%23enqvbfcvaare&aw_0_1st.playerid=radiospinner&amsparams=playerid:radiospinner;skey:1765139045
+https://audiotainment-sw.streamabc.net/atsw-90erdance-mp3-128-7929578?sABC=6943so24%230%23rqop7p561p96680po2n533912117qnr5%23enqvbfcvaare&aw_0_1st.playerid=radiospinner&amsparams=playerid:radiospinner;skey:1766062884
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/31895/logo_952XBT7Uqw.png",Radio Regenbogen - Workout
-https://audiotainment-sw.streamabc.net/atsw-workout-mp3-128-6094244?sABC=6935r265%230%239prp8520p95q9068n24214n9qo3snn92%23enqvbfcvaare&aw_0_1st.playerid=radiospinner&amsparams=playerid:radiospinner;skey:1765139045
+https://audiotainment-sw.streamabc.net/atsw-workout-mp3-128-6094244?sABC=6943so24%230%23rqop7p561p96680po2n533912117qnr5%23enqvbfcvaare&aw_0_1st.playerid=radiospinner&amsparams=playerid:radiospinner;skey:1766062884
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/103418/logo_u0KTCSYqcp.png",Energy Österreich Radio
 https://streaming.nrjaudio.fm/ouvfydoarp52
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/103464/logo_7OYao8MiQ1.png",SLAM! Dance 1000 Radio
-https://28973.live.streamtheworld.com/WEB15_AAC_SC
+https://22333.live.streamtheworld.com/WEB15_AAC_SC
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/103423/logo_5ZGSAoZi9z.png",Life Radio Apres Ski Hits
 https://liferadio.streamabc.net/lfr-apresskihits-mp3-192-2273104
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/103417/logo_qpZfss5BLf.png",Energy - Salzburg Radio

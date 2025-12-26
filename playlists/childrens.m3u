@@ -51,8 +51,6 @@ https://stream02.pcradio.biz/teddy_xmashits-med
 https://stream02.pcradio.biz/cro_radiojunior_cz-med
 #EXTINF:-1,Kinderradio
 https://stream02.pcradio.biz/lautfm_kinderradio-med
-#EXTINF:-1,Rádio Junior Písničky Radio
-https://stream02.pcradio.biz/junior_pisnicky_cz-med
 #EXTINF:-1,Radio Teddy
 https://stream02.pcradio.biz/radioteddy_de-med
 #EXTINF:-1,Kids Hits Radio
@@ -71,8 +69,6 @@ https://stream02.pcradio.biz/one_kids-med
 https://stream02.pcradio.biz/record_vesnush-med
 #EXTINF:-1,Kinderlieder Radio
 https://stream02.pcradio.biz/kinderlieder_laut-med
-#EXTINF:-1,Henri Des Radio
-https://stream02.pcradio.biz/radio_henrides_net-med
 #EXTINF:-1,Radio Childrens Republic 89.2 FM
 https://stream02.pcradio.biz/rad_chdrnrplc-med
 #EXTINF:-1,@SkazkiNaroda in Telegram Radio
@@ -93,8 +89,6 @@ https://stream02.pcradio.biz/rad_dtskrdsc-med
 https://pub0301.101.ru:8443/stream/air/mp3/256/199
 #EXTINF:-1,101.ru - Детские Сказки
 https://pub0202.101.ru:8443/stream/pro/aac/64/222?
-#EXTINF:-1,Radio Acktiva
-https://24403.live.streamtheworld.com:443/RADIO_ACTIVAAAC.aac
 #EXTINF:-1,Z 88.3 FM
 https://ice.zradio.org/z/high.mp3
 #EXTINF:-1,Fun Kids
@@ -112,59 +106,55 @@ https://stream.eleden.com/wtpm.aac/wtpm.aac.stream/chunklist_w568737399.m3u8
 #EXTINF:-1,TOGGO Radio – Weihnachten
 https://superrtl.streamabc.net/srtl-weihnachten-mp3-128-6850363?sABC=65097n01%230%234r22236104s8nr3n29rss56oo6qo07n6%23bayvarenqvbobk&aw_0_1st.playerid=onlineradiobox&amsparams=playerid:onlineradiobox;skey:1695119873
 #EXTINF:-1,For Kids Movie Soundtracks
-https://nl4.mystreaming.net/uber/forkidzmoviesoundtracks/icecast.audio
+https://2.mystreaming.net/uber/forkidzmoviesoundtracks/icecast.audio
 #EXTINF:-1,For Kids Dance Party
-https://nl4.mystreaming.net/uber/forkidzdanceparty/icecast.audio
+https://2.mystreaming.net/uber/forkidzdanceparty/icecast.audio
 #EXTINF:-1,TOGGO Radio – Chillen
 https://superrtl.streamabc.net/srtl-chillen-mp3-192-6476456?sABC=65097n01%230%234r22236104s8nr3n29rss56oo6qo07n6%23bayvarenqvbobk&aw_0_1st.playerid=onlineradiobox&amsparams=playerid:onlineradiobox;skey:1695119873
 #EXTINF:-1,JENNiRADIO
-https://das-edge11-live365-dal03.cdnstream.com/a31857
+https://das-edge14-live365-dal02.cdnstream.com/a31857
 #EXTINF:-1,Radio TEDDY
 https://irmedia.streamabc.net/irm-rtlive-mp3-128-6306268
 #EXTINF:-1,For Kids Pop Hits
-https://nl4.mystreaming.net/uber/forkidzpophits/icecast.audio
+https://2.mystreaming.net/uber/forkidzpophits/icecast.audio
 #EXTINF:-1,TOGGO Radio – Spielen
 https://superrtl.streamabc.net/srtl-spielen-mp3-192-8940187?sABC=65097n01%230%234r22236104s8nr3n29rss56oo6qo07n6%23bayvarenqvbobk&aw_0_1st.playerid=onlineradiobox&amsparams=playerid:onlineradiobox;skey:1695119873
 #EXTINF:-1,TOGGO Radio – Familien Mix
 https://superrtl.streamabc.net/srtl-familienmix-mp3-192-3838430?sABC=65097n01%230%234r22236104s8nr3n29rss56oo6qo07n6%23bayvarenqvbobk&aw_0_1st.playerid=onlineradiobox&amsparams=playerid:onlineradiobox;skey:1695119873
 #EXTINF:-1,For Kids Classical
-https://nl4.mystreaming.net/uber/forkidzclassical/icecast.audio
+https://2.mystreaming.net/uber/forkidzclassical/icecast.audio
 #EXTINF:-1,La Voz de la Verdad Radio
 https://cloudstream2034.conectarhosting.com/8062/stream
 #EXTINF:-1,For Kids - Kidz Bop
-https://nl4.mystreaming.net/uber/forkidzkidzbop/icecast.audio
+https://2.mystreaming.net/uber/forkidzkidzbop/icecast.audio
 #EXTINF:-1,TOGGO Radio – Wachmach Songs
 https://superrtl.streamabc.net/srtl-wachmachsongs-mp3-128-6555695?sABC=65097n01%230%234r22236104s8nr3n29rss56oo6qo07n6%23bayvarenqvbobk&aw_0_1st.playerid=onlineradiobox&amsparams=playerid:onlineradiobox;skey:1695119873
 #EXTINF:-1,For Kids Calm
-https://nl4.mystreaming.net/uber/forkidzcalm/icecast.audio
+https://2.mystreaming.net/uber/forkidzcalm/icecast.audio
 #EXTINF:-1,For Kids Sleep Kidz
-https://nl4.mystreaming.net/uber/forkidzsleep/icecast.audio
-#EXTINF:-1,Radio Infantil .com
-https://s01.digitalserver.org:7635/;stream.nsv
+https://2.mystreaming.net/uber/forkidzsleep/icecast.audio
 #EXTINF:-1,KinderOhrenKino
 https://kinderohrenkino.stream.laut.fm/kinderohrenkino
 #EXTINF:-1,For Kids Nursery Rhymes
-https://nl4.mystreaming.net/uber/forkidznurseryrhymes/icecast.audio
+https://2.mystreaming.net/uber/forkidznurseryrhymes/icecast.audio
 #EXTINF:-1,For Kids Bathtime Fun
-https://nl4.mystreaming.net/uber/forkidzbathtimefun/icecast.audio
+https://2.mystreaming.net/uber/forkidzbathtimefun/icecast.audio
 #EXTINF:-1,For Kids Bedtime Stories
-https://nl4.mystreaming.net/uber/forkidzbedtimestories/icecast.audio
+https://2.mystreaming.net/uber/forkidzbedtimestories/icecast.audio
 #EXTINF:-1,For Kids Pinkfong
-https://nl4.mystreaming.net/uber/forkidzpinkfong/icecast.audio
+https://2.mystreaming.net/uber/forkidzpinkfong/icecast.audio
 #EXTINF:-1,For Kids Lullabys
-https://nl4.mystreaming.net/uber/forkidzlullabys/icecast.audio
+https://2.mystreaming.net/uber/forkidzlullabys/icecast.audio
 #EXTINF:-1,For Kids Wake &amp; Shake
-https://nl4.mystreaming.net/uber/forkidzwakeandshake/icecast.audio
+https://2.mystreaming.net/uber/forkidzwakeandshake/icecast.audio
 #EXTINF:-1,For Kids Toddler Tunes
-https://nl4.mystreaming.net/uber/forkidztoddlertunes/icecast.audio
+https://2.mystreaming.net/uber/forkidztoddlertunes/icecast.audio
 #EXTINF:-1,Radio Kinderwelle
 https://kinderwelle.stream.laut.fm/kinderwelle
 #EXTINF:-1,The Kids MIXX
 https://ais-sa2.cdnstream1.com/1986_64.aac
-#EXTINF:-1,Smooth 90.1fm
-https://s25.myradiostream.com/:15172/listen.mp3?nocache=1682450342
 #EXTINF:-1,ABC KIDS listen
-https://mediaserviceslive.akamaized.net/hls/live/2038321/abcextra/masterlq.m3u8
+https://streaming.abc-cdn.net.au/audio/hls/abckids.m3u8
 #EXTINF:-1,Radio TEDDY - Kinderlieder
 https://irmedia.streamabc.net/irm-rtkinderlieder-mp3-128-8310381
 #EXTINF:-1,Radio TEDDY - Weihnachtslieder
@@ -230,7 +220,7 @@ https://allzic14.ice.infomaniak.ch/allzic14.mp3
 #EXTINF:-1,Allzic Radio 4/7
 https://allzic15.ice.infomaniak.ch/allzic15.mp3
 #EXTINF:-1,Christmas Hope
-https://23163.live.streamtheworld.com/2CBA_CHRISTMASHOPEAAC.aac
+https://28803.live.streamtheworld.com/2CBA_CHRISTMASHOPEAAC.aac
 #EXTINF:-1,Allzic Radio Comptines
 https://allzic05.ice.infomaniak.ch/allzic05.mp3
 #EXTINF:-1,181.FM Christmas Kids
@@ -261,14 +251,14 @@ https://kidsclub-illerfroesche.stream.laut.fm/kidsclub-illerfroesche
 https://strmreg.1.fm/kidsfm_mobile_mp3
 #EXTINF:-1,Pucki
 https://pucki.stream.laut.fm/pucki
+#EXTINF:-1,Schwany 7 - Märchen
+https://maerchenradio.spcast.eu/stream?time=1766061814
 #EXTINF:-1,Rádio Miúdos
 https://s5.radio.co/s9c516a065/listen
 #EXTINF:-1,Radio Cron
 https://cron.stream.laut.fm/cron?t302=2023-04-25_19-48-23&uuid=61aa7afb-60b4-41dc-a278-c789dc94e988
 #EXTINF:-1,Radio Vibra
 https://streaming.brol.tech/rtfmlounge
-#EXTINF:-1,Genesis 102.7 HD
-https://s01.digitalserver.org:7618/;
 #EXTINF:-1,Сказка FM
 https://skazka.amgradio.ru/Skazka
 #EXTINF:-1,Kinder Weihnachts Radio
@@ -303,8 +293,6 @@ https://fluxfm.streamabc.net/flx-kinder1-mp3-128-2866827
 https://kinderlieder-123.stream.laut.fm/kinderlieder-123
 #EXTINF:-1,Radio Regenbogen - Kinderlieder
 https://audiotainment-sw.streamabc.net/atsw-kinderlieder-mp3-128-6463801?sABC=65097568%230%234r22236104s8nr3n29rss56oo6qo07n6%23bayvarenqvbobk&aw_0_1st.playerid=onlineradiobox&amsparams=playerid:onlineradiobox;skey:1695118696
-#EXTINF:-1,Radio Kosava Kids
-https://kids.radiokosava.rs/;stream.mp3
 #EXTINF:-1,La Senda de la Vida
 http://stream1.305stream.com:8294/live?hash=1548069268984.mp3
 #EXTINF:-1,Kinderradio Anhalt
@@ -326,9 +314,7 @@ http://95.211.178.215:8016/stream
 #EXTINF:-1,Kinderradio Hoppel
 https://kinderradio-hoppel.stream.laut.fm/kinderradio-hoppel?t302=2023-09-19_12-44-59&uuid=94b2be5f-cf34-40e7-ad32-a9dc05342443
 #EXTINF:-1,Radioapans knattekanal
-https://http-live.sr.se/knattekanalen-aac-96
-#EXTINF:-1,Mouv&#039; - Kids&#039;n Family
-https://stream.radiofrance.fr/mouvkidsnfamily/mouvkidsnfamily_hifi.m3u8
+https://edge1.sr.se/gammal
 #EXTINF:-1,Baby FM - Детское радио
 https://a5.radioheart.ru:8012/RH1916
 #EXTINF:-1,Радио Kids Hits
@@ -351,6 +337,12 @@ https://xhudo-megacaster.radioca.st/stream
 https://online.radiorecord.com.ua/deti
 #EXTINF:-1,САФ Радио
 https://c7.radioboss.fm:18335/stream
+#EXTINF:-1,Радио Поколение Z
+https://listen7.myradio24.com/djmashkoff
+#EXTINF:-1,Faith FM
+https://ice7.securenetsystems.net/CJTWFM
+#EXTINF:-1,FaithFM
+https://ice7.securenetsystems.net/CHJXFM
 #EXTINF:-1,Mas Flo 107.7
 https://vsstreaming.com/8026/stream
 #EXTINF:-1,Little Rockers Radio
@@ -359,12 +351,12 @@ https://streamdb5web.securenetsystems.net/v5/index.cfm?stationCallSign=LRRADIO
 http://streamingp.shoutcast.com/JamendoLounge
 #EXTINF:-1,Sensación 95.5 (Xalapa) - 95.5 FM - XHTP-FM - Oliva Radio - Banderilla / Xalapa, VE
 http://sss.cnwks.ws:8322/;
+#EXTINF:-1,Éxitos (Matamoros) - 91.3 FM - XHMLS-FM - Grupo Radio Avanzado - Matamoros, Tamaulipas
+https://ice8.securenetsystems.net/EXITO913
 #EXTINF:-1,Hallokids Radio
 https://ice.cr6.streamzilla.xlcdn.com:8000/sz=Hallokidsradio=mp3?token=2e1eefc4ce08062170365603f06bfdd6&time=609bccb7
 #EXTINF:-1,Exa FM Tapachula - 91.5 FM / 1000 AM - XHTAC-FM / XETAC-AM - Radio Cañón / NTR Medios de Comunicación - Tapachula, CS
 https://streaming.servicioswebmx.com/8248/stream
-#EXTINF:-1,Sveriges Radio - Radioapans knattekanal
-https://http-live.sr.se/knattekanalen-mp3-192
 #EXTINF:-1,MDR tweens
 http://d111.rndfnk.com/ard/mdr/991101/0/mp3/128/stream.mp3?cid=01FBQ1C4TX1ZSXVC7JBEYNVDDJ&sid=2R8xncUUvkENZ9AFZtSL1b1bG3f&token=EvAnb7MTpiKLNLf9KLyk1aTjv_lKhXMHqiJxZ4SdXZQ&tvf=pZKj7PM-aBdkMTExLnJuZGZuay5jb20
 #EXTINF:-1,Exa FM Comitán - 95.7 FM - XHCTS-FM - Radio Cañón / NTR Medios de Comunicación - Comitán, CS
@@ -399,6 +391,8 @@ http://audioout.gvstream.net/gpm-exa897.aac
 https://sp2.servidorrprivado.com:10858/stream
 #EXTINF:-1,Kinder-Weihnacht
 http://kinderweihnachtsradio.stream.laut.fm/kinderweihnachtsradio?t302=2023-04-25_19-30-24&uuid=901ec6fe-de8d-4dc9-bf0d-663b6f6ad1a9
+#EXTINF:-1,LOS40 Agua Prieta - 99.9 FM - XHNNO-FM - Grupo Radiofónico ZER - Agua Prieta, SO
+https://live.zuperdns.net/9990/stream/;stream.mp3
 #EXTINF:-1,Máxima Ciudad Obregón - 97.7 FM - XHHO-FM - Grupo RADIOSA - Ciudad Obregón, SO
 http://www.tuasesorweb.com:8020/;
 #EXTINF:-1,Máxima Hermosillo - 96.3 FM - XHVS-FM - Grupo RADIOSA - Hermosillo, SO
@@ -441,6 +435,8 @@ https://ss1.audiorama.com.mx:6608/;
 http://s2.mexside.net/8002/stream
 #EXTINF:-1,河南卷卷猫电台（2）
 http://stream3.hndt.com/now/PHucVOu2/playlist.m3u8
+#EXTINF:-1,POP FM (CDMX) - Online - www.popfm.mx - Ciudad de México
+https://ice42.securenetsystems.net/POP
 #EXTINF:-1,Radio Disney Toluca - 102.1 FM - XHTOM-FM - Grupo Siete - Toluca, Estado de México
 https://26373.live.streamtheworld.com:443/XHTOMFMAAC.aac
 #EXTINF:-1,LOS40 Guadalajara - 102.7 FM - XEHL-FM - Radiópolis - Guadalajara, JC
@@ -463,14 +459,14 @@ https://ss1.audiorama.com.mx:6616/super
 http://streams.calmradio.com:19728/stream/1/
 #EXTINF:-1,Máxima Ciudad del Carmen - 98.9 FM - XHCMN-FM - Grupo RADIOSA - Ciudad del Carmen, CM
 http://www.tuasesorweb.com:8016/stream/1/
-#EXTINF:-1,Exa FM Ciudad Mante - 91.9 FM - XHRLM-FM - ORT (Organización Radiofónica Tamaulipeca) - Ciudad Mante, TM
-https://s01.digitalserver.org/8066/stream.aac
 #EXTINF:-1,RMF Dla dzieci
 http://195.150.20.8/BABY
 #EXTINF:-1,Bright.FM Kids
 http://str1.hollanddata.eu:8020/stream
 #EXTINF:-1,Fun Kids Junior
 http://listen-funkids.sharp-stream.com/funkidsjunior.mp3
+#EXTINF:-1,Exa FM Las Vegas - 94.5 FM - KXLI - Radio Activo Broadcasting, LLC - Las Vegas, Nevada
+https://ice9.securenetsystems.net/KXLI
 #EXTINF:-1,International Children&#039;s Arts Network
 https://allclassical-ord.streamguys1.com/ICAN
 #EXTINF:-1,Exa FM San Juan del Río - 99.1 FM - XHVI-FM - San Juan del Río, Querétaro
@@ -490,11 +486,9 @@ https://piccpndali.v.myalicdn.com/audio/cctv14_2.m3u8
 #EXTINF:-1,Mix FM
 https://26643.live.streamtheworld.com:443/MIXFM_SAOPAULOAAC.aac
 #EXTINF:-1,ABC triple j
-https://mediaserviceslive.akamaized.net/hls/live/2038308/triplejnsw/index.m3u8
+https://streaming.abc-cdn.net.au/audio/hls/triplejnsw.m3u8
 #EXTINF:-1,YourTime-FM
 https://yourtime-fm.stream.laut.fm/yourtime-fm
-#EXTINF:-1,Mouv&#039; Xtra
-http://icecast.radiofrance.fr/mouv100p100mix-midfi.mp3
 #EXTINF:-1,Mouv&#039; (LQ)
 http://icecast.radiofrance.fr/mouv-lofi.mp3
 #EXTINF:-1,COOLFM YouTube HOT HITS!
@@ -503,31 +497,15 @@ https://mediagw.e-tiger.net/stream/zc22
 http://f141.rndfnk.com/ard/sr/ud/mp3/64/stream.mp3?aggregator=audiostreamio&cid=01FG960VJVFJ0W1Z1CF5VSH6X5&sid=2R8xZqCFwpI8rtd86rtXrNGQQ72&token=JCCuyMZ4VSPe5N8wmg_Vp_2OGqoGOa0h88Hv51bVyic&tvf=MD1SQ9o-aBdmMTQxLnJuZGZuay5jb20
 #EXTINF:-1,Moranbah 4RFM 96.6MHz FM Community Radio Central Queensland
 https://stream.4rfm.com.au/1
+#EXTINF:-1,HOTT 95.3 FM
+https://ice64.securenetsystems.net/HOTT953
+#EXTINF:-1,ABC Triple J (WA)
+http://abc.streamguys1.com/live/triplejwa/icecast.audio
+#EXTINF:-1,ABC Triple J (SA)
+http://abc.streamguys1.com/live/triplejsa/icecast.audio
 #EXTINF:-1,FluxFM - Kool Kids
 http://fluxfm.streamabc.net/flx-fluxfmberlin-mp3-320-3394445?sABC=645n9s83%230%230n2rn2o7281p087qrpn972o9099r4q9r%23fgernzf.syhksz.qr&aw_0_1st.playerid=streams.fluxfm.de&amsparams=playerid:streams.fluxfm.de;skey:1683660675
 #EXTINF:-1,ABC Triple J Queensland 20220701
-https://mediaserviceslive.akamaized.net/hls/live/2038347/triplejqld/masterhq.m3u8
+https://streaming.abc-cdn.net.au/audio/hls/triplejqld.m3u8
 #EXTINF:-1,САФ балалар радиосы
 https://c7.radioboss.fm:8335/stream
-#EXTINF:-1,Radio Regenbogen Kinderlieder
-https://audiotainment-sw.streamabc.net/atsw-kinderlieder-mp3-128-6463801?sABC=68ops02p%230%236884536p1q504nqo82847p296sq86778%23gjyQ65&aw_0_1st.playerid=twlD65&amsparams=playerid:twlD65;skey:1757212716
-#EXTINF:-1,Detskoe Radio
-https://pub0202.101.ru:8443/stream/air/aac/64/199
-#EXTINF:-1,RPR1. Kinderlieder
-https://audiotainment-sw.streamabc.net/atsw-kidshits-mp3-128-8032487?sABC=68ops02p%230%236884536p1q504nqo82847p296sq86778%23gjy65&aw_0_1st.playerid=twl65&amsparams=playerid:twl65;skey:1757212716
-#EXTINF:-1,KIDZ Sampler
-http://streams.calmradio.com:19628/stream
-#EXTINF:-1,RTÉ Junior - Dublin
-https://25643.live.streamtheworld.com/RTE_JR_RADIO.mp3?tdsdk=rte
-#EXTINF:-1,Kids Club Radio
-https://stream.revma.ihrhls.com/zc6551
-#EXTINF:-1,iHR Family Top 40 Countdown
-https://stream.revma.ihrhls.com/zc7013
-#EXTINF:-1,Lullabies Radio
-https://stream.revma.ihrhls.com/zc7249
-#EXTINF:-1,Kids Hits
-https://stream.revma.ihrhls.com/zc7223
-#EXTINF:-1,Rock the Cradle
-https://rockthecradle.stream.publicradio.org/rockthecradle.aac
-#EXTINF:-1,Abiding Radio - Kids
-https://www.abidingradio.org/radio/kids

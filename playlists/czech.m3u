@@ -1,50 +1,50 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/10131.png",Trash Rádio
-https://streaming.brol.tech/rtfmlounge
-#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/41927415.jpeg",Radio Kiss Kiss +1
-https://kisskiss.fluidstream.eu/KissKiss.aac
-#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/113605505.png",True Life in God Radio Czech
-https://stream.tligradio.org/listen/czech/radio.mp3
-#EXTINF:-1,Chat Rádio
-http://radio.chatujme.cz:8001/chatradio
-#EXTINF:-1,Comedy Club R@dio DIANA
-https://westradio.cz/radio/8010/radio.mp3
-#EXTINF:-1,ČRO Jazz 256
-https://api.play.cz/radio/crojazz256.mp3.m3u
-#EXTINF:-1,DWG Radio Český
-https://server25530.streamplus.de/stream.mp3
-#EXTINF:-1,Radio 1
-http://api.play.cz/radio/radio1-32.aac.m3u
 #EXTINF:-1,Rádio Beat
 https://stream.rcs.revma.com/3d47nqvb938uv
-#EXTINF:-1,Rádio Blaník
-https://25593.live.streamtheworld.com/RADIO_BLANIK_128.mp3
-#EXTINF:-1,Rádio Diana – Retro Club
-https://westradio.cz/radio/8000/radio.mp3
-#EXTINF:-1,Rádio Retro
-https://api.play.cz/radio/croretro128.mp3.m3u
-#EXTINF:-1,Rádio Trojka
-http://12901.cloudrad.io:9306/live
-#EXTINF:-1,RADIO1
-http://api.play.cz/radio/radio1-192.mp3.m3u
-#EXTINF:-1,Rock Radio
-https://25693.live.streamtheworld.com/ROCK_RADIO_128.mp3
-#EXTINF:-1,svobodne-radio
-http://svobodneradio.radioca.st:8859/stream
+#EXTINF:-1,Rádio BLANÍK
+https://27753.live.streamtheworld.com/RADIO_BLANIK.aac
+#EXTINF:-1,Radio Kromeriz
+https://www.radiokromeriz.cz/rds/radio-kromeriz128.mp3.m3u
+#EXTINF:-1,Radio Patriot
+http://s28.myradiostream.com:17086/
+#EXTINF:-1,DWG
+http://server25530.streamplus.de
+#EXTINF:-1,RÁDIO ČESKÝ JUKEBOX
+https://icecast.beatzone.cz/radio/8810/ceskyjukebox-320-kbs.mp3
+#EXTINF:-1,ΡΙΚ Classic
+https://r1.cloudskep.com/cybcr/cybc4/icecast.audio
+#EXTINF:-1,ΡΙΚ Τρίτο Πρόγραμμα
+https://r1.cloudskep.com/cybcr/cybc3/icecast.audio
+#EXTINF:-1,ΡΙΚ Πρώτο Πρόγραμμα
+https://r1.cloudskep.com/cybcr/cybc1/icecast.audio
+#EXTINF:-1,Desi - Δίεση
+http://r1.cloudskep.com/radio/diesi/icecast.audio
 #EXTINF:-1,Signál Rádio
 https://stream.rcs.revma.com/9sw1nuvb938uv
 #EXTINF:-1,Radio 1 CZ
 https://stream.rcs.revma.com/stk8hrvb938uv
-#EXTINF:-1,Country Radio
-https://stream.rcs.revma.com/h7rwanvb938uv
 #EXTINF:-1,Evropa 2
-https://25633.live.streamtheworld.com/EVROPA2AAC.aac
+https://29003.live.streamtheworld.com/EVROPA2AAC.aac
 #EXTINF:-1,Frekvence 1
-https://28563.live.streamtheworld.com/FREKVENCE1AAC.aac
+https://29043.live.streamtheworld.com/FREKVENCE1AAC.aac
+#EXTINF:-1,Radio Diana
+http://westradio.cz/radio/8000/radio.mp3?1544998631
+#EXTINF:-1,COMEDY CLUB r@dio DIANA
+http://westradio.cz/radio/8010/radio.mp3?1544999953
+#EXTINF:-1,Frekvence 1 Ceskoslovenska Diskoteka
+https://25583.live.streamtheworld.com/FREKVENCE1AAC.aac
+#EXTINF:-1,Radio Evropa 2
+https://25633.live.streamtheworld.com/EVROPA2AAC.aac
+#EXTINF:-1,Český rozhlas Radiožurnál
+https://25703.live.streamtheworld.com/HITRADIO_CITY_PRAHA_128.mp3?DIST=TuneIn&TGT=TuneIn&maxServers=2&gdpr=0&us_privacy=1YNY&partnertok=eyJhbGciOiJIUzI1NiIsImtpZCI6InR1bmVpbiIsInR5cCI6IkpXVCJ9.eyJ0cnVzdGVkX3BhcnRuZXIiOnRydWUsImlhdCI6MTYxMjYxNTgxMiwiaXNzIjoidGlzcnYifQ.wq5QPU410fLt05sWgnPLfIw5ilAxsxgskpE7JX3Rj74
+#EXTINF:-1,Rádio Orlicko
+http://server.radioorlicko.cz/stream192.mp3
+#EXTINF:-1,Rádio Play
+http://falcon.shoutca.st:8100/radioplay
+#EXTINF:-1,Radio Curtis
+http://listen.shoutcast.com/manymanFM.m3u
 #EXTINF:-1,Radio BEAT
 https://n05a-eu.rcs.revma.com/3d47nqvb938uv?rj-ttl=5&rj-tok=AAABiLPvjZUAzxRKWVAmHJ2Rvw
-#EXTINF:-1,Fajn Radio
-https://23623.live.streamtheworld.com:443/FAJN_RADIO_128.mp3
 #EXTINF:-1,Radio Click &amp; Country
 https://www.clickandcountry.com/#rozhlas
 #EXTINF:-1,Radio Life TRANCE FM
@@ -65,8 +65,8 @@ https://tropicvibesradio.stream.laut.fm/tropicvibesradio?t302=2023-04-25_20-32-0
 https://bass-base.stream.laut.fm/bass-base?t302=2023-04-25_20-31-52&uuid=a091da69-e984-40f9-9f73-6b14a30f5bc9
 #EXTINF:-1,Nekonečný Šum
 https://evcast.mediacp.eu:1925/stream
-#EXTINF:-1,Radio Patriot
-http://s28.myradiostream.com:17086/;
+#EXTINF:-1,Rádio Trojka
+http://12901.cloudrad.io:9306/live
 #EXTINF:-1,České rádio pasov
 https://ceske-radio-pasov.stream.laut.fm/ceske-radio-pasov?t302=2023-04-25_20-24-48&uuid=54d51ca1-631e-42ce-9d62-0f157b69da4b
 #EXTINF:-1,Nekonečný Šum - Pop Hits
@@ -81,125 +81,35 @@ https://evcast.mediacp.eu:1895/stream
 http://cast3.my-control-panel.com:7135/stream
 #EXTINF:-1,Radio Dychovka
 https://epanel.mediacp.eu:7661/stream
-#EXTINF:-1,Radio Diana
-http://westradio.cz/radio/8000/radio.mp3?1544998631
-#EXTINF:-1,COMEDY CLUB r@dio DIANA
-http://westradio.cz/radio/8010/radio.mp3?1544999953
-#EXTINF:-1,Frekvence 1 Ceskoslovenska Diskoteka
-https://25583.live.streamtheworld.com/FREKVENCE1AAC.aac
-#EXTINF:-1,Fajn Radio Black
-https://25693.live.streamtheworld.com/FAJN_RADIO.aac
-#EXTINF:-1,Radio Rubi - 97.1 FM
-https://relay.stream.enacast-cloud.com:40088/radiorubi128.mp3
-#EXTINF:-1,Radio R
-https://radior.ice.infomaniak.ch/radior-128.mp3
-#EXTINF:-1,Hitrádio City (Praha)
-https://21633.live.streamtheworld.com/HITRADIO_CITY_PRAHA_128.mp3?DIST=TuneIn&TGT=TuneIn&maxServers=2&gdpr=0&us_privacy=1YNY&partnertok=eyJhbGciOiJIUzI1NiIsImtpZCI6InR1bmVpbiIsInR5cCI6IkpXVCJ9.eyJ0cnVzdGVkX3BhcnRuZXIiOnRydWUsImlhdCI6MTYxMjYxNTgxMiwiaXNzIjoidGlzcnYifQ.wq5QPU410fLt05sWgnPLfIw5ilAxsxgskpE7JX3Rj74
-#EXTINF:-1,CRo Ces Bud
-https://stream.core-prod.us-west-2.tunenet.io/listen.stream?streamId=9866550&rti=dEZzGgYzfxg4dhE2AxFRSGgyQE5Rdid8WFcFHQASHBMUTxMkflYCFVQZJSkFE0pkDBIYDQcSWT4UHAgaGBwLEAQWWB1pGgBO%7e%7e%7e&render=json&qs=
-#EXTINF:-1,DWG
-http://server25530.streamplus.de
-#EXTINF:-1,Radio Curtis
-http://listen.shoutcast.com/manymanFM.m3u
-#EXTINF:-1,Bachata Radio
-https://streamingp.shoutcast.com/JamendoLounge?lang=*
-#EXTINF:-1,Chat Rdio
-https://radio.chatujme.cz:8000/chatradio
-#EXTINF:-1,Dance Radio
-https://25323.live.streamtheworld.com/DANCEAAC.aac?dist=onlineradioeu
-#EXTINF:-1,Radio Bachata
-http://perseus.shoutca.st:8312/
-#EXTINF:-1,Radio Orlicko AAC 64 kbps
-http://server.radioorlicko.cz:80/stream64.aac.m3u
-#EXTINF:-1,RTI FM
-http://s32.myradiostream.com:10486/
-#EXTINF:-1,Rádio BLANÍK
-https://25583.live.streamtheworld.com/RADIO_BLANIK.aac
-#EXTINF:-1,Radio Kiss
-https://stream.rcs.revma.com/asn0cmvb938uv
-#EXTINF:-1,Radio Kromeriz
-https://www.radiokromeriz.cz/rds/radio-kromeriz128.mp3.m3u
-#EXTINF:-1,RÁDIO ČESKÝ JUKEBOX
-https://icecast.beatzone.cz/radio/8810/ceskyjukebox-320-kbs.mp3
-#EXTINF:-1,ΡΙΚ Τρίτο Πρόγραμμα
-https://r1.cloudskep.com/cybcr/cybc3/icecast.audio
-#EXTINF:-1,ΡΙΚ Πρώτο Πρόγραμμα
-https://r1.cloudskep.com/cybcr/cybc1/icecast.audio
-#EXTINF:-1,Desi - Δίεση
-http://r1.cloudskep.com/radio/diesi/icecast.audio
-#EXTINF:-1,Fresh radio 103.6
+#EXTINF:-1,DWG Radio Český
+https://server25530.streamplus.de/;stream.mp3
+#EXTINF:-1,Cesky rozhlas Vltava Czech Radio 3 Vltava 105.0 FM Prague
+https://generationfm-underground.ice.infomaniak.ch/generationfm-underground-high.mp3
+#EXTINF:-1,Radio Černá Hora - 87.6-105.3 MHz FM, Hradec Králové, Czech Republic
+https://27863.live.streamtheworld.com/HITRADIO_CERNAHORA
+#EXTINF:-1,Evropa 2 - Hot - Prague, Czech Republic
+https://27753.live.streamtheworld.com/EVROPA2AAC.aac?tdsdk=js-2.9&swm=false&lat=37.8&long=-97.8&pname=TDSdk&pversion=2.9&banners=none&gdpr=1&gdpr_consent=CQG8l0AQG8l0AAHABBENBQFgAAAAAEPgAAAAAAATUgQgAVAAuABwAEAAMgAaABEACYAFUALgAYgA_ACEgEQARIAjgBlgDNgHcAd4A_QCDgEWAJKAbQA6gCbQFSAKyAWoAtwBeYDJAGpgTUAA.YAAACHwAAAAA&burst-time=15&sbmid=c8bd3286-a24f-488b-81ba-80cd9bbdd72d
+#EXTINF:-1,Evropa 2 88.2 FM Praha
+https://27793.live.streamtheworld.com/FREKVENCE1AAC
+#EXTINF:-1,Frekvence 1 - 102.5 MHz FM, Prague, Czech Republic
+https://22713.live.streamtheworld.com/FREKVENCE1AAC.aac?dist=onlineradiobox
+#EXTINF:-1,Dance Radio - 89.0-102.9 MHz FM, Prague, Czech Republic
+https://22603.live.streamtheworld.com/DANCEAAC.aac?dist=onlineradiobox
+#EXTINF:-1,Radio Kiss 98FM
+https://n09.rcs.revma.com/asn0cmvb938uv
+#EXTINF:-1,jasradio 1
+http://strm112.1.fm/ajazz_mobile_mp3
+#EXTINF:-1,Fresh radio Ostrava 103.6 FM
 https://icecast.beatzone.cz/radio/8000/128.mp3
-#EXTINF:-1,Svobodné rádio
-https://s3.free-shoutcast.com/stream/18126
-#EXTINF:-1,Radio Zett Zittau
-http://ec4.yesstreaming.net:1590/stream
-#EXTINF:-1,Rádio humor 2
-https://28953.live.streamtheworld.com/RADIO_HUMOR.aac
-#EXTINF:-1,ZFK Radio
-https://stream.zeno.fm/u6un3qyp5tzuv
-#EXTINF:-1,RADIO66
-https://ice3.abradio.cz/route128.mp3
-#EXTINF:-1,Hitrádio PopRock
-https://ice.abradio.cz/hitpoprock128.mp3
-#EXTINF:-1,Rocková zábava
-https://ice.abradio.cz/rockzabava128.mp3
-#EXTINF:-1,Rádio Známka Punku
-https://ice.abradio.cz/znamkapunku128.mp3
-#EXTINF:-1,Metalománie
-https://ice.abradio.cz/metalomanie128.mp3
-#EXTINF:-1,Hitrádio Faktor
-https://ice.abradio.cz/faktor64.mp3
-#EXTINF:-1,Underground radio CZ
-https://icecast2.play.cz/Underground128.mp3
-#EXTINF:-1,James Dean Radio
-https://77.48.63.67:9010/stream/1/
-#EXTINF:-1,ABradio.cz Jazzinec
-https://ice3.abradio.cz/jazzinec64.mp3
-#EXTINF:-1,Rádio Pohádka
-https://ice3.abradio.cz/pohadka64.mp3
-#EXTINF:-1,Rádio Povídka
-https://ice.abradio.cz/povidka64.mp3
-#EXTINF:-1,Hitrádio FM
-https://ice.abradio.cz/hitradiofm64.mp3
-#EXTINF:-1,SeeJay Radio
-https://live.seejay.cz/seejay128.aac
-#EXTINF:-1,Cesky Rozhlas 1 - Radiozurnal
-https://icecast7.play.cz/cro1-128.mp3
-#EXTINF:-1,Rock Radio Sumava
-https://ice.abradio.cz/sumava128.mp3
-#EXTINF:-1,Rock Rádio
-https://ice.abradio.cz/rockradio64.mp3
-#EXTINF:-1,Hitrádio Černá Hora
-https://ice.abradio.cz/cernahora128.mp3
-#EXTINF:-1,Hitrádio Zóna lásky
-https://ice.abradio.cz/cityzl128.mp3
-#EXTINF:-1,Hitrádio Osmdesátka
-https://ice.abradio.cz/city80128.mp3
-#EXTINF:-1,Hitrádio Devadesátka
-https://ice.abradio.cz/cityfm128.mp3
-#EXTINF:-1,Oldies Radio
-https://ice.abradio.cz/oldiesradio128.mp3
-#EXTINF:-1,Kiss Proton
-https://icecast1.play.cz/kissproton128.mp3
-#EXTINF:-1,Hitrádio Orion
-https://ice.abradio.cz/orion128.mp3
-#EXTINF:-1,Hitrádio City (Brno)
-https://ice.abradio.cz/magicbrno128.mp3
-#EXTINF:-1,Hitrádio FM Plus
-https://ice.abradio.cz/fmplus128.mp3
-#EXTINF:-1,Hitrádio Dragon
-https://ice.abradio.cz/dragon128.mp3
-#EXTINF:-1,Frekvence 1 Ceskoslovenske hity
-https://ice.actve.net/fm-frekvence1-128
-#EXTINF:-1,Fajn radio
-https://ice.abradio.cz/fajn128.mp3
-#EXTINF:-1,Classic Praha
-https://icecast8.play.cz/classic128.mp3
-#EXTINF:-1,Rádio Impuls 
-https://icecast5.play.cz/impuls64.mp3
-#EXTINF:-1,Rádio Blaník 
-https://ice.abradio.cz/blanikfm128.mp3
-#EXTINF:-1,Evropa 2 
-https://playerservices.streamtheworld.com/api/livestream-redirect/EVROPA2AAC.aac
-#EXTINF:-1,Frekvence 1 
-https://playerservices.streamtheworld.com/api/livestream-redirect/FREKVENCE1AAC.aac
+#EXTINF:-1,Hitradio City 93.7. FM
+https://23613.live.streamtheworld.com/HITRADIO_CITY_PRAHA.aac?gdpr=1&gdpr_consent=CQSe30AQSe30AAHABBENBtFgAAAAAEPgAAAAAAATUgQAAVAAuABwAEAAKgAZAA0ACYAFUALgAYgA_ACEgEQARIAjgBlwDuAO8AfoBBwCLAElANoAdQBNoCpAFZALUAW4AvMBkgDUwJqAAAAA.YAAACHwAAAAA
+#EXTINF:-1,Rádio G6
+https://mpc1.mediacp.eu/stream/radiog6
+#EXTINF:-1,Radio Music Society 71 - Disco
+https://mars.streamerr.co/disco/stream\t
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/10131.png",Trash Rádio
+https://streaming.brol.tech/rtfmlounge
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/41927415.jpeg",Radio Kiss Kiss +1
+https://kisskiss.fluidstream.eu/KissKiss.aac
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/113605505.png",True Life in God Radio Czech
+https://stream.tligradio.org/listen/czech/radio.mp3

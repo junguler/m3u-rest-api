@@ -1,9 +1,9 @@
 #EXTM3U
-#EXTINF:-1,Classical Radio International
-https://ec3.yesstreaming.net:3625/stream
 #EXTINF:-1,Calm Radio Healing
-https://calmradio.com/channel-guide/wellness-music
+https://streams.calmradio.com:1328/stream
 #EXTINF:-1,Calm Radio Mendelssohn
-https://calmradio.com/channel-guide/classical-music
-#EXTINF:-1,.977 Today&amp#39s Hits
-https://15113.live.streamtheworld.com/977_HITSAAC_SC?dist=onlineradiobox
+https://streams.calmradio.com:12428/stream
+#EXTINF:-1,92.3 The Fox
+https://17843.live.streamtheworld.com/KOFXFMAAC.aac?dist=onlineradiobox
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/49411/logo_o8KfldAWHU.png",Classical Radio International
+https://ec3.yesstreaming.net:3625/stream

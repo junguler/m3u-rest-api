@@ -1,10 +1,10 @@
 #EXTM3U
 #EXTINF:-1,Power 97' D
-https://das-edge09-live365-dal03.cdnstream.com/a66257
+https://das-edge62-live365-dal03.cdnstream.com/a66257
 #EXTINF:-1,New Age Notes
-http://das-edge11-live365-dal03.cdnstream.com/a55861
+https://das-edge11-live365-dal03.cdnstream.com/a55861
 #EXTINF:-1,Yimago Jazz
-https://strw3.openstream.co/872?aw_0_1st.collectionid%3D3666%26stationId%3D3666%26publisherId%3D896%26k%3D1757559689
+https://strw3.openstream.co/872?aw_0_1st.collectionid%3D3666%26stationId%3D3666%26publisherId%3D896%26k%3D1766012735
 #EXTINF:-1,StateSide FM
 http://uk7.internet-radio.com:8352/stream
 #EXTINF:-1,WEBR Radio 1440 AM
@@ -22,27 +22,25 @@ http://sr2.inmystream.info:8040/stream/stream/1
 #EXTINF:-1,24/7 Classical Radio
 http://ec3.yesstreaming.net:3610/stream
 #EXTINF:-1,KRM Internet Radio
-http://das-edge17-live365-dal02.cdnstream.com/a76936
-#EXTINF:-1,WLVA-DB - Classic and Christian Rock
-http://das-edge09-live365-dal03.cdnstream.com/a59653
+http://das-edge63-live365-dal03.cdnstream.com/a76936
 #EXTINF:-1,Love 94
 https://das-edge17-live365-dal02.cdnstream.com/a48104
 #EXTINF:-1,Power 97' D Radio
-http://das-edge09-live365-dal03.cdnstream.com/a66257
+http://das-edge12-live365-dal02.cdnstream.com/a66257
 #EXTINF:-1,Jesus Music On Line - JMOL
 https://das-edge11-live365-dal03.cdnstream.com/a26580
 #EXTINF:-1,WNJR-Radio.Com
-https://das-edge09-live365-dal03.cdnstream.com/a02420
+https://das-edge12-live365-dal02.cdnstream.com/a02420
 #EXTINF:-1,JT Radio
 https://das-edge17-live365-dal02.cdnstream.com/a47781
 #EXTINF:-1,Eirewave
 http://eirewave.ice.infomaniak.ch/eirewave-128.mp3
 #EXTINF:-1,Blessed Radio
-http://das-edge17-live365-dal02.cdnstream.com/a25857
+https://das-edge17-live365-dal02.cdnstream.com/a25857
 #EXTINF:-1,Envision Radio
 https://stream.radio.co/s620c240af/listen
 #EXTINF:-1,ALIVE105 - KDKQ
-http://das-edge17-live365-dal02.cdnstream.com/a06280
+https://das-edge17-live365-dal02.cdnstream.com/a06280
 #EXTINF:-1,Radio Reload
 http://onair15.xdevel.com:7012/1
 #EXTINF:-1,dejavufm
@@ -69,16 +67,10 @@ http://195.154.185.139:80/radio/3487/stream/10643
 http://canadianusaandukhits.listen2myradio.com/
 #EXTINF:-1,American Soul
 http://rosetta.shoutca.st:8558/stream/stream/1
-#EXTINF:-1,Irish Country Radio
-http://stream13.shoutcastsolutions.com:8020/listen.pls?sid=1
 #EXTINF:-1,The Brooklyn Mike Show
 https://das-edge17-live365-dal02.cdnstream.com/a58608
 #EXTINF:-1,Jazz Lovers Radio
 https://kathy.torontocast.com:3535/stream
-#EXTINF:-1,Славянское RadioMv
-https://ice.radiomv.co:8440/russian.mp3
-#EXTINF:-1,WNJRadio.com - NYC
-https://das-edge12-live365-dal02.cdnstream.com/a02420
 #EXTINF:-1,J947 - America's #1 National Hit Music Station
 http://fast.citrus3.com:8496/stream
 #EXTINF:-1,Southern Cross Country

@@ -3,6 +3,8 @@
 http://ice31.securenetsystems.net/0079
 #EXTINF:-1,RADIO MARIA MALAWI
 http://dreamsiteradiocp.com:8040/stream
+#EXTINF:-1,ZBS Zodiak FM
+https://ice31.securenetsystems.net/0079
 #EXTINF:-1,Timveni Radio
 https://play.streamafrica.net/timveni-mon
 #EXTINF:-1,Power FM 101 Malawi
@@ -18,129 +20,67 @@ https://play.streamafrica.net/ndirande
 #EXTINF:-1,Radio Bembeke FM
 https://radio.exclusivemw.cloud/listen/radio_bembeke_fm/radio.mp3
 #EXTINF:-1,Umunthu FM
-https://host1.streamafrica.net/umunthu
+https://host2.streamafrica.net/listen/umunthu/radio.mp3
+#EXTINF:-1,Love FM
+https://radio.exclusivemw.cloud/listen/love__fm/radio.mp3
 #EXTINF:-1,TWR Malawi
-https://host1.streamafrica.net/twr
+https://host2.streamafrica.net/listen/twr_malawi/radio.mp3
 #EXTINF:-1,PLFM Radio
-https://host1.streamafrica.net/plfm
+https://host2.streamafrica.net/listen/plfm/radio.mp3
 #EXTINF:-1,Radio Tigabane
 https://play.streamafrica.net/radiotigabane
 #EXTINF:-1,Linga FM
 https://play.streamafrica.net/linga
-#EXTINF:-1,Nkhotakota Community Radio Station
-https://play.streamafrica.net/kkradio
-#EXTINF:-1,Nyungwe FM
-https://play.streamafrica.net/nyungwefm
-#EXTINF:-1,Nthambi online Radio
-https://zeno.fm/radio/nthambi-fm/
-#EXTINF:-1,CYAMA FM MALAWI
-https://zeno.fm/radio/cyama-fm-malawi/
-#EXTINF:-1,Z-Radio
-https://radio.exclusivemw.cloud/listen/z_-radio/radio.mp3
-#EXTINF:-1,Balaka Community Radio
-https://radio.exclusivemw.cloud/listen/balaka_community_radio/radio.mp3
-#EXTINF:-1,Wazilinda FM
-https://play.streamafrica.net/wazilinda
-#EXTINF:-1,Mzimba Central SDA Radio
-https://play.streamafrica.net/mzimbasda
-#EXTINF:-1,Rumphi FM
-https://play.streamafrica.net/rumphi
-#EXTINF:-1,Jesus 24/7 FM
-https://play.streamafrica.net/jesus
-#EXTINF:-1,EBS Radio (Malawi)
-https://c14.radioboss.fm/u/285
-#EXTINF:-1,Mizwanya FM
-https://radio.exclusivemw.cloud/listen/mizwanya_fm/radio.mp3
-#EXTINF:-1,Mzika Voice FM
-https://radio.exclusivemw.cloud/listen/mzika_voice_fm/radio.mp3
-#EXTINF:-1,Kasupe Radio
-https://s45.radiolize.com/radio/8060/radio.mp3
-#EXTINF:-1,Radio Maria
-http://dreamsiteradiocp.com:8040/
-#EXTINF:-1,Times Radio Malawi
-https://ice31.securenetsystems.net/TIMESFM
-#EXTINF:-1,Police Fm
-http://c20.radioboss.fm:8493/stream
-#EXTINF:-1,Dj&#039;s on Mlatho Radio
-https://streams.radio.co/sd1bcd1376/listen
-#EXTINF:-1,Story Club FM radio
-https://play.streamafrica.net/story
-#EXTINF:-1,Mzati Radio
-https://host1.streamafrica.net/mzati
-#EXTINF:-1,Kuwala FM radio
-https://play.streamafrica.net/kuwalafm
-#EXTINF:-1,Mudziwathu Radio
-https://radio.exclusivemw.cloud/listen/mudziwathu_fm/radio.mp3
-#EXTINF:-1,Voice of Livingstonia (VoL) radio
-https://host1.streamafrica.net/vol
-#EXTINF:-1,Blantyre Synod Radio
-https://radio.exclusivemw.cloud/listen/blantyre_synod_radio/radio.mp3
-#EXTINF:-1,Mlimi Radio
-https://play.streamafrica.net/mlimiradio
-#EXTINF:-1,Dziko FM radio
-https://play.streamafrica.net/dziko
-#EXTINF:-1,Mtunthama Broadcasting Station radio
-https://play.streamafrica.net/mbs
-#EXTINF:-1,MobiSchool radio
-https://host1.streamafrica.net/mobi
-#EXTINF:-1,Hosanna FM radio
-https://host1.streamafrica.net/hosanna
-#EXTINF:-1,Hope Education Radio
-https://play.streamafrica.net/hope
-#EXTINF:-1,Luntha radio
-https://play.streamafrica.net/luntha
-#EXTINF:-1,Kukaya Radio
-https://play.streamafrica.net/kukaya
-#EXTINF:-1,Moyo FM radio
+#EXTINF:-1,Moyo FM
 https://play.streamafrica.net/moyofm
-#EXTINF:-1,Dj’s on Mlatho Radio
-https://streams.radio.co/sd1bcd1376/listen?
-#EXTINF:-1,Antenna Web Lilongwe
-https://italiavera.radioca.st/stream
+#EXTINF:-1,Classic fm
+https://zeno.fm/radio/classic-fm-nsmf/
+#EXTINF:-1,Times Radio Listen live
+https://ice31.securenetsystems.net/TIMESFM
 #EXTINF:-1,Zodiak Radio Listen live
 https://ice31.securenetsystems.net/0079?playSessionID=557740FF-CEB7-FBAB-CD40BB04B3A24811
 #EXTINF:-1,Epicsounds FM Listen live
-https://epicsoundsfm.stream.laut.fm/epicsoundsfm?t302=2025-09-17_22-43-01&uuid=1f94648e-704f-4257-bdd8-23dbe21a6f46
+https://epicsoundsfm.stream.laut.fm/epicsoundsfm?t302=2025-12-18_00-56-31&uuid=61ff0352-0db4-4b8b-826d-e0c78a4f7c3d
 #EXTINF:-1,Exclusively Snow Patrol Listen live
-https://nl4.mystreaming.net/er/snowpatrol/icecast.audio
-#EXTINF:-1,Power Radio Listen live
-https://sonic.portalfoxmix.cl:7063/stream?icy=http
+https://2.mystreaming.net/er/snowpatrol/icecast.audio
 #EXTINF:-1,Radio Ancoa Listen live
 https://audio2.tustreaming.cl/8012/server
-#EXTINF:-1,UWALA Radio
-https://servidor22.brlogic.com:7078/live
-#EXTINF:-1,Mzati FM
-https://play.streamafrica.net/kradio
-#EXTINF:-1,Radio Maria Malawi
-http://dreamsiteradiocp2.com:8064/stream/
+#EXTINF:-1,Times Radio Malawi
+http://ice31.securenetsystems.net/TIMESFM
+#EXTINF:-1,Zodiak Broadcasting Station
+https://ice31.securenetsystems.net/0079?playSessionID=B2017489-854B-4400-896E1B66D79B237A
 #EXTINF:-1,Yoneco FM – MW-BL
 http://63.141.244.222:60218/?type=http&nocache=1655822914?0.7683537942141861
-#EXTINF:-1,Tiwale media Radio
-https://stream-44.zeno.fm/3g3e4rfktuhvv?zs=oKqahbrnQ6anCROv0qUB2g
-#EXTINF:-1,CAPITAL FM MALAWI
-https://stream-africa.com:8443/CapitalFM
-#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/110641.v3.png",Nkhotakota Community Radio
-https://radio.exclusivemw.cloud/listen/nkhotako_radio/radio.mp3
+#EXTINF:-1,Moyo FM radio
+https://radio.securenetsystems.net/v5/index.cfm?CFID=30bfe060-db6b-4b09-8059-46b795bc727d&CFTOKEN=0&stationCallSign=0079
+#EXTINF:-1,Police Fm radio
+http://c20.radioboss.fm:8493/stream
+#EXTINF:-1,Dj&#039;s on Mlatho Radio
+https://streams.radio.co/sd1bcd1376/listen
+#EXTINF:-1,Dj’s on Mlatho Radio
+https://streams.radio.co/sd1bcd1376/listen?
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/130217.v8.png",Jesus 24/7 FM
+https://play.streamafrica.net/jesus
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/129857.v4.png",Z-Radio, Lilongwe
+https://radio.exclusivemw.cloud/listen/z_-radio/radio.mp3
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/131645.v2.png",Balaka Community Radio
+https://radio.exclusivemw.cloud/listen/balaka_community_radio/radio.mp3
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/127817.v2.png",Nyungwe FM
+https://play.streamafrica.net/nyungwefm
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/132713.v2.png",Rumphi FM
+https://play.streamafrica.net/rumphi
 #EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/128325.v1.png",Nathenje Fm Radio Station
 https://servidor19.brlogic.com:7168/live
-#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/111679.v12.png",Yetu Radio
-https://radio.exclusivemw.cloud/listen/yetu_radio/radio.mp3
-#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/43831.v9.png",Zodiak Radio
-https://radio.securenetsystems.net/v5/index.cfm?CFID=a604034e-98d6-44fb-aa3c-8228e5e290d0&CFTOKEN=0&stationCallSign=0079
-#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/76802.v11.png",Times Radio Malawi
-https://streamdb00web.securenetsystems.net/cirrusencore/TIMESFM
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/131777.v1.png",Wazilinda FM
+https://play.streamafrica.net/wazilinda
 #EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/109967.v6.png",Linga FM
 https://live.netradio.pro/listen/lingfm/radio.mp3
-#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/104365.v11.png",Love FM, Salima
-https://radio.exclusivemw.cloud/listen/love__fm/radio.mp3
-#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/99778.v18.png",Blantyre Synod Radio
-https://host1.streamafrica.net/btsynod
 #EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/128197.v5.png",Kokoliliko FM
 https://play.streamafrica.net/kokoliliko
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/104464.v15.png",Mudziwathu Radio
+https://radio.exclusivemw.cloud/listen/mudziwathu_fm/radio.mp3
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/79095/logo_LeDsHu9Weh.png",Dzimwe Community Radio
 https://live.netradio.pro/listen/dzimw/radio.mp3
-#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/79092/logo_Ubiv9jq1at.png",Mlimi Radio
-https://host1.streamafrica.net/mlimi
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/79114/logo_t1keWpYYW6.png",Antenna Web Lilongwe Radio
 https://halo.streamerr.co/listen/italiavera/stream.mp3
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/79120/logo_LfXh35U0SU.png",HERO RADIO (MALAWI)
@@ -149,18 +89,22 @@ https://a2.asurahosting.com:6790/malawi.mp3
 https://live.netradio.pro/listen/chanco/radio.mp3
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/79125/logo_nfxIRQKcfA.png",Prof K. Online Radio
 https://radio.exclusivemw.cloud/listen/prof_k._online_radio/radio.mp3
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/79087/logo_eOFTRl7Qki.png",Yetu Radio
+https://radio.exclusivemw.cloud/listen/yetu_radio/radio.mp3
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/79115/logo_UFHovYdqGW.png",Mizwanya FM Radio
+https://radio.exclusivemw.cloud/listen/mizwanya_fm/radio.mp3
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/79082/logo_zdKoLqfrUb.png",Radio Tigabane
-https://host1.streamafrica.net/tigabane
+https://host2.streamafrica.net/listen/tigabane/radio.mp3
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/79102/logo_JLHWwoHS1O.png",Police Fm Radio
 https://c20.radioboss.fm:8493/stream
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/79073/logo_sU5gcZnXXg.png",Kasupe Radio
-https://host1.streamafrica.net/kasupe
+https://host2.streamafrica.net/listen/kasupe_radio/radio.mp3
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/79097/logo_iruJE5QZPZ.png",EBS Radio
 https://c38.radioboss.fm/stream/253
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/79070/logo_pAuyWsbFiP.png",Chisomo Radio Station
 https://live.netradio.pro/listen/crs/radio.mp3
-#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/79103/logo_XblJSn1IYM.png",Groove FM Radio
-https://host1.streamafrica.net/groove
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/79116/logo_jida5pqgUJ.png",Mzika Voice FM Radio
+https://radio.exclusivemw.cloud/listen/mzika_voice_fm/radio.mp3
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/79123/logo_qScTn8FEAp.png",Nthiramanja FM Radio
 https://radio.exclusivemw.cloud/listen/nthiramanja_fm/radio.mp3
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/79117/logo_gPhW2ESsD9.png",Lilanguka Radio

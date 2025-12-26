@@ -1,16 +1,6 @@
 #EXTM3U
-#EXTINF:-1,nela1
-http://nela1.stream.laut.fm/nela1
-#EXTINF:-1,radio pusteblume
-http://radio-pusteblume.stream.laut.fm/radio-pusteblume
-#EXTINF:-1,literaturfm
-http://literaturfm.stream.laut.fm/literaturfm
-#EXTINF:-1,literatur musik
-http://literatur-musik.stream.laut.fm/literatur-musik
 #EXTINF:-1,Delta 80
 http://radio.solumedia.com.ar:7241/
-#EXTINF:-1,Радио Книга
-https://bookradio.hostingradio.ru:8069/fm
 #EXTINF:-1,吉林旅游广播
 http://stream10.jlntv.cn/fm1033/playlist.m3u8
 #EXTINF:-1,CyC Radio

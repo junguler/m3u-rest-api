@@ -1,68 +1,40 @@
 #EXTM3U
-#EXTINF:-1,smoothjazzgold
-http://smoothjazzgold.stream.laut.fm/smoothjazzgold
-#EXTINF:-1,sweetnsour
-http://sweetnsour.stream.laut.fm/sweetnsour
-#EXTINF:-1,abgefunkt
-http://abgefunkt.stream.laut.fm/abgefunkt
-#EXTINF:-1,Smooth Jazz 1059
-http://144.217.158.59:5168/stream
 #EXTINF:-1,Star People
 http://2.139.144.101:8020/1/
+#EXTINF:-1,Smooth Jazz 1059
+http://144.217.158.59:5168/stream
 #EXTINF:-1,JazzRadionet
 http://c4.auracast.net:8060/radio.mp3
 #EXTINF:-1,Salalondon Radio
 http://salalondon.ddns.net:8007/stream.mp3
-#EXTINF:-1,95.5 Smooth Jazz
-https://login.webinternetradio.com/955smoothjazzradio
-#EXTINF:-1,Relax Cafe
-https://edge01.cdn.bitflip.ee:8888/cafe?_i=87e8e0a5
 #EXTINF:-1,SmoothJazz.NYC
 http://airspectrum.cdnstream1.com:8078/1614_192
-#EXTINF:-1,Smooth Jazz 105.9
-https://login.webinternetradio.com/smoothjazz1059radio
+#EXTINF:-1,Relax Cafe
+https://edge01.cdn.bitflip.ee:8888/cafe?_i=349a8363
 #EXTINF:-1,Jazz-Radio.net
 https://ais-sa2.cdnstream1.com/2346_128.mp3?
 #EXTINF:-1,Jazz Radio - Saxo
 https://jzr-saxo.ice.infomaniak.ch/jzr-saxo.mp3
 #EXTINF:-1,Plusfm
 https://radio5.pro-fhi.net/flux-ymwhyfad/1
-#EXTINF:-1,Relax Українською
-https://radio.tvstitch.com/RadioRelax_Ukr
-#EXTINF:-1,Splash Jazz
-https://ais-sa2.cdnstream1.com/2346_128.mp3
 #EXTINF:-1,Radio Jazz
 https://radiojazzcopenhagen.out.airtime.pro/radiojazzcopenhagen_a
+#EXTINF:-1,Relax Українською
+https://tavr.tvstitch.com/RadioRelax_Ukr
+#EXTINF:-1,Splash Jazz
+https://ais-sa2.cdnstream1.com/2346_128.mp3
 #EXTINF:-1,WJZA Smooth Jazz
 https://crystalout.surfernetwork.com:8001/WJZA-AM_MP3
-#EXTINF:-1,Smooth Jazz V98.7
-https://login.webinternetradio.com:1590/
 #EXTINF:-1,CROOZE smooth jazz
-https://streaming.shoutcast.com/smoothjazz-crooze-mp3
-#EXTINF:-1,Klassik Radio - Till Brönner
-https://klassikr.streamabc.net/klassikr-tbroenner-aac-128-2137207
-#EXTINF:-1,.977 Today&amp#39s Hits
-https://15113.live.streamtheworld.com/977_HITSAAC_SC?dist=onlineradiobox
-#EXTINF:-1,107.3 The Wave
-https://login.webinternetradio.com/thewaveradio1073
-#EXTINF:-1,100% ACID JAZZ
-https://mpc1.mediacp.eu/stream/smoothjazzdeluxe
-#EXTINF:-1,4Drive Jazz
-https://radio.streemlion.com:1150/stream
-#EXTINF:-1,JAZZCRUSADER
-https://jazzcrusader.stream.laut.fm/jazzcrusader
+https://streaming.shoutcast.com/smoothjazz-crooze-aac
+#EXTINF:-1,92.3 The Fox
+https://17843.live.streamtheworld.com/KOFXFMAAC.aac?dist=onlineradiobox
 #EXTINF:-1,UP Radio
 https://listen.radioking.com/radio/208624/stream/251509
-#EXTINF:-1,Tonic Radio Jazz Clubbing
-https://tonicradio100ladies.ice.infomaniak.ch/tonicradio100ladies-128.mp3
-#EXTINF:-1,The Groove Emporium
-https://a1.asurahosting.com:9220/radio.mp3
-#EXTINF:-1,Loungemain Radio Jazz-Chill-Funk
-http://185.238.128.191:8000/stream/2/
-#EXTINF:-1,TAXI
-http://streamingp.shoutcast.com/JamendoLounge?lang=*
+#EXTINF:-1,JAZZCRUSADER
+https://jazzcrusader.stream.laut.fm/jazzcrusader
 #EXTINF:-1,Smooth Jazz Mix New York
-http://das-edge12-live365-dal02.cdnstream.com/a49349
+http://das-edge62-live365-dal03.cdnstream.com/a49349
 #EXTINF:-1,Smooth Jazz CD 101.9
 http://144.217.158.59:5334/stream
 #EXTINF:-1,CROOZE
@@ -85,8 +57,6 @@ http://streams.crooze.fm:8010/stream128
 http://stream.radioradio.es:8000/stream
 #EXTINF:-1,Ashiya Radio〜アシヤ・ラヂヲ〜
 http://s3.radio.co/sc8d895604/listen
-#EXTINF:-1,KWJZ-DB West Coast Jazz Radio
-http://das-edge12-live365-dal02.cdnstream.com/a15033
 #EXTINF:-1,Cool FM - Jazz Music
 https://mediagw.e-tiger.net/stream/zc13
 #EXTINF:-1,Radio Flash
@@ -97,8 +67,6 @@ http://vip2.fastcast4u.com:5398/stream
 http://listen.radioking.com/radio/10736/stream/21710
 #EXTINF:-1,Radio Regent
 https://streamer.radio.co/se3e1e3815/listen
-#EXTINF:-1,RadioNOS - Jazz Channel
-http://50.114.32.56:8000/stream/3/
 #EXTINF:-1,Tribe Radio
 https://uksouth.streaming.broadcast.radio/tribe
 #EXTINF:-1,Icon Radio
@@ -120,69 +88,59 @@ http://das-edge11-live365-dal03.cdnstream.com/a75069
 #EXTINF:-1,Ottawa Jazz Radio
 http://das-edge15-live365-dal02.cdnstream.com/a17629
 #EXTINF:-1,MaseJazz Radio
-http://das-edge13-live365-dal02.cdnstream.com/a30192
-#EXTINF:-1,RadioSpinner - Acid Jazz
-http://live.radiospinner.com/acid-jazz-96
-#EXTINF:-1,DBC Radio
-https://dbc.ice.infomaniak.ch/dbc-96.mp3
-#EXTINF:-1,2bClub
-http://2bclub.stream.laut.fm/2bclub
-#EXTINF:-1,Acid Jazz Radio
-https://acidjazz.stream.laut.fm/acidjazz
-#EXTINF:-1,Phat Beats Radio
-https://carol.epichosts.co.uk:8190/live.ogg
-#EXTINF:-1,0nlineradio
-https://0nlineradio.stream13.radiohost.de/0r-jazz?ref=radiobrowser&upd-meta=0&upd-scheme=https&_art=dD0xNzU2OTMwMjY3JmQ9MzEyYTQ1NTBhMGZmMGM0NGQyNjY
-#EXTINF:-1,Totally Wired Radio
-https://totallywired.out.airtime.pro/totallywired_b
+http://das-edge17-live365-dal02.cdnstream.com/a30192
 #EXTINF:-1,acidjazz
 http://acidjazz.stream.laut.fm/acidjazz
-#EXTINF:-1,jazzthing
-http://jazzthing.stream.laut.fm/jazzthing
-#EXTINF:-1,1 4 1
-http://1-4-1.stream.laut.fm/1-4-1
 #EXTINF:-1,groovefm
 http://groovefm.stream.laut.fm/groovefm
 #EXTINF:-1,food and lounge
 http://food-and-lounge.stream.laut.fm/food-and-lounge
+#EXTINF:-1,1 4 1
+http://1-4-1.stream.laut.fm/1-4-1
 #EXTINF:-1,moonradio
 http://moonradio.stream.laut.fm/moonradio
+#EXTINF:-1,2bclub
+http://2bclub.stream.laut.fm/2bclub
 #EXTINF:-1,musikzirkus
 http://musikzirkus.stream.laut.fm/musikzirkus
-#EXTINF:-1,odessa
-http://odessa.stream.laut.fm/odessa
-#EXTINF:-1,radionasty
-http://radionasty.stream.laut.fm/radionasty
 #EXTINF:-1,noise
 http://noise.stream.laut.fm/noise
-#EXTINF:-1,domino
-http://domino.stream.laut.fm/domino
-#EXTINF:-1,eifelsucht
-http://eifelsucht.stream.laut.fm/eifelsucht
 #EXTINF:-1,45 rpm
 http://45-rpm.stream.laut.fm/45-rpm
-#EXTINF:-1,Masejazz
-https://das-edge17-live365-dal02.cdnstream.com/a30192
-#EXTINF:-1,KEEP
-https://das-edge14-live365-dal02.cdnstream.com/a85804
-#EXTINF:-1,URM Soul Power Radio
-https://das-edge09-live365-dal03.cdnstream.com/a08942
-#EXTINF:-1,JavaJazz®
-https://das-edge15-live365-dal02.cdnstream.com/a37088
-#EXTINF:-1,Love 94
-https://das-edge13-live365-dal02.cdnstream.com/a48104
-#EXTINF:-1,WINR Smooth Jazz
-http://144.217.158.59:5176/stream.nsv
-#EXTINF:-1,Phat Beats
-http://c4.auracast.net:8060/stream
-#EXTINF:-1,100% Acid Jazz
-https://mpc1.mediacp.eu:8356/stream
-#EXTINF:-1,Deep House Music Life
-https://live.digitalmediaverse.fun:8050/radio.mp3
+#EXTINF:-1,odessa
+http://odessa.stream.laut.fm/odessa
+#EXTINF:-1,domino
+http://domino.stream.laut.fm/domino
+#EXTINF:-1,radionasty
+http://radionasty.stream.laut.fm/radionasty
+#EXTINF:-1,eifelsucht
+http://eifelsucht.stream.laut.fm/eifelsucht
+#EXTINF:-1,DBC Radio
+https://dbc.ice.infomaniak.ch/dbc-96.mp3
+#EXTINF:-1,44.5 RairBreedz
+http://streamingp.shoutcast.com/JamendoLounge?lang=*
+#EXTINF:-1,Loungemain Radio Jazz-Chill-Funk
+http://185.238.128.191:8000/stream/2/
+#EXTINF:-1,TheBocX
+http://radio.streemlion.com:1430/stream
+#EXTINF:-1,OneLuvFM
+http://streamer.radio.co:80/s34d8d1549/listen
+#EXTINF:-1,Radio Fairground
+http://rs18.stream24.net:80/radio-fairground.mp3
+#EXTINF:-1,Plaeradlo Fm
+https://www.youtube.com/watch?v=MsYCowKlchg
+#EXTINF:-1,Radiosize
+http://radiosize.listen2myradio.com/
+#EXTINF:-1,Newyork43
+http://ny43.listen2myradio.com
 #EXTINF:-1,Lakshmionlineradio
 http://lakshmionlineradio.listen2myradio.com
 #EXTINF:-1,Glass Box
 http://radioglassbox.listen2myradio.com/
+#EXTINF:-1,Frinds 4 Ever
+http://myradiostream.com/14/8746
+#EXTINF:-1,Sada Chaanbi
+http://myradiostream.com/2/59880
 #EXTINF:-1,Lounge Motion
 http://motionfm.com/live/motionthree_free.pls
 #EXTINF:-1,Jazz Radio International
@@ -216,13 +174,13 @@ https://s3.radio.co/s851f21496/listen
 #EXTINF:-1,Jazz Radio Ireland
 http://carina.streamerr.co:8116/stream
 #EXTINF:-1,Yimago Jazz
-https://strw3.openstream.co/872?aw_0_1st.collectionid%3D3666%26stationId%3D3666%26publisherId%3D896%26k%3D1757563387
+https://strw3.openstream.co/872?aw_0_1st.collectionid%3D3666%26stationId%3D3666%26publisherId%3D896%26k%3D1766088824
 #EXTINF:-1,Smooth Jazz Now The Greatest Hits Of Smooth Jazz
 http://streamdb2web.securenetsystems.net/v4/index.cfm?stationCallSign=SMOO&amprelocateURL=true
 #EXTINF:-1,101 SMOOTH JAZZ
 http://101smoothjazz.cdnstream1.com/b22139_128mp3
 #EXTINF:-1,1000 Jazz Hits
-https://1000jazzhits.stream.laut.fm/1000jazzhits?t302=2025-09-11_04-03-11&uuid=b18e35ca-1cb2-4af7-930b-93cf31d1e476
+https://1000jazzhits.stream.laut.fm/1000jazzhits?t302=2025-12-18_20-13-49&uuid=dfdc0876-eb0c-491b-8fbc-62a3afe03dfd
 #EXTINF:-1,Nivel20
 https://listen.radioking.com/radio/100408/stream/139171
 #EXTINF:-1,#1 Splash Jazz
@@ -243,10 +201,12 @@ https://kathy.torontocast.com:3375/stream
 https://c16.radioboss.fm:8324/stream
 #EXTINF:-1,RadioSkyMusic Jazz
 http://live.radioskymusic.com:7006/live
+#EXTINF:-1,Light Jazz FM
+https://cheetah.streemlion.com:3855/stream
 #EXTINF:-1,Thejazzofwiesbaden
-https://thejazzofwiesbaden.stream.laut.fm/thejazzofwiesbaden?t302=2025-09-11_04-03-19&uuid=f41b31df-daf5-476a-b9e5-2eb0253bf274
+https://thejazzofwiesbaden.stream.laut.fm/thejazzofwiesbaden?t302=2025-12-18_20-13-59&uuid=e458b88d-f62b-42f4-9ac7-d1218357c8a9
 #EXTINF:-1,Soulfood Funk Soul Jazz Radio
-https://soulfood.stream.laut.fm/soulfood?t302=2025-09-11_04-03-20&uuid=e1e711f5-8974-4330-972d-c7e1365abd16
+https://soulfood.stream.laut.fm/soulfood?t302=2025-12-18_20-13-59&uuid=78fa44d9-d742-4d49-9fbb-c8199915561a
 #EXTINF:-1,Coastal Smooth Jazz 981
 http://station.voscast.com/4d48ac89b7ccf/
 #EXTINF:-1,The Jazz Groove
@@ -256,7 +216,7 @@ http://eu.publicssl.net:7006/live
 #EXTINF:-1,Ghost Sky Jazz
 https://live.radioskymusic.com/live
 #EXTINF:-1,Euro Smooth Jazz
-https://eurosmoothjazz.stream.laut.fm/eurosmoothjazz?t302=2025-09-11_04-03-52&uuid=aea1eeef-fa6c-4a98-99b1-3937dfc63da1
+https://eurosmoothjazz.stream.laut.fm/eurosmoothjazz?t302=2025-12-18_20-14-33&uuid=c4537cad-5d35-4d87-a5cb-84d48f1ed87e
 #EXTINF:-1,Wdcb 909 Chicago Jazz Blues And News
 http://wdcb-ice.streamguys.org:80/wdcb128
 #EXTINF:-1,101 Smooth Jazz Mellow Mix
@@ -310,7 +270,9 @@ https://streaming.brol.tech/rtfmlounge
 #EXTINF:-1,Crooner Radio
 https://croonerradio.ice.infomaniak.ch/croonerradio-midfi.mp3
 #EXTINF:-1,ILLADELPHIA RADIO
-http://das-edge09-live365-dal03.cdnstream.com/a92856
+http://das-edge62-live365-dal03.cdnstream.com/a92856
+#EXTINF:-1,julianoduerme
+http://s2.free-shoutcast.com:18076
 #EXTINF:-1,1XL Radio
 https://das-edge14-live365-dal02.cdnstream.com/a13844
 #EXTINF:-1,24/7 London Radio
@@ -325,16 +287,20 @@ https://broadcast.wssr.stream/radio/8000/radio.mp3
 http://jazzdings.stream.laut.fm/jazzdings?t302=2021-01-04_03-05-30&ampuuid=a4e450e0-cf2b-4f7b-86cf-0c73048951e7
 #EXTINF:-1,Morena FM 98
 http://192.99.14.210:8008/stream/stream/1
+#EXTINF:-1,24/7 Breakfast Radio
+http://ec6.yesstreaming.net:1710/stream
 #EXTINF:-1,SOUL GOOD RADIO
 https://c3.radioboss.fm:18090/stream
 #EXTINF:-1,24/7 Music Radio
 https://ec3.yesstreaming.net:3665/stream
+#EXTINF:-1,24/7 Bossa Nova Radio
+http://ec6.yesstreaming.net:1600/stream
 #EXTINF:-1,The Other Side, alternate name: OtherSide.live
-https://das-edge09-live365-dal03.cdnstream.com/a27458
+https://das-edge62-live365-dal03.cdnstream.com/a27458
 #EXTINF:-1,ZEUBIEN FX-JAZZ
 https://streams.radio.co/sd06049ef8/listen
-#EXTINF:-1,Radio NDMG
-http://streams.radio.co/s4272c2140/listen
+#EXTINF:-1,True Gospel Radio
+https://s31.myradiostream.com/:65356/listen.mp3
 #EXTINF:-1,Classic Long Island Radio
 https://das-edge13-live365-dal02.cdnstream.com/a02256
 #EXTINF:-1,WJAM The New Beat Radio 104.3
@@ -368,7 +334,7 @@ https://cast1.torontocast.com:1515/stream
 #EXTINF:-1,JFM Radio
 https://c19.radioboss.fm:8123/stream
 #EXTINF:-1,KRAZY Queue
-https://das-edge09-live365-dal03.cdnstream.com/a35765
+https://das-edge62-live365-dal03.cdnstream.com/a35765
 #EXTINF:-1,Le Bon Mix
 https://stream9.xdevel.com/audio0s976748-1514/stream/icecast.audio
 #EXTINF:-1,Crackers Radio
@@ -377,18 +343,48 @@ https://crackersfresh.radioca.st
 https://a2.asurahosting.com:6920/radio.mp3
 #EXTINF:-1,Weekend Radio Station
 http://weekendradio.stream.laut.fm/weekendradio?t302=2023-12-08_13-34-50&ampuuid=9d2f26e0-10d3-4e85-a752-c237d8426e98
+#EXTINF:-1,Chill House FM
+https://cheetah.streemlion.com:3845/stream
 #EXTINF:-1,Jammin FM
 https://cheetah.streemlion.com:3720/stream
 #EXTINF:-1,radio ros brera
 https://ec6.yesstreaming.net:1345/stream
 #EXTINF:-1,FSJ Radio - XRN Australia
 https://us01.xrn.com.au/listen/fsj/fsjsd
-#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/102750/180_Ohf4cgpU6k.png",Acid Jazz Radio
-https://spn.liveradiofree.com/acid-jazz-96
-#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/44304/logo_rZsLT8rPaC.png",Relax Cafe Radio
-https://edge04.cdn.bitflip.ee:8888/cafe?_i=14a94da4
-#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/100346/logo_d64VXm32R8.png",The Groove Emporium Radio
-https://a12.asurahosting.com/listen/groove_emporium/radio.mp3
+#EXTINF:-1,95.5 Smooth Jazz radio
+https://login.webinternetradio.com/955smoothjazzradio
+#EXTINF:-1,Smooth Jazz 105.9 radio
+https://login.webinternetradio.com/smoothjazz1059radio
+#EXTINF:-1,104.7 The Oasis radio
+https://login.webinternetradio.com:1590/
+#EXTINF:-1,Masejazz
+https://das-edge17-live365-dal02.cdnstream.com/a30192
+#EXTINF:-1,Sacramento Smooth Jazz
+https://das-edge14-live365-dal02.cdnstream.com/a47379
+#EXTINF:-1,KEEP
+https://das-edge14-live365-dal02.cdnstream.com/a85804
+#EXTINF:-1,URM Soul Power Radio
+https://das-edge62-live365-dal03.cdnstream.com/a08942
+#EXTINF:-1,JavaJazz®
+https://das-edge15-live365-dal02.cdnstream.com/a37088
+#EXTINF:-1,Love 94
+https://das-edge13-live365-dal02.cdnstream.com/a48104
+#EXTINF:-1,Acid Jazz Radio
+https://acidjazz.stream.laut.fm/acidjazz
+#EXTINF:-1,181.FM Acid Jazz
+https://listen.181fm.com/181-acidjazz_128k.mp3
+#EXTINF:-1,Tonic Radio Jazz Clubbing
+https://tonicradio100ladies.ice.infomaniak.ch/tonicradio100ladies-128.mp3
+#EXTINF:-1,0nlineradio
+https://0nlineradio.stream42.radiohost.de/0r-jazz?ref=radiobrowser&upd-meta&upd-scheme=https&_art=dD0xNzY2MDg5MjA4JmQ9MGJjMzAyODVhNGZjMGNjZjljZWM
+#EXTINF:-1,Totally Wired Radio
+https://totallywired.out.airtime.pro/totallywired_b
+#EXTINF:-1,100% Acid Jazz
+https://mpc1.mediacp.eu:8356/stream
+#EXTINF:-1,2bClub
+https://2bclub.stream.laut.fm/2bclub
+#EXTINF:-1,Deep House Music Life
+https://live.digitalmediaverse.fun:8050/radio.mp3
 #EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/2UT30M.png",Claymars radio
 https://das-edge11-live365-dal03.cdnstream.com/a75069
 #EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/X7TJUS.png",FIP Jazz
@@ -397,5 +393,17 @@ https://icecast.radiofrance.fr/fipjazz-midfi.mp3
 https://stream.radio.co/s74e130a62/listen
 #EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/CHOMM.png",Gdynia Radio
 http://51.255.8.139:8064/
-#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/IRV0DT.png",UP RADIO
-https://listen.radioking.com/radio/208624/stream/251509#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/2UT30M.png",Claymars radio
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/102750/180_Ohf4cgpU6k.png",Acid Jazz Radio
+https://spn.liveradiofree.com/acid-jazz-96
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/99446/logo_UBI1Y4eQ8p.png",107.3 The Wave Radio
+https://login.webinternetradio.com/thewaveradio1073
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/89281/logo_2JDfXTtdPV.png",100% ACID JAZZ Radio
+https://mpc1.mediacp.eu/stream/smoothjazzdeluxe
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/31472/logo_cH8gVGNNGw.png",Klassik Radio - Till Brönner
+https://klassikr.streamabc.net/klassikr-tbroenner-aac-128-2137207
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/100346/logo_d64VXm32R8.png",The Groove Emporium Radio
+https://a12.asurahosting.com/listen/groove_emporium/radio.mp3
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/36840/logo_33sPeKX5zl.png",CROOZE smooth jazz Radio
+https://streaming.shoutcast.com/smoothjazz-crooze-mp3
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/37675/logo_0nYbR8kVsv.png",4Drive Jazz Radio
+https://radio.streemlion.com:1150/stream

@@ -1,41 +1,33 @@
 #EXTM3U
-#EXTINF:-1,Radio Malta
-https://s38.myradiostream.com/:6982/;
-#EXTINF:-1,Calypso Radio 101.8FM
-https://s4.radio.co/sf3aa4c25a/listen
-#EXTINF:-1,RTK Radio
-https://s2.radio.co/s955b1ced9/listen
-#EXTINF:-1,Radju Marija
-http://dreamsiteradiocp.com:8102/;
-#EXTINF:-1,Magic Malta
-http://s46.myradiostream.com:6076/stream
-#EXTINF:-1,Radju Marija Malta
-http://dreamsiteradiocp.com:8102/;stream.nsv
-#EXTINF:-1,Radju Malta 1
-http://s38.myradiostream.com:6982/listen.mp3?nocache=1758154008
-#EXTINF:-1,Galaxy 105
-http://ca7.rcast.net:8056/stream.mp3
-#EXTINF:-1,Radio RTK
-http://s2.radio.co/s955b1ced9/listen
-#EXTINF:-1,Radju 103
-http://s38.myradiostream.com:6982/listen.mp3?nocache=1757979878
-#EXTINF:-1,Radju Luminaria
-https://az.wannastream.com/radio/8000/radjuluminaria?1585158958
-#EXTINF:-1,Radju Lehen il-Belt Victoria
-https://az.wannastream.com/radio/8010/radjulehenil-beltvictoria?1585159351
-#EXTINF:-1,Radio 105 Christmas
+#EXTINF:-1,Radio 105 FM Christmas
 https://halo.streamerr.co/radio/8220/radio.mp3
+#EXTINF:-1,Radio RTK
+https://s2.radio.co/s955b1ced9/listen
 #EXTINF:-1,Radio 105 FM Retro
 http://ca9.rcast.net:8040/
+#EXTINF:-1,Magic Malta
+http://s46.myradiostream.com:6076/listen.mp3
 #EXTINF:-1,Radju Malta
 http://s38.myradiostream.com:6982/listen.mp3
 #EXTINF:-1,Radio 105 FM Malta
+http://ca7.rcast.net:8056/stream.mp3
+#EXTINF:-1,Radju Marija
 http://dreamsiteradiocp.com:8102/stream
+#EXTINF:-1,Radio Malta
+http://s38.myradiostream.com:6982/
 #EXTINF:-1,Radju Maria Malta
 http://dreamsiteradiocp.com:8102/
-#EXTINF:-1,RADJU MARIJA MALTA
-http://s38.myradiostream.com:6982/
-#EXTINF:-1,Vibe FM
-https://s9.voscast.com:7825/1
-#EXTINF:-1,Campus FM 103.7
-https://rbx2.hnux.com/http://e11648.cloudrad.io:8174/campusfm_live?_=0.8869989400879168
+#EXTINF:-1,Radju 103
+http://s2.radio.co/s955b1ced9/listen
+#EXTINF:-1,Radju Lehen il-Belt Victoria
+https://az.wannastream.com/radio/8010/radjulehenil-beltvictoria?1585159351
+#EXTINF:-1,Radio Malta 2
+https://s11.myradiostream.com:4954/
+#EXTINF:-1,Radju Marija Malta - 102.3 MHz FM, Rabat, Malta 
+https://generationfm-underground.ice.infomaniak.ch/generationfm-underground-high.mp3
+#EXTINF:-1,Magic Malta - 91.7 FM
+http://s46.myradiostream.com:6076
+#EXTINF:-1,Radio 105
+https://radio105-radio105network.radioca.st/
+#EXTINF:-1,Calypso Radio Malta
+https://s4.radio.co/sf3aa4c25a/listen

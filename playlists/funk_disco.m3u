@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1,FUNK2DISCO - 128 - The United Kingdom Of Great Britain And Northern Ireland - disco - funk - funk2disco - radio - station
-http://funk2disco.stream.laut.fm/funk2disco?t302=2025-09-10_17-22-12&uuid=2e899498-3b62-4439-b5ae-368682c8c771
 #EXTINF:-1,Fantasy Radio
 https://stream02.pcradio.biz/fantasy_radio-med
 #EXTINF:-1,Funky Radio
@@ -25,10 +23,10 @@ https://stream02.pcradio.biz/rt1_funk-med
 https://stream02.pcradio.biz/megadanceradio_hu-med
 #EXTINF:-1,Funk2Disco Radio
 https://stream02.pcradio.biz/funk2disco-med
-#EXTINF:-1,0N Disco Radio
-https://stream02.pcradio.biz/zeron_disco-med
 #EXTINF:-1,Costa Del Mar - Funky Radio
 https://stream02.pcradio.biz/cdm_funky-med
+#EXTINF:-1,Global Funk Radio
+https://stream02.pcradio.biz/global_funk-med
 #EXTINF:-1,Sublime FM Radio
 https://stream02.pcradio.biz/sublimefm_nl-med
 #EXTINF:-1,Luxfunk Radió Radio
@@ -41,8 +39,6 @@ https://stream02.pcradio.biz/vinylmaxi_laut-med
 https://stream02.pcradio.biz/groove_classics-med
 #EXTINF:-1,Kosmos 93.6 (107.0) Radio
 https://stream02.pcradio.biz/kosmos_936_gr-med
-#EXTINF:-1,RMI-Euro Disco Radio
-https://stream02.pcradio.biz/rad_rdmxtlm-med
 #EXTINF:-1,Ballermann Radio
 https://stream02.pcradio.biz/ballermann_radio_de-med
 #EXTINF:-1,Superfly FM 98.3 Radio
@@ -51,8 +47,6 @@ https://stream02.pcradio.biz/superfly_fm-med
 https://stream02.pcradio.biz/italia_stoccarda-med
 #EXTINF:-1,Radio ffn Peppermint FM
 https://stream02.pcradio.biz/ffn_pepper-med
-#EXTINF:-1,Rádio Super Funk Melody Radio
-https://stream02.pcradio.biz/super_funk_melody-med
 #EXTINF:-1,Funky Corner Radio
 https://stream02.pcradio.biz/funky_corner-med
 #EXTINF:-1,KIF Radio
@@ -89,8 +83,6 @@ https://stream02.pcradio.biz/rad_rdmotwn-med
 https://stream02.pcradio.biz/one_funky_exp-med
 #EXTINF:-1,Radio Atlantic
 https://stream02.pcradio.biz/rad_rdtlntc-med
-#EXTINF:-1,Much fm Eurdance Radio
-https://stream02.pcradio.biz/rad_mchfmrdnc-med
 #EXTINF:-1,Radio Contact Italy Funky
 https://stream02.pcradio.biz/rad_rdcontcttly-med
 #EXTINF:-1,Sensuelle Radio
@@ -113,8 +105,6 @@ https://stream02.pcradio.biz/rad_rdnddsccm-med
 https://stream02.pcradio.biz/rad_discprtmix-med
 #EXTINF:-1,Radio T.K. Disco
 https://stream02.pcradio.biz/rad_tddiscus-med
-#EXTINF:-1,Radio Stad Den Haag
-https://stream02.pcradio.biz/rad_rdstddnhg-med
 #EXTINF:-1,Radio Solar
 https://stream02.pcradio.biz/rad_rdsolrs-med
 #EXTINF:-1,Radio TSOP

@@ -10,8 +10,6 @@ http://war.str3am.com:7180/live
 #EXTINF:-1,95.5 Big Dog New Country
 http://ice23.securenetsystems.net/KYNU
 #EXTINF:-1,American Family Radio Talk 89.1 Williston
-https://mediaserver3.afa.net:8443/talk.mp3
-#EXTINF:-1,American Family Radio Talk 89.9 Jamestown
 http://mediaserver3.afa.net:8000/talk.mp3
 #EXTINF:-1,B 92.7
 http://ice64.securenetsystems.net/KBMWFM
@@ -46,11 +44,11 @@ http://ice6.securenetsystems.net/KDKT
 #EXTINF:-1,KEGK The Eagle 106.9 FM
 http://ice9.securenetsystems.net/KEGK
 #EXTINF:-1,KFGO The Mighty 790
-http://17793.live.streamtheworld.com/KFGOAM_SC
+http://14013.live.streamtheworld.com/KFGOAM_SC
 #EXTINF:-1,KKWZ 95.3 FM
 http://server.streamingrad.io/radio/8020/radio
 #EXTINF:-1,KNOX 1310
-http://14843.live.streamtheworld.com/KNOXAM_SC
+http://19473.live.streamtheworld.com/KNOXAM_SC
 #EXTINF:-1,KOVC 1490
 http://ice23.securenetsystems.net/KOVC
 #EXTINF:-1,KPAR Radio 103.7
@@ -60,7 +58,7 @@ http://ice5.securenetsystems.net/KPOK
 #EXTINF:-1,KQDJ Q 101
 http://ice23.securenetsystems.net/KQDJFM
 #EXTINF:-1,KTGO Radio The Flag
-http://17633.live.streamtheworld.com/KTGOAM_SC
+http://20603.live.streamtheworld.com/KTGOAM_SC
 #EXTINF:-1,KWGO 102.9
 http://ice5.securenetsystems.net:80/KWGO
 #EXTINF:-1,KXRF-LP 100.3FM
@@ -72,31 +70,25 @@ http://ice6.securenetsystems.net/KAOC
 #EXTINF:-1,MOJO 107.5
 http://ice64.securenetsystems.net/KXRVFM
 #EXTINF:-1,Prairie Public 88.7 Williston
-http://26283.live.streamtheworld.com/KCNDHD2_SC
-#EXTINF:-1,Prairie Public 88.9 Minot
-http://18823.live.streamtheworld.com/KCNDHD2_SC
-#EXTINF:-1,Prairie Public 89.5 Williston
-http://18703.live.streamtheworld.com/KCNDFM_SC
-#EXTINF:-1,Prairie Public 90.7 Grand Forks
-http://26193.live.streamtheworld.com/KCNDFM_SC
-#EXTINF:-1,Prairie Public 91.7 Devils Lake
-http://15313.live.streamtheworld.com/KCNDHD3_SC
-#EXTINF:-1,Prairie Public 91.9 Hettinger
 http://26733.live.streamtheworld.com/KCNDHD2_SC
+#EXTINF:-1,Prairie Public 89.5 Williston
+http://18153.live.streamtheworld.com/KCNDFM_SC
+#EXTINF:-1,Prairie Public 91.7 Devils Lake
+http://27243.live.streamtheworld.com/KCNDHD3_SC
+#EXTINF:-1,Prairie Public 91.9 Fargo
+http://15313.live.streamtheworld.com/KCNDHD3_SC
 #EXTINF:-1,Praise 90.7 FM KJND
 http://ice23.securenetsystems.net/YNOP
 #EXTINF:-1,Q 105.1
 http://ice3.securenetsystems.net/KQWB
 #EXTINF:-1,Rock 95
-http://26443.live.streamtheworld.com/KGFKAMAAC_SC
-#EXTINF:-1,Rock 95.7
-http://22063.live.streamtheworld.com/KGFKAMAAC_SC
+http://22203.live.streamtheworld.com/KGFKAMAAC_SC
 #EXTINF:-1,Sunny 101.9
 http://ice5.securenetsystems.net:80/KBTO
 #EXTINF:-1,The City 94.5
 http://ice10.securenetsystems.net/KBVBHD2
 #EXTINF:-1,The Flag 1100 AM
-http://14133.live.streamtheworld.com/WZFGAM_SC
+http://26153.live.streamtheworld.com/WZFGAM_SC
 #EXTINF:-1,The Flock 95.9 FM
 http://server.streamingrad.io/radio/8040/radio
 #EXTINF:-1,The Zoo 94.9 FM
@@ -108,24 +100,40 @@ http://ice23.securenetsystems.net/KXGT
 #EXTINF:-1,WDAY 970 AM
 http://ice2.securenetsystems.net/WDAY
 #EXTINF:-1,Y94
-http://24963.live.streamtheworld.com/KOYYFM_SC
+http://14093.live.streamtheworld.com/KOYYFM_SC
+#EXTINF:-1,Z 94.7
+http://22203.live.streamtheworld.com/KZGFFM_SC
 #EXTINF:-1,AM 1100 The Flag
-https://22203.live.streamtheworld.com/WZFGAMAAC.aac
+https://14843.live.streamtheworld.com/WZFGAMAAC.aac
 #EXTINF:-1,The Mighty 790 KFGO
-https://17793.live.streamtheworld.com/KFGOAMAAC.aac
+https://18433.live.streamtheworld.com/KFGOAMAAC.aac
+#EXTINF:-1,AG News 890
+https://ice64.securenetsystems.net/KQLXAM
+#EXTINF:-1,96.9 Hits FM
+https://ice9.securenetsystems.net/KLTAHD2
 #EXTINF:-1,Y94 (KOYY)
-https://24933.live.streamtheworld.com/KOYYFMAAC.aac
+https://18433.live.streamtheworld.com/KOYYFMAAC.aac
 #EXTINF:-1,740 The Fan
-https://14923.live.streamtheworld.com/KVOXAMAAC.aac
+https://16693.live.streamtheworld.com/KVOXAMAAC.aac
+#EXTINF:-1,Bison 1660 AM
+https://ice64.securenetsystems.net/KQWBAM
+#EXTINF:-1,Q105.1 Rocks
+https://ice3.securenetsystems.net/KQWB
 #EXTINF:-1,Prairie Public - NPR News / Classical
-https://26283.live.streamtheworld.com/KCNDFMAAC.aac
+https://29243.live.streamtheworld.com/KCNDFMAAC.aac
 #EXTINF:-1,101.9 Jack FM
-https://14103.live.streamtheworld.com/KRWKFMAAC.aac
+https://27283.live.streamtheworld.com/KRWKFMAAC.aac
+#EXTINF:-1,106.9 The Eagle Fargo
+https://ice9.securenetsystems.net/KEGK
 #EXTINF:-1,Wave 104.1
-https://18733.live.streamtheworld.com/KBOTFMAAC.aac
+https://19473.live.streamtheworld.com/KBOTFMAAC.aac
 #EXTINF:-1,Life 97.9
 https://nwmedia-kfnwfm.streamguys1.com/kfnw-fm
 #EXTINF:-1,Today's Froggy 99.9
-https://22963.live.streamtheworld.com/KVOXFMAAC.aac
+https://17793.live.streamtheworld.com/KVOXFMAAC.aac
+#EXTINF:-1,Bob 95 FM
+https://ice8.securenetsystems.net/KBVB
+#EXTINF:-1,B92.7
+https://ice64.securenetsystems.net/KBMWFM
 #EXTINF:-1,Prairie Public - Roots, Rock, and Jazz
-https://18823.live.streamtheworld.com/KCNDHD2.mp3
+https://26283.live.streamtheworld.com/KCNDHD2.mp3

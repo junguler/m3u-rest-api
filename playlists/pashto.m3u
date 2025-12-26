@@ -1,17 +1,11 @@
 #EXTM3U
-#EXTINF:-1,Radio Pakistan World Service SW
-https://whmsonic.radio.gov.pk:7005/stream?type=http&nocache=12
-#EXTINF:-1,Boorjal Radio
-https://s49.radiolize.com/radio/8180/radio.mp3
 #EXTINF:-1,Radio Salam Watandar
 http://s10.myradiostream.com:12238/
 #EXTINF:-1,Ariana FM
 https://streams.radio.co/sa3345aaa8/listen
 #EXTINF:-1,Radio Jawanan FM
 https://s3.radio.co/s3a13a855f/listen
-#EXTINF:-1,Afghan Voice Radio
-https://solid41.streamupsolutions.com/proxy/lmuespnh?mp=/type=mp3
-#EXTINF:-1,Voice of America - وی او اې ډيوه ريډیو  - Pashto
-https://voa10.akacast.akamaistream.net/7/682/437792/v1/ibb.akacast.akamaistream.net/voa10
-#EXTINF:-1,Radio Free Afghanistan - Azadiradio
-https://rfe17.akacast.akamaistream.net/7/899/437775/v1/ibb.akacast.akamaistream.net/rfe17
+#EXTINF:-1,Boorjal Radio
+https://s49.radiolize.com/radio/8180/radio.mp3
+#EXTINF:-1,Radio Pakistan World Service SW
+https://whmsonic.radio.gov.pk:7005/stream?type=http&nocache=12

@@ -1,38 +1,4 @@
 #EXTM3U
-#EXTINF:-1,Русское Радио - Russkoe Radio
-https://rusradio.hostingradio.ru/rusradio96.aacp
-#EXTINF:-1,101.ru DDT - 101.ru ДДТ
-https://pub0101.101.ru:8000/stream/pro/aac/64/112
-#EXTINF:-1,BFM (BrooklynFM)
-http://51.255.127.128:8036/
-#EXTINF:-1,bigFM Muzyka
-https://audiotainment-sw.streamabc.net/atsw-russia-mp3-128-8184454?sABC=68p4rs41%230%23251p3771p8o085o41rpo3r2p45nq7535%23xrrcbar&aw_0_1st.playerid=keepone&amsparams=playerid:keepone;skey:1757736769
-#EXTINF:-1,Dorojnoe Radio
-http://dorognoe.hostingradio.ru:8000/radio
-#EXTINF:-1,Kinozal.TV - Кинозал.ТВ
-https://listen4.myradio24.com/kinozaltv
-#EXTINF:-1,Militia wave
-https://radiomv.hostingradio.ru:80/radiomv128.mp3
-#EXTINF:-1,Piter FM - Питер FM
-https://piterfm-hls.cdnvideo.ru/piterfm-live/piterfm.stream/playlist.m3u8
-#EXTINF:-1,Radio Chanson Tula
-http://chanson.hostingradio.ru:8041/chanson256.mp3
-#EXTINF:-1,Remix FM
-https://rmx.amgradio.ru/RemixFM
-#EXTINF:-1,Russkoe Kids - Детский канал
-https://rr-detskijkanal.hostingradio.ru/detskijkanal96.aacp
-#EXTINF:-1,Russkoe Radio
-https://edge05.cdn.bitflip.ee:8888/RR?_i=acd07e62
-#EXTINF:-1,Russkoe Rock - Русский рок
-https://rr-russkijrok.hostingradio.ru/russkijrok96.aacp
-#EXTINF:-1,Strana FM
-http://icecast.stranafm.cdnvideo.ru/stranafm_128
-#EXTINF:-1,Svoe Radio - Свое Радио
-https://svoeradiofm.hostingradio.ru:8032/svoe-128.mp3
-#EXTINF:-1,Visotskiy - Высоцкий
-https://rr-vysockij.hostingradio.ru/vysockij96.aacp
-#EXTINF:-1,НАШЕ Радио Екб - Nashe ekt
-https://nasheekt.hostingradio.ru:80/nasheekt128.mp3
 #EXTINF:-1,НАШЕ Радио
 https://nashe1.hostingradio.ru/nashe-256
 #EXTINF:-1,Радио Хит FM
@@ -106,15 +72,13 @@ https://epdop.hostingradio.ru:8033/ep-urban128.mp3
 #EXTINF:-1,Метарадио
 https://s2.metaradio.ru/mradio.192
 #EXTINF:-1,Радио Наш Шансон
-https://listen2.myradio24.com/8144
+https://listen10.myradio24.com/8144
 #EXTINF:-1,Мурка FM
 https://murka.amgradio.ru/MurkaFM
 #EXTINF:-1,101.ru - Russian Dance
 https://pub0202.101.ru:8443/stream/trust/mp3/128/17?
 #EXTINF:-1,Радио ТВ Твоя Волна
 https://icecast-tvoyavolna.cdnvideo.ru/tvoyavolna
-#EXTINF:-1,Donat FM - Шансон
-https://c6.radioboss.fm:18096/stream
 #EXTINF:-1,Радио Ночной звонок
 https://listen7.myradio24.com/74828
 #EXTINF:-1,Радио Михаил Круг
@@ -124,19 +88,13 @@ https://stream.ehrhiti.lv:8000/khr.aac
 #EXTINF:-1,Радио Детский Хит
 https://deti.amgradio.ru/Deti
 #EXTINF:-1,Made In Russia - Dance Radio
-https://listen7.myradio24.com/9083
-#EXTINF:-1,Donat FM - Русский рок
-https://c6.radioboss.fm:18097/stream
+https://listen8.myradio24.com/9083
 #EXTINF:-1,Радио Калейдоскоп - Шансон
 https://listen7.myradio24.com/22602
 #EXTINF:-1,ТНТ Music - Hip Hop Radio
 https://tntradio.hostingradio.ru:8027/hhr128.mp3
-#EXTINF:-1,Папино Радио
-https://a1.radioheart.ru:9001/RH53662
-#EXTINF:-1,Donat FM - Русская поп- музыка
-https://c6.radioboss.fm:18099/stream
 #EXTINF:-1,Радио Пляж - Шансон
-https://listen7.myradio24.com/75853?
+https://listen9.myradio24.com/75853
 #EXTINF:-1,DFM Pump
 https://dfm-pump.hostingradio.ru/pump96.aacp
 #EXTINF:-1,Shanson USA
@@ -149,12 +107,10 @@ https://listen2.myradio24.com/8068
 https://stream.bfmradio.us/stream128/
 #EXTINF:-1,DFM - K-POP
 https://dfm-kpop.hostingradio.ru/kpop96.aacp
-#EXTINF:-1,Шансон радио
-https://listen7.myradio24.com/75853
 #EXTINF:-1,Радио «Русская реклама»
 https://securestreams5.autopo.st:1844/stream
-#EXTINF:-1,Нямкин FM
-https://live.radiospinner.com/nymkn-96
+#EXTINF:-1,Радио Океан Любви
+https://s05.volnorez.com/live-app/694642?br=192
 #EXTINF:-1,EHR - Top 40 RU
 https://stream.ehrhiti.lv:8000/Stream_33.aac
 #EXTINF:-1,Russian Dance Radio
@@ -171,14 +127,10 @@ https://audiotainment-sw.streamabc.net/atsw-russia-mp3-128-8184454?sABC=650970q2
 https://listen7.myradio24.com/vitaxa
 #EXTINF:-1,Радио The Voice
 https://live-bauerdk.sharp-stream.com/thevoice_dk_mp3
-#EXTINF:-1,Кринж ФМ
-https://s0.radioheart.ru:8000/CringeFM
 #EXTINF:-1,Kukuruz
 https://kukuruz.stream.laut.fm/kukuruz
 #EXTINF:-1,Radio Nova Toronto
 https://streams.radio.co/s1ae1175cf/listen
-#EXTINF:-1,Магадан ФМ
-https://listen5.myradio24.com/magadanfm
 #EXTINF:-1,Радио QMUSIC RUSSIA
 https://a4.radioheart.ru:9005/RH21431
 #EXTINF:-1,КомпромиС ФМ
@@ -194,7 +146,7 @@ http://chanson.hostingradio.ru:8041/chanson-uncensored256.mp3
 #EXTINF:-1,Royal Rock
 http://193.33.170.218:8000/RoyalRock
 #EXTINF:-1,98.8 Kiss FM Russian Beats
-http://topradio.stream01.radiohost.de/kissfm-russian-beats_mp3-128?agend=true&upd-meta=0&upd-scheme=http&_art=dD0xNzU2OTQyODEwJmQ9MmYwMWVjNTVkYzAxZGMzMDViZjI
+http://topradio.stream10.radiohost.de/kissfm-russian-beats_mp3-128?agend=true&upd-meta&upd-scheme=http&_art=dD0xNzY2MDIyMjkwJmQ9NTM4NmRiYTIxYTJlNzM3NjAxZGU
 #EXTINF:-1,101.ru - Drum &amp; Bass
 https://pub0302.101.ru:8000/stream/pro/aac/64/6?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpcCI6IjIxMi41MS4xNDIuMTY2IiwidXNlcmFnZW50IjoiTW96aWxsYVwvNS4wIChYMTE7IFVidW50dTsgTGludXggeDg2XzY0OyBydjo4OC4wKSBHZWNrb1wvMjAxMDAxMDEgRmlyZWZveFwvODguMCIsInVpZF9jaGFubmVsIjoiNiIsInR5cGVfY2hhbm5lbCI6ImNoYW5uZWwiLCJleHAiOjE2MTU0NjYxNDh9.ReVmj9UP8k1j83oPOXewKDc37Me9RpR3wA3nm5bMWmE
 #EXTINF:-1,ULTRA
@@ -203,12 +155,6 @@ http://nashe1.hostingradio.ru/ultra-256
 https://pub0101.101.ru/stream/pro/aac/64/112
 #EXTINF:-1,101.ru Любэ
 https://pub0101.101.ru/stream/pro/aac/64/158
-#EXTINF:-1,BFM Radio – Brooklyn FM
-https://stream.bfmradio.us/stream128
-#EXTINF:-1,Наше Радио
-https://nashe1.hostingradio.ru:80/nashe-128.mp3
-#EXTINF:-1,Русская Волна
-https://ru2.volna.top/RuWave48
 #EXTINF:-1,Bard Radio
 https://a7.radioheart.ru:9010/RH4465
 #EXTINF:-1,Marusya FM
@@ -229,7 +175,11 @@ http://stream.bfmradio.us:8020/
 http://79.120.77.11:8002/popru
 #EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/O1APQU.png",Radio Gardarica
 https://dorognoe.hostingradio.ru:8000/radio
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/MDDQY6.png",Russkoe Radio Bratsk
+https://rusradio.hostingradio.ru/rusradio96.aacp
 #EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/PB7NDX.png",Strana FM
 http://icecast.stranafm.cdnvideo.ru/stranafm
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/QPKT6D.png",Yuldash FM
+http://chanson.hostingradio.ru:8041/chanson256.mp3
 #EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/URNFJA.png",Yumor FM - Yekaterinburg
 https://pub0301.101.ru:8443/stream/air/aac/64/102

@@ -8,17 +8,13 @@ http://164.132.158.45:8050/radio.mp3/stream/1
 #EXTINF:-1,PPN Radio
 http://streamingp.shoutcast.com/JamendoLounge?lang=*
 #EXTINF:-1,Classic Hits 106
-http://classichits106.stream.laut.fm/classichits106?t302=2025-09-11_03-41-36&uuid=fa917fe9-cad4-4ca7-b0c4-16dbc2fb8430
+http://classichits106.stream.laut.fm/classichits106?t302=2025-12-18_01-23-09&uuid=67937102-2cf5-433d-98ae-434b4ba2ad94
 #EXTINF:-1,Power 97.9 FM
 https://usa10.fastcast4u.com/power979fm
 #EXTINF:-1,Power of the Cross Radio
 https://usa19.fastcast4u.com/powerofthecross
 #EXTINF:-1,Power 78.7 Radio
 https://usa10.fastcast4u.com:5630/?type=http&ampnocache=1669305854
-#EXTINF:-1,Power 91
-https://das-edge16-live365-dal02.cdnstream.com/a01529
-#EXTINF:-1,Power 96.9 Internet Radio Station
-https://servidor27.brlogic.com:7050/live
 #EXTINF:-1,Power Station
 http://wdab.listen2myradio.com/
 #EXTINF:-1,Metal Invasion Radio
@@ -29,6 +25,8 @@ http://www.power92fm.listen2myradio.com
 http://myradiostream.com/power1037fm
 #EXTINF:-1,Chania Radio Power
 http://myradiostream.com/chania
+#EXTINF:-1,Power 97 8
+http://myradiostream.com/29/5378
 #EXTINF:-1,Prog Palace Radio
 http://cheetah.streemlion.com:4770/stream
 #EXTINF:-1,Wbgtp Power 9
@@ -40,15 +38,15 @@ http://195.154.185.139:80/radio/56650/stream/93841
 #EXTINF:-1,THE ONLY MUSIC THAT MATTERED!
 http://108.59.9.147:8186/http:/stream/1
 #EXTINF:-1,Power 97' D
-https://das-edge09-live365-dal03.cdnstream.com/a66257
+https://das-edge62-live365-dal03.cdnstream.com/a66257
 #EXTINF:-1,Miami One Radio
 http://das-edge13-live365-dal02.cdnstream.com/a53326
 #EXTINF:-1,Too Much Too Soon Radio
-http://das-edge16-live365-dal02.cdnstream.com/a15209
+http://das-edge15-live365-dal02.cdnstream.com/a15209
 #EXTINF:-1,Mix80Radio
 https://stream.tunerplay.com/radio/8040/radio.mp3
 #EXTINF:-1,Power 97' D Radio
-http://das-edge09-live365-dal03.cdnstream.com/a66257
+http://das-edge62-live365-dal03.cdnstream.com/a66257
 #EXTINF:-1,giant jukebox radio
 https://das-edge11-live365-dal03.cdnstream.com/a96539
 #EXTINF:-1,XRadio

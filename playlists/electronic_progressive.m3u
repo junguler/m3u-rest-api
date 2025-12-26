@@ -23,8 +23,6 @@ http://hirschmilch.de:7000/progressive.mp3
 https://25533.live.streamtheworld.com:443/OWR_INTERNATIONAL.mp3
 #EXTINF:-1,DFM Armin Van Buuren
 https://dfm-avburren.hostingradio.ru/avburren96.aacp
-#EXTINF:-1,bigFM Deutschland
-https://audiotainment-sw.streamabc.net/atsw-bigfm-mp3-128-6165692?sABC=64480r43%230%23n1q9s1ns4osoonq326452q0po510q6pp%23bayvarenqvbobk&aw_0_1st.playerid=onlineradiobox&amsparams=playerid:onlineradiobox;skey:1682443843
 #EXTINF:-1,Jenny FM
 http://stream2.jenny.fm:9000/;37371790230219304stream.nsv
 #EXTINF:-1,Future Groove FM
@@ -66,7 +64,7 @@ https://strmreg.1.fm/gorillafm_mobile_mp3
 #EXTINF:-1,DJ BronKo
 https://djbronko.stream.laut.fm/djbronko
 #EXTINF:-1,Deep Nuggets Radio
-https://das-edge13-live365-dal02.cdnstream.com/a73363
+https://das-edge63-live365-dal03.cdnstream.com/a73363
 #EXTINF:-1,Radio Sunshine-Focus
 https://sunsl.streamabc.net/sunsl-sunslxzzupaaj5xv63-mp3-192-2213578
 #EXTINF:-1,Like That Underground
@@ -85,8 +83,6 @@ http://nr8.newradio.it:9562/stream
 https://electric-circus.stream.laut.fm/electric-circus
 #EXTINF:-1,GANORIUM Radio
 https://ganorium-radio.stream.laut.fm/ganorium-radio
-#EXTINF:-1,RadioSpinner - Progressive House
-https://live.radiospinner.com/prgrssvhs-32
 #EXTINF:-1,TLX Satellite Radio
 https://ec1.yesstreaming.net:2695/stream
 #EXTINF:-1,Radio Hirschmilch - Prog-House
@@ -106,13 +102,13 @@ https://ec6.yesstreaming.net:1215/stream
 #EXTINF:-1,Central Coast Radio.com
 https://s4.radio.co/scf2280c01/listen
 #EXTINF:-1,5IK Beats Radio
-https://das-edge14-live365-dal02.cdnstream.com/a74720
+https://das-edge11-live365-dal03.cdnstream.com/a74720
 #EXTINF:-1,Electri C Ity Studios
 https://electri-c-ity-studios.stream.laut.fm/electri-c-ity-studios
 #EXTINF:-1,Technolovers - PSYTRANCE
-https://0nlineradio.stream42.radiohost.de/technolovers-psytrance?ref=radiobrowser&upd-meta=0&upd-scheme=https&_art=dD0xNzU2OTQ1OTM4JmQ9Y2NmYjFmODY3NDlkMGVjZGNjY2I
+https://0nlineradio.stream13.radiohost.de/technolovers-psytrance?ref=radiobrowser&upd-meta&upd-scheme=https&_art=dD0xNzY1OTkyNDA3JmQ9Zjc1N2RlMjk2YjJlZjcyY2ZhNzg
 #EXTINF:-1,Technolovers - BASS HOUSE
-https://0nlineradio.stream42.radiohost.de/technolovers-bass-house?ref=radiobrowser&upd-meta=0&upd-scheme=https&_art=dD0xNzU2OTQ1OTM5JmQ9NjcyZDdkMzk5NjRmOGE5NTZmNjU
+https://0nlineradio.stream13.radiohost.de/technolovers-bass-house?ref=radiobrowser&upd-meta&upd-scheme=https&_art=dD0xNzY1OTkyNDA4JmQ9ZmNjMDZiOTU4YTJmMDU0ZGZmNmM
 #EXTINF:-1,Laut.fm houseschuh
 http://houseschuh.stream.laut.fm/houseschuh?t302=2023-04-25_19-28-26&uuid=f56c321b-40a3-48bb-ba6d-e0eb96403243
 #EXTINF:-1,Houstime.fm 48kbits
@@ -120,13 +116,9 @@ http://lw2.aacl.tb-group.fm/ht-low.aac
 #EXTINF:-1,ShoutDRIVE | Dance Music for North America from Los Angeles
 http://geostream.cdn.shoutdrive.com/sd-aac-hi
 #EXTINF:-1,Technolovers HOUSE
-https://0nlineradio.stream42.radiohost.de/technolovers-house?ref=radiobrowser&upd-meta=0&upd-scheme=https&_art=dD0xNzU2OTQ1OTM5JmQ9Y2FkMTU3NzRmZjY0MTEwYjNhYmE
-#EXTINF:-1,Deep Radio
-http://22713.live.streamtheworld.com:80/DEEP_RADIO.mp3
+https://0nlineradio.stream13.radiohost.de/technolovers-house?ref=radiobrowser&upd-meta&upd-scheme=https&_art=dD0xNzY1OTkyNDA4JmQ9NzgxZTE5M2QxZTcwYjc2NDY5OWY
 #EXTINF:-1,Technolovers DEEP HOUSE
-https://0nlineradio.stream42.radiohost.de/technolovers-deep-house?ref=radiobrowser&upd-meta=0&upd-scheme=https&_art=dD0xNzU2OTQ1OTM5JmQ9MmZkYjNlNWFiMjM0MDYwMTc3Mzg
-#EXTINF:-1,Loca Progressive House
-https://s02.fjperezdj.com:8056/live?listening-from-radio-garden=1647634146
+https://0nlineradio.stream13.radiohost.de/technolovers-deep-house?ref=radiobrowser&upd-meta&upd-scheme=https&_art=dD0xNzY1OTkyNDA4JmQ9ZDU4ZjdhMzYxOTFmZmQzZWI3ZDU
 #EXTINF:-1,The Artist
 https://theartist.stream.laut.fm/theartist?pl=m3u&t302=2023-05-10_13-13-07&uuid=6c54b11e-6278-4242-a749-a9e065ea20ad
 #EXTINF:-1,MixLive.ie - Progressive, Tech House

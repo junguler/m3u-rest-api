@@ -3,8 +3,6 @@
 https://22733.live.streamtheworld.com:443/NOSTALGIEWHATAFEELING.mp3
 #EXTINF:-1,One World Radio
 https://25533.live.streamtheworld.com:443/OWR_INTERNATIONAL.mp3
-#EXTINF:-1,Goldies Radio
-http://5.63.151.52:7064/stream
 #EXTINF:-1,Q-Music
 https://icecast-qmusicbe-cdp.triple-it.nl/qmusic.aac
 #EXTINF:-1,C-Dance
@@ -12,13 +10,11 @@ https://s45.myradiostream.com/:18304/;
 #EXTINF:-1,Radio FG
 https://n05a-eu.rcs.revma.com/5wesqhfap98uv?rj-ttl=5&rj-tok=AAABiLPva70AXtwb56tQnH1F7Q
 #EXTINF:-1,De Jukebox
-https://free.rcast.net/66592
+https://s35.myradiostream.com:14472/listen.mp3?nocache=1766013952
 #EXTINF:-1,Radio FM Gold
 http://fmgold.mvserver.be:3181/;
 #EXTINF:-1,CROOZE.fm - The Original
 https://streaming.shoutcast.com/crooze-aac
-#EXTINF:-1,FG-Xtra
-https://n20a-eu.rcs.revma.com/w33p2cfap98uv?rj-ttl=5&rj-tok=AAABiLQPlXsAgvkaXYOEWi68Rg
 #EXTINF:-1,CROOZE smooth jazz
 https://streaming.shoutcast.com/smoothjazz-crooze-aac
 #EXTINF:-1,Radio FG Deep &amp; Dance
@@ -81,6 +77,8 @@ https://streaming.shoutcast.com/xmas-crooze-aac
 https://shoutcast2.wirelessantwerpen.be/stad/live
 #EXTINF:-1,Radio I.R.O
 http://www.stadsradio-iro.be:3001/;
+#EXTINF:-1,Radio Internazionale
+https://ice07.fluidstream.net/fluid713.aac?FLID=8&type=.aac
 #EXTINF:-1,Willy Class X
 https://icecast-qmusicbe-cdp.triple-it.nl/willy-class-x.mp3
 #EXTINF:-1,Radio GRK
@@ -105,12 +103,14 @@ https://shoutcast2.wirelessbelgie.be/zuidrand/;audio.mp3
 https://server.musicstars.online/listen/gold/live
 #EXTINF:-1,Hitcity Radio
 https://streaming.brol.tech/rtfmlounge
-#EXTINF:-1,Menense Radio
-https://molnartje2.radioca.st/;
+#EXTINF:-1,Q-Music non-stop
+https://icecast-qmusicbe-cdp.triple-it.nl/q-maximum-hits.mp3
 #EXTINF:-1,RWL-Event radio
 http://s20.myradiostream.com:8090/;
 #EXTINF:-1,2dance
 https://webradiobe.be/listen/2dance/2dance128.mp3
+#EXTINF:-1,Radio Gemini
+http://stream.twinmedia.be:8700/;stream.nsv
 #EXTINF:-1,Music Stars - Feel Young Again
 https://server.musicstars.online:8120/live
 #EXTINF:-1,Jess FM
@@ -127,8 +127,6 @@ http://orion.shoutca.st:8079/;
 http://philae.shoutca.st:8388/;
 #EXTINF:-1,Music Stars - 100% Retro
 https://server.musicstars.online/listen/100procentretro/listen
-#EXTINF:-1,Angel Radio Limburg Live
-https://sonixcast.ssl-stream.com/angelradio
 #EXTINF:-1,Radio Ariane
 http://caster04.streampakket.com:8862/stream
 #EXTINF:-1,Radio Hoeselt

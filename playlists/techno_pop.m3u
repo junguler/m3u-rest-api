@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1,DFM
 https://dfm.hostingradio.ru/dfm96.aacp
-#EXTINF:-1,Megapolis FM
-https://megapolisfm.hostingradio.ru/megapolisfm96.aacp
 #EXTINF:-1,Hard Rock FM
 https://stream-ssl.arenastreaming.com:8004/hardrock
 #EXTINF:-1,DFM Tech House
@@ -89,12 +87,10 @@ http://patmos.cdnstream.com:9613/stream
 https://chat-fire.stream.laut.fm/chat-fire
 #EXTINF:-1,Friends-Music
 https://s1.genx-stream.de:8152/listen1
-#EXTINF:-1,Querbeet Webradio
-https://querbeet-webradio.stream.laut.fm/querbeet-webradio
+#EXTINF:-1,Radio La Cima del Paraíso
+https://on.hazner.com/8054/stream
 #EXTINF:-1,Radio Surfstation
 https://stream.radio-surfstation.com:11152/;
-#EXTINF:-1,Musical Decadence Radio
-https://stream.musicaldecadence.ru/live
 #EXTINF:-1,Radio Music 4 You
 http://c01.lexycast.de:3730/;
 #EXTINF:-1,totallyradio
@@ -117,8 +113,6 @@ https://clubnight.stream.laut.fm/clubnight
 https://sound-bar-radio.stream.laut.fm/sound-bar-radio?t302=2023-04-25_20-24-04&uuid=61de5650-bc02-43ad-a1f7-8e42647ea935
 #EXTINF:-1,European Hit Radio - Darbam
 https://stream.ehrhiti.lv:8000/Stream_23.aac
-#EXTINF:-1,SFR Radiogalaxy
-https://stream2-alfacast-hosting.com/8030/stream
 #EXTINF:-1,Kirmes Radio
 https://kirmesradio.stream.laut.fm/kirmesradio?t302=2023-04-25_20-23-42&uuid=d9ad0f2b-efcb-4b01-8569-d7953f342927
 #EXTINF:-1,Musik to daMax
@@ -150,7 +144,7 @@ https://cloudstream2032.conectarhosting.com/8010/stream
 #EXTINF:-1,Web Radio Le Mosquitos
 https://ecmanager.pro-fhi.net:1970/stream
 #EXTINF:-1,0nlineradio House
-https://0nlineradio.stream42.radiohost.de/0r-house?upd-meta=0&upd-scheme=https&_art=dD0xNzU2OTQ2NzU3JmQ9NDdjMDE0MDMwOWJkNTBiZGYwZjU
+https://0nlineradio.stream13.radiohost.de/0r-house?upd-meta&upd-scheme=https&_art=dD0xNzY2MDIzOTMyJmQ9MGIwNDAwYzkzMjI3YzI1MGY2MGU
 #EXTINF:-1,TurboBeats.de
 https://turbobeats.stream.laut.fm/turbobeats?t302=2018-01-11_10-54-38&uuid=8a5ee0a0-55d9-4812-ac32-74d74636e651
 #EXTINF:-1,Netil Radio

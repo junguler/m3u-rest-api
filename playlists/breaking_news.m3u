@@ -89,6 +89,10 @@ https://ipr.streamguys1.com/aac
 http://amber.streamguys.com:5540/live
 #EXTINF:-1,WSHU Public Radio - WQQQ
 https://wshu-iad.streamguys1.com/wshu-news
+#EXTINF:-1,Coast Community Radio
+https://ice5.securenetsystems.net/KMUN
+#EXTINF:-1,KENW FM
+https://ice10.securenetsystems.net/KENWFM
 #EXTINF:-1,KFSK 103.1 FM
 https://amber.streamguys1.com:4625/
 #EXTINF:-1,KVNF
@@ -170,7 +174,7 @@ http://war.str3am.com:8080/krbd
 #EXTINF:-1,KUAZ 89.1 &quot;Arizona Public Media&quot; Tucson, AZ
 http://streaming.azpm.org/kuaz192.mp3
 #EXTINF:-1,WMRA 90.7 Harrisonburg, VA
-http://audio-edge-4ev3b.lax.g.radiomast.io/0cdf7725-83bf-4967-b6b7-f4e9bfe702ad
+http://audio-edge-vqwx4.yyz.g.radiomast.io/0cdf7725-83bf-4967-b6b7-f4e9bfe702ad
 #EXTINF:-1,WDIY 88.1 Allentown, PA
 http://war.str3am.com:7880/wdiy_7880
 #EXTINF:-1,KQED 88.5 San Francisco, CA
@@ -187,5 +191,3 @@ https://utulsa.streamguys1.com/KWGSHD3-AAC
 http://wlrh.streamguys1.com:80/classical
 #EXTINF:-1,WSIU 91.9 Carbondale, IL
 http://peridot.streamguys.com:5230/wsiu-hd1
-#EXTINF:-1,WMRA - WMRY 103.5 FM
-http://audio-edge-2a8hd.sfo.he.radiomast.io/0cdf7725-83bf-4967-b6b7-f4e9bfe702ad

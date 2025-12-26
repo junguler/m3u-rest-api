@@ -37,8 +37,6 @@ https://nos.radio.br/stream/8/;
 https://ice1.somafm.com/dubstep-128-mp3
 #EXTINF:-1,Punk4all
 https://punk4all.stream.laut.fm/punk4all
-#EXTINF:-1,1.FM - Dubstep Forward Radio
-https://strmreg.1.fm/dubstep_mobile_mp3
 #EXTINF:-1,Roots Legacy Radio Dub Night
 https://n.rootslegacy.fr/stream/1/
 #EXTINF:-1,Record Dubstep
@@ -67,8 +65,6 @@ https://listen7.myradio24.com/listen
 https://listen.uturnradio.com/electro_house
 #EXTINF:-1,Magic_of_Music
 https://magicofmusic.stream.laut.fm/magic_of_music?t302=2023-04-25_20-06-19&uuid=474747b8-c0ba-4973-9acd-80f4b571cd84
-#EXTINF:-1,Chill FM Dublin
-http://161.97.144.188:4062/;
 #EXTINF:-1,Gaming Gnome FM
 https://gaming-gnome.stream.laut.fm/gaming-gnome?t302=2023-04-25_20-08-11&uuid=4a8125c6-3cdd-4408-896c-b07353229a9d
 #EXTINF:-1,Mein Radio House
@@ -89,26 +85,16 @@ https://4you.stream.laut.fm/4you
 https://listen.uturnradio.com/dubstep
 #EXTINF:-1,Love-Body-Soul
 https://love-body-soul.stream.laut.fm/love-body-soul
-#EXTINF:-1,Digitally Imported - Club Dubstep
-https://www.di.fm/clubdubstep
-#EXTINF:-1,Digitally Imported - Dubstep
-https://www.di.fm/dubstep
 #EXTINF:-1,Music my Life
 https://musicmylife.stream.laut.fm/musicmylife?t302=2023-04-25_20-06-26&uuid=1c85a696-52fb-4a35-939d-1fe7d6807dce
 #EXTINF:-1,Crazy-Fun-Radio
 https://crazy-fun-radio.stream.laut.fm/crazy-fun-radio?t302=2023-04-25_20-08-04&uuid=362c0407-ee3b-4885-8c64-bcc6cd8ecb69
-#EXTINF:-1,Digitally Imported - Dub
-https://www.di.fm/dub
-#EXTINF:-1,Nubreaks.com Radio
-https://nubreaksradio.radioca.st/;
 #EXTINF:-1,Baahss Works
 https://baahssworks.stream.laut.fm/baahssworks
-#EXTINF:-1,Digitally Imported - Chillstep
-https://www.di.fm/chillstep
-#EXTINF:-1,Digitally Imported - Liquid Dubstep
-https://www.di.fm/liquiddubstep
 #EXTINF:-1,FINN Radio One
 https://streaming.brol.tech/rtfmlounge
+#EXTINF:-1,24/7 EDM Radio
+https://ec6.yesstreaming.net:1455/stream
 #EXTINF:-1,KMK-Radio
 https://kmk-radio.stream.laut.fm/kmk-radio
 #EXTINF:-1,Jay016
@@ -119,6 +105,8 @@ http://ildnb1.dnbradio.com:8000/dnbradio_main.mp3
 http://ic2255.c471.fast-serv.com/listen
 #EXTINF:-1,Subtle Radio
 https://subtle.out.airtime.pro/subtle_a
+#EXTINF:-1,PulseEDM Dance Music Radio
+http://pulseedm.cdnstream1.com:8124/1373_128
 #EXTINF:-1,Houstime.fm 48kbits
 http://lw2.aacl.tb-group.fm/ht-low.aac
 #EXTINF:-1,Royal Drum
@@ -127,16 +115,14 @@ http://193.33.170.218:8000/RoyalDrum
 http://193.33.170.218:8000/RoyalTrap
 #EXTINF:-1,FluxFM - Eclectic Electric
 http://fluxfm.streamabc.net/flx-fluxfmberlin-mp3-320-3394445?sABC=64480r29%231%23cynl.z3%23nhqvb&aw_0_1st.playerid=audio&amsparams=playerid:audio;skey:1682443817
-#EXTINF:-1,Digitally Imported - Drumstep
-https://www.di.fm/drumstep
 #EXTINF:-1,Technolovers TRAP
-https://0nlineradio.stream13.radiohost.de/technolovers-trap?ref=radiobrowser&upd-meta=0&upd-scheme=https&_art=dD0xNzU2OTQyODYyJmQ9ODM4ZTEyMGEyYzU4ZDk3MjViYjQ
+https://0nlineradio.stream42.radiohost.de/technolovers-trap?ref=radiobrowser&upd-meta&upd-scheme=https&_art=dD0xNzY2MDIzNDYxJmQ9ZDYzOTRlNjdjMmQ5YjA0Nzk4YjE
 #EXTINF:-1,1LIVE Fiehe
 http://d131.rndfnk.com/ard/wdr/1live/chillout/mp3/128/stream.mp3?cid=01GRBW9YMFF3AKBC3JQ513E69J&sid=2R8xbmrjVGTxchm1HrD3Pzub5y7&token=NCiF1Ti5m7qLACdXj8jEmbKAc_6QfJbGrS8v7DTWjwI&tvf=wnrPsd0-aBdkMTMxLnJuZGZuay5jb20
 #EXTINF:-1,Switch FM London
 https://stream.switchfm.co.uk/listen/switchfm/switchfm.mp3
 #EXTINF:-1,i love radio - harder music
-http://ilm.stream12.radiohost.de/ilm_ilovechillhop_mp3-192?upd-meta=0&upd-scheme=http&_art=dD0xNzU2OTQyODYyJmQ9OWY1ZDFjMjRlNzVjZWM3NjdmYTc
+http://ilm.stream18.radiohost.de/ilm_ilovechillhop_mp3-192?upd-meta&upd-scheme=http&_art=dD0xNzY2MDIzNDU5JmQ9YTQ0NTBlOWM2ZDAxZDE5NjVmYjg
 #EXTINF:-1,WalconFM - Electro Radio
 https://listen6.myradio24.com/walcon
 #EXTINF:-1,Dub Step Beyond (somafm.com)

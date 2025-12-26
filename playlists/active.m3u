@@ -39,14 +39,12 @@ https://ice42.securenetsystems.net/WECQ
 https://s0.radioheart.ru:8000/RH68610
 #EXTINF:-1,Radio Ciudadana
 https://s2.mexside.net/8026/stream
-#EXTINF:-1,InterStacja - Najnowsze Hity
-http://4stream.pl:18410/;stream.nsv
 #EXTINF:-1,Radio Mega Studio
 http://01.solumedia.com.ar:7241/autodj
 #EXTINF:-1,107.7 The RockIt
 https://das-edge14-live365-dal02.cdnstream.com/a86728
 #EXTINF:-1,The Sound 228
-https://das-edge09-live365-dal03.cdnstream.com/a84023
+https://das-edge12-live365-dal02.cdnstream.com/a84023
 #EXTINF:-1,Rockin 101
 https://ice5.securenetsystems.net/WHMH
 #EXTINF:-1,Thunder 99.7
@@ -74,15 +72,13 @@ https://banana1015.com/listen-live/
 #EXTINF:-1,93.1 K-Rock
 https://ice23.securenetsystems.net/WIMK
 #EXTINF:-1,0nlineradio Classic Rock
-https://0nlineradio.stream42.radiohost.de/0r-classic-rock?upd-meta=0&upd-scheme=https&_art=dD0xNzU2OTMwMjkzJmQ9YmIzNGUyYjY0YjdjOWZjYmE0ZTU
+https://0nlineradio.stream13.radiohost.de/0r-classic-rock?upd-meta&upd-scheme=https&_art=dD0xNzY1OTkwNjg4JmQ9NWIzMGE4MDg4N2ZjN2NhYzJmZDU
 #EXTINF:-1,92.7 KTRX
 https://ice42.securenetsystems.net/KTRX
 #EXTINF:-1,Rqdio Biwi Inter
 https://sonic.mediacp.eu/8040/;
 #EXTINF:-1,InterStacja - Club
 http://4stream.pl:18268/;
-#EXTINF:-1,Activa (Ciudad Juárez) - 1420 AM - XEF-AM - MegaRadio - Ciudad Juárez, Chihuahua
-https://tv.radiohosting.online:8100/stream
 #EXTINF:-1,Radiactiva 100.7
 http://sh4.radioonlinehd.com:8533/stream
 #EXTINF:-1,..:: RADiO LuDNiCA :: Original Croatian Internet Radio ::..
@@ -94,7 +90,7 @@ http://4stream.pl:18180/;
 #EXTINF:-1,InterStacja - Disco Polo
 http://4stream.pl:18274/;
 #EXTINF:-1,Raadio Relax International
-https://edge01.cdn.bitflip.ee:8888/international?_i=40ec8e81
+https://edge05.cdn.bitflip.ee:8888/international?_i=04ec9f99
 #EXTINF:-1,Kosice International ATC
 http://s1-fmt2.liveatc.net:80/lzkz?nocache=2023051507230953451
 #EXTINF:-1,InterStacja - Kanał Główny
@@ -111,5 +107,3 @@ https://intergalactic.tv/live/smil:tv.smil/playlist.m3u8
 http://live.radioxiuxiu.com:8040/;
 #EXTINF:-1,International Children&#039;s Arts Network
 https://allclassical-ord.streamguys1.com/ICAN
-#EXTINF:-1,Rti Radio Taiwan Internacional
-https://es-static.rti.org.tw/assets/audio/2022/09/19/20220919_2200_0086_es.mp3

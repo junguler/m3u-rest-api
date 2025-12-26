@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1,Local Party
-http://live.myradio.yt:1230/stream
-#EXTINF:-1,RADIO LAC WEB SEDAN
-http://manager8.streamradio.fr:2220/stream
-#EXTINF:-1,Denizli Sarayköy Radyo 20
-http://www.radyo20.com.tr:9180/
 #EXTINF:-1,Muğla Örnek Radyo
 http://yayin.yayindakiler.com:3006/
 #EXTINF:-1,Kocaeli Gebze FM
@@ -13,24 +7,14 @@ http://gebzefm.radyotvyayini.com:9530/
 http://95.173.162.188:9952/
 #EXTINF:-1,Erzincan Dost Radyo
 http://yayin1.yayindakiler.com:3156/
-#EXTINF:-1,Mardin Zergan FM
-http://yayin1.yayindakiler.com:3194/
 #EXTINF:-1,Artvin Radyo 08
 http://yayin.netyayin.net:8008/
 #EXTINF:-1,Yozgat Radyo Mastika
 https://radyo.yayin.com.tr:5950/
-#EXTINF:-1,Konya Derya FM
-http://yayin.turkhosted.com:6032/stream.mp3
-#EXTINF:-1,Hatay ANTAKYA RADYO RENK
-http://yayin1.yayindakiler.com:3016/renk
-#EXTINF:-1,Adana Barış Radyo
-http://yayin2.canliyayin.org:9350/
 #EXTINF:-1,Tekirdağ Radyo Haber
 http://yayin2.yayindakiler.com:4118/
 #EXTINF:-1,Ordu Radyo Net
 https://anadolu.liderhost.com.tr:10983/
-#EXTINF:-1,Kırklareli Soylu Fm
-http://yayin2.yayindakiler.com:4034/
 #EXTINF:-1,K. Maraş Elbistan Radyo Umut
 http://yayin.canliyayin.org:8892/
 #EXTINF:-1,Bursa Radyo En
@@ -43,6 +27,8 @@ http://live.radyotvonline.com:8090/
 http://yayin1.canliyayin.org:8024/
 #EXTINF:-1,Erzincan Radyo 2000
 http://yayin1.yayindakiler.com:3030/
+#EXTINF:-1,Samsun Radyo Moda
+http://yayin.radyomoda.com.tr/cp/
 #EXTINF:-1,Rize Slow Karadeniz
 http://46.20.4.54/
 #EXTINF:-1,Bursa Yöre FM
@@ -53,8 +39,6 @@ http://yayin.yayindakiler.com:3192/
 http://yayin1.yayindakiler.com:3000/
 #EXTINF:-1,Siirt Botan fm
 http://yayin1.canliyayin.org:8026/
-#EXTINF:-1,Trabzon Radyo Haber 61
-http://radyohaber61.canliyayinda.com:6161/
 #EXTINF:-1,Diyarbakır TRT GAP Diyarbakır
 https://radio-trtgap.live.trt.com.tr/master.m3u8
 #EXTINF:-1,Gaziantep Şafak radyo
@@ -73,12 +57,8 @@ http://yayin.turkhosted.com:4949/
 http://yayin1.canliyayin.org:8210/
 #EXTINF:-1,Aydın Soke Radyo Tempo
 http://radyo.yayin.com.tr:5864/
-#EXTINF:-1,Elazığ FM 23
-http://radyofm23.canliyayinda.com:8280/
 #EXTINF:-1,Adana Arabesk FM
 http://yayin.arabeskfm.biz:8042/
-#EXTINF:-1,Bilecik Bilecik FM
-http://95.173.188.155:9980
 #EXTINF:-1,Aksaray Radyo Mavi
 http://yayin.yayindakiler.com:4026/
 #EXTINF:-1,Uşak Eşme FM
@@ -103,12 +83,8 @@ http://yayin1.canliyayin.org:7010/
 http://surmelifm.kesintisizyayin.com:8590/
 #EXTINF:-1,Ankara Gimsa Radyo
 http://yayin1.canliyayin.org:9482/
-#EXTINF:-1,Yozgat Akdağ FM
-http://radyovetv.com:7051/
 #EXTINF:-1,Adıyaman Radyo Tek
 http://yayin1.yayindakiler.com:3102/
-#EXTINF:-1,Erzurum Radyo Ritm - Erzurum
-https://radyo.yayin.com.tr:8091/
 #EXTINF:-1,Antalya RadyOrjinal
 http://radyo.radyorjinal.com:7232/
 #EXTINF:-1,Şırnak Dicle FM
@@ -119,8 +95,6 @@ http://yayin2.yayindakiler.com:4202/
 https://radyotedavi.ozelip.com:8032/
 #EXTINF:-1,Elazığ Hit Fm
 http://yayin.turkiletisim.com.tr:1094/
-#EXTINF:-1,Edirne Radyo AK
-http://radyoak.canliyayinda.com:8026/
 #EXTINF:-1,Denizli Radyo Bizimiller
 http://yayin2.yayindakiler.com:4078/
 #EXTINF:-1,Rize Radyo Gelişim
@@ -129,6 +103,8 @@ http://yayin.yayindakiler.com:4008/
 http://yayin1.yayindakiler.com:3002/
 #EXTINF:-1,Mersin Mutlu FM
 http://mutlufm.canliyayinda.com:2828/
+#EXTINF:-1,İzmir Datça On Air
+http://185.126.217.8:9358/
 #EXTINF:-1,Elazığ Radyo 2000
 http://yayin.turkiletisim.com.tr:1092/stream.mp3
 #EXTINF:-1,Niğde Umut FM
@@ -139,8 +115,6 @@ https://wowza1.radyotvonline.com/shoutcast/liderfm.stream/playlist.m3u8
 http://radyo.bursadabugun.com:80/
 #EXTINF:-1,Kayseri Kay Radyo
 http://yayin1.yayindakiler.com:3054/
-#EXTINF:-1,Elazığ Radyo Hazar
-http://radyohazar.canliyayinda.com:8286/
 #EXTINF:-1,Hatay Akdeniz FM
 http://yayin.netyayin.net:7077/
 #EXTINF:-1,Antalya Radyo Tulu
@@ -155,12 +129,16 @@ https://radyo.yayin.com.tr:4010/
 https://radyo1.radyo-dinle.tc:7060/
 #EXTINF:-1,Ankara Radyo Atlantis
 http://live4.radyotvonline.com:9400/
+#EXTINF:-1,Afyon Radyo Taverna
+https://live.sinirsizhost.com/8010/stream
 #EXTINF:-1,Tekirdağ Tempo FM
 http://stream.rtvtakip.com:8002/
 #EXTINF:-1,Bilecik Radyo 11
 http://ip131.radyotelekom.com:9832/
 #EXTINF:-1,Diyarbakır Can Radyo
 http://yayin.yayindakiler.com:2028/
+#EXTINF:-1,Ordu Ordu FM
+https://radyo.yayindakiler.com:8012/
 #EXTINF:-1,Eskişehir Radyo Ses
 http://live2.radyotvonline.com:8095
 #EXTINF:-1,Bursa Radyo Yörem
@@ -189,10 +167,10 @@ http://yayin2.canliyayin.org:8698/
 http://yayin2.yayindakiler.com:4204/
 #EXTINF:-1,Ankara Radyo Vizyon
 https://radyo.yayin.com.tr:4078/mp3
-#EXTINF:-1,Zonguldak Demokrat FM
-http://yayin1.yayindakiler.com:3122/
 #EXTINF:-1,Kırıkkale Radyo 71
 http://radyo.yayin.com.tr:5924/
+#EXTINF:-1,Adana Radyo Güney
+https://stream.radyolarburada.com/radio/8250/stream
 #EXTINF:-1,İzmir Radyo Trafik İzmir
 http://37.247.100.118/stream/179/
 #EXTINF:-1,İstanbul Ece Fm

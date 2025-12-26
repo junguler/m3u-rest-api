@@ -7,6 +7,8 @@ http://newcap.leanstream.co/CFRQFM
 http://live.leanstream.co/CJTNFM-MP3
 #EXTINF:-1,CJSW 90.9 FM
 https://cjsw.leanstream.co/CJSWFM-MP3?args=web_03
+#EXTINF:-1,CIRV Radio FM 88.9
+http://ice5.securenetsystems.net/CIRV
 #EXTINF:-1,CISN 103.9 FM
 http://live.leanstream.co:80/CISNFM-MP3
 #EXTINF:-1,The Fox 99.9 FM
@@ -60,7 +62,7 @@ http://rosetta.shoutca.st:8883/streamstream/1
 #EXTINF:-1,CHYZ 94.3 FM
 http://ecoutez.chyz.ca:8000/mp3stream/1
 #EXTINF:-1,CFRC 101.9 FM
-https://audio-edge-4ev3b.lax.g.radiomast.io/e5ebc530-289b-4105-9840-364a792d625f
+https://audio-edge-w4d68.yul.o.radiomast.io/e5ebc530-289b-4105-9840-364a792d625f
 #EXTINF:-1,MIX 96.7 FM
 http://live.leanstream.co/CHYRFM
 #EXTINF:-1,Power 97.5
@@ -75,6 +77,8 @@ http://ais-sa1.streamon.fm/7132_64k.aac
 http://live.leanstream.co/CHEDAM-MP3
 #EXTINF:-1,Rock 101
 http://live.leanstream.co/CFMIFM-MP3
+#EXTINF:-1,CHIN Radio Toronto 1540 AM
+http://ice7.securenetsystems.net/CHINAM
 #EXTINF:-1,The Wolf 101.5 FM
 http://live.leanstream.co:80/CKWFFM-MP3
 #EXTINF:-1,CJSR 88.5 FM
@@ -93,6 +97,8 @@ http://live.leanstream.co:80/CFNYFM-MP3
 http://live.leanstream.co:80/CJDVFM-MP3
 #EXTINF:-1,1460 CJOY
 http://live.leanstream.co/CJOYAM-MP3
+#EXTINF:-1,1650 AM CINA Radio
+http://ice8.securenetsystems.net/CINA
 #EXTINF:-1,FM96
 http://live.leanstream.co:80/CFPLFM-MP3
 #EXTINF:-1,Fresh Radio 100.5
@@ -103,12 +109,16 @@ http://live.leanstream.co/CKBTFM-MP3
 http://live.leanstream.co/CFHKFM-MP3
 #EXTINF:-1,Fresh Radio 104.3
 http://live.leanstream.co/CKWSFM-MP3
+#EXTINF:-1,Fresh Radio 104.5
+http://live.leanstream.co:80/CFLGFM-MP3
 #EXTINF:-1,Fresh Radio 93.1
 http://live.leanstream.co/CHAYFM-MP3
 #EXTINF:-1,Fresh Radio 95.3
 http://live.leanstream.co:80/CINGFM-MP3
 #EXTINF:-1,AM 980
 http://live.leanstream.co/CFPLAM-MP3
+#EXTINF:-1,Amen FM
+http://ice7.securenetsystems.net/AMENFM
 #EXTINF:-1,Jump 106.9
 http://live.leanstream.co/CKQBFM-MP3
 #EXTINF:-1,BFBS Canada
@@ -117,6 +127,8 @@ http://icy-e-01-cr.sharp-stream.com:80/ssvcbfbs12.mp3
 http://live.leanstream.co/CIQBFM-MP3
 #EXTINF:-1,Big 96.3
 http://live.leanstream.co:80/CFMKFM-MP3
+#EXTINF:-1,Boom 101.9 FM
+http://live.leanstream.co:80/CJSSFM-MP3
 #EXTINF:-1,Magic FM 106.1
 http://live.leanstream.co:80/CIMJFM-MP3
 #EXTINF:-1,CHOK 103.9 FM

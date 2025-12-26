@@ -1,14 +1,8 @@
 #EXTM3U
 #EXTINF:-1,Blasmusikradio mit Bernd
-https://blasmusikradiomitbernd.stream.laut.fm/blasmusikradio_mit_bernd?ref=radiode&t302=2025-09-07_17-32-19&uuid=b2c1eb1b-7178-4cd3-814b-0dbccae09c77
-#EXTINF:-1,Radio Brass - 0 - The United Kingdom Of Great Britain And Northern Ireland - big band - brass - concert band - marching - military
-https://janus.shoutca.st/tunein/radiobrassuk.pls
-#EXTINF:-1,Atlantis FM - Tenerife
-https://free.rcast.net/71751
+https://blasmusikradiomitbernd.stream.laut.fm/blasmusikradio_mit_bernd?ref=radiode&t302=2025-12-17_14-33-19&uuid=c12525b0-115a-486a-91e3-23975f1a0212
 #EXTINF:-1,Tilos Radio digital
 https://free.rcast.net/256253
-#EXTINF:-1,J-rodizzle drizzle
-https://free.rcast.net/252576
 #EXTINF:-1,Radio Saint-Dié
 https://free.rcast.net/251551
 #EXTINF:-1,181.FM Good Time Oldies
@@ -25,3 +19,5 @@ https://stream4.hippynet.co.uk/stream/soundsofbrass
 https://free.rcast.net/10263
 #EXTINF:-1,Radio Brassens
 https://www.zestream.eu:8010/radiobrassens.mp3
+#EXTINF:-1,Radio Brass - 0 - The United Kingdom Of Great Britain And Northern Ireland - big band - brass - concert band - marching - military
+https://janus.shoutca.st/tunein/radiobrassuk.pls

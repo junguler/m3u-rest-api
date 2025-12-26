@@ -1,4 +1,16 @@
 #EXTM3U
+#EXTINF:-1,Today's New Rock The Lion
+https://das-edge14-live365-dal02.cdnstream.com/a09550
+#EXTINF:-1,chronixradio.com: Aggression
+https://das-edge12-live365-dal02.cdnstream.com/a55211
+#EXTINF:-1,Radio XNV
+https://das-edge17-live365-dal02.cdnstream.com/a63844
+#EXTINF:-1,The Foundry
+https://das-edge12-live365-dal02.cdnstream.com/a01853
+#EXTINF:-1,DangerRadio
+https://das-edge14-live365-dal02.cdnstream.com/a93069
+#EXTINF:-1,MTRS RADIO
+https://das-edge17-live365-dal02.cdnstream.com/a54290
 #EXTINF:-1,Radiónica
 http://shoutcast.rtvc.gov.co:8010/;
 #EXTINF:-1,Радио Maximum - Linkin Park
@@ -12,7 +24,7 @@ https://pronoize-radio.stream.laut.fm/pronoize-radio?t302=2023-04-25_20-06-53&uu
 #EXTINF:-1,Newtown Radio
 https://streaming.radio.co/s0d090ee43/listen
 #EXTINF:-1,Metal / Rock Mix
-https://das-edge15-live365-dal02.cdnstream.com/a32028
+https://das-edge16-live365-dal02.cdnstream.com/a32028
 #EXTINF:-1,Dark Star FM
 https://darkstarfm.stream.laut.fm/darkstarfm
 #EXTINF:-1,Dark Star Radio
@@ -35,8 +47,6 @@ https://cia-radio.stream.laut.fm/cia-radio?t302=2023-04-25_19-32-57&uuid=f3ce3dc
 https://otticfm.stream.laut.fm/otticfm?t302=2023-04-25_20-06-48&uuid=57372204-4dfe-4a6c-a8d5-a1a8067fcae5
 #EXTINF:-1,Espar Radio
 http://i2.streams.ovh:7058/stream/;
-#EXTINF:-1,Radio-Metronom
-https://free.rcast.net/67200
 #EXTINF:-1,Cacophony
 https://cacophony.stream.laut.fm/cacophony
 #EXTINF:-1,Beastie Beatz
@@ -63,15 +73,3 @@ https://fbsr.stream.laut.fm/fbsr?t302=2023-04-25_19-33-39&uuid=9e23076c-3263-4a7
 http://192.99.41.102:5429/;
 #EXTINF:-1,laut.fm Fantasyradio
 http://fantasyradio.stream.laut.fm/fantasyradio?t302=2023-04-25_19-30-05&uuid=111a4760-875d-4e89-9d44-af5c92f76ccb
-#EXTINF:-1,Today's New Rock The Lion
-https://das-edge14-live365-dal02.cdnstream.com/a09550
-#EXTINF:-1,chronixradio.com: Aggression
-https://das-edge09-live365-dal03.cdnstream.com/a55211
-#EXTINF:-1,Radio XNV
-https://das-edge17-live365-dal02.cdnstream.com/a63844
-#EXTINF:-1,The Foundry
-https://das-edge09-live365-dal03.cdnstream.com/a01853
-#EXTINF:-1,DangerRadio
-https://das-edge14-live365-dal02.cdnstream.com/a93069
-#EXTINF:-1,MTRS RADIO
-https://das-edge17-live365-dal02.cdnstream.com/a54290

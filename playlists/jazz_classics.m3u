@@ -39,12 +39,10 @@ https://server01.ouvir.radio.br:8006/stream
 https://wicn-ice.streamguys1.com/live-mp3
 #EXTINF:-1,Traxx FM  Jazz
 https://traxx014.ice.infomaniak.ch/traxx014-low.mp3
-#EXTINF:-1,JAZZRADIO.com - Classic Jazz
-https://www.jazzradio.com/classicjazz
 #EXTINF:-1,Central Coast Radio.com
 https://s4.radio.co/scf2280c01/listen
 #EXTINF:-1,EPIC CLASSICAL - Classical Background Music
-https://0nlineradio.stream13.radiohost.de/classical-classical-background-music?upd-meta=0&upd-scheme=https&_art=dD0xNzU2OTMwOTEyJmQ9MzZhNDM0ZTdkY2M3NTU1MDY4Yzc
+https://0nlineradio.stream42.radiohost.de/classical-classical-background-music?upd-meta&upd-scheme=https&_art=dD0xNzY1OTkzODEyJmQ9ZjRhYzZjMThkZWU5YTYwZjYzNGU
 #EXTINF:-1,KJZZ HD2 Jazz PHX
 http://stream.kjzz.org/kjzzhd2_mp3_128.m3u
 #EXTINF:-1,Shonan Beach FM 78.9
@@ -52,9 +50,9 @@ http://shonanbeachfm.out.airtime.pro:8000/shonanbeachfm_a
 #EXTINF:-1,Abaco Libros y Cafe Jazz Radio
 http://195.154.79.204:8638/stream
 #EXTINF:-1,0nlineradio
-https://0nlineradio.stream42.radiohost.de/0r-jazz?ref=radiobrowser&upd-meta=0&upd-scheme=https&_art=dD0xNzU2OTMwOTEzJmQ9NmRiYzhlZjI0YWIzYmE1NjA3OGI
+https://0nlineradio.stream13.radiohost.de/0r-jazz?ref=radiobrowser&upd-meta&upd-scheme=https&_art=dD0xNzY1OTkzODEwJmQ9Y2RjZTBiMGZiZGY3NTMzOTVkNzg
 #EXTINF:-1,0nlineradio HÄNDEL
-https://0nlineradio.stream13.radiohost.de/0r-haendel?ref=radiobrowser&upd-meta=0&upd-scheme=https&_art=dD0xNzU2OTMwOTEzJmQ9NDE1NTRkNTU0ZjFiNTliZjBlZDQ
+https://0nlineradio.stream13.radiohost.de/0r-haendel?ref=radiobrowser&upd-meta&upd-scheme=https&_art=dD0xNzY1OTkzODEwJmQ9NzNmNWRhZWJhMzJkOGQ3ODYzMDQ
 #EXTINF:-1,BR-Klassik mp3 192 kbit
 https://d111.rndfnk.com/ard/br/brklassik/live/mp3/256/stream.mp3?cid=01FBPVP3KY4W2XZ9KV8N032855&sid=2R94xWH7Yqp5CYV6foTThC1cNih&token=qL4TGffBspEJbLL7uI0BYMFeFjoyD2A_X51yfgH3R6A&tvf=OUOgOipCaBdkMTExLnJuZGZuay5jb20
 #EXTINF:-1,Horizonte (Ciudad de México) - 107.9 FM - XHIMR-FM - IMER - Ciudad de México

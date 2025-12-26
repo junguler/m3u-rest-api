@@ -1,20 +1,18 @@
 #EXTM3U
-#EXTINF:-1,Living Room Music Radio
-http://manager7.streamradio.fr:2520/stream
-#EXTINF:-1,Sirius Conversations
-http://s11.citrus3.com:8038/SiriusConversations
 #EXTINF:-1,Радио Монте-Карло - Sweet
 https://montecarlo.hostingradio.ru/mcsweet96.aacp
 #EXTINF:-1,Vibration Zen Relax
 http://vibration.stream2net.eu:8220/vibrationzenrelax-128.mp3
 #EXTINF:-1,Romantica 102.1 FM
 http://sigmaradio.stream:9000/index
+#EXTINF:-1,Vagalume Vibe
+https://stream.vagalume.fm/hls/14623883771774082279/aac.m3u8
 #EXTINF:-1,Vibration Latina
 http://91.121.38.100:8410/;
 #EXTINF:-1,Vibration Soft hits
 http://vibration.stream2net.eu:8350/;stream/1
 #EXTINF:-1,i love radio -  chill
-http://ilm.stream18.radiohost.de/ilm_ilovemusicandchill_mp3-192?upd-meta=0&upd-scheme=http&_art=dD0xNzU2OTI5MzM1JmQ9ZDQ3MDU1ZjFmOGMxN2RlOGNlYjc
+http://ilm.stream18.radiohost.de/ilm_ilovemusicandchill_mp3-192?upd-meta&upd-scheme=http&_art=dD0xNzY1OTk4ODAwJmQ9ZDJmMDllNzgyOTM5YTYyMjMxZmM
 #EXTINF:-1,La Ke Buena San Andrés Tuxtla - 103.9 FM - XHDQ-FM - San Andrés Tuxtla, Veracruz
 https://streaming.servicioswebmx.com/8146/stream
 #EXTINF:-1,La Ke Buena Quiroga - XHPQGA-FM - 88.9 FM - Grupo Vox - Quiroga, Michoacán

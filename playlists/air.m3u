@@ -5,12 +5,14 @@ https://bookradio.hostingradio.ru:8069/fm
 http://hydra.cdnstream.com/1521_128
 #EXTINF:-1,101.ru - Детские Сказки
 https://pub0202.101.ru:8443/stream/pro/aac/64/222?
+#EXTINF:-1,ABC Radio National
+https://streaming.abc-cdn.net.au/audio/hls/rnnsw.m3u8
 #EXTINF:-1,181.FM 80&#039;s HairBand
 https://listen.181fm.com/181-hairband_128k.mp3
 #EXTINF:-1,ABC Sydney
-https://mediaserviceslive.akamaized.net/hls/live/2038302/localsydney/masterhq.m3u8
+https://streaming.abc-cdn.net.au/audio/hls/localsydney.m3u8
 #EXTINF:-1,Schwany 7 - Märchen
-https://maerchenradio.spcast.eu/stream?time=1756930021
+https://maerchenradio.spcast.eu/stream?time=1766011089
 #EXTINF:-1,Сказка FM
 https://skazka.amgradio.ru/Skazka
 #EXTINF:-1,Big R Radio - 80s Metal FM
@@ -36,7 +38,7 @@ http://air.pc.cdn.bitgravity.com/air/live/pbaudio044/playlist.m3u8
 #EXTINF:-1,Al Jazeera - Arabic
 http://live-hls-audio-web-aja.getaj.net/VOICE-AJA/index.m3u8
 #EXTINF:-1,EPIC CLASSICAL - Classical Fairy Tales
-https://0nlineradio.stream13.radiohost.de/classical-classical-fairy-tales?upd-meta=0&upd-scheme=https&_art=dD0xNzU2OTMwMzIzJmQ9Yjc4NzgzNTc3MDhjMTIyNzMyOWQ
+https://0nlineradio.stream13.radiohost.de/classical-classical-fairy-tales?upd-meta&upd-scheme=https&_art=dD0xNzY2MDExMzkxJmQ9NzIzNzlhNjE1NDlhNGRlZjhmZTE
 #EXTINF:-1,AIR Madurai AM1269
 https://air.pc.cdn.bitgravity.com/air/live/pbaudio127/chunklist.m3u8
 #EXTINF:-1,The Hairband Channel
@@ -55,22 +57,26 @@ https://fluxfm.streamabc.net/flx-80er-mp3-320-9596107?sABC=6202qrr6%230%23sorr1p
 https://fluxfm.streamabc.net/flx-event04-mp3-320-5268754?sABC=6202r047%230%23sorr1p583723p06268o324o2ps5n399q%23fgernzf.syhksz.qr&amsparams=playerid:streams.fluxfm.de;skey:1644355655
 #EXTINF:-1,DrGnu - Metal 2
 https://fluxfm.streamabc.net/flx-metalfm-mp3-320-9154971?sABC=6202r2p8%230%23sorr1p583723p06268o324o2ps5n399q%23fgernzf.syhksz.qr&amsparams=playerid:streams.fluxfm.de;skey:1644356296
+#EXTINF:-1,ABC Radio Australia (AAC)
+http://abc.streamguys1.com/live/raeng/icecast.audio
 #EXTINF:-1,AIR bhopal
 https://air.pc.cdn.bitgravity.com/air/live/pbaudio212/chunklist.m3u8
 #EXTINF:-1,Efteling Kids Radio
 http://i1.cdn.jetstre.am:8000/sz=efteling=hdstream?token=8a2ecf514ebcfce588dde256db3e942d&time=64481053
 #EXTINF:-1,ABC 540kHz AM Longreach QLD Western Queensland Local Radio 20220701
-https://mediaserviceslive.akamaized.net/hls/live/2038331/locallongreach/masterhq.m3u8
+https://streaming.abc-cdn.net.au/audio/hls/localwestqld.m3u8
 #EXTINF:-1,ABC 106.5MHz FM Mount Isa QLD Northwest Queensland Local Radio
-https://mediaserviceslive.akamaized.net/hls/live/2038355/localmtisa/masterhq.m3u8
+https://streaming.abc-cdn.net.au/audio/hls/localnorthwest.m3u8
 #EXTINF:-1,ABC News Radio 20220701
-https://mediaserviceslive.akamaized.net/hls/live/2038311/newsradio/masterhq.m3u8
+https://streaming.abc-cdn.net.au/audio/hls/newsradio.m3u8
 #EXTINF:-1,AIR Kolkata Geetanjali
 https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio055/hlspbaudio05564kbps.m3u8
+#EXTINF:-1,ABC Radio Australia 20220701
+https://streaming.abc-cdn.net.au/audio/hls/ramulti.m3u8
 #EXTINF:-1,ABC Triple J Queensland 20220701
-https://mediaserviceslive.akamaized.net/hls/live/2038347/triplejqld/masterhq.m3u8
+https://streaming.abc-cdn.net.au/audio/hls/triplejqld.m3u8
 #EXTINF:-1,ABC 612kHz AM Brisbane QLD Queensland Local Radio 20220701
-https://mediaserviceslive.akamaized.net/hls/live/2038304/localbrisbane/masterhq.m3u8
+https://streaming.abc-cdn.net.au/audio/hls/localbrisbane.m3u8
 #EXTINF:-1,  WACKENRADIO   by rautemusik (rm.fm) - 192 - Germany - alternative rock - classic rock - hard rock - heavy metal; wacken; radio bob - pop rock - punk - rock - wacken - wacken open air
 http://ic4.101.ru:8000/stream/air/aac/64/200
 #EXTINF:-1,100.5 Bukedde FM - 128 - Uganda - current affairs
@@ -80,11 +86,9 @@ https://www.181.fm/stream/pls/181-hairband.pls
 #EXTINF:-1,88.8 CBS Ey'obujajja - 64 - Uganda - current affairs
 http://radio8k.out.airtime.pro:8000/radio8k a.m3u
 #EXTINF:-1,ABC 801kHz AM Cairns QLD Far North Queensland Local Radio 20220701 - 0 - Australia - community - contemporary - local radio - news - weather
-https://mediaserviceslive.akamaized.net/hls/live/2038337/localcairns/masterhq.m3u8
+https://streaming.abc-cdn.net.au/audio/hls/localfarnorth.m3u8
 #EXTINF:-1,AIR Kozhikode Real FM - 129 - India - air - all india radio - india - kozhikode - malayalam
 http://air.pc.cdn.bitgravity.com/air/live/pbaudio083/playlist.m3u8
-#EXTINF:-1,air-coimbatore - 0 - India -
-https://air.pc.cdn.bitgravity.com/air/live/pbaudio016/chunklist.m3u8
 #EXTINF:-1,air-tiruchirapalli - 0 - India -
 https://air.pc.cdn.bitgravity.com/air/live/pbaudio041/chunklist.m3u8
 #EXTINF:-1,AIRPORT LOUNGE RADIO - 128 - Canada - aereoporto - airport - ambient - chill - chillout - easy listening - house - lounge - smooth - smooth jazz
@@ -95,8 +99,6 @@ https://air.pc.cdn.bitgravity.com/air/live/pbaudio138/playlist.m3u8
 https://air.pc.cdn.bitgravity.com/air/live/pbaudio022/chunklist.m3u8
 #EXTINF:-1,Converge Radio 101.9 FM Eau Claire -  WI - 128 - The United States Of America - alternative
 http://onair1.cpbc.co.kr:1935/tv/mp4:live720/playlist.m3u8
-#EXTINF:-1,EPIC CLASSICAL - Classical Fairy Tales - 192 - Germany - classic - classic hits - classical - disney - fairytales - klassik - radio disney
-https://0nlineradio.stream42.radiohost.de/classical-classical-fairy-tales?upd-meta&upd-scheme=https&_art=dD0xNzU3NTMyOTM3JmQ9M2JhMjJhYTg2MmMxYzAxMDI1YTE
 #EXTINF:-1,jairie radio - 128 - The United States Of America - dancehall - lover rock - reggae - soul
 https://c15.radioboss.fm:8509/jairie
 #EXTINF:-1,Kairos FM Uruguay - 128 - Uruguay - religious
@@ -116,7 +118,7 @@ https://srv21.gpmradio.ru:8443/stream/air/aac/64/219
 #EXTINF:-1,Metro 95.1 - 96 - Argentina - 95.1 - 95.1 fm - argentina - buenos aires - ciudad de buenos aires - dance - electronic - entertainment - estación - fm - metro - radio - talk - urbano
 http://onairmediagroup.live24.gr/metrofm978xanthi
 #EXTINF:-1,Nashe Radio - 0 - The Russian Federation - live air
-http://d111.rndfnk.com/ard/ndr/ndr2/niedersachsen/mp3/128/stream.mp3?aggregator=airable&cid=01FBQ2CWDYWJHGF4QAJ0SVV730&sid=32WO0fDP7C9B1RQQwT5W4IfUQ4i&token=hQixxqerogOTUTFgNTZ9tkJbL7MnGkr62XLc4iMepXQ&tvf=Oz2_00QWZBhkMTExLnJuZGZuay5jb20
+http://f111.rndfnk.com/ard/ndr/ndr2/niedersachsen/mp3/128/stream.mp3?aggregator=airable&cid=01FBQ2CWDYWJHGF4QAJ0SVV730&sid=36zYwFAUQMBvtt739SCumRHZjsA&token=qsE447DfLq0lhko-SNW4Ej3m1QIxcZUp5Wgx7_VQRDY&tvf=uOdEGmM1ghhmMTExLnJuZGZuay5jb20
 #EXTINF:-1,Not the BCFM Politics Show - 128 - The United Kingdom Of Great Britain And Northern Ireland - parapolitics - politics - public affairs
 http://pub0101.101.ru:8000/stream/air/aac/64/99
 #EXTINF:-1,Pigy.cz – Pohádky - 128 - Czechia - fairytales - kids
@@ -144,7 +146,9 @@ http://onair20.xdevel.com:8320/1/
 #EXTINF:-1,REG FM - Lakes Entrance / Bairnsdale - 90.7 FM / 105.5 FM (MP3) - 96 - Australia - classic hits - community radio - easy listening - talk
 https://pub0302.101.ru:8443/stream/air/aac/64/200
 #EXTINF:-1,RNZ Pacific MP3 - 64 - New Zealand - features - national affairs - news - pacific
-https://s7-webradio.rockantenne.de/hair-metal/stream/mp3
+https://s2-webradio.rockantenne.de/hair-metal/stream/mp3
+#EXTINF:-1,ROCK ANTENNE Hair Metal - 0 - Germany -
+https://s7-webradio.rockantenne.de/hair-metal/stream/aacp
 #EXTINF:-1,RTV Purmerend - 128 - Bonaire -
 http://air.pc.cdn.bitgravity.com/air/live/pbaudio075/chunklist.m3u8
 #EXTINF:-1,Skyrock PLM - 128 - France - militaire

@@ -1,12 +1,4 @@
 #EXTM3U
-#EXTINF:-1,Flaix FM
-https://us-b4-p-e-pb13-audio.cdn.mdstrm.com/live-audio-aw/65afe4a0357cec56667ac739?aid=65afe021932b88086588cb4c&pid=MSryLPScW5CqSqbTIOY79KS3DRxIYuDy&sid=q570Mf7WyHQ8N1Wa0oj0eWpUVxs77iQ1&uid=6Ew1MN8YKHw6B5vnp71Qm8YQDpki1pG5&es=us-b4-p-e-pb13-audio.cdn.mdstrm.com&ote=1757463404299&ot=2VgOJ4SXUr_qvodUgl5tag&proto=https&pz=us&cP=128000&awCollectionId=65afe021932b88086588cb4c&aw_0_1st.playerId=flaix-fm-app-web&liveId=65afe4a0357cec56667ac739&propertyName=flaix-fm-app-web&listenerId=6Ew1MN8YKHw6B5vnp71Qm8YQDpki1pG5
-#EXTINF:-1,Cadena SER - Catalunya/Barcelona
-https://sdmedia.playser.cadenaser.com/playser/audio/202501/11/1736583336_8490.mp3?dist=cadenaser-web-portadilla&stid=167083
-#EXTINF:-1,Flaix FM - 105.7 FM
-https://us-b4-p-e-zs14-audio.cdn.mdstrm.com/live-audio-aw/65afe4a0357cec56667ac739?aid=65afe021932b88086588cb4c&pid=ePo6JBTfVezLpKadeSGypbhyur7CsUKP&sid=2G4ztNXyVyxNOA6EigyWPGlRKkZpo7Wd&uid=zBLNKKCJgTCmvJjcDATkCqSeooUOznNe&es=us-b4-p-e-zs14-audio.cdn.mdstrm.com&ote=1757463404297&ot=G0SemvY4fgKsOm0ZbtX_zg&proto=https&pz=us&cP=128000&awCollectionId=65afe021932b88086588cb4c&aw_0_1st.playerId=flaix-fm-app-web&liveId=65afe4a0357cec56667ac739&propertyName=flaix-fm-app-web&listenerId=zBLNKKCJgTCmvJjcDATkCqSeooUOznNe
-#EXTINF:-1,Rádio Barcelona (Cadena SER) 96.9 FM
-https://29053.live.streamtheworld.com/SER_BARCELONA.mp3
 #EXTINF:-1,Para que gocen los pollitos
 http://streamingp.shoutcast.com/JamendoLounge?lang=*
 #EXTINF:-1,RAC 105 - 105.0 FM
@@ -77,9 +69,37 @@ http://streaming.enantena.com:8000/cubelles128.mp3
 https://streaming.enacast.com/radiocunitHD.mp3
 #EXTINF:-1,RAB Ràdio
 https://s3.radio.co/sf09831a0e/listen
+#EXTINF:-1,STYL CLASSICS
+http://s2.nexuscast.com:8042/
 #EXTINF:-1,Cooltura FM
 https://server9.emitironline.com:19244/
 #EXTINF:-1,Ràdio Cardedeu
 https://azuracast.rtvc.cat/radio/8000/radio.mp3?hash=1627324563305.mp3
 #EXTINF:-1,Radio Balaguer 107.4 FM
 http://79.148.125.91:8020/stream/2/
+#EXTINF:-1,RAC1 FM - 87.7
+https://23613.live.streamtheworld.com/RAC_1.mp3?gdpr=1&gdpr_consent=CQHkJEAQHkJEAAHABBENBZFgAAAAAAAAAAiQAAAAAADFIAMAAQVhHQAYAAgrCQgAwABBWElABgACCsISADAAEFYS0AGAAIKwgAAA.YAAAAAAAAAAA&dist=web
+#EXTINF:-1,Radio Les Planes 107.7 FM
+https://stream.appradiofm.com/stream?url=http://streaming.enantena.com:8000/tarragona56.mp3
+#EXTINF:-1,Ràdio Tàrrega
+https://stream.appradiofm.com/stream?url=http://streaming.enantena.com:8000/radiotarrega128.mp3
+#EXTINF:-1,Llagostera Radio
+https://relay.stream.enacast-cloud.com:40248/llagosteraradioHD.mp3
+#EXTINF:-1,Ràdio Arenys
+https://relay.stream.enacast-cloud.com:40086/radioarenysdemar128.mp3
+#EXTINF:-1,Radio Palafolls
+https://stream.appradiofm.com/stream?url=http://streaming.enantena.com:8000/radiopalafolls128.mp3
+#EXTINF:-1,Premià Mèdia - Ràdio Premià de Mar
+https://stream.appradiofm.com/stream?url=http://streaming.enantena.com:8000/radiopremiademar128.mp3
+#EXTINF:-1,Proxima FM
+http://91.187.93.115:8000/
+#EXTINF:-1,La Veu
+https://stream.appradiofm.com/stream?url=http://streaming.enantena.com:8000/laveu56.mp3
+#EXTINF:-1,Aura Radio
+https://radio.martiproduccions.com/capitalhd
+#EXTINF:-1,Ràdio Sant Feliu FM - 105.3 FM
+http://streaming.enantena.com:8000/radiosantfeliu128.mp3
+#EXTINF:-1,betevé
+https://s3.eu-west-3.amazonaws.com/web.btv.cat/app/live-str/0_qzjz9cja.m3u8
+#EXTINF:-1,Viqui Ràdio
+https://viquiradio.cat/listen/viquiradio/viquiradio.mp3

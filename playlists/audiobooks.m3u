@@ -19,8 +19,6 @@ https://stream02.pcradio.biz/caprice_poetry-med
 https://stream02.pcradio.biz/paustovsky_povest_zhizn-med
 #EXTINF:-1,Radio Fantastki
 https://stream02.pcradio.biz/radio_fantastiki-med
-#EXTINF:-1,Радиотеатр
-https://stream02.pcradio.biz/rad_rtrclbrdttr-med
 #EXTINF:-1,Model dlya sborki 1 - MDS Station Radio
 https://stream02.pcradio.biz/mdsst_ru_1-med
 #EXTINF:-1,Radio Kniga Vsluh
@@ -33,12 +31,12 @@ https://stream02.pcradio.biz/dan_brown-med
 https://stream02.pcradio.biz/rad_rdantlgy-med
 #EXTINF:-1,@SkazkiNaroda in Telegram Radio
 https://stream02.pcradio.biz/skazki_naroda-med
-#EXTINF:-1,Stariy Portfel Radio
-https://stream02.pcradio.biz/rad_oldportfl-med
 #EXTINF:-1,Radio Zvukokniga
 https://stream02.pcradio.biz/rad_zvkoknag-med
 #EXTINF:-1,Радио Книга
 https://bookradio.hostingradio.ru:8069/fm
+#EXTINF:-1,Радио ЗвукоКнига
+http://94.181.45.104:8005/
 #EXTINF:-1,Radio México Internacional
 https://s2.mexside.net:7017/;
 #EXTINF:-1,Legends 100.3 FM
@@ -49,6 +47,8 @@ http://stream10.jlntv.cn/fm1033/playlist.m3u8
 https://stream.radio.co/s978e5f6bd/listen
 #EXTINF:-1,黑龙江都市女性广播
 http://stream3.hljtv.com/hljrd97/sd/live.m3u8
+#EXTINF:-1,The Jonathan Station
+http://s2.nexuscast.com:8000/;
 #EXTINF:-1,The Great American Songbook
 http://tgas.dyndns.org:8001/;
 #EXTINF:-1,Kiangsu Literature &amp; Art Radio

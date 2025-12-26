@@ -3,6 +3,8 @@
 https://stream02.pcradio.biz/costadelmarradiocom-med
 #EXTINF:-1,Smooth Jazz 247 Radio
 https://stream02.pcradio.biz/smoothjazz247-med
+#EXTINF:-1,Hirschmilch Radio - Chillout
+https://stream02.pcradio.biz/hirschmilch_chill-med
 #EXTINF:-1,Ambiento Radio
 https://stream02.pcradio.biz/ambiento_ro-med
 #EXTINF:-1,PsyRadio Chillout
@@ -25,14 +27,12 @@ https://stream02.pcradio.biz/smoothjazz_nyc1019-med
 https://stream02.pcradio.biz/best_smoothjazz_uk-med
 #EXTINF:-1,RMC Buddha-Bar Radio
 https://stream02.pcradio.biz/rmc_buddha-med
-#EXTINF:-1,RT1 - Lounge Radio
-https://stream02.pcradio.biz/rt1_lounge-med
 #EXTINF:-1,Coffee FM Radio
 https://stream02.pcradio.biz/Vintazh_kafe-med
 #EXTINF:-1,SomaFM - Deep Space One Radio
 https://stream02.pcradio.biz/soma_deepspace1-med
-#EXTINF:-1,Radio Monte Carlo FM
-https://stream02.pcradio.biz/rmc_fm-med
+#EXTINF:-1,1a Chillout Radio
+https://stream02.pcradio.biz/erstea_chill-med
 #EXTINF:-1,Aura Radio
 https://stream02.pcradio.biz/aura_radio_pcradio-med
 #EXTINF:-1,smoothfm 91.5 (Melbourne) Radio
@@ -59,10 +59,16 @@ https://stream02.pcradio.biz/soma_suburbgoa-med
 https://stream02.pcradio.biz/radiodeluxehostingradioru-med
 #EXTINF:-1,RT1 Clubbing Radio
 https://stream02.pcradio.biz/rt1_chillhouse-med
+#EXTINF:-1,RT1 - Relax Radio
+https://stream02.pcradio.biz/rt1_relax-med
 #EXTINF:-1,Beach Paradise Radio
 https://stream02.pcradio.biz/rad_bchprds-med
+#EXTINF:-1,Energy Lounge Radio
+https://stream02.pcradio.biz/nrj_de_lounge-med
 #EXTINF:-1,Radio New Age
 https://stream02.pcradio.biz/New_Age-med
+#EXTINF:-1,Sensual Lounge Radio
+https://stream02.pcradio.biz/rdsnsllng-med
 #EXTINF:-1,LoungeFM Radio
 https://stream02.pcradio.biz/lounge_fm-med
 #EXTINF:-1,Chillizet Radio
@@ -75,6 +81,8 @@ https://stream02.pcradio.biz/this_is_radio-med
 https://stream02.pcradio.biz/ffh_lounge-med
 #EXTINF:-1,Radio Art - Solo Flute
 https://stream02.pcradio.biz/art_radio_soloflute-med
+#EXTINF:-1,Energy Love Radio
+https://stream02.pcradio.biz/nrj_de_love-med
 #EXTINF:-1,Lounge-radio
 https://stream02.pcradio.biz/lounge_basel-med
 #EXTINF:-1,Absolut relax Radio
@@ -139,8 +147,6 @@ https://stream02.pcradio.biz/regenbo_ost-med
 https://stream02.pcradio.biz/rad_chlltzntl-med
 #EXTINF:-1,RMN Relax Radio
 https://stream02.pcradio.biz/rmn_relax-med
-#EXTINF:-1,Radio Organic House
-https://stream02.pcradio.biz/rad_spnrrgnchs-med
 #EXTINF:-1,Dream Radio
 https://stream02.pcradio.biz/Dream-med
 #EXTINF:-1,САМОПОЗНАНИЕ.online Radio
@@ -205,8 +211,6 @@ https://stream02.pcradio.biz/smoothjazz_global-med
 https://stream02.pcradio.biz/smoothlounge_global-med
 #EXTINF:-1,Riviera Lounge Radio
 https://stream02.pcradio.biz/rad_rvrlngrd-med
-#EXTINF:-1,MixCult - Spitzer Radio
-https://stream02.pcradio.biz/mixcult_spitzer-med
 #EXTINF:-1,Dzhon Radio
 https://stream02.pcradio.biz/dzhon_radio-med
 #EXTINF:-1,Promo DJ - 186mph Radio
@@ -221,6 +225,8 @@ https://stream02.pcradio.biz/soundstorm_radio-med
 https://stream02.pcradio.biz/chilz_me-med
 #EXTINF:-1,Qfm 94.3 (Tenerife) Radio
 https://stream02.pcradio.biz/qfm943-med
+#EXTINF:-1,URALSOUND FM Radio
+https://stream02.pcradio.biz/rad_uralsndfm-med
 #EXTINF:-1,Murzik Radio
 https://stream02.pcradio.biz/rad_mrzkrdr-med
 #EXTINF:-1,Nature Radio Sleep
@@ -329,8 +335,6 @@ https://stream02.pcradio.biz/rad_chlltfmr-med
 https://stream02.pcradio.biz/klassikradio_smooth-med
 #EXTINF:-1,Relax FM Christmas Radio
 https://stream02.pcradio.biz/rad_rlxfmchrstms-med
-#EXTINF:-1,Promo DJ - Vata Radio
-https://stream02.pcradio.biz/promo_vata-med
 #EXTINF:-1,Slowly Radio
 https://stream02.pcradio.biz/rad_slwlrdcm-med
 #EXTINF:-1,CleansingMusic - Beyond Words Radio
@@ -349,8 +353,6 @@ https://stream02.pcradio.biz/lounge_chillout2-med
 https://stream02.pcradio.biz/rpr1_de_traum-med
 #EXTINF:-1,Cassiopeia Station Radio
 https://stream02.pcradio.biz/cassiopeia_station-med
-#EXTINF:-1,Relax FM (Moscow) Radio
-https://stream02.pcradio.biz/relax_fm_ru-med
 #EXTINF:-1,Monte-Carlo - Love Songs Radio
 https://stream02.pcradio.biz/montecarlo_love-med
 #EXTINF:-1,ELF Radio (Moscow)
@@ -383,8 +385,6 @@ https://stream02.pcradio.biz/rad_sprrlxfmrdmn-med
 https://stream02.pcradio.biz/rad_rdrelxsis-med
 #EXTINF:-1,Duna World Radio (MR)
 https://stream02.pcradio.biz/duna_world-med
-#EXTINF:-1,Radio 7
-https://stream02.pcradio.biz/radio7_ru-med
 #EXTINF:-1,Radio Samui Online
 https://stream02.pcradio.biz/rad_rdsamutd-med
 #EXTINF:-1,Radio Bellissima Relax
@@ -407,8 +407,6 @@ https://stream02.pcradio.biz/rad_rdchll-med
 https://stream02.pcradio.biz/rad_rlxfmdlyuikenda-med
 #EXTINF:-1,Radio RadeRadoste
 https://stream02.pcradio.biz/rad_rardostru-med
-#EXTINF:-1,SomaFM - Synphaera Radio
-https://stream02.pcradio.biz/rad_smfmcm-med
 #EXTINF:-1,Bay Smooth Jazz Radio
 https://stream02.pcradio.biz/rad_bysmthjzzcm-med
 #EXTINF:-1,Radio Dubai Lounge
@@ -417,21 +415,13 @@ https://stream02.pcradio.biz/rad_dbilng-med
 https://stream02.pcradio.biz/rad_cfdlmrcm-med
 #EXTINF:-1,Nature Radio Rain
 https://stream02.pcradio.biz/rad_ntrrdrn-med
-#EXTINF:-1,RT1 Chill Out Radio
-https://stream02.pcradio.biz/rad_rtclbbng-med
-#EXTINF:-1,RT1 Home Office Radio
-https://stream02.pcradio.biz/rad_rt1hmffc-med
 #EXTINF:-1,DEEP IN SPACE RADIO Radio
 https://stream02.pcradio.biz/rad_dpnspc-med
 #EXTINF:-1,Enigmatic Senses Radio
 https://stream02.pcradio.biz/rad_engmtcsesns-med
-#EXTINF:-1,Radio Buddha Bar Сhill
-https://stream02.pcradio.biz/rad_bddhbrchll-med
 #EXTINF:-1,Esperante Radio
 https://stream02.pcradio.biz/rad_sprntrd-med
 #EXTINF:-1,Radio Office
 https://stream02.pcradio.biz/rad_rdffc-med
 #EXTINF:-1,SaFJEM Beats Radio
 https://stream02.pcradio.biz/rad_sfjembtsrd-med
-#EXTINF:-1,Radio Air TOUCH
-https://stream02.pcradio.biz/rad_rdrtch-med

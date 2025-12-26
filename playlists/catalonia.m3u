@@ -1,20 +1,20 @@
 #EXTM3U
+#EXTINF:-1,Catalunya Ràdio
+https://shoutcast.ccma.cat/ccma/catalunyaradioHD.mp3
 #EXTINF:-1,Cadena 100 Barcelona
 https://cadena100bcn-cope.flumotion.com/playlist.m3u8
 #EXTINF:-1,80 Exitos
 https://80sexitos.stream.laut.fm/80sexitos?t302=2023-04-25_19-44-52&uuid=577849b5-a8e0-4ede-aa08-f9f064105be1
-#EXTINF:-1,Catalunya Ràdio
-https://shoutcast.ccma.cat/ccma/catalunyaradioHD.mp3
 #EXTINF:-1,Catalunya Informació
 https://shoutcast.ccma.cat/ccma/catalunyainformacioHD.mp3
+#EXTINF:-1,RAC 105
+https://20073.live.streamtheworld.com:443/RAC105.mp3?type=.mp3
 #EXTINF:-1,80s Super Dance Floor Radio
 http://s41.myradiostream.com:33604/;
 #EXTINF:-1,80s 90s Romantics
 https://s47.myradiostream.com:12906/listen.mp3
 #EXTINF:-1,Digital Hits FM
 http://digitalhits.frilab.com:8000/digitalhits;
-#EXTINF:-1,Catalunya Música
-https://shoutcast.ccma.cat/ccma/catalunyamusicaHD.mp3
 #EXTINF:-1,Radio Sitges
 https://s2.radio.co/s8e5dffe5e/listen
 #EXTINF:-1,DJS FULL MUSIC
@@ -31,6 +31,8 @@ https://shoutcast.ccma.cat/ccma/icatHD.mp3
 https://streamer.radio.co/sd7b28e5f3/listen
 #EXTINF:-1,Radio Amistad
 https://srv7031.dns-lcinternet.com/8010/stream
+#EXTINF:-1,Styl Classics 95.2 FM
+http://s2.nexuscast.com:8042/;
 #EXTINF:-1,Live FM
 http://streaming.enantena.com:8000/livefm128.mp3
 #EXTINF:-1,Energy Radionline
@@ -65,16 +67,12 @@ https://s2.radio.co/sd9da54aa0/listen
 http://stream.internetgirona.com:8008/onair
 #EXTINF:-1,YAPE RADIO
 http://streaming.hdserver.biz:9464/;stream.nsv
-#EXTINF:-1,WonderFM Lleida
-http://wonderfm.com:8025/;stream.nsv
 #EXTINF:-1,Radio DOS 84
 http://188.93.73.7:8064/stream
 #EXTINF:-1,Ona Malgrat
 http://streaming.enantena.com:8000/onamalgrat128.mp3
 #EXTINF:-1,Cooltura FM 105.5 FM
 https://server9.emitironline.com:19244/
-#EXTINF:-1,Radio Salut 100.9 FM
-http://ds1961313.radiomarcabarcelona.com:9001/stream
 #EXTINF:-1,Maná Radio
 http://streaming.enantena.com:8000/manaradio128.mp3
 #EXTINF:-1,Dale Fm
@@ -89,8 +87,6 @@ http://194.32.133.102:8000/;
 https://lloret.frilab.com:8443/lloret
 #EXTINF:-1,CCP Cadena Music
 https://sonic.sistemahost.es/8062/stream
-#EXTINF:-1,Radio ISBE
-https://c30.radioboss.fm:18455/stream
 #EXTINF:-1,Solo Para Rumberos
 http://sp01.servidor.stream:8002/stream
 #EXTINF:-1,La Movida Latina
@@ -127,8 +123,6 @@ https://d1sojsgu0jwtb7.cloudfront.net/audio/silence.mp3
 http://escala-garden.frilab.com:8000/escala
 #EXTINF:-1,Dublab Radio
 https://dublabbcn.out.airtime.pro/dublabbcn_b
-#EXTINF:-1,Cadena Top10 Radio
-https://cadenatop-rowrigos.radioca.st/stream
 #EXTINF:-1,Ona la Torre
 https://streaming.enacast.com/onalatorreSD.mp3
 #EXTINF:-1,Radio Cubelles
@@ -165,10 +159,16 @@ https://80sexitos.stream.laut.fm/80sexitos
 https://topradio.uno:8048/live
 #EXTINF:-1,Ràdio 010
 http://hyades.shoutca.st:8544/;?_=1#.mp3
+#EXTINF:-1,Cadena SER - Ràdio Barcelona
+https://19983.live.streamtheworld.com:443/SER_BARCELONA.mp3
+#EXTINF:-1,SER Catalunya
+https://25553.live.streamtheworld.com/SER_CATAAC.aac
 #EXTINF:-1,RadioTop20.es
 https://sonic.sistemahost.es/8014/stream
 #EXTINF:-1,80S Rick Astley &amp; Friends
 https://streaming.brol.tech/rtfmlounge
+#EXTINF:-1,Color People
+http://server6.globalhostla.com:9134/stream
 #EXTINF:-1,La tremenda fm
 http://server2.ejeserver.com:8210/stream
 #EXTINF:-1,Radio vila Barcelona

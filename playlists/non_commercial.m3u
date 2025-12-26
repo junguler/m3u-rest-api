@@ -19,10 +19,6 @@ https://traxx023.ice.infomaniak.ch/traxx023-1.mp3
 https://traxx016.ice.infomaniak.ch/traxx016-low.mp3
 #EXTINF:-1,KFMG-LP
 http://18.220.54.199:8004/;stream.nsv
-#EXTINF:-1,Traxx FM Deep
-https://traxx013.ice.infomaniak.ch/traxx013-low.mp3
-#EXTINF:-1,Traxx FM Hits
-https://traxx010.ice.infomaniak.ch/traxx010-low.mp3
 #EXTINF:-1,WPRB
 https://wprb.streamguys1.com/listen.mp3
 #EXTINF:-1,SomaFM DEF CON Radio
@@ -31,8 +27,6 @@ https://ice6.somafm.com/defcon-128-aac
 https://streaming.viphosting.cl/8028/stream
 #EXTINF:-1,Mustar FM
 http://193.138.125.14:8500/;
-#EXTINF:-1,Traxx FM  Rock
-https://traxx019.ice.infomaniak.ch/traxx019-low.mp3
 #EXTINF:-1,Traxx FM  Jazz
 https://traxx014.ice.infomaniak.ch/traxx014-low.mp3
 #EXTINF:-1,Traxx FM Deluxe
@@ -111,5 +105,3 @@ https://ckut.out.airtime.pro/ckut_a
 http://streamer2.legatocommunications.com/wapshq
 #EXTINF:-1,SomaFM Groove Salad Classic 128k
 https://ice2.somafm.com/gsclassic-128-mp3
-#EXTINF:-1,Radio Club80 Clasicos
-http://stream.radioclub80.cl:8000/clasicos80.mp3

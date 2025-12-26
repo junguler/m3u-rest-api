@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1,48FM - Liege
-http://stream.48fm.com:8000/48fm-64
-#EXTINF:-1,88.3 WCBN-FM Ann Arbor (HD)
-http://www.wcbn.org/wcbn-hd.m3u
 #EXTINF:-1,94.5 Radio Universidad UAA Universidad Autonoma de Aguascalientes
 https://streamingcwsradio30.com/8148/stream
 #EXTINF:-1,camfm Cambridge University Student Radio
@@ -12,7 +8,7 @@ http://www.cfbu.ca/listen.m3u
 #EXTINF:-1,CFBX 92.5 "The X" Thompson Rivers University - Kamloops, BC
 http://198.162.21.84:8002/
 #EXTINF:-1,CFRC 101.9 Queen's University Kingston, ON
-https://audio-edge-2a8hd.sfo.he.radiomast.io/e5ebc530-289b-4105-9840-364a792d625f
+https://audio-edge-vqwx4.yyz.g.radiomast.io/e5ebc530-289b-4105-9840-364a792d625f
 #EXTINF:-1,CFUV 101.9 University of Victoria, BC
 http://ais-sa1.streamon.fm/7132_64k.aac
 #EXTINF:-1,CHRY "Vibe 105.5" York University Toronto, ON
@@ -47,8 +43,6 @@ http://playerservices.streamtheworld.com/m3u/KACUFM.m3u
 http://edge.mixlr.com/channel/veouw
 #EXTINF:-1,KCLC-HD1 89.1 Lindenwood University - St. Charles, MO
 http://ice6.securenetsystems.net/KCLC
-#EXTINF:-1,KCLC-HD2 "The Experience" Lindenwood University - St. Charles, MO
-http://ice6.securenetsystems.net/KCLC2
 #EXTINF:-1,KEXP 90.3
 http://live-aacplus-64.kexp.org/kexp64.aac
 #EXTINF:-1,KGLT 91.9 "Montana State University" Bozeman, MT
@@ -61,8 +55,6 @@ http://stream.kntu.unt.edu:1935/live/radiostation.stream/playlist.m3u8
 http://ice6.securenetsystems.net/KTSUFM
 #EXTINF:-1,KTTZ 89.1 "Texas Tech Public Media" Lubbock, TX
 http://playerservices.streamtheworld.com/m3u/KTTZHD1.m3u
-#EXTINF:-1,KTXT 88.1 "The Raider" Texas Tech University - Lubbock, TX
-http://ice7.securenetsystems.net/KTXTFM
 #EXTINF:-1,KUGS 89.3 Western Washington University - Bellingham, WA
 http://peridot.streamguys.com:7170/kugs-mp3
 #EXTINF:-1,KWVA 88.1 University of Oregon - Eugene, OR
@@ -75,6 +67,8 @@ http://kxtr.streamguys1.com/live-aac
 http://streamingcwsradio10.com:9302/
 #EXTINF:-1,Radio 6023
 http://stream12.top-ix.org/radio6023
+#EXTINF:-1,Radio Anáhuac (Huixquilucan) - 1670 AM - XEANAH-AM - Universidad Anáhuac - Huixquilucan, EM
+https://stream.anahuac.mx/radioanahuac/live.mp4/playlist.m3u8
 #EXTINF:-1,Radio Bolivariana FM (HJA94, 92.4 MHz FM, Medellín) Universidad Pontificia Bolivariana
 http://streaming.radiobolivarianavirtual.com:7630/
 #EXTINF:-1,Radio BUAP (Puebla) - 96.9 FM - XHBUAP-FM - Benemérita Universidad Autónoma de Puebla (BUAP) - Puebla, PU
@@ -191,5 +185,3 @@ http://shaincast.caster.fm:20866/listen.mp3
 http://radio.canstream.co.uk:8039/live.mp3
 #EXTINF:-1,重庆交通广播
 http://ls.qingting.fm/live/1500.m3u8
-#EXTINF:-1,Radio Anáhuac (Huixquilucan) - 1670 AM - XEANAH-AM - Universidad Anáhuac - Huixquilucan, EM
-https://stream.anahuac.mx/radioanahuac/live.mp4/playlist.m3u8

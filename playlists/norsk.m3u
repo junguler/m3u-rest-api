@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1,P6 Rock
+https://p6.p4groupaudio.com/P06_AH
+#EXTINF:-1,P9 Retro
+https://p9.p4groupaudio.com/P09_MH
 #EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/61954.v11.png",Activa Hits Radio
 https://sonic.mediatelekom.net/8160/stream.aac/
 #EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/44738.v3.png",Radio Norge
@@ -17,8 +21,6 @@ https://p5.p4groupaudio.com/P05_MH?
 https://stream.radio3.no/radiotromso
 #EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/15804.v5.png",P6 Rock
 https://p6.p4groupaudio.com/P06_MH
-#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/15811.v6.png",P9 Retro
-https://p9.p4groupaudio.com/P09_MH
 #EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/20260.v5.png",Radio Nano
 http://s2.yesstreaming.net:7157/stream
 #EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/89189.v4.png",KISS Norge

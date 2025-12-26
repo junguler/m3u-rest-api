@@ -1,76 +1,24 @@
 #EXTM3U
-#EXTINF:-1,DOBYTEK DnB Radio MP3
-https://free.rcast.net/260280
-#EXTINF:-1,Happy Sound Music
-https://free.rcast.net/258763
-#EXTINF:-1,Radio 27 Network
-https://cast1.prosandoval.com/listen/radio_27_network/radio.mp3
-#EXTINF:-1,Dawgclan Network Radio 64Kbit (Automated Requests @ http://www.dawgclan.net)
-https://free.rcast.net/251938
-#EXTINF:-1,1031 KCDA
-https://stream.revma.ihrhls.com/zc2589
-#EXTINF:-1,97.9 WIBB
-https://stream.revma.ihrhls.com/zc3256
-#EXTINF:-1,Mix 92.3
-https://stream.revma.ihrhls.com/zc1149
-#EXTINF:-1,Byblos Radio meets Beirut Nights: Mediterranean Lebanese Greek Turkish Armenian Italian French Spanish Arabic Hebrew Persian & more
-https://free.rcast.net/232627
-#EXTINF:-1,Deep House Network
-https://free.rcast.net/212971
-#EXTINF:-1,Neko-Network Radio: Vision Electronica
-https://free.rcast.net/210503
-#EXTINF:-1,Soyboy radio
-https://free.rcast.net/205578
-#EXTINF:-1,Open-Stage Project on MixLive.ie
-https://free.rcast.net/12292
-#EXTINF:-1,Musica de todos lados
-https://streamconex.com:8208/stream
-#EXTINF:-1,PMP_RADIO [a dj's world]
-https://das-edge09-live365-dal03.cdnstream.com/a77729
-#EXTINF:-1,Froggy Radio Online
-https://das-edge15-live365-dal02.cdnstream.com/a74917
-#EXTINF:-1,Pirate Radio WKKCDB
-https://das-edge09-live365-dal03.cdnstream.com/a89594
-#EXTINF:-1,Dynamic Indie Radio
-https://das-edge09-live365-dal03.cdnstream.com/a80910
-#EXTINF:-1,Absolute Mix Radio
-https://das-edge17-live365-dal02.cdnstream.com/a67912
-#EXTINF:-1,Retro Electro
-https://das-edge17-live365-dal02.cdnstream.com/a21726
-#EXTINF:-1,WHCR 102.9
-https://das-edge11-live365-dal03.cdnstream.com/a26310
-#EXTINF:-1,MEAD COMMUNITY RADIO
-https://das-edge13-live365-dal02.cdnstream.com/a30373
-#EXTINF:-1,Park World Radio
-https://das-edge12-live365-dal02.cdnstream.com/a89698
-#EXTINF:-1,ITI Music Live 365
-https://das-edge13-live365-dal02.cdnstream.com/a97531
-#EXTINF:-1,AceRadio.Net - Glee Radio
-https://das-edge12-live365-dal02.cdnstream.com/a96008
-#EXTINF:-1,KBRZ-DB (The Yosemite Breeze)
-https://das-edge12-live365-dal02.cdnstream.com/a69632
-#EXTINF:-1,Live365 Support Demo Station
-https://das-edge13-live365-dal02.cdnstream.com/a63277
-#EXTINF:-1,The North Mixtape
-https://das-edge16-live365-dal02.cdnstream.com/a95590
-#EXTINF:-1,Workshop Tunes
-https://das-edge13-live365-dal02.cdnstream.com/a19180
-#EXTINF:-1,WBPE-BobFM
-https://das-edge14-live365-dal02.cdnstream.com/a15632
-#EXTINF:-1,98FROG
-https://das-edge12-live365-dal02.cdnstream.com/a92698
-#EXTINF:-1,RadioStorm - At Work
-https://das-edge12-live365-dal02.cdnstream.com/a36600
-#EXTINF:-1,WNNR-DB Orlando Florida (Nothin Nice Radio)
-https://das-edge16-live365-dal02.cdnstream.com/a57069
-#EXTINF:-1,KEZZ- Soft Wave Radio
-https://das-edge13-live365-dal02.cdnstream.com/a96705
-#EXTINF:-1,In The Mix
-https://das-edge16-live365-dal02.cdnstream.com/a55220
-#EXTINF:-1,RADIEGO RADIO
-https://das-edge16-live365-dal02.cdnstream.com/a99602
-#EXTINF:-1,KW
-http://streamingp.shoutcast.com/JamendoLounge?lang=*
+#EXTINF:-1,laborfm
+http://laborfm.stream.laut.fm/laborfm
+#EXTINF:-1,laut
+http://laut.stream.laut.fm/laut
+#EXTINF:-1,dancemusic
+http://dancemusic.stream.laut.fm/dancemusic
+#EXTINF:-1,89.0 RTL Workout
+https://fhhalle.streamabc.net/fhhal-890workout-mp3-256-8101809?sABC=69430092%230%23pq728379qn0orr84s78q058p11073767%23&aw_0_1st.playerid=&amsparams=playerid:;skey:1765998738
+#EXTINF:-1,workout
+https://radiorecord.hostingradio.ru/workout96.aacp
+#EXTINF:-1,JAM FM Workout
+http://rtlberlin.streamabc.net/rtlb-jamfmworkout-mp3-192-2423351?sABC=69430093%230%23op65q9o922p04p2o9nq3on13r5437674%23&aw_0_1st.playerid=&amsparams=playerid:;skey:1765998739
+#EXTINF:-1,Radio Regenbogen Workout
+http://audiotainment-sw.streamabc.net/atsw-workout-aacplus-64-5121871?sABC=69430094%230%23op65q9o922p04p2o9nq3on13r5437674%23gjy&aw_0_1st.playerid=twl&amsparams=playerid:twl;skey:1765998740
+#EXTINF:-1,sunshine live - Workout
+https://free.rcast.net/233320
+#EXTINF:-1,FFH WORKOUT
+http://mp3.ffh.de/ffhchannels/hqworkout.mp3
+#EXTINF:-1,LABR
+https://free.rcast.net/214223
 #EXTINF:-1,Oxygen Fitness
 https://oxygenmusic.hu:8443/oxygenfitness_128
 #EXTINF:-1,FluxFM - John Reed Radio
@@ -81,8 +29,6 @@ https://s4-webradio.antenne.de/workout-hits
 https://stream.ehrhiti.lv:8000/Stream_14.aac
 #EXTINF:-1,FFH Workout
 https://mp3.ffh.de/ffhchannels/hqworkout.aac
-#EXTINF:-1,Radio Nürburgring powered by RPR1.
-https://audiotainment-sw.streamabc.net/atsw-rpr1webradio-aac-128-8604678?sABC=64480r44%231%23gjy%23zc3&aw_0_1st.playerid=mp3&amsparams=playerid:mp3;skey:1682443844
 #EXTINF:-1,COOLFM Sportoláshoz
 https://mediagw.e-tiger.net/stream/zc20
 #EXTINF:-1,89.0 RTL - Workout
@@ -111,37 +57,11 @@ http://audiotainment-sw.streamabc.net/atsw-yogasounds-mp3-128-4096431?sABC=64480
 http://fluxfm.streamabc.net/flx-event01-mp3-320-4988078?sABC=645o6qn6%230%232nop8q1rs957s9rs871742s96987s031%23nhqvb&aw_0_1st.playerid=audio&amsparams=playerid:audio;skey:1683713446
 #EXTINF:-1,FLUX FM Yoga Sounds
 http://fluxfm.streamabc.net/flx-yogasounds-mp3-320-4387219?sABC=64480rq2%230%23n1q9s1ns4osoonq326452q0po510q6pp%23&aw_0_1st.playerid=&amsparams=playerid:;skey:1682443986
-#EXTINF:-1,laborfm
-http://laborfm.stream.laut.fm/laborfm
-#EXTINF:-1,laut
-http://laut.stream.laut.fm/laut
-#EXTINF:-1,dancemusic
-http://dancemusic.stream.laut.fm/dancemusic
 #EXTINF:-1,  WORKOUT   by rautemusik (rm.fm) - 192 - Germany - dance - hip hop - hits - non-stop music - training - workout
-https://rautemusik.stream43.radiohost.de/workout?ref=radiobrowser&upd-meta&upd-scheme=https&_art=dD0xNzU3NTI4OTg3JmQ9OTJmZDA5YzdhNGEyNWRiZDM1NjQ
+https://rautemusik.stream25.radiohost.de/workout?ref=radiobrowser&upd-meta&upd-scheme=https&_art=dD0xNzY1OTk5MDQ0JmQ9M2M2ZDAxNDVjN2M2ZjIyODkyMTU
 #EXTINF:-1,1A Fitness Hits - 0 - Germany - dance - sport - workout
-http://fhhalle.streamabc.net/fhhal-890workout-mp3-256-8101809?sABC=68p1p26s%230%237nnr9827s1noqs64q9580q80676qn939%23&aw_0_1st.playerid=&amsparams=playerid:;skey:1757528687
+http://fhhalle.streamabc.net/fhhal-890workout-mp3-256-8101809?sABC=69430098%230%2317s32r3091o80q09661pq699srs69s70%23&aw_0_1st.playerid=&amsparams=playerid:;skey:1765998744
 #EXTINF:-1,Antenne Bayern - Workout hits - 128 - Germany - workout
-http://s6-webradio.antenne.de/workout-hits
-#EXTINF:-1,FFH Workout - 128 - Germany - workout
-http://mp3.ffh.de/ffhchannels/hqworkout.mp3
+http://s7-webradio.antenne.de/workout-hits
 #EXTINF:-1,Gong FM Workout - 0 - Germany - pop - workout
-https://edge15.streamonkey.net/gongfm-workout/stream/aacp
-#EXTINF:-1,89.0 RTL Workout
-https://fhhalle.streamabc.net/fhhal-890workout-mp3-256-8101809?sABC=68or5q25%230%23995768oo3r5n9638p710n4158qs27n61%23&aw_0_1st.playerid=&amsparams=playerid:;skey:1757306149
-#EXTINF:-1,workout
-https://radiorecord.hostingradio.ru/workout96.aacp
-#EXTINF:-1,JAM FM Workout
-https://free.rcast.net/237610
-#EXTINF:-1,Radio Regenbogen Workout
-https://free.rcast.net/236042
-#EXTINF:-1,ANTENNE BAYERN Workout Hits
-https://rautemusik.stream25.radiohost.de/workout?upd-meta=0&upd-scheme=https&_art=dD0xNzU3MzA2NDQ5JmQ9MzFkZjAwZjAyODk3ZTUyYTk2NDk
-#EXTINF:-1,sunshine live - Workout
-https://free.rcast.net/233320
-#EXTINF:-1,FFH WORKOUT
-https://free.rcast.net/232519
-#EXTINF:-1,LABR
-https://free.rcast.net/214223
-#EXTINF:-1,Hitkanal.FM - Workout
-https://free.rcast.net/206216
+https://edge83.streamonkey.net/gongfm-workout/stream/aacp

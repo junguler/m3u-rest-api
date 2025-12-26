@@ -1,6 +1,10 @@
 #EXTM3U
-#EXTINF:-1,RAW SOUL RADIO LIVE STREAM
-http://s8.citrus3.com:8264/stream
+#EXTINF:-1,startrek
+http://startrek.stream.laut.fm/startrek
+#EXTINF:-1,futurize
+http://futurize.stream.laut.fm/futurize
+#EXTINF:-1,redgateradio
+http://redgateradio.stream.laut.fm/redgateradio
 #EXTINF:-1,SynthPop Radio
 https://synthpop.stream.laut.fm/synthpop
 #EXTINF:-1,DFM Tiesto
@@ -34,22 +38,16 @@ http://future.stream.laut.fm/future?t302=2023-04-25_19-36-35&uuid=e509a80d-d9a5-
 #EXTINF:-1,Subtle Radio
 https://subtle.out.airtime.pro/subtle_a
 #EXTINF:-1,i love radio - bass
-http://ilm.stream18.radiohost.de/ilm_iloveradiorock_mp3-192?upd-meta=0&upd-scheme=http&_art=dD0xNzU2OTMwNzIyJmQ9MDkxMmIyNTIyMmVlNDkwOTZkODg
+http://ilm.stream12.radiohost.de/ilm_iloveradiorock_mp3-192?upd-meta&upd-scheme=http&_art=dD0xNzY1OTg0MDE1JmQ9MTUwNzYzYzZjN2M2ZjZkOGI1ZTk
 #EXTINF:-1,Futuro
 http://26593.live.streamtheworld.com:80/FUTUROAAC_SC
 #EXTINF:-1,Carnaval del Futuro
 https://sp.totalstreaming.net/8164/stream
 #EXTINF:-1,Technolovers FUTURE HOUSE
-https://0nlineradio.stream13.radiohost.de/technolovers-future-house?ref=radiobrowser&upd-meta=0&upd-scheme=https&_art=dD0xNzU2OTMwNzIyJmQ9MzNiOTFlNzdiMzlkNzVmNWJiYmI
+https://0nlineradio.stream13.radiohost.de/technolovers-future-house?ref=radiobrowser&upd-meta&upd-scheme=https&_art=dD0xNzY1OTg0MDE2JmQ9N2RlM2NmZjIzZWUxNjIzMWFkY2I
 #EXTINF:-1,Laut.FM Dark-Bites
 http://dark-bites.stream.laut.fm/dark-bites?t302=2023-04-25_19-50-28&uuid=6113de60-0c16-4eb8-9cd5-07150613f090
 #EXTINF:-1,SomaFM Fluid (128K AAC)
 http://ice2.somafm.com/fluid-128-aac
 #EXTINF:-1,WalconFM - Electro Radio
 https://listen6.myradio24.com/walcon
-#EXTINF:-1,startrek
-http://startrek.stream.laut.fm/startrek
-#EXTINF:-1,redgateradio
-http://redgateradio.stream.laut.fm/redgateradio
-#EXTINF:-1,futurize
-http://futurize.stream.laut.fm/futurize

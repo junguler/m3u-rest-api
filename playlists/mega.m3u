@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1,Alto Tamega FM - 128 - Portugal -
+https://ssl.omegahost.ro:8020/stream
 #EXTINF:-1,DrGnu - Wacken Radio - 0 - Germany - ac/dc - acdc - alternative - anthrax - art rock - avant garde - classic - danzig - drgnu - experimental - folk rock - foo fighters - garage punk - glam rock - grunge - heavy metal - heavy rock - hits - indie - korn - linkin park - livestream - megadeth - metal - metallica - motörhead - new wave - nu punk - pop - pop-rock - prog - psychedelia - punk rock - queen - rainorshine - rhythm and blues - rock - rolling stones - slow rock - soft rock - symphonic rock - system of a down - wacken - wacken open air - wacken radio - woa
 https://8727.omegastreaming.com.br/stream?
 #EXTINF:-1,Maxiradio 103.3 Culiacán - 128 - Mexico - adult contemporary - culiacán - hits - maxiradio - megamedios - mexico - música variada - norteamérica - pop - sinaloa
@@ -11,5 +13,7 @@ https://rrdns-megasistema.webnow.com.br/mega.aac
 https://centova.ipstream.it/proxy/megamix80/stream
 #EXTINF:-1,Omega FM - 128 - Brazil -
 https://webradio.amsolution.com.br/radio/8000/omega
+#EXTINF:-1,Omega Stereo - 96 - Panama - classic rock -  talk
+https://ssl.omegahost.ro/8066/stream
 #EXTINF:-1,radyo megasite - 32 - Türkiye - http://mega.netradyom.com:7900/listen.pls
 http://mega.netradyom.com:7900/;
