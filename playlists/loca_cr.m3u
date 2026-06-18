@@ -3,14 +3,10 @@
 http://rtvhd.net:9932/
 #EXTINF:-1,IQ 93.9 FM
 http://rtvhd.net:9942/*.mp3
-#EXTINF:-1,Radio Live Power
-http://163.172.209.91:7149/stream
 #EXTINF:-1,Canción FM
 https://stream20.usastreams.com/8112/stream
 #EXTINF:-1,Radio Anexión Guanacaste
 https://mytuner-radio.com/radio/country/costa-rica-stations
-#EXTINF:-1,Radio Tropicalisima CR
-http://163.172.209.91:9119/stream
 #EXTINF:-1,RADIO NOSTALGIAS
 https://conectperu.com/8152/stream
 #EXTINF:-1,Radio María Costa Rica
@@ -24,7 +20,7 @@ http://radiouncion.rtvhd.net:9946/stream.mp3
 #EXTINF:-1,Guanacaste FM
 https://stream10.usastreams.com/8008/guanacastefm
 #EXTINF:-1,Asociacion Red de Radiodifusion Biblica
-https://audio-edge-qse4n.yyz.g.radiomast.io/475ebed1-595e-4717-b888-64fe8fc6b09f
+https://audio-edge-2a8hd.sfo.he.radiomast.io/475ebed1-595e-4717-b888-64fe8fc6b09f
 #EXTINF:-1,Radio Activa CR
 https://server01.heplayer.com/8046/stream
 #EXTINF:-1,Radio Sonora 700 AM
@@ -35,14 +31,10 @@ http://streaming.radio.co/s6729aeaac/listen
 https://streaming.radio.co/s6729aeaac/listen
 #EXTINF:-1,Radio Spectro
 https://stream20.usastreams.com/8090/stream
-#EXTINF:-1,Radio Zurqui
-http://204.12.193.98:8323/
 #EXTINF:-1,Radio 94.7 FM
-https://23263.live.streamtheworld.com/CRC_947AAC_SC
+https://18543.live.streamtheworld.com/CRC_947AAC_SC
 #EXTINF:-1,Cadena Cristiana RTS
 https://ssl.hostingtico.com:7000/index.html?sid=1
-#EXTINF:-1,¡Diay Radio!
-https://radio.co.cr/listen/radio/radio.mp3?n=5c690ed769ffa8ca7d1f
 #EXTINF:-1,1047hit
 https://live.turadio.stream:7004/stream?n=d0da5efa0cbd6b4d99c5
 #EXTINF:-1,Dabar
@@ -51,8 +43,6 @@ https://a1.asurahosting.com:8720/radio.mp3?n=9104353705f464daef83
 https://streaming.radio.co/s36bd2a451/listen?n=eaf9ea8bd121564a7e3c
 #EXTINF:-1,Los 40 Principales Costa Rica
 https://provisioning.streamtheworld.com/pls/LOS40_CR.pls?n=91bf82943023631e5aea
-#EXTINF:-1,Mundo Rock Radio CR
-https://cloudstream2030.conectarhosting.com/8196/stream?n=85afd04d3ac93566d5c9
 #EXTINF:-1,Nueve Cuatro Siete - 94.7 FM
 https://18543.live.streamtheworld.com/CRC_947AAC.aac?_=819140?n=1ed2425613b5fd52e1ef
 #EXTINF:-1,Planet 107.5
@@ -72,14 +62,12 @@ https://g2qd375ol7an-hls-live.5centscdn.com/Radio/eae835e83c0494a376229f254f7d33
 #EXTINF:-1,Tiquicia Rock
 https://usa19.fastcast4u.com:5860/?type=http&nocache=1690470873?n=185325c00f433e8c493c
 #EXTINF:-1,103 FM 103.1
-https://18543.live.streamtheworld.com/CRC_103_1AAC.aac?n=6975ffc8a5939468fffa
+https://18393.live.streamtheworld.com/CRC_103_1AAC.aac?n=6975ffc8a5939468fffa
 #EXTINF:-1,CRC 89.1 RADIO
-https://18543.live.streamtheworld.com/CRC_89_1AAC.aac?n=a347ad614a6cda0afe1b
+https://18393.live.streamtheworld.com/CRC_89_1AAC.aac?n=a347ad614a6cda0afe1b
 #EXTINF:-1,95.5 Jazz
 https://streaming.radio.co/s36bd2a451/listen?n=103eca0be3e0f546c562
-#EXTINF:-1,Amplify 95.5 FM
-https://streams.radio.co/s7e8f19c33/listen?n=a5177d2d83ed1afce783
 #EXTINF:-1,LOS40 Principales Radio
 https://25503.live.streamtheworld.com/LOS40AAC_SC?n=6c8ca4bf5da47d04bca2
 #EXTINF:-1,Azul 99.9 FM
-https://18393.live.streamtheworld.com/CRC_999AAC.aac?n=1d127ee992aaf5aacf49
+https://18543.live.streamtheworld.com/CRC_999AAC.aac?n=1d127ee992aaf5aacf49

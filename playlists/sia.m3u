@@ -6,7 +6,7 @@ https://radiostreaming.ert.gr/ert-defteroparadosiaka
 #EXTINF:-1,89.2 FM Jakarta -  Campur sari - 48 - Indonesia -
 https://a8.siar.us/listen/campursari/stream
 #EXTINF:-1,98.8 Kiss FM Russian Beats - 128 -  -
-http://topradio.stream10.radiohost.de/kissfm-russian-beats_mp3-128?agend=true&upd-meta&upd-scheme=http&_art=dD0xNzY2MDIyNDg4JmQ9MWMxNjJlYzI2ODRhNzJiMzJhZGM
+http://topradio.stream07.radiohost.de/kissfm-russian-beats_mp3-128?agend=true&upd-meta&upd-scheme=http&_art=dD0xNzgwOTE1MjYxJmQ9ODIyMGJkZjViYTE3MThjNjZlYWE
 #EXTINF:-1,Akurat FM Solo - 128 - Indonesia - media kristen
 http://c1.siar.us:9350/stream
 #EXTINF:-1,Beat Radio Bali - 128 - Indonesia - dance - dj remix - electronic - house
@@ -21,10 +21,6 @@ http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist w275412545 b38400
 https://dfm-russiangold.hostingradio.ru/russiangold96.aacp
 #EXTINF:-1,DFM Русский Рейв - 96 - The Russian Federation - танцевальная - электронная
 https://dfm-russianrave.hostingradio.ru/russianrave96.aacp
-#EXTINF:-1,Exclusively - Sia - 0 - The United Arab Emirates - exclusive - sia
-https://nl4.mystreaming.net/er/sia/icecast.audio
-#EXTINF:-1,Exclusively Enrique Iglesias - 0 - The United Arab Emirates - adult contemporary - dance pop - latin dance - latin pop - pop
-https://nl4.mystreaming.net/er/enriqueiglesias/icecast.audio
 #EXTINF:-1,Gema Surya FM Ponorogo - 48 - Indonesia -
 https://r5.siar.us:9420/aac.m4a? =1
 #EXTINF:-1,Gold - 64 - Malaysia -
@@ -33,8 +29,6 @@ https://ss1.audiorama.com.mx:6584/https://radiomalaysia.net/gold-fm.html
 https://c1.siar.us/radio/8050/radio.mp3
 #EXTINF:-1,Krievu zalts - 0 - The Russian Federation -
 http://radiorecord.hostingradio.ru/russianhits96.aacp
-#EXTINF:-1,LPPL BATARA - 48 - Indonesia -
-https://a5.siar.us/listen/lpplbatara/stream
 #EXTINF:-1,Paddygrooves - 128 - Indonesia -
 https://a12.siar.us/radio/8230/radio.mp3
 #EXTINF:-1,Parousia Radio  - 192 - Ghana - christian - gospel - preaching
@@ -65,8 +59,6 @@ https://a2.siar.us/listen/remfm/stream
 http://radiorecord.hostingradio.ru/russiangold96.aacp
 #EXTINF:-1,SBS PopAsia - 97 - Australia - c-pop - cantonese - chinese pop - cpop - hong kong music - j-pop - japanese music - jpop - k-pop - korean music - kpop - multicultural - pop music - taiwanese pop
 https://sbs-ice.streamguys1.com/sbs-popasia-sbs-web
-#EXTINF:-1,Suara Inspirasi - 64 - Indonesia -
-https://audiostreamserver.indonesiastreaming.com/suarainspirasi
 #EXTINF:-1,Suara Soneta - 48 - Indonesia - dangdut - melayu
 https://a2.siar.us//listen//suarasoneta//radio.mp3
 #EXTINF:-1,SUN FM 103.5MHZ Banjarmasin - 192 - Indonesia - pop
@@ -77,7 +69,3 @@ https://a2.siar.us/listen/swarabersujud/radio.mp3
 https://a5.siar.us/listen/warna91.6fmpadang/stream
 #EXTINF:-1,Радио «Комсомольская Правда» | КП Россия - 0 - The Russian Federation - moscow - music - news - russia - talk
 http://kpradio.hostingradio.ru:8000/russia.radiokp128.mp3
-#EXTINF:-1,РУССКОЕ 1995-2005 [HDR FLAC] - 320 - The Russian Federation - pop - rock
-http://harddanceradio.ddns.is74.ru:9000/russian.ogg
-#EXTINF:-1,يوم عاشوراء - 128 - Tunisia - classical
-http://radio1.siamlivehost.com:8001/;

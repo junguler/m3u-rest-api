@@ -145,8 +145,6 @@ https://sc4s.cdn.upx.com:8258/stream
 https://stream.vagalume.fm/hls/14660052232033106219/aac.m3u8
 #EXTINF:-1,Vagalume.FM - O Melhor de Charlie Brown Jr.
 https://stream.vagalume.fm/hls/1496775483807602/aac.m3u8
-#EXTINF:-1,Rádio Charme
-https://stm9.xcast.com.br:7988/;
 #EXTINF:-1,Vagalume.FM - Rock - Das Raízes ao Progressivo
 https://stream.vagalume.fm/hls/1475867272151401/aac.m3u8
 #EXTINF:-1,Vagalume.FM - Top 50 Brasil
@@ -169,8 +167,6 @@ https://stream.vagalume.fm/hls/1520623923815366/aac.m3u8
 https://stream.vagalume.fm/hls/1500578866216038/aac.m3u8
 #EXTINF:-1,Vagalume.FM - Light
 https://stream.vagalume.fm/hls/1465325318422939937/aac.m3u8
-#EXTINF:-1,Supernova FM light
-https://www.appradio.app:8042/live
 #EXTINF:-1,Vagalume.FM - Pop Nacional
 https://stream.vagalume.fm/hls/1470169276225492/aac.m3u8
 #EXTINF:-1,Vagalume.FM - Para Trabalhar
@@ -223,6 +219,8 @@ https://stream.vagalume.fm/hls/1470679981257760/aac.m3u8
 https://stream.vagalume.fm/hls/149858723873431/aac.m3u8
 #EXTINF:-1,Vagalume.FM - Adrenalina
 https://stream.vagalume.fm/hls/1523038897499421/aac.m3u8
+#EXTINF:-1,Vagalume.FM - Britpop
+https://stream.vagalume.fm/hls/1524768774460488/aac.m3u8
 #EXTINF:-1,Vagalume.FM - O Melhor de Rihanna
 https://stream.vagalume.fm/hls/1495655520843402/aac.m3u8
 #EXTINF:-1,Rádio Betel
@@ -253,22 +251,30 @@ https://servidor33.brlogic.com:8178/live?type=.mp3
 https://stream.vagalume.fm/hls/1475692353902158/aac.m3u8
 #EXTINF:-1,Vagalume.FM - Made In Brasil
 https://stream.vagalume.fm/hls/1475171877276322/aac.m3u8
+#EXTINF:-1,Vagalume.FM - Músicas para Jantar a Dois
+https://stream.vagalume.fm/hls/1520884616242465/aac.m3u8
 #EXTINF:-1,Vagalume.FM - Country Clássicos
 https://stream.vagalume.fm/hls/1520958056484488/aac.m3u8
 #EXTINF:-1,Vagalume.FM - Carnaval 2020 - Skol Beats
 https://stream.vagalume.fm/hls/1487264817696485/aac.m3u8
+#EXTINF:-1,Vagalume.FM - O melhor de Green Day
+https://stream.vagalume.fm/hls/1498156439621697/aac.m3u8
 #EXTINF:-1,Vagalume.FM - O Melhor de Katy Perry
 https://stream.vagalume.fm/hls/1495652324424489/aac.m3u8
 #EXTINF:-1,Vagalume.FM - O Melhor de Ed Sheeran
 https://stream.vagalume.fm/hls/1495569735124775/aac.m3u8
 #EXTINF:-1,PAUL IN RIO RADIO - I LOVE RIO RADIO
 https://eu10.fastcast4u.com/iloverio/
+#EXTINF:-1,Vagalume.FM - Músicas Virais
+https://stream.vagalume.fm/hls/1520610946872575/aac.m3u8
 #EXTINF:-1,Vagalume.FM - Carnaval (Clássicos)
 https://stream.vagalume.fm/hls/1470155159402151/aac.m3u8
 #EXTINF:-1,Vagalume.FM - O Melhor de Adele
 https://stream.vagalume.fm/hls/1524166942596130/aac.m3u8
 #EXTINF:-1,Vagalume.FM - O Melhor de Arctic Monkeys
 https://stream.vagalume.fm/hls/1526052328949111/aac.m3u8
+#EXTINF:-1,Vagalume.FM - Lo-fi Beats
+https://stream.vagalume.fm/hls/1528731664462844/aac.m3u8
 #EXTINF:-1,Vagalume.FM - Velha Guarda e Outras Bossas
 https://stream.vagalume.fm/hls/1477499745841352/aac.m3u8
 #EXTINF:-1,Vagalume.FM - #Deprê
@@ -293,10 +299,14 @@ https://stream.vagalume.fm/hls/1519409864627543/aac.m3u8
 https://stream.vagalume.fm/hls/1529521496416843/aac.m3u8
 #EXTINF:-1,Vagalume.FM - Férias
 https://stream.vagalume.fm/hls/1474482422796242/aac.m3u8
+#EXTINF:-1,Vagalume.FM - Experimental
+https://stream.vagalume.fm/hls/1470154835494468/aac.m3u8
 #EXTINF:-1,Vagalume.FM - Foca no Estudo
 https://stream.vagalume.fm/hls/1523543144368951/aac.m3u8
 #EXTINF:-1,Vagalume.FM - todateen
 https://stream.vagalume.fm/hls/1508333521145139/aac.m3u8
+#EXTINF:-1,Vagalume.FM - Lollapalooza Brasil 2017
+https://stream.vagalume.fm/hls/1489431633302472/aac.m3u8
 #EXTINF:-1,Vagalume.FM - Covers
 https://stream.vagalume.fm/hls/1471296944879557/aac.m3u8
 #EXTINF:-1,Vagalume.FM - O Melhor de Taylor Swift
@@ -315,6 +325,8 @@ https://stream.vagalume.fm/hls/1512580334801040/aac.m3u8
 http://servidor36.dnip.com.br:10650/;stream.aac
 #EXTINF:-1,Rádio CPAD
 https://servidor36.brlogic.com:8108/live?type=.mp3
+#EXTINF:-1,Vagalume.FM - Clima de Copa!
+https://stream.vagalume.fm/hls/1528745033453663/aac.m3u8
 #EXTINF:-1,Vagalume.FM - MTV MIAW 2018
 https://stream.vagalume.fm/hls/1523303095223467/aac.m3u8
 #EXTINF:-1,Vagalume.FM - Festa de Formatura
@@ -329,18 +341,16 @@ https://servidor36.brlogic.com:8140/live?type=.mp3
 https://stream.vagalume.fm/hls/1491848189504196/aac.m3u8
 #EXTINF:-1,Vagalume.FM - Power Pop
 https://stream.vagalume.fm/hls/1470431300600900/aac.m3u8
+#EXTINF:-1,Vagalume.FM - Festa de Ano Novo 2017
+https://stream.vagalume.fm/hls/1514401831294954/aac.m3u8
 #EXTINF:-1,Rádio Transativa
 https://player.xcast.com.br/proxy/8824/;
 #EXTINF:-1,BPM Rádio Brasil
 http://stm12.xcast.com.br:9594/;stream.nsv
-#EXTINF:-1,Rádio Novas Ondas Rocinha FM
-https://stm6.painelvox.com:6812/stream
 #EXTINF:-1,Vagalume.FM - Retrospectiva 2016
 https://stream.vagalume.fm/hls/1482178650187418/aac.m3u8
 #EXTINF:-1,Rádio Caiana
 https://live9.livemus.com.br:27424/stream
-#EXTINF:-1,Planeta do Vinil das Galáxias
-https://ssl.conectastreaming.com:15276/;
 #EXTINF:-1,Rádio Comercial de Madureira
 https://ssl1.transmissaodigital.com:2136/stream
 #EXTINF:-1,Rádio Guitarra Brasileira
@@ -363,12 +373,16 @@ https://servidor28.brlogic.com:8436/live
 https://centova3.transmissaodigital.com:20015/stream
 #EXTINF:-1,Caranguejo Sertanejo
 https://server02.ouvir.radio.br:8060/stream
+#EXTINF:-1,Vagalume.FM - Grammy 2017
+https://stream.vagalume.fm/hls/1484590662935344/aac.m3u8
 #EXTINF:-1,Rádio Ufrj
 https://servidor21-1.brlogic.com:7712/live
 #EXTINF:-1,Rádio Zona Sul
 http://stm.cenahost.com.br:7162/stream
 #EXTINF:-1,Rádio Estilo Livre
 https://servidor39.brlogic.com:8062/live?type=.mp3
+#EXTINF:-1,Web Radio Novelas
+https://s48.myradiostream.com/:8004/;
 #EXTINF:-1,Rádio Elite Gospel
 https://player.painelvox.com/proxy/9058
 #EXTINF:-1,Rádio Web Gospel On Line
@@ -385,10 +399,10 @@ https://ssl.xcast.com.br:10392/;
 https://sonicpanel.oficialserver.com/8254/stream
 #EXTINF:-1,Rádio Live
 https://player.xcast.com.br/proxy/8162
-#EXTINF:-1,Jovem Rio News
-https://server05.srvsh.com.br:13708/stream
 #EXTINF:-1,Rádio Graviola
 https://servidor30.brlogic.com:8262/live
+#EXTINF:-1,Rádio Resgatando Vidas
+https://stm1.ninjascast.com:7098//stream
 #EXTINF:-1,Radio melodia gospel
 https://sonicpanel.oficialserver.com/8358/stream
 #EXTINF:-1,Radio Delícia FM
@@ -407,6 +421,7 @@ https://antena1campanha.crossradio.com.br:29090/camp3
 http://222747t.lp.azioncdn.net/2747t/a/mp4:access_optionshttp:/tmp-live/atl_sma.sdp/playlist.m3u8
 #EXTINF:-1,Nativa
 http://centova17.ciclanohost.com.br:8085/stream.mp3
+#EXTINF:-1,Antena 1 FM 103.7 Rio de Janeiro
 #EXTINF:-1,Jovem Pan (Porto Alegre)
 http://centova6.ciclanohost.com.br:9256/;
 #EXTINF:-1,Só Kakarecos
@@ -431,6 +446,8 @@ https://stream1.svrdedicado.org/8028/stream
 https://servidor34-5.brlogic.com:8190/live
 #EXTINF:-1,Jovem Pan FM - Osório
 http://centova14.ciclanohost.com.br:8405/stream
+#EXTINF:-1,KIss Fm RJ
+https://cloud1.cdnseguro.com:9758/;
 #EXTINF:-1,Rádio HT
 https://servidor39.brlogic.com:8624/live
 #EXTINF:-1,Rádio Furacão 2000
@@ -439,8 +456,6 @@ https://servidor24-1.brlogic.com:7516/live?source=website
 https://servidor34-3.brlogic.com:8164/live?source=website
 #EXTINF:-1,Terra Gaúcha
 https://5a57bda70564a.streamlock.net/terragaucha/terragaucha.stream/playlist.m3u8
-#EXTINF:-1,JB Classic
-https://26673.live.streamtheworld.com/JBCLASSIC_S01AAC.aac?1653777220673
 #EXTINF:-1,Rádio Marajá AM 660 kHz - RFC -
 https://servidor28-1.brlogic.com:8028/live?source=website
 #EXTINF:-1,Rádio Marajá AM 660 kHz  - RFC -
@@ -471,11 +486,13 @@ http://servidor35.brlogic.com:7112/live?type=.m3u
 https://stream1.svrdedicado.org/8262/stream
 #EXTINF:-1,Radio Dom Romani
 https://player.ipstm.net/ssl.php?ip=srv11.ipstm.net&port=29944&mount=/;
+#EXTINF:-1,Ci-Som Web Radio
+https://sv14.hdradios.net:8186/stream
 #EXTINF:-1,Rádio Conexão Jovem
 https://stm4.painelcast.com:7272/stream
 #EXTINF:-1,Radio Matilha
 https://ssl.srvstm.com:8520/;;stream.nsv;stream.nsv
 #EXTINF:-1,Rádio Nova Onda FM
 https://stm11.xcast.com.br:12168/stream
-#EXTINF:-1,Gospel FM
-https://servidor39.brlogic.com:8154/live
+#EXTINF:-1,Rádio São José
+http://cast4.hoost.com.br:8324/stream

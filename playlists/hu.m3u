@@ -15,10 +15,10 @@ http://mr-stream.mediaconnect.hu/4734/mr1.aac
 http://vindornyafm.ddns.net:8000/high
 #EXTINF:-1,Mustar FM
 http://193.138.125.14:8500/
+#EXTINF:-1,Mega Rádió
+https://megaradio.hu/megastream
 #EXTINF:-1,Cool FM
 https://mediagw.viacomkft.hu/stream/coolfm
-#EXTINF:-1,Base FM
-https://icast.connectmedia.hu/5401/live.mp3/
 #EXTINF:-1,POWER DANCE FM
 http://stream1.nexusradio.fm:80/nexusdance.mp3
 #EXTINF:-1,COOL FM ROCK (from COOLFM.hu)
@@ -31,14 +31,10 @@ https://oxygenmusic.hu:8443/oxygenmusic
 https://chill.out.airtime.pro/chill_a
 #EXTINF:-1,Danubius Radio
 http://stream.danubiusradio.hu/danubius_320k
-#EXTINF:-1,Bridge fm Hungary
-https://s3.free-shoutcast.com/stream/18054
 #EXTINF:-1,Ez az a nap! Radio
 https://listen.radioking.com/radio/320174/stream/370600
 #EXTINF:-1,Radio Bias - Bias Rádió
 https://admin.biasradio.com/radio/8000/live
-#EXTINF:-1,TC Rádió
-https://c15.radioboss.fm:8601/stream
 #EXTINF:-1,COOL FM (from COOLFM.hu)
 https://mediagw.e-tiger.net/stream/coolfmtin
 #EXTINF:-1,Fm 103.9 A Rock
@@ -63,14 +59,10 @@ https://stream.nextfm.hu/radio/8000/nextfmhu.mp3
 http://stream.diazol.hu:35080/live.mp3
 #EXTINF:-1,MR4 Nemzetiseg
 http://mr-stream.mediaconnect.hu/4768/mr4.ogg
-#EXTINF:-1,Radio Sense Hungary
-http://s03.diazol.hu:7010/stream.mp3
 #EXTINF:-1,Rocker Rádió
 http://fast.citrus3.com:8796/stream
 #EXTINF:-1,Klasszik
 https://s04.diazol.hu:9600/live.mp3
-#EXTINF:-1,Hits Rádió
-http://stream.hitsradio.info:8000/
 #EXTINF:-1,Rádió DIKH
 https://icast.connectmedia.hu/6121/live.mp3
 #EXTINF:-1,BEST FM Pécs
@@ -87,6 +79,8 @@ https://stream.radio.co/s3fd8d173f/listen
 http://s03.diazol.hu:7230/320.mp3
 #EXTINF:-1,Bartók Rádió
 https://icast.connectmedia.hu/4741/mr3.mp3
+#EXTINF:-1,Radio 88
+http://stream.radio88.hu:8000/
 #EXTINF:-1,Sirius
 https://icast.connectmedia.hu/5034/live.mp3
 #EXTINF:-1,Megszűnt!!! Regina Rádió 2021 Győr
@@ -98,7 +92,7 @@ https://ais-sa2.cdnstream1.com/2202_128.mp3
 #EXTINF:-1,Irénke Mulatós Rádiója
 https://s03.diazol.hu:10092/stream?
 #EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/39966.png",Gong Rádió
-https://radiogong--di--nacs-ais-lgc--02--cdn.cast.addradio.de/radiogong/live/mp3/high?ar-distributor=f0a0&_art=dj0yJmlwPTE4Mi42NS4yMTcuMTA0JmlkPWljc2N4bC1zM3hkZ3p4bWImdD0xNzQ3MzAxMDgyJnM9Nzg2NmYyOWMjYTdiNzk1OWM4MWYwZGI5ZWE4OGQxYzA2YmFkMzU4ZjU
+https://radio-gong.stream08.radiohost.de/radio-gong-live_mp3-192?addradio&ar-distributor=f0a0&_art=dD0xNzgwOTIxOTQ2JmQ9ZTI2ZTJjZTc5NDRjNTE3N2E5MDI&upd-meta&upd-scheme=https&ref=f0a0&amsparams=f0a0
 #EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/39984.png",Szent Korona
 https://szkrcast.ddns.net/radio/8000/radio.mp3#W
 #EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/39985.png",Hit Rádió

@@ -1,22 +1,22 @@
 #EXTM3U
 #EXTINF:-1,RFM
-https://25483.live.streamtheworld.com/RFMAAC_SC
+https://25293.live.streamtheworld.com/RFMAAC_SC
 #EXTINF:-1,Mega Hits
-https://22593.live.streamtheworld.com/MEGA_HITSAAC_SC
+https://22353.live.streamtheworld.com/MEGA_HITSAAC_SC
 #EXTINF:-1,Rádio Renascença
-https://28513.live.streamtheworld.com/RADIO_RENASCENCAAAC_SC
+https://27783.live.streamtheworld.com/RADIO_RENASCENCAAAC_SC
 #EXTINF:-1,Orbital FM
 http://centova.radios.pt:8401/
 #EXTINF:-1,RFM - Oceano Pacífico Online
-https://25633.live.streamtheworld.com/OCEANPACIFICAAC_SC
+https://29053.live.streamtheworld.com/OCEANPACIFICAAC_SC
 #EXTINF:-1,RFM - 80's
-https://25283.live.streamtheworld.com/GR80SRFMAAC_SC
+https://22673.live.streamtheworld.com/GR80SRFMAAC_SC
 #EXTINF:-1,Rádio Observador
 http://195.23.85.126:8455/stream
 #EXTINF:-1,RFM - On the Rock
-https://25583.live.streamtheworld.com/RFMONTHEROCKAAC_SC
+https://25343.live.streamtheworld.com/RFMONTHEROCKAAC_SC
 #EXTINF:-1,RFM - Dancefloor
-https://25503.live.streamtheworld.com/DANCEONTHEFLOORAAC_SC
+https://27913.live.streamtheworld.com/DANCEONTHEFLOORAAC_SC
 #EXTINF:-1,Rádio MEO Music
 http://centova.radio.com.pt:8495/
 #EXTINF:-1,Rádio Marginal
@@ -27,18 +27,14 @@ http://centova.radios.pt:9496/
 https://nl.digitalrm.pt:8024/stream
 #EXTINF:-1,Rádio Nova
 http://centova.radios.pt:9528/
-#EXTINF:-1,RÁDIO 100% PORTUGUESA
-https://play.radioregional.pt/stream/6/
-#EXTINF:-1,Rádio 100% DANCE & DJ
-https://play1.radioregional.pt/stream/10/
 #EXTINF:-1,Hip Hop Radio
 http://hiphopradio.pt/stream/index.php
 #EXTINF:-1,Noite FM
 http://live.noite.pt:8080/
+#EXTINF:-1,Rádio Ritmos
+http://cast2.hoost.com.br:8233/stream
 #EXTINF:-1,Top80 Rádio
 http://live.top80.fm:8086/
-#EXTINF:-1,RÁDIO 100% LOVE SONGS
-https://play.radioregional.pt/stream/9/
 #EXTINF:-1,Rádio Onda Viva
 http://centova.radios.pt:9524/
 #EXTINF:-1,Rádio Regional de Arouca
@@ -65,18 +61,12 @@ https://nl.digitalrm.pt:8028/stream
 http://centova.radio.com.pt:8407/
 #EXTINF:-1,RUM - Rádio Universitária do Minho
 http://centova.radio.com.pt:9558/stream
-#EXTINF:-1,XFM Portugal
-https://streamingp.shoutcast.com/JamendoLounge?lang=*
 #EXTINF:-1,Rádio Festival Madeira
 http://radiosmadeira.net:8012/
 #EXTINF:-1,Radio Capsao Grande Lisboa
 http://str0.creacast.com/capsao_a
 #EXTINF:-1,TSF Madeira
 http://centova.radios.pt:9470/
-#EXTINF:-1,RÁDIO 100% ROCK
-https://play1.radioregional.pt/stream/7/
-#EXTINF:-1,RÁDIO 100% OLDIES
-https://play1.radioregional.pt/stream/8/
 #EXTINF:-1,Antena Minho
 http://centova.radios.pt:9464/
 #EXTINF:-1,PEF – Posto Emissor do Funchal (Canal 2)
@@ -115,8 +105,12 @@ http://centova.radio.com.pt:9572/
 http://radiosmadeira.net:8020/
 #EXTINF:-1,Rádio Portugal +
 http://sv15.hdradios.net:7432/stream
-#EXTINF:-1,RÁDIO REGIONAL
-https://play.radioregional.pt/stream/1/
+#EXTINF:-1,Rádio Riba – Távora
+http://centova.radio.com.pt:9542/
+#EXTINF:-1,Rádio Estação Diária de Viseu
+http://centova.radio.com.pt:9430/
+#EXTINF:-1,RC Alentejo - Rádio Corval Alentejo
+http://centova.radio.com.pt:9184/
 #EXTINF:-1,ABC Portugal
 http://centova.radio.com.pt:8547/
 #EXTINF:-1,Rádio Clube Asas do Atlântico
@@ -139,8 +133,6 @@ https://nl.digitalrm.pt:8026/stream
 http://centova.radio.com.pt:8427/
 #EXTINF:-1,Rádio Antena Livre - Gouveia
 http://centova.radio.com.pt:9456/
-#EXTINF:-1,RÁDIO REGIONAL - VALPAÇOS
-https://play1.radioregional.pt/stream/4/
 #EXTINF:-1,Rádio Horizonte Algarve
 http://centova.radio.com.pt:9458/
 #EXTINF:-1,SFTD - Songs for the Deaf Radio
@@ -201,8 +193,6 @@ http://centova.radios.pt:9506/
 https://nl.digitalrm.pt:8030/stream
 #EXTINF:-1,Roxx 2 Metal
 https://listen6.myradio24.com/6359
-#EXTINF:-1,RÁDIO REGIONAL - VILA REAL
-https://play1.radioregional.pt/stream/3/
 #EXTINF:-1,Rádio Canal FM
 http://centova.radio.com.pt:9466/
 #EXTINF:-1,Rude Party Web Radio
@@ -249,10 +239,10 @@ http://centova.radio.com.pt:8557/
 http://s01.taaqui.org:9944/
 #EXTINF:-1,Rádio Miradouro
 http://185.118.112.12:8000/stream
+#EXTINF:-1,Radio Clube do Dão
+http://176.9.43.216:8003/
 #EXTINF:-1,Rádio Voz da Planície
 http://centova.radio.com.pt:8441/
-#EXTINF:-1,RBI - Rádio de Castelo Branco
-http://centova.radio.com.pt:9462/
 #EXTINF:-1,Singa FM
 http://centova.radio.com.pt:8487/
 #EXTINF:-1,RÁDIO H
@@ -277,8 +267,6 @@ http://centova.radio.com.pt:9482/
 https://nl.digitalrm.pt:8094/stream
 #EXTINF:-1,Radio Filhos da escola
 http://176.9.43.216:8021/
-#EXTINF:-1,radioava.global
-http://185.118.112.12:8029/stream.mp3
 #EXTINF:-1,Radio Transforma
 http://176.9.43.216:8560/stream
 #EXTINF:-1,RCG - Rádio Clube de Grândola
@@ -315,14 +303,8 @@ https://stream-icy.bauermedia.pt/m8080.aac?n=243cedbd1fe18ca95d7c
 https://stream-icy.bauermedia.pt/m80ballads.aac?n=fff035ef8a9a6f46b709
 #EXTINF:-1, M80 Rádio – Dance
 https://stream-icy.bauermedia.pt/m80dance.aac?n=13a80c594162a8f8a103
-#EXTINF:-1, M80 Rádio – Pop
-https://stream-icy.bauermedia.pt/m80pop.aac?n=5d2c7bf209786c96d47c
-#EXTINF:-1,105.4 Cascais - O Rock da Linha
-https://play.radioregional.pt:8220/stream/2//stream.mp3?n=b0b7d252253e91307aed
 #EXTINF:-1,91FM
 https://sp0.redeaudio.com/9878/stream?n=d756573136891da72384
-#EXTINF:-1,94FM Leiria
-http://185.11.164.106:35022/stream?type=mp3?n=73833f37da5984e68865
 #EXTINF:-1,Antena 1 Portugal
 http://streaming-live-app.rtp.pt/liveradio/antena180a/playlist.m3u8?n=a9a92e86f256c166a3d3
 #EXTINF:-1,Antena 1 Açores Portugal
@@ -347,8 +329,6 @@ https://audio-edge-5bkfj.fra.h.radiomast.io/ec065d59-f358-48c9-a288-4efc797e5860
 http://centova.radio.com.pt:9466/?n=08bd20dc8e8b23f56f52
 #EXTINF:-1,Cantinho dos Emigrantes
 https://cast.redewt.net:9825/stream?n=a7059022c2e0d103a37d
-#EXTINF:-1,Cascais FM 105.4
-https://play.radioregional.pt:8220/stream/2//stream.mp3?n=011de6fa14d81fedaf96
 #EXTINF:-1,cidade hiphop
 https://stream-hls.bauermedia.pt/cidhiphop.aac/playlist.m3u8?n=a941b013660533ec5c78
 #EXTINF:-1,Cidade_fm
@@ -395,8 +375,6 @@ http://centova.radio.com.pt:9426/?n=64e751b4acdee8baf973
 http://centova.radio.com.pt:9422/stream?n=8755c21762e5fb2d1114
 #EXTINF:-1,PT Radio Christmas
 https://c19.radioboss.fm:18041/stream?n=e6291594dc2fa02efaf3
-#EXTINF:-1,Rádio 94FM
-http://185.11.164.106:35022/stream?type=mp3?n=50e720026d96edfa53eb
 #EXTINF:-1,Rádio Altitude FM
 http://centova.radios.pt:9034/?n=434812a599e3c64d440e
 #EXTINF:-1,Rádio Antena Livre
@@ -407,8 +385,8 @@ http://centova.radio.com.pt:9464/?n=53c25a7efd884b2eb86d
 http://centova.radio.com.pt:8483/?n=6972fd3d4e497af5877d
 #EXTINF:-1,Radio Biblia
 https://servidor30-4.brlogic.com:7398/live?source=website?n=c527ff8b8fdf80147b42
-#EXTINF:-1,Rádio Castelo Branco
-http://centova.radio.com.pt:9462/?n=2f3ff84b7fd2f157d8ab
+#EXTINF:-1,Rádio Canção Nova Portugal
+https://5c65286fc6ace.streamlock.net/cancaonova/radiocnova/chunklist_w848559521.m3u8?n=c2cfed2bcbacb6ed5d95
 #EXTINF:-1,Rádio Cister
 http://centova.radio.com.pt:8453/?n=28a2be10c6f49582689f
 #EXTINF:-1,Rádio Clube da Feira
@@ -426,15 +404,13 @@ https://stream-icy.bauermedia.pt/comercial.mp3?n=558baf7120f4c024c139
 #EXTINF:-1,Rádio do Concelho de Mafra
 http://centova.radio.com.pt:8551/?n=3ceaea9b15ec94482dd0
 #EXTINF:-1,Radio FM
-http://27913.live.streamtheworld.com/RFM.mp3?n=a04221a292cefc2f6f1e
+http://25483.live.streamtheworld.com/RFM.mp3?n=a04221a292cefc2f6f1e
 #EXTINF:-1,Rádio Freguesia de Belém
 https://s2.radio.co/s0ddea4a53/listen?n=db3200f427be6b38b664
 #EXTINF:-1,Rádio Granada FM
 http://centova.radio.com.pt:8549/?n=e6bf81d2cec3ecfcda97
 #EXTINF:-1,Rádio Hertz 98 FM
 http://213.136.92.8:8030/?n=99b1dbadcbd49c062353
-#EXTINF:-1,Rádio Internacional Odemira
-https://c30.radioboss.fm:18510/stream?1655151777664?n=cfada02d3625d66533cf
 #EXTINF:-1,Radio Linear
 http://nl.digitalrm.pt:8184/stream?n=25984476ece2cacd5473
 #EXTINF:-1,Rádio Lusitânia
@@ -475,8 +451,6 @@ http://centova.radio.com.pt:9542/?n=835ea2bb3d782c731562
 https://sp0.redeaudio.com/8044/stream?n=7f59725dea773fb8f94c
 #EXTINF:-1,Rádio Terra Nova
 http://centova.radio.com.pt:9404/?n=aa900c4ec3050df23e83
-#EXTINF:-1,Radio TugaNet
-https://ssl.stmxp.net:8006/index.html?sid=1
 #EXTINF:-1,Rádio Universitária do Minho
 http://centova.radio.com.pt:9558/?n=d1d20a2bff3e10fce26f
 #EXTINF:-1,Rádio Vida FM 97.1
@@ -487,6 +461,8 @@ https://radios.justweb.pt/8002/stream?n=6bf386eae3f82fbe2a79
 https://streaming-live.rtp.pt/liveradio/rdpafrica80a/playlist.m3u8?n=2ae99ea6b3ec0fe014f6
 #EXTINF:-1,RDP Internacional Portugal
 https://streaming-live.rtp.pt/liveradio/rdpint80a/playlist.m3u8?n=dfcc68fa936ab2e2000b
+#EXTINF:-1,RES FM
+https://stream2.soundflux.eu:8440/stream?n=95322215ca5c18ba24a1
 #EXTINF:-1,REWIND 2000s
 https://2000.streeemer.com/listen/2000s/radio.aac?n=78326d3f7a4aa9343457
 #EXTINF:-1,RTP Antena 2
@@ -532,4 +508,4 @@ https://radiometalon.com/radio/8010/radio.mp3?n=2091df44d84956cf8c62
 #EXTINF:-1,Alto Tamega FM
 http://188.93.231.97:9300/?n=c9a210e3229a72ad0a57
 #EXTINF:-1,Rádio Movimento
-https://stream3.rcast.net/61025
+https://stream1.rcast.net/61025

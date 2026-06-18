@@ -13,6 +13,8 @@ http://192.99.203.81:8704/stream
 https://streamingecuador.net:9101/stream
 #EXTINF:-1,Radio Guatapuri
 https://sonic.paulatina.co/7106/stream
+#EXTINF:-1,Tropirecuerdos
+https://virtualtronics.net/proxy/leridatolima
 #EXTINF:-1,Jilguero Stereo
 http://s1.vpsradio.com:9986/;stream.nsv
 #EXTINF:-1,Melao FM
@@ -23,8 +25,6 @@ https://streaming.radiosenlinea.com.ar/8880/stream
 https://server2.ejeserver.com:8070/live
 #EXTINF:-1,Linda Stereo
 https://sh1.radioonlinehd.com:8042/stream
-#EXTINF:-1,Fundingue.com
-http://s1.vpsradio.com:8068/;
 #EXTINF:-1,Frecuencia estéreo
 https://listen.usuarios.space/frecuenciaestereo/
 #EXTINF:-1,La Sonora Instrumental
@@ -37,8 +37,6 @@ https://sonic.paulatina.co/8086/stream
 https://sonic.paulatina.co/8100/stream
 #EXTINF:-1,Tropical 100 VallenCumbia
 https://tropical100.net:8452/;stream.nsv/1
-#EXTINF:-1,La Nueva Ecua Stereo
-https://sonic.radiostreaminglatino.com:10913/;stream.nsv
 #EXTINF:-1,La Sonora Llanera
 https://sonic.paulatina.co/8088/stream
 #EXTINF:-1,La Sonora Salsa
@@ -49,18 +47,12 @@ https://laradiossl.online:10347/;stream.nsv
 https://streaming.radiosenlinea.com.ar:10835/;
 #EXTINF:-1,La Vallenata Fm
 https://server2.ejeserver.com:8360/stream
-#EXTINF:-1,Emisora Valle Stereo com
-https://play8.tikast.com:20009/;stream.nsv
 #EXTINF:-1,Vallenateando.Com
 http://s1.vpsradio.com:8036/;
-#EXTINF:-1,Radio Freestyle
-http://163.172.77.142:8552/stream/;
 #EXTINF:-1,Fantasia Stereo
 http://64.37.50.226:8096/;stream.nsv
 #EXTINF:-1,Radio Sensación
 https://server6.globalhostla.com:9348/stream
-#EXTINF:-1,Expreso Latino Crossover
-https://listen.radioexpresolatino.com/stream/1/
 #EXTINF:-1,Andina Stereo
 https://impactodigitalcol.com/8018/stream
 #EXTINF:-1,Reyali
@@ -73,16 +65,12 @@ http://163.172.198.16:8080/;
 https://streaming.radiosenlinea.com.ar:10898/;
 #EXTINF:-1,Dinamica Stereo
 https://play8.tikast.com:20077/;stream.nsv
-#EXTINF:-1,Vallenato y Algo Mas
-https://on.hazner.com:8010/stream
 #EXTINF:-1,Bomba FM Radio.Net
 https://sonic.cloudstreaming.eu/7050/stream
 #EXTINF:-1,Kurrambera Stereo 93.5 Fm
 https://streaming.radiosenlinea.com.ar/8256/stream
 #EXTINF:-1,Barreiros Radio Crossover
 https://cloudstream2034.conectarhosting.com/8006/stream
-#EXTINF:-1,Fiesta Latina
-https://play8.tikast.com:20012/stream
 #EXTINF:-1,SabroZa 98.7 FM
 https://laradiossl.online:10191/live
 #EXTINF:-1,La Jefa ¡La Que Manda En El Am!
@@ -93,8 +81,6 @@ https://sonicpanel.globalstream.pro/8182/stream
 https://sonic.dattassd.com/8178/stream
 #EXTINF:-1,ARIZSANTA FM STEREO
 http://163.172.77.142:8261/;stream.nsv
-#EXTINF:-1,Aipe Stereo
-https://server2.ejeserver.com:8090/stream
 #EXTINF:-1,CONDOR VIRTUAL
 https://emisoracondorvirtu.wixsite.com/condorvirtual
 #EXTINF:-1,Full Musica
@@ -117,12 +103,10 @@ https://stream2.305stream.com/proxy/client128?mp=/stream
 https://streaming.radiosenlinea.com.ar/8594/stream;
 #EXTINF:-1,JL Radio
 https://play14.tikast.com:22006/;
-#EXTINF:-1,Caliente Stereo
-https://play8.tikast.com:20003/stream
+#EXTINF:-1,Temperatura Estereo
+https://cp.sonicpanel.stream:7128/stream
 #EXTINF:-1,La Voz De Marquezote
 https://streaming.radiosenlinea.com.ar/8016/stream
-#EXTINF:-1,Viejoteca la Santisima
-https://s1.raudiostream.com:8010/stream
 #EXTINF:-1,Radio Play La Unión
 https://play8.tikast.com:20113/stream
 #EXTINF:-1,harrynet.com
@@ -141,8 +125,12 @@ https://wironair.stream.laut.fm/wironair?t302=2023-04-25_20-35-08&uuid=5107f51f-
 http://51.15.160.78:8470/;
 #EXTINF:-1,AsoacpoMedellin
 https://sonic.paulatina.co/8120/stream
+#EXTINF:-1,Cool D Radio Electronica
+http://209.126.119.28:8032/stream
 #EXTINF:-1,Buturama Stereo
 https://tupanel.info:2000/stream/ButuramaStereo?1680545213417
+#EXTINF:-1,Universal Stereo
+https://streaming.radiosenlinea.com.ar:10343/stream
 #EXTINF:-1,Pegadera Digital Radio
 https://servidor15-3.brlogic.com:7328/live
 #EXTINF:-1,Pedraza Estereo

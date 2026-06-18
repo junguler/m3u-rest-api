@@ -25,10 +25,14 @@ http://91.218.213.49:8000/ur4-mp3
 https://ec5.yesstreaming.net:2225/stream
 #EXTINF:-1,Radio Maria Ukraine | Радіо Марія
 http://dreamsiteradiocp.com:8022/
+#EXTINF:-1,Radio Nezalezhnist 106.7 | Радіо Незалежність 106.7 fm
+http://rad.radio-n.com:8000/
+#EXTINF:-1,Liberland FM
+http://s02.radio-tochka.com:4410/stream
 #EXTINF:-1,Radio Wesole Slonzoki
 http://s1.radiohost.pl:8126/
 #EXTINF:-1,Blues & Rock Radio
-http://bluesrock.stream.laut.fm/bluesrock?n=c06e7033a466b7d576fe&t302=2025-12-18_15-09-21&uuid=6e509d97-430b-4604-bc3b-58c87869f157
+http://bluesrock.stream.laut.fm/bluesrock?n=c06e7033a466b7d576fe&t302=2026-06-08_17-05-24&uuid=75724634-0938-45d5-812a-6b804a6bdd05
 #EXTINF:-1,Chernihiv FM
 http://radio.ukr.radio:8000/ur1-cn-aacplus?n=5ba28903caf8ac67cbdf
 #EXTINF:-1,Harry Potter fan
@@ -54,9 +58,7 @@ https://www.radiojazz.ua/RadioJazz.m3u?n=7b1c262de427e260ac4d
 #EXTINF:-1,Radio Maria Ukraine
 http://dreamsiteradiocp.com:8022/stream?n=8400de6659765b2020d6
 #EXTINF:-1,Radio Metal
-https://listen7.myradio24.com/radiometal
-#EXTINF:-1,Radio Promin Промінь
-https://radio.ukr.radio/ur2-mp3?n=ad469d07d4a1f27a0276
+https://listen2.myradio24.com/radiometal
 #EXTINF:-1,Radio Promin FM
 http://radio.ukr.radio:8000/ur2-aacplus-l?n=c9412fb30ec879724476
 #EXTINF:-1,Radio Social.net.ua
@@ -74,13 +76,11 @@ https://online.svitle.org/hls/svitle/default.m3u8?n=0b5b685db455cf3d8474
 #EXTINF:-1,Tik Tok Hits
 http://stream.europeanhitradio.com:8000/Stream_38.mp3?n=9bf46d6600209a2a24b8
 #EXTINF:-1,TRANCE IS STAR RADIO
-https://listen7.myradio24.com/tisradio
+https://listen1.myradio24.com/tisradio
 #EXTINF:-1,True Black Metal Radio
 http://trueblackmetalradio.com:666/radio.m3u?n=e82a7205b1d0172f7aea
 #EXTINF:-1,TVA FM Чернівці
 http://51.83.132.157/128?n=0e2c6e3ce6ac7c7c0a64
-#EXTINF:-1,UA: Радіо Промінь - UR-2
-http://radio.nrcu.gov.ua:8000/ur2-mp3?n=bb626b94e605ef9d75f1
 #EXTINF:-1,UA:Radio
 http://radio.ukr.radio:8000/ur5-mp3?n=f7cbc805466c69febf68
 #EXTINF:-1,Ukrainian Radio FM
@@ -102,7 +102,7 @@ http://lux.radio.tvstitch.com/kyiv/lux_adv_sd
 #EXTINF:-1,Надвірна FM
 http://195.114.96.114:7878/?n=26344af495644c9956da
 #EXTINF:-1,радио музыкальный рай
-https://listen7.myradio24.com/96203
+https://listen1.myradio24.com/96203
 #EXTINF:-1,Радіо Europa Plus 107.0
 http://217.20.173.105:8100/live?n=c9f1c3933caffc27e856
 #EXTINF:-1,Радіо Nostalgie 99.0
@@ -111,12 +111,11 @@ http://lux.radio.tvstitch.com/kyiv/nst_adv_sd
 https://radio.zfm.com.ua:8443/zfm?n=096fefc4d864430de655
 #EXTINF:-1,Радіо Культура
 http://radio.ukr.radio:8000/ur3-aacplus-l?n=659cf740ffda3444288a
+#EXTINF:-1,Радіо Максимум 94.2
 #EXTINF:-1,Радіо ПТРК
 https://service.ptrk.tv:8443/PTRK?n=275dfb2895bd0f34f4d0
-#EXTINF:-1,Радіоточка
-https://radio.ukr.radio/ur5-aacplus-l?n=77efce863c7bcca39db6
-#EXTINF:-1,Рекорд FM
-http://91.134.147.168:10058/stream?n=d3bfd1a0177f79f79ba0
+#EXTINF:-1,Слобожанське ФМ
+https://globalic.stream:1810/stream?n=ade4305fbcd9bb6c71a3
 #EXTINF:-1,Українське Радіо - Львів
 http://91.218.213.49:8000/ur1-lv-mp3?n=231ca2d5e3447ec7a156
 #EXTINF:-1,Українське Радіо - Рівне
@@ -129,6 +128,8 @@ http://radio.ukr.radio:8000/ur1-vn-aacplus?n=6471d90fee2f7d5a1471
 http://radio.ukr.radio:8000/ur1-kyiv-mp3-m?n=b3d20cd02e3216eacf25
 #EXTINF:-1,Українське радіо. Голос Києва. 192 кбіт/с
 http://radio.ukr.radio:8000/ur1-kyiv-mp3?n=9c06a80f563d9490bcd4
+#EXTINF:-1,Українське радіо. Житомирська хвиля. 48 кбіт/с
+http://radio.ukr.radio:8000/ur1-zt-aacplus?n=8c9ac975ff6addfee4a1
 #EXTINF:-1,Українське радіо. Кропивницький. 192 кбіт/с
 http://radio.ukr.radio:8000/ur1-kr-mp3?n=1ffb72f8564e047ad383
 #EXTINF:-1,Українське радіо. Поділля-Центр. 128 кбіт/с
@@ -159,8 +160,6 @@ http://91.218.213.49:8000/ur1-pl-mp3?n=27cc54b2c3b0b4183436
 http://91.218.213.49:8000/ur1-ck-mp3?n=43a87983514141ea118c
 #EXTINF:-1,Українське Радіо. Дніпро
 http://91.218.213.49:8000/ur1-dp-mp3?n=c8437ad15af820ba7180
-#EXTINF:-1,Українське Радіо. Запоріжжя
-http://91.218.213.49:8000/ur1-zp-mp3?n=860cba8543cc5497eefc
 #EXTINF:-1,Українське Радіо. Миколаїв
 http://91.218.213.49:8000/ur1-mk-mp3?n=0cdccc8eabacd8e6f93f
 #EXTINF:-1,Українське Радіо. Одеса

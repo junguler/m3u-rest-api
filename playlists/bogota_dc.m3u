@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1,Acuario Estéreo
-https://27393.live.streamtheworld.com:443/ACUARIO.mp3
 #EXTINF:-1,Los 40
 https://26643.live.streamtheworld.com:443/LOS40_COLOMBIAAAC.aac
 #EXTINF:-1,La X Mas Musica
@@ -37,12 +35,12 @@ http://colombiawebs.com.co:8038/index.stream
 http://99.198.110.162:7092/;
 #EXTINF:-1,Ranchería Stereos
 https://play10.tikast.com:20020/;
+#EXTINF:-1,Emisora Mariana
+https://servidor24-4.brlogic.com:7654/live
 #EXTINF:-1,Kenzo Jeans
 https://server2.ejeserver.com:8044/live
 #EXTINF:-1,La Discoteca Radio
 https://streamingmediaradio.live:7000/;
-#EXTINF:-1,Vallenato y Algo Mas
-https://on.hazner.com:8010/stream
 #EXTINF:-1,Rumba FM
 https://laradiossl.online:10355/;stream.nsv
 #EXTINF:-1,Salsa Latina Fm
@@ -73,26 +71,22 @@ https://server2.ejeserver.com:8078/live?ext=.mp3
 https://laradiossl.online:10592/;stream.nsv
 #EXTINF:-1,BCRadio
 https://whmsonic.playerfullhd.com/8088/;
-#EXTINF:-1,EMITC La Salle
-http://emisora.itc.edu.co:8000/;
 #EXTINF:-1,Ciudad Salsera
 http://sonicpanel.globalstream.pro:8012/stream
+#EXTINF:-1,Ondambiental Stereo
+https://virtualtronics.net/proxy/ondambientalstereo?mp=/stream
 #EXTINF:-1,Yotuve.org
 https://play14.tikast.com:22030/stream
 #EXTINF:-1,Bunka Radio
 http://play14.tikast.com:9009/index.html/;
 #EXTINF:-1,La Consentida 89.3 fm
 https://stream2.305stream.com/proxy/client128?mp=/stream
-#EXTINF:-1,Estudio Radio Tv
-https://streaming.radiosenlinea.com.ar/8884/stream
 #EXTINF:-1,Expresiones Colombia Radio
 https://tustreamingradios2.com/8042/stream
 #EXTINF:-1,Radio Innovación Virtual
 http://51.15.160.78:8154/stream
 #EXTINF:-1,La Voz del Universo
 https://cloudstream2030.conectarhosting.com/8176/stream
-#EXTINF:-1,Tropicalisimo Stereo
-http://stream.playerlive.info:8128/live.aac
 #EXTINF:-1,RCCRADIO.FM
 https://sp4.colombiatelecom.com.co/8046/stream
 #EXTINF:-1,Jala Stereo
@@ -103,12 +97,16 @@ http://51.15.160.78:8039/;
 http://209.126.119.28:8777/;
 #EXTINF:-1,Mi voz FM
 http://mivozfm.usuarios.space:8074/live
+#EXTINF:-1,Cool D Radio Electronica
+http://209.126.119.28:8032/stream
 #EXTINF:-1,Mivallenata.com
 http://51.15.160.78:8470/;
 #EXTINF:-1,Pedraza Estereo
 http://sonic.paulatina.co/8098/stream
 #EXTINF:-1,Sintopia Radio-Universidad Central
 https://s5.radio.co/s80cb52a5b/listen
+#EXTINF:-1,MegaMixRadio
+https://sonic.cloudstreaming.eu:10912/stream
 #EXTINF:-1,ESCENARIO RADIO
 https://escenario.usta.edu.co/esr/
 #EXTINF:-1,EnCanTaDoraS XsiemprE

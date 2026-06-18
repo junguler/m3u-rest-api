@@ -25,8 +25,6 @@ http://ice8.securenetsystems.net/KSLD
 http://ice5.securenetsystems.net/KXLR
 #EXTINF:-1,KFAR AM
 https://ice6.securenetsystems.net/KFAR
-#EXTINF:-1,WTYE FM
-http://ice6.securenetsystems.net/WTYE
 #EXTINF:-1,KRBD FM
 http://war.str3am.com:8080/krbd
 #EXTINF:-1,KUCB FM
@@ -37,40 +35,34 @@ http://ice8.securenetsystems.net/KTDZ
 https://kbbi.streamguys1.com/xstream
 #EXTINF:-1,KWLF FM
 http://ice5.securenetsystems.net/KWLF
-#EXTINF:-1,MPLS STPL Radio
-http://streamingp.shoutcast.com/JamendoLounge?lang=*
+#EXTINF:-1,KCHU Terminal Radio
+http://ice8.securenetsystems.net/KCHU
 #EXTINF:-1,947 KZND
 https://ice10.securenetsystems.net/KZND
 #EXTINF:-1,KBRW FM
 https://tektite.streamguys1.com:5345/live
 #EXTINF:-1,KCAW FM
 https://tektite.streamguys1.com:5195/live
-#EXTINF:-1,KDHS LP FM
-https://ice1.securenetsystems.net/DEMOSTN
+#EXTINF:-1,KCHU Community Public Radio
+https://ice8.securenetsystems.net/KCHU
 #EXTINF:-1,KMXT FM
-https://27153.live.streamtheworld.com/KMXTFMAAC.aac
+https://14623.live.streamtheworld.com/KMXTFMAAC.aac
 #EXTINF:-1,KSTK FM
 https://war.streamguys1.com:7165/
 #EXTINF:-1,News Radio 650 KENI
 https://stream.revma.ihrhls.com/zc3014
-#EXTINF:-1,KBYR 700 AM
-https://17843.live.streamtheworld.com/KBYRAMAAC.aac
 #EXTINF:-1,100.5 The Fox
 https://stream.revma.ihrhls.com/zc2938
 #EXTINF:-1,101.3 KGOT
 https://stream.revma.ihrhls.com/zc2942
 #EXTINF:-1,Movin 105.7
 https://ice10.securenetsystems.net/KMVN
-#EXTINF:-1,Classic Hits 102.1
-https://17843.live.streamtheworld.com/KTMBFMAAC.aac
+#EXTINF:-1,95.5 The Pass
+https://knlt.streamguys1.com/live
 #EXTINF:-1,KASH Country 107.5
 https://stream.revma.ihrhls.com/zc2837
-#EXTINF:-1,96.3 The Moose
-https://19273.live.streamtheworld.com/KXLWFMAAC.aac
 #EXTINF:-1,Magic 98.9
 https://stream.revma.ihrhls.com/zc3018
-#EXTINF:-1,Q99.7 Valley Radio
-https://19273.live.streamtheworld.com/KMBQFMAAC.aac
 #EXTINF:-1,KHitz 107.1
 https://ice41.securenetsystems.net/KVHZ1430KHITZ
 #EXTINF:-1,ESPN 550 The Zone
@@ -79,6 +71,8 @@ https://stream.revma.ihrhls.com/zc5226
 https://s26.myradiostream.com/:17824/
 #EXTINF:-1,KRUA 88.1 FM
 https://14103.live.streamtheworld.com/KRUAFMAAC.aac
+#EXTINF:-1,CSN International 88.1 Kenai
+http://ice7.securenetsystems.net/CSNAAC
 #EXTINF:-1,KAMN 98.1 FM
 http://kiyu.streamguys1.com/live
 #EXTINF:-1,KBBI AM 890 Homer Alaska
@@ -86,19 +80,19 @@ http://kbbi.streamguys1.com/xstream
 #EXTINF:-1,KBRW 101.5 FM - Anaktuvuk Pass
 http://tektite.streamguys1.com:5340/live
 #EXTINF:-1,KBUQ 91.9 FM
-http://14993.live.streamtheworld.com/KOTZAM_SC
+http://18533.live.streamtheworld.com/KOTZAM_SC
 #EXTINF:-1,KCAM Radio
-http://audio-edge-qse4n.yyz.g.radiomast.io/kcam
+http://audio-edge-2a8hd.sfo.he.radiomast.io/kcam
 #EXTINF:-1,KCAW Raven Radio 104.7
 http://tektite.streamguys1.com:5190/live
 #EXTINF:-1,KIAN 91.9 FM
 http://kicy.streamguys1.com/KICY-AM
 #EXTINF:-1,KMXT 100.1 FM
-http://14993.live.streamtheworld.com/KMXTFMAAC_SC
+http://14623.live.streamtheworld.com/KMXTFMAAC_SC
 #EXTINF:-1,KMXT 91.9 FM
-http://18233.live.streamtheworld.com/KNBAFM_SC
+http://18443.live.streamtheworld.com/KNBAFM_SC
 #EXTINF:-1,KRNN Radio
-http://27143.live.streamtheworld.com/KRNNFM_SC
+http://14613.live.streamtheworld.com/KRNNFM_SC
 #EXTINF:-1,KSKO 89.5 FM
 http://peridot.streamguys.com:7550/live
 #EXTINF:-1,KSTK Public Radio 101.7 FM
@@ -106,17 +100,17 @@ http://war.str3am.com:7160/
 #EXTINF:-1,KSUA 91.5 FM
 http://stream.radio.co/se776fab22/listen
 #EXTINF:-1,KTOO News 104.3
-http://22973.live.streamtheworld.com/KTOOFM_SC
+http://18373.live.streamtheworld.com/KTOOFM_SC
+#EXTINF:-1,KTYU 99.1 FM
 #EXTINF:-1,KUCB 89.7
 http://kucb.streamguys1.com/live
 #EXTINF:-1,KXLL - Excellent Radio
-http://14613.live.streamtheworld.com/KXLLFM_SC
+http://22973.live.streamtheworld.com/KXLLFM_SC
 #EXTINF:-1,KYUK 640 AM
-http://18233.live.streamtheworld.com/KYUKAM_SC
-#EXTINF:-1,Oldies 102.1
-http://ice1.securenetsystems.net/DEMOSTN
+http://23023.live.streamtheworld.com/KYUKAM_SC
+#EXTINF:-1,Lifetalk Radio KWRG 99.9
 #EXTINF:-1,Radio North Pole
-http://streaming.radiostreamlive.com/radionorthpole_devices
+https://streaming.radiostreamlive.com/radionorthpole_devices
 #EXTINF:-1,The Fuse 106.9
 http://ice6.securenetsystems.net/KFSE
 #EXTINF:-1,The Point 100.1 FM

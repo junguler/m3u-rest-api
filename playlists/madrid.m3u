@@ -13,10 +13,24 @@ https://25533.live.streamtheworld.com:443/LOS40_CLASSICAAC.aac
 https://stream.tunerplay.com/listen/adagioradio/adagioradio.mp3
 #EXTINF:-1,Dynamis Radio
 https://control.streaming-pro.com:8014/stream
+#EXTINF:-1,Loca FM  Tech House
+http://s02.fjperezdj.com:8046/live
 #EXTINF:-1,Radio Ecuashyri FM
 http://streaming.hdserver.biz:9336/;
 #EXTINF:-1,MegaStarFM
 https://megastar-cope.flumotion.com/playlist.m3u8
+#EXTINF:-1,Loca FM Dub Techno
+http://s02.fjperezdj.com:8066/live
+#EXTINF:-1,Pepe Radio
+http://server7.emitironline.com:8000/;
+#EXTINF:-1,Loca FM Techno
+http://s02.fjperezdj.com:8050/live
+#EXTINF:-1,Loca FM Ambient
+http://s02.fjperezdj.com:8036/live
+#EXTINF:-1,Loca FM  Remember
+http://s02.fjperezdj.com:8035/live
+#EXTINF:-1,Jazz 4 Ever
+https://mars.streamerr.co/8064/stream
 #EXTINF:-1,Free FM Rock
 https://freefmrock.radioca.st/stream
 #EXTINF:-1,Loca FM  Trance
@@ -25,8 +39,14 @@ http://s02.fjperezdj.com:8055/live
 http://s02.fjperezdj.com:8025/live
 #EXTINF:-1,Jazz Radio Spain
 https://stream.tunerplay.com/listen/jazz_radio_spain/jazzradiospain.mp3
+#EXTINF:-1,LOCA 80&#039;S
+http://s02.fjperezdj.com:8075/live
+#EXTINF:-1,laFRESCA
+https://stream.produccionesdale.com/listen/lafresca/altacalidad
 #EXTINF:-1,Loca FM 90´s
 http://s02.fjperezdj.com:8000/live
+#EXTINF:-1,Loca FM Trap
+http://s02.fjperezdj.com:8060/live
 #EXTINF:-1,Loca FM Drum&amp;Bass
 http://s02.fjperezdj.com:8065/live
 #EXTINF:-1,Master FM
@@ -51,8 +71,12 @@ http://s02.fjperezdj.com:8095/live
 https://sp.totalstreaming.net:8170/stream
 #EXTINF:-1,Salalondon Radio
 http://salalondon.ddns.net:8007/;stream.mp3
-#EXTINF:-1,Las Mas Explosivas
-https://server2.ejeserver.com:8440/stream
+#EXTINF:-1,Loca FM INDUSTRIAL
+http://s02.fjperezdj.com:8076/live
+#EXTINF:-1,Loca FM Pride
+http://s02.fjperezdj.com:8070/live
+#EXTINF:-1,Todo Noticias Latinas
+https://securestream.radioshd.info:7064/;
 #EXTINF:-1,Radio KEC Internacional
 https://sonic.sistemahost.es/8042/stream
 #EXTINF:-1,Holiday Gym
@@ -103,8 +127,6 @@ https://weekendradio.stream.laut.fm/weekendradio?t302=2023-09-19_12-43-23&uuid=5
 https://www.dgt.es/estaticos/boletin/boletin.mp3
 #EXTINF:-1,Radioecuaexitos
 https://sonicpanel.globalstream.pro:10941/;stream.nsv
-#EXTINF:-1,Radio Amigos Forever
-https://ciahdhost.com/8014/stream
 #EXTINF:-1,Antena Cemu Radio
 http://str1.mediatelekom.net:8110/;
 #EXTINF:-1,Fórmula Fun Radio
@@ -115,8 +137,6 @@ http://europa.shoutca.st:9151/;
 https://musicup.stream.laut.fm/musicup?t302=2023-09-19_12-37-48&uuid=ad87ed8e-ff3e-4af5-8b21-d618a51e78fb
 #EXTINF:-1,Holiday Gym Rock
 https://holidaygym.emitironline.com:9130/stream
-#EXTINF:-1,Radio Activa Europa
-https://securestream.radioshd.info:7117/;
 #EXTINF:-1,Radio Piter
 https://ssl.ndvendas.eu:7236/stream?icy=http
 #EXTINF:-1,esRadio_AAC
@@ -139,6 +159,8 @@ https://20043.live.streamtheworld.com:443/LOS40.mp3
 https://libertaddigital-radio-live1.flumotion.com/libertaddigital/ld-live1-low.mp3
 #EXTINF:-1,EME Radio fm
 https://streaming.enacast.com/emeradiofmHD.mp3
+#EXTINF:-1,EsRadio (MP3 HQ)
+https://libertaddigital-radio-live1.flumotion.com/libertaddigital/ld-live1-high.mp3
 #EXTINF:-1,The Sunny Time
 https://streaming.brol.tech/rtfmlounge
 #EXTINF:-1,Holiday Gym Ibiza

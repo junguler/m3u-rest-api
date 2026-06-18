@@ -19,10 +19,6 @@ http://cp2.digistream.info:9094/;
 https://liveaudio.lamusica.com/MIA_WRMA_icy
 #EXTINF:-1,El Zol 106.7
 https://liveaudio.lamusica.com/MIA_WXDJ_icy
-#EXTINF:-1,The Rap MIXX
-https://ais-sa2.cdnstream1.com/1988_64.aac
-#EXTINF:-1,The Kids MIXX
-https://ais-sa2.cdnstream1.com/1986_64.aac
 #EXTINF:-1,Miami Bass FM
 https://streaming.brol.tech/rtfmlounge
 #EXTINF:-1,Magic 80s Florida
@@ -33,14 +29,6 @@ http://209.126.119.28:8207/stream
 https://s1.myradiostream.com/:4962/listen.mp3
 #EXTINF:-1,Cat Country 98.7
 http://newsradio1620.streamguys.org/cattunein
-#EXTINF:-1,The Metal MIXX
-http://ais-sa2.cdnstream1.com/1987_64.aac
-#EXTINF:-1,WSJP-DB
-https://das-edge17-live365-dal02.cdnstream.com/a40516
-#EXTINF:-1,The School of Rock
-https://ais-sa2.cdnstream1.com/1981_128.mp3
-#EXTINF:-1,The Hits MIXX
-https://ais-sa2.cdnstream1.com/1984_64.aac
 #EXTINF:-1,Magic 60s Florida
 https://das-edge17-live365-dal02.cdnstream.com/a99804
 #EXTINF:-1,Z Christmas
@@ -49,28 +37,18 @@ https://ice.zradio.org/c/high.mp3
 http://cc.net2streams.com:8260/;
 #EXTINF:-1,WDBO
 https://ad-oom-cmg.streamguys1.com/orl1073/orl1073-sgplayer-aac
-#EXTINF:-1,The Wicked MIXX
-https://ais-sa2.cdnstream1.com/1991_64.aac
-#EXTINF:-1,The Party MIXX
-http://ais-sa2.cdnstream1.com/1979_64.aac
 #EXTINF:-1,Doo Wop Radio
 http://66.59.109.208:8000/;stream.mp3
-#EXTINF:-1,The Rock MIXX
-https://ais-sa2.cdnstream1.com/1989_128.mp3
 #EXTINF:-1,011.FM - Golden Oldies
 https://listen.011fm.com/stream14
 #EXTINF:-1,Christian FM
 https://christianfm.streamguys1.com/live-aac
-#EXTINF:-1,The Jack Mixx
-https://ais-sa2.cdnstream1.com/1985_128.mp3
-#EXTINF:-1,The Groovy MIXX
-https://ais-sa2.cdnstream1.com/1983_128.mp3
 #EXTINF:-1,Magic 70s Florida
 https://das-edge62-live365-dal03.cdnstream.com/a55051
-#EXTINF:-1,The Alt Vault
-https://ais-sa2.cdnstream1.com/1980_64.aac
+#EXTINF:-1,011.FM - Big 80s
+https://listen.011fm.com/stream05
 #EXTINF:-1,Hank&#039;s Gumshoe OTR
-https://s21.myradiostream.com:9714/listen.mp3
+https://s21.myradiostream.com/:9714/listen.mp3
 #EXTINF:-1,Zeta 92
 https://liveaudio.lamusica.com/MIA_WCMQ_icy
 #EXTINF:-1,011.FM - Hip Hop
@@ -78,7 +56,7 @@ https://listen.011fm.com/stream13
 #EXTINF:-1,011.FM - House of Hair
 https://listen.011fm.com/stream16
 #EXTINF:-1,WZQR Gold Big Band
-https://das-edge12-live365-dal02.cdnstream.com/a21353
+https://das-edge62-live365-dal03.cdnstream.com/a21353
 #EXTINF:-1,WEOW 92.7 FM
 https://ice42.securenetsystems.net/WEOW
 #EXTINF:-1,House Attack Radio
@@ -139,8 +117,6 @@ http://s40.myradiostream.com:8520/listen.mp3
 http://209.126.119.28:8388/stream
 #EXTINF:-1,Beach 105.5
 https://26223.live.streamtheworld.com:443/WBHUFMAAC.aac
-#EXTINF:-1,Reggae World Music Network
-https://s02.whooshserver.net:8072/live
 #EXTINF:-1,Sensimedia - Dancehall
 https://sensidancehall.radioca.st/;
 #EXTINF:-1,011.FM - Alternative
@@ -149,10 +125,6 @@ https://listen.011fm.com/stream15
 https://sensibass.radioca.st/;
 #EXTINF:-1,011.FM - 90s Alternative
 https://listen.011fm.com/stream17
-#EXTINF:-1,The Rock of Daytona
-https://ice7.securenetsystems.net/WROD
-#EXTINF:-1,La Ley 1550 AM
-http://stream.broadcastserver.net:9304/;
 #EXTINF:-1,Oldieradio Florida
 http://eagle.streemlion.com:4733/stream
 #EXTINF:-1,98.5 The Beach
@@ -190,7 +162,7 @@ http://wrmi.listen.creek.fm/stream
 #EXTINF:-1,OnlyHit TopHits
 https://ais-sa3.cdnstream1.com/2631_128.mp3
 #EXTINF:-1,Love Songs Florida
-https://das-edge63-live365-dal03.cdnstream.com/a61435
+https://das-edge17-live365-dal02.cdnstream.com/a61435
 #EXTINF:-1,WBIG STATION
 http://usa7.fastcast4u.com:5929/1/
 #EXTINF:-1,95.7 Tha Beat
@@ -200,7 +172,7 @@ https://liveaudio.lamusica.com/TAM_WSUN_icy
 #EXTINF:-1,011.FM - Jazz Collection
 https://listen.011fm.com/stream11
 #EXTINF:-1,Motown Magic Oldies
-https://das-edge12-live365-dal02.cdnstream.com/a00270
+https://das-edge62-live365-dal03.cdnstream.com/a00270
 #EXTINF:-1,Bubba One
 http://bar.streamguys1.com/BubbaOne.aac
 #EXTINF:-1,Rock 92.1
@@ -220,13 +192,13 @@ http://zafemradio.com:7085/;
 #EXTINF:-1,La Raza 1570 AM
 http://68.235.37.11:10014/stream
 #EXTINF:-1,WZQR - Classic Country Florida Radio
-https://das-edge12-live365-dal02.cdnstream.com/a54378
+https://das-edge62-live365-dal03.cdnstream.com/a54378
 #EXTINF:-1,Spirit FM 90.5
 https://spirit-fm.streamguys1.com/spiritfm
 #EXTINF:-1,La Casa Salsera
 https://sonicpanel.globalstream.pro/9986/stream
 #EXTINF:-1,OnlyHit
-https://ais-sa3.cdnstream1.com/2627_128.mp3
+https://delivery.onlyhitsradio.net/onlyhits
 #EXTINF:-1,OnlyHit Gold
 https://ais-sa3.cdnstream1.com/2628_128.mp3
 #EXTINF:-1,Bad Rock Radio
@@ -237,8 +209,6 @@ https://s3.radio.co/s5fa917423/listen
 https://das-edge12-live365-dal02.cdnstream.com/a89594
 #EXTINF:-1,Beach 95.1
 https://ice3.securenetsystems.net/WBPC
-#EXTINF:-1,Coast 2 Coast Radio
-http://52.22.95.104:8000/hiphop
 #EXTINF:-1,Vivela Stereo Radio
 https://stream2.305stream.com/proxy/client078?mp=/;
 #EXTINF:-1,WUCF-HD2 89.9 FM Music and More
@@ -248,7 +218,7 @@ https://wusf.streamguys1.com:443/wusf
 #EXTINF:-1,102.5 The Bone
 https://ad-oom-cmg.streamguys1.com/tam1025/tam1025-sgplayer-aac
 #EXTINF:-1,Money Talk Station
-https://das-edge16-live365-dal02.cdnstream.com/a00824
+https://das-edge15-live365-dal02.cdnstream.com/a00824
 #EXTINF:-1,WZQR Concert Hall
 http://c3.radioboss.fm:8079/stream
 #EXTINF:-1,Hank&#039;s Westerns O.T.R.
@@ -263,12 +233,8 @@ https://ice3.securenetsystems.net/WLML
 https://ice3.securenetsystems.net/CLR1
 #EXTINF:-1,Hits 106
 https://ice64.securenetsystems.net/WGHRFM
-#EXTINF:-1,Radio Oasis 1210
-https://sh4.radioonlinehd.com:8539/stream
 #EXTINF:-1,Web Radio Classics
 https://das-edge12-live365-dal02.cdnstream.com/a89361
-#EXTINF:-1,Cowboy&#039;s Juke Joint
-https://das-edge12-live365-dal02.cdnstream.com/a31378
 #EXTINF:-1,WYND 1310 AM
 https://58ab2f7be5d91.streamlock.net:8604/sc
 #EXTINF:-1,Pyrate Radio
@@ -285,14 +251,12 @@ https://ice41.securenetsystems.net/WWBA
 https://ice41.securenetsystems.net/WMUV
 #EXTINF:-1,Into Tomorrow with Dave Graveline
 http://war.str3am.com:7040/live-mp3
-#EXTINF:-1,Radio-Nina
-http://65.108.133.10:8032/;stream//
 #EXTINF:-1,98FROG
-https://das-edge12-live365-dal02.cdnstream.com/a92698
+https://das-edge62-live365-dal03.cdnstream.com/a92698
 #EXTINF:-1,WQRB R&amp;B RADIO
 http://65.109.81.84:7100/stream
 #EXTINF:-1,WZQR Rocks!
-https://das-edge63-live365-dal03.cdnstream.com/a77750
+https://das-edge17-live365-dal02.cdnstream.com/a77750
 #EXTINF:-1,LaMezclaRadio
 https://streaming.radio.co/s056cea3a0/listen
 #EXTINF:-1,NewsRadio 1620
@@ -302,15 +266,13 @@ https://ice41.securenetsystems.net/WITGLP
 #EXTINF:-1,WIYD 1260 AM
 https://ais-sa1.streamon.fm/7073_24k.aac
 #EXTINF:-1,TheEL.US - America&#039;s Rock Station
-https://das-edge63-live365-dal03.cdnstream.com/a71722
+https://das-edge17-live365-dal02.cdnstream.com/a71722
 #EXTINF:-1,Large Radio
 https://sonic01.instainternet.com/8312/stream/
 #EXTINF:-1,Memoriesradio Florida
 http://eagle.streemlion.com:4733/;
 #EXTINF:-1,La Z 102.5
 https://ice.zradio.org/l/high.mp3
-#EXTINF:-1,MOCRadio
-http://naxos.cdnstream.com/1306_128
 #EXTINF:-1,217FM - Retro Express
 http://88.198.5.134:8021/;
 #EXTINF:-1,96 K-Rock
@@ -323,8 +285,6 @@ https://das-edge11-live365-dal03.cdnstream.com/a77408
 http://omega32.serverroom.net:5086/;stream.mp3
 #EXTINF:-1,Zouk Kompa 24 SEVEN
 http://192.211.51.158:8052/;stream.nsv
-#EXTINF:-1,97 Lite FM
-https://free.rcast.net/200319
 #EXTINF:-1,Q92.9
 https://www.myq92.com/
 #EXTINF:-1,Classic Hits 102.9 WBF
@@ -339,10 +299,6 @@ https://ice23.securenetsystems.net/WMBMAM
 https://ice41.securenetsystems.net/WHBO
 #EXTINF:-1,The Light
 https://spirit-fm.streamguys1.com/thelight
-#EXTINF:-1,YMBRN Internet Radio
-http://198.7.59.28:8291/stream
-#EXTINF:-1,Actualidad Radio
-https://actualidadradio.com/en-vivo/
 #EXTINF:-1,217FM - BOOM!!!
 http://88.198.5.134:8023/;stream.nsv
 #EXTINF:-1,99.5 QYK
@@ -351,14 +307,10 @@ https://995qyk.com/
 http://atlanta.myautodj.com:8128/live
 #EXTINF:-1,KPTR Party Train Radio
 https://das-edge16-live365-dal02.cdnstream.com/a32054
-#EXTINF:-1,Island 106.9 FM
-https://cdn3.wowza.com/1/UUU3OHZFMjdYWnFk/NnovNzdE/hls/live/playlist.m3u8
 #EXTINF:-1,JamzRadio Hot 100
 http://usa11.fastcast4u.com:5272/;
 #EXTINF:-1,La Nueva Radio Alfa
 http://62.210.24.124:8509/;
-#EXTINF:-1,Santa Teresita Radio
-http://s39.myradiostream.com:12936/listen.mp3
 #EXTINF:-1,93.7 GYL
 https://streamdb4web.securenetsystems.net/v5/WGYL
 #EXTINF:-1,B103.9
@@ -371,10 +323,12 @@ https://ice66.securenetsystems.net/WZPH
 https://broadcast.digistream.info/wsgm1075
 #EXTINF:-1,Conch Country 98.7 FM
 https://ice42.securenetsystems.net/WCNK
+#EXTINF:-1,Radio Esperanza
+http://s7.viastreaming.net:8925/;
 #EXTINF:-1,97.7 The Zone
 https://ice42.securenetsystems.net/WAVK
 #EXTINF:-1,Pet Rescue Radio
-https://das-edge12-live365-dal02.cdnstream.com/a32313
+https://das-edge62-live365-dal03.cdnstream.com/a32313
 #EXTINF:-1,Pirate Radio Key West
 https://streamdb5web.securenetsystems.net/v5/WKYZ
 #EXTINF:-1,Kiss 105.3 FM
@@ -397,8 +351,6 @@ https://s2.radio.co/sd1af91049/listen
 https://stream.madhurawaz.com/
 #EXTINF:-1,WPLK 800 AM
 https://ais-sa1.streamon.fm/7072_24k.aac/playlist.m3u8
-#EXTINF:-1,The Flame
-https://ice5.securenetsystems.net/WFLM
 #EXTINF:-1,Elliniki Radiofonia Mana Ellada
 http://cast.radiohost.ovh:9066/;stream.mp3
 #EXTINF:-1,Hallelujah 95.3 FM
@@ -415,10 +367,6 @@ https://streamdb7web.securenetsystems.net/cirruscontent/WCXSFM
 https://bbgi.com/brands/
 #EXTINF:-1,WMNF-HD2 88.5
 https://stream.wmnf.org:4443/wmnf_hd2
-#EXTINF:-1,Playa 99.3
-https://playa993.com/
-#EXTINF:-1,NED fm
-https://live2.radiostreamserver.nl:9085/listen
 #EXTINF:-1,1010 XL
 https://ice23.securenetsystems.net/WJXL
 #EXTINF:-1,TjksRadio
@@ -439,18 +387,16 @@ https://ice66.securenetsystems.net/WGAY
 https://ad-oom-cmg.streamguys1.com/jac690/jac690-sgplayer-aac
 #EXTINF:-1,La Ley 99.5 FM
 https://streamdb5web.securenetsystems.net/v5/index.cfm?stationCallSign=WLLY
-#EXTINF:-1,The WIKD 102.5 FM
-https://n1eb-e2.revma.ihrhls.com/zc6300/hls.m3u8?rj-ttl=5&rj-tok=AAABiq3DRhUAPLLWNh8hcin_Nw
 #EXTINF:-1,Psychedelic Rock - Progressive | Indie | Psuchedelic
 https://listen.adtonos.com/psychedelicrock-progressive-rock-indie-acid-surf-psychedelic
 #EXTINF:-1,WMNF 88.5
 https://stream.wmnf.org:4443/wmnf_hd3
-#EXTINF:-1,WBOF Radio
-http://174.127.75.88:8099/stream;audio.mp3
 #EXTINF:-1,WUFT 89.1 FM
 https://ais-sa1.streamon.fm/7647_48k.aac
 #EXTINF:-1,Jim Paris Radio
 https://s2.radio.co/sf2d9a598c/listen
+#EXTINF:-1,Genesis 680 AM
+https://stream1.305stream.com/proxy/client246?mp=/;
 #EXTINF:-1,Radio Adoracion Fl
 https://stream2.305stream.com/proxy/client013?mp=/stream
 #EXTINF:-1,Power Country 102.1
@@ -475,8 +421,8 @@ https://ice8.securenetsystems.net/WJGM
 https://ice3.securenetsystems.net/WWJB
 #EXTINF:-1,ESPN Gainesville
 https://ais-sa1.streamon.fm/7644_48k.aac
-#EXTINF:-1,Radio Manantial de adoracion
-https://panel.lifestreammedia.net:8186/stream
+#EXTINF:-1,Radio Pacto
+https://stream1.305stream.com//proxy/client221?mp=/stream
 #EXTINF:-1,91.3 Hope FM
 https://ice42.securenetsystems.net/WHIF
 #EXTINF:-1,Awaz-e-Haq World Radio
@@ -499,6 +445,8 @@ https://securestream.radioshd.info:7078/;
 https://streamdb3web.securenetsystems.net/v5/WAFZ
 #EXTINF:-1,107.9 The Beat
 https://streamdb5web.securenetsystems.net/cirrusencore/WBTF
+#EXTINF:-1,US 102.3 FM
+https://ice66.securenetsystems.net/WXUS
 #EXTINF:-1,WENG News-Talk
 https://ice8.securenetsystems.net/WENG
 #EXTINF:-1,Beach Life Radio
@@ -515,16 +463,10 @@ https://ice42.securenetsystems.net/WCTH
 http://72.14.181.64:8050/live.mp3
 #EXTINF:-1,Radio Vision FM
 https://fhbcn.out.airtime.pro/fhbcn_a
-#EXTINF:-1,TMR-Tony Mann Radio
-https://das-edge14-live365-dal02.cdnstream.com/a86454
 #EXTINF:-1,Food and Travel Nation
-https://das-edge15-live365-dal02.cdnstream.com/a15792
+https://das-edge16-live365-dal02.cdnstream.com/a15792
 #EXTINF:-1,Z 103.3 FM Nature Coast Country
 https://ice24.securenetsystems.net/WXCZ
-#EXTINF:-1,Aviva Radio 107.7 FM
-https://sonic.radiostreaminglatino.com:10879/stream
-#EXTINF:-1,Radio Voz Mundial 98.7 FM
-https://seattle-charterbusservices.com/contact-us/
 #EXTINF:-1,I Am Country 106.9
 https://streamdb6web.securenetsystems.net/cirrusencore/WPLL
 #EXTINF:-1,92.3 &amp; 101.1 The River
@@ -547,10 +489,10 @@ https://server.radiogs.net:7062/;
 https://aguila1.netkairos.com/8080/stream
 #EXTINF:-1,The Fox 96.7
 https://ice64.securenetsystems.net/WXOFFM
-#EXTINF:-1,RevelaSion Radio
-https://das-edge62-live365-dal03.cdnstream.com/a87670
 #EXTINF:-1,Praise 107.9
 https://ice10.securenetsystems.net/WMUVHD3
+#EXTINF:-1,Sandunga Radio
+http://stream2.305stream.com:8204/stream
 #EXTINF:-1,CAB Muzik Radio
 https://das-edge62-live365-dal03.cdnstream.com/a64319
 #EXTINF:-1,GHQ
@@ -565,8 +507,6 @@ http://c34.radioboss.fm:8204/stream
 https://das-edge14-live365-dal02.cdnstream.com/a26701
 #EXTINF:-1,Sonika.FM
 https://streamdb9web.securenetsystems.net/v5/index.cfm?stationCallSign=SONIKAFM
-#EXTINF:-1,Radio Alegre
-https://live.hbstreaming.com/8066http:/adioalegre
 #EXTINF:-1,El Fuego
 https://spirit-fm.streamguys1.com/elfuego
 #EXTINF:-1,WXB 102
@@ -596,7 +536,7 @@ https://streaming01.radiosenlinea.com.ar:10900/;
 #EXTINF:-1,ZRewind.com
 https://ice.zradio.org/t/high.mp3
 #EXTINF:-1,Joyful Sound Radio, The New Sound
-https://das-edge17-live365-dal02.cdnstream.com/a40713
+https://das-edge63-live365-dal03.cdnstream.com/a40713
 #EXTINF:-1,WZCC 1240 AM
 https://streamdb9web.securenetsystems.net/v5/WLQH
 #EXTINF:-1,Acción 97.9
@@ -606,7 +546,6 @@ https://streamdb5web.securenetsystems.net/v5/WOKC
 #EXTINF:-1,Life Improvement Radio
 https://streamdb6web.securenetsystems.net/v5/LIRADIO
 #EXTINF:-1,Money Talk 1010 AM
-https://podcastradious.com/
 #EXTINF:-1,Powerhitz - The Planet (Alternative)
 https://live.powerhitz.com/planet?esPlayer&cb=786791.mp3
 #EXTINF:-1,Wilkins Radio
@@ -621,6 +560,10 @@ https://stream.playerlive.info:8045/live.aac
 https://ice6.securenetsystems.net/WGGFRADI
 #EXTINF:-1,Good News Radio
 http://198.7.62.157:8222/;stream.nsv
+#EXTINF:-1,La Buena Tally
+https://s6.citrus3.com:8106/stream
+#EXTINF:-1,Radio Apocalipsis Network
+https://stream1.305stream.com/proxy/client277?mp=/;
 #EXTINF:-1,Caribbean Rhythms Radio Network
 https://www.ophanim.net:8444/s/7950
 #EXTINF:-1,Rockers Movement
@@ -634,7 +577,7 @@ https://s8.citrus3.com:8440/stream
 #EXTINF:-1,Our Redeemer Lutheran Radio
 https://das-edge62-live365-dal03.cdnstream.com/a04537
 #EXTINF:-1,WVGT Smooth 97.1 FM
-https://das-edge14-live365-dal02.cdnstream.com/a67431
+https://das-edge11-live365-dal03.cdnstream.com/a67431
 #EXTINF:-1,dj dap radio
 https://s4.radio.co/sf84830a05/listen
 #EXTINF:-1,Dmixologist.net
@@ -649,6 +592,8 @@ https://alouette.ice.infomaniak.ch/alouette-high.aac
 https://s36.myradiostream.com/:17140/listen.mp3?nocache=1682445588
 #EXTINF:-1,Radio Mariana FM
 https://8155.brasilstream.com.br/stream
+#EXTINF:-1,Radio Fuerza 7
+http://server10.servistreaming.com:8004/;
 #EXTINF:-1,WPBV 98.3 FM
 https://ice9.securenetsystems.net/WPBV
 #EXTINF:-1,Choice 106.9
@@ -669,16 +614,12 @@ http://65.109.81.84:7902/stream
 https://streaming.viphosting.cl/8224/stream
 #EXTINF:-1,WMNF-HD4 88.5
 https://stream.wmnf.org:4443/wmnf_hd4
-#EXTINF:-1,ESPN Southwest Florida
-https://espnswfl.com/
 #EXTINF:-1,Dagr8fm Latino
 https://streamdb6web.securenetsystems.net/v5/WQRXDB
 #EXTINF:-1,Country Bear Pop
 https://streamdb9web.securenetsystems.net/v5/index.cfm?stationCallSign=CBEARPOP
 #EXTINF:-1,La Numero Uno 1
 https://lanumero1.fm/
-#EXTINF:-1,High Definition Radio
-https://s4.radio.co/s5b8f4e255/listen
 #EXTINF:-1,TreasureCoastRadio.com
 https://streams.radio.co/s9eb5e06ba/listen
 #EXTINF:-1,Brushwood Media Network
@@ -688,7 +629,7 @@ https://ice3.securenetsystems.net/WXJB
 #EXTINF:-1,The Truth
 https://ice9.securenetsystems.net/WTRJ
 #EXTINF:-1,Our Neighborhood Radio
-https://das-edge15-live365-dal02.cdnstream.com/a03265
+https://das-edge16-live365-dal02.cdnstream.com/a03265
 #EXTINF:-1,WAYR-AM
 http://ice7.securenetsystems.net/WAYRAM
 #EXTINF:-1,WGHR Greatest Hits 106
@@ -713,6 +654,10 @@ http://cast3.citrus3.com:8220/;stream.nsv
 https://ice64.securenetsystems.net/WXCVFM
 #EXTINF:-1,Beyond Country
 https://ice64.securenetsystems.net/BC01
+#EXTINF:-1,Adoradores en Espiritu
+https://stream1.305stream.com/proxy/adoracionradio?mp=/stream
+#EXTINF:-1,Radio Media Kreyol
+http://s26.myradiostream.com:18348/listen.mp3
 #EXTINF:-1,DestinFM
 http://streamdb3web.securenetsystems.net/DESTINFM
 #EXTINF:-1,Pure Energy Radio

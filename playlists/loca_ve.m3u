@@ -37,10 +37,6 @@ https://stream.intervalohost.com:7025
 https://cast10.plugstreaming.com:2000/sslstream/r1001
 #EXTINF:-1,Radio Maria Venezuela
 http://dreamsiteradiocp.com:8096/
-#EXTINF:-1,Intensa 91.9 FM
-http://servers58.com:9300/stream
-#EXTINF:-1,Lagarto FM
-http://streamingned.com:7292/stream
 #EXTINF:-1,Órbita 88.5 FM
 http://streamingned.com:7052/stream
 #EXTINF:-1,Circuito Rumba - Maturín
@@ -58,15 +54,13 @@ http://streamingned.com:7132/
 #EXTINF:-1,Picardia Musical
 http://149.56.155.73:8084/
 #EXTINF:-1,BBN 1260 AM
-https://audio-edge-vqwx4.yyz.g.radiomast.io/475ebed1-595e-4717-b888-64fe8fc6b09f
+https://audio-edge-qse4n.yyz.g.radiomast.io/475ebed1-595e-4717-b888-64fe8fc6b09f
 #EXTINF:-1,Radio Costa FM
 https://cloudstream2036.conectarhosting.com/8368/stream
 #EXTINF:-1,Sigma 105.1 FM
 http://redradioypc.com:8004/stream
 #EXTINF:-1,WOPSS
 http://srv2.plugstreaming.com:8038/
-#EXTINF:-1,Rhema Stereo
-http://163.172.77.142:8366/
 #EXTINF:-1,NoEsFM
 https://noesfm.radioca.st/stream?nocache=617&type=http
 #EXTINF:-1,Maravillosa 105.1 FM
@@ -75,10 +69,12 @@ http://streamingned.com:7084/
 http://streamingned.com:7214/live
 #EXTINF:-1,C-Oye 89.1 FM Insuperable
 http://streamingned.com:7146/
-#EXTINF:-1,NLVRADIO.COM
-https://rr5100.globalhost1.com:8138/live
 #EXTINF:-1,D.C.R. 103.9 FM
 http://stream.playerlive.info:8083/
+#EXTINF:-1,FM Noticias
+http://streaming2.globalhost.net.ve:8024/
+#EXTINF:-1,CARIBE 93.5 FM
+http://streaming3.globalhost.net.ve:9108/
 #EXTINF:-1,DONNA FM 97.7
 http://radiohd.net:3628/
 #EXTINF:-1,FM 95.7 Guayana
@@ -91,8 +87,6 @@ http://streaming3.globalhost.net.ve:9062/
 http://server6.globalhostla.com:9230/stream
 #EXTINF:-1,Primetime Power Show
 http://172.93.237.106:8197/
-#EXTINF:-1,Eclosion de Voces
-http://streaming3.globalhost.net.ve:9346/
 #EXTINF:-1,Clasicos 90.9 FM El Tigre
 http://acp2.lorini.net:2030/clasicoseltigre?n=24bc4fdb91504472179d
 #EXTINF:-1,Exitos 100.9 FM
@@ -103,8 +97,6 @@ http://streamingned.com:7076/;
 http://190.202.130.61:8000/lrds?n=9ece7a7d9330dd39dc95
 #EXTINF:-1,Radio dinámica 92.9
 https://guri.tepuyserver.net/8012/stream?n=755db33f632248963e21
-#EXTINF:-1,Radio Nacional de Venezuela
-http://rnv.lorini.net:29100/RNVINFORMATIVO?n=083c1b6f95ed813e4840
 #EXTINF:-1,RADIO SENSACIÓN 830 AM CARACAS
 https://server6.globalhostla.com:9348/stream?n=c8eb448141e7237e886a
 #EXTINF:-1,Radio Sintonía 1420 am
@@ -119,6 +111,8 @@ http://ur58.lorini.net:2080/stream?n=f4a8c7a9289f8e541856
 http://cp2.lorini.net:41048/stream?n=74947008a6076a7f8e9a
 #EXTINF:-1,Acción 104.5 FM La diferencia en el dial
 https://stream.intervalohost.com/accionfm/stream?n=4e3f7128c7eb32ccb1de
+#EXTINF:-1,RADIO ALFA 100.9 FM
+http://streamingned.com:7178/live?n=6f836dcf210cd00f709d
 #EXTINF:-1,Andes 89.3 FM
 http://streamingned.com:7098/?n=04c17ce9789246b09696
 #EXTINF:-1,Adulto Joven 88.1

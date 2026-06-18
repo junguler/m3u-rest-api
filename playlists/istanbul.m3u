@@ -11,12 +11,8 @@ https://22183.live.streamtheworld.com:443/JOY_TURKAAC.aac
 https://cdn3.akradyo.net/akracanli2/_definst_/livestream_aac/playlist.m3u8
 #EXTINF:-1,Joy FM
 https://22193.live.streamtheworld.com:443/JOY_FMAAC.aac
-#EXTINF:-1,Number1 Deep House
-https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e35cb55bf5_1/playlist.m3u8
-#EXTINF:-1,Number 1 FM
-https://n10101m.mediatriple.net/numberone
 #EXTINF:-1,Istanbul Fm
-https://yayin.istanbulfm.com.tr/istanbulfm
+https://yayin.istanbulfm.com.tr/istanbulfm/playlist.m3u8
 #EXTINF:-1,Kral FM
 https://dygedge2.radyotvonline.net/kralfm/playlist.m3u8
 #EXTINF:-1,Radyo Voyage
@@ -25,6 +21,8 @@ http://voyagewmp.radyotvonline.com/;
 https://dygedge.radyotvonline.net/kralpop/playlist.m3u8
 #EXTINF:-1,Semerkand Radyo
 https://mtisvwurbfcyslive.mediatriple.net/mtisvwurbfcyslive/broadcast_58e23cb112296.smil/Playlist.m3u8
+#EXTINF:-1,Best FM
+http://46.20.7.125/;
 #EXTINF:-1,Power Deep
 https://listen.powerapp.com.tr/powerdeep/abr/playlist.m3u8
 #EXTINF:-1,Zenland
@@ -47,6 +45,8 @@ https://listen.powerapp.com.tr/powerlove/abr/playlist.m3u8
 https://live.radyofenomen.com/fenomenturk/abr/playlist.m3u8
 #EXTINF:-1,Show Radyo
 http://46.20.3.229/;
+#EXTINF:-1,Alem FM
+https://turkmedya.radyotvonline.net/alemfmaac
 #EXTINF:-1,Power XL
 https://listen.powerapp.com.tr/powerextralounge/abr/playlist.m3u8
 #EXTINF:-1,Houseland
@@ -67,6 +67,8 @@ https://moondigitaledge.radyotvonline.net/saritramvay/playlist.m3u8
 https://listen.powerapp.com.tr/powersmoothjazz/abr/playlist.m3u8
 #EXTINF:-1,Discoland
 https://moondigitaledge.radyotvonline.net/discoland/playlist.m3u8
+#EXTINF:-1,Acik Radyo
+https://stream.34bit.net/stream.mp3
 #EXTINF:-1,Radyo Ekin
 http://yayin.turkhosted.com:6006/;
 #EXTINF:-1,HAYATMiX
@@ -89,18 +91,10 @@ https://live.radyofenomen.com/fenomenclubbin/abr/playlist.m3u8
 https://90s.pashpashradio.com:7001/;stream.nsv
 #EXTINF:-1,Power Greece
 https://listen.powerapp.com.tr/powergreece/abr/playlist.m3u8
-#EXTINF:-1,Number1 Dance
-https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e33b514f52_1/playlist.m3u8
 #EXTINF:-1,Popland
 https://moondigitaledge.radyotvonline.net/popland/playlist.m3u8
-#EXTINF:-1,Number1 Slow
-https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e3a53317d4_1/playlist.m3u8
-#EXTINF:-1,Number1 Türk Fm
-https://n10101m.mediatriple.net/numberoneturk
 #EXTINF:-1,PowerTürk Akustik
 https://listen.powerapp.com.tr/powerturkakustik/abr/playlist.m3u8
-#EXTINF:-1,Radyo Fenomen Rap
-https://live.radyofenomen.com/fenomenrap/abr/playlist.m3u8
 #EXTINF:-1,Radyo Fenomen Akustik
 https://live.radyofenomen.com/fenomenakustik/abr/playlist.m3u8
 #EXTINF:-1,Radyo Fenomen Dans
@@ -111,8 +105,6 @@ http://s2.myradiostream.com:13662/;
 https://listen.powerapp.com.tr/powerturktaptaze/abr/playlist.m3u8
 #EXTINF:-1,JoyTurk Rock
 https://23613.live.streamtheworld.com:443/JOYTURK_ROCK128AAC.aac
-#EXTINF:-1,Number1 Disco
-https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e41c778cb0_1/playlist.m3u8
 #EXTINF:-1,Arabesk Turk
 http://yayin.arabeskturk.com:8000/stream?icy=http
 #EXTINF:-1,Radyo Pal DOĞA
@@ -123,12 +115,8 @@ https://moondigitaledge.radyotvonline.net/danceland/playlist.m3u8
 https://anadolu.liderhost.com.tr:10871/;stream.nsv
 #EXTINF:-1,Lig Radyo
 https://ligradyo.radyotvonline.net/ligradyo
-#EXTINF:-1,Power R&amp;B Hip Hop
-https://listen.powerapp.com.tr/powerrbhiphop/abr/playlist.m3u8
 #EXTINF:-1,Greekland
 https://moondigitaledge.radyotvonline.net/greekland/playlist.m3u8
-#EXTINF:-1,Number1 World
-https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2f95dcb16_1/playlist.m3u8
 #EXTINF:-1,Classicland
 https://moondigitaledge.radyotvonline.net/classicland/playlist.m3u8
 #EXTINF:-1,Akustikland
@@ -137,12 +125,8 @@ https://moondigitaledge.radyotvonline.net/akustikland/playlist.m3u8
 http://yayin.radiomoodtr.com:5862/;stream/1
 #EXTINF:-1,Radyo 90
 https://live.radyo.in/9054/stream
-#EXTINF:-1,Number1 Heart
-https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e367972335_1/playlist.m3u8
 #EXTINF:-1,Tezene
 https://moondigitaledge.radyotvonline.net/tezene/playlist.m3u8
-#EXTINF:-1,Dolunay FM
-http://yayin1.canliyayin.org:8318/;
 #EXTINF:-1,Dream Türk Radyo
 https://live.duhnet.tv//S2/HLS_LIVE/dreamturknp/playlist.m3u8
 #EXTINF:-1,Turkuvaz Romantik
@@ -171,8 +155,6 @@ https://kiyi.radioca.st/stream
 https://moondigitaledge.radyotvonline.net/muzeyyen/playlist.m3u8
 #EXTINF:-1,Jazzland
 https://moondigitaledge.radyotvonline.net/jazzland/playlist.m3u8
-#EXTINF:-1,Radio Glamorize
-https://live.radioglamorize.com/stream1
 #EXTINF:-1,Özel FM
 https://ozelfm.80.yayin.com.tr/;stream/1
 #EXTINF:-1,Turkland
@@ -217,8 +199,6 @@ https://trkvz-radyolar.ercdn.net/apararadyo/playlist.m3u8
 https://anadolu.liderhost.com.tr/8094/stream:8094/;
 #EXTINF:-1,Turkuvaz Efsane
 https://trkvz-radyolar.ercdn.net/turkuvazefsane/playlist.m3u8
-#EXTINF:-1,Number1 Ertuğrul Özkok
-https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e3d762b7d5_1/playlist.m3u8
 #EXTINF:-1,Bloomberg HT Radyo
 https://bloomberghtradyo.radyotvonline.net/bloomberghtradyo
 #EXTINF:-1,Power Earth
@@ -251,8 +231,6 @@ https://sslyayin.netyayin.net/3442/stream
 https://caz.radioca.st/stream
 #EXTINF:-1,Karadeniz Akustik
 https://karadenizakustik.radyotvonline.net/;?type=http&nocache=3230
-#EXTINF:-1,Number 1 Fred Astaire
-https://eustr75.mediatriple.net/Number1Media/31_Number1_Fred_Astaire.stream/playlist.m3u8
 #EXTINF:-1,Radyo Eksen 96.2
 http://eksenwmp.radyotvonline.com/;stream.mp3
 #EXTINF:-1,ITU College Radio -Classical
@@ -261,9 +239,10 @@ http://160.75.86.29:8088/stream/5/
 http://stream.radio.co/s55d598f42/listen
 #EXTINF:-1,Gözyaşı FM
 http://yayin1.canliyayin.org:8700/;*.mp3
+#EXTINF:-1,Diyanet Kur&#039;an Radyo
+https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3c14192aa92.smil/playlist.m3u8
 #EXTINF:-1,A Haber Radyo
 https://trkvz-radyolar.ercdn.net/ahaberradyo/playlist.m3u8
 #EXTINF:-1,Arabesk Alemi
 http://arabeskalemi.net:9300/;
 #EXTINF:-1,Halkın Sesi Radyo - 64 - Greece - athens - folk music - istanbul - politics & current affairs - protest songs - turkish music
-https://yayin.istanbulfm.com.tr/istanbulfm?/;stream.mp3

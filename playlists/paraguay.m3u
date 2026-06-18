@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1,Radio Nuevo Tiempo Paraguay
-https://stream.live.novotempo.com/radio/smil:rntAsuncionPY.smil/chunklist.m3u8
+#EXTINF:-1,Radio Montecarlo FM
+https://rds3.desdeparaguay.net/transmontecarlo/transmontecarlo/chunklist.m3u8
 #EXTINF:-1,Radio Cámara de Diputados
 https://rds3.desdeparaguay.net/transcamara/transcamara/chunklist.m3u8
 #EXTINF:-1,Radio 1° de Marzo
@@ -51,8 +51,6 @@ http://sc.abc.com.py:8000/
 https://rds3.desdeparaguay.net/mov780/mov780.stream/chunklist_w1652423551.m3u8
 #EXTINF:-1,Radio La Paz 93.3
 http://v.orlandohugo.com:8154/stream/
-#EXTINF:-1,Radio La Voz Del Nazareno
-https://server5.hostipy.com:2020/stream/8026
 #EXTINF:-1,Albatros Digital
 http://streaming.camaronhosting.com:9822/
 #EXTINF:-1,Radio Laser FM
@@ -73,8 +71,6 @@ http://reseller01.shockmedia.com.ar:9456/
 https://stream.radiosenpy.net/8188/
 #EXTINF:-1,Radio Sonica Paraguay
 https://streamsoymedios.com/8034/stream
-#EXTINF:-1,Radio Ñopotyvo 89.3 FM
-http://streaming.camaronhosting.com:8070/
 #EXTINF:-1,ABC Cardinal 730AM
 http://200.3.249.91:8000/
 #EXTINF:-1,Encarnacion
@@ -95,6 +91,8 @@ http://suaradio1.dyndns.ws:10040/stream?type
 http://radio.cdehosting.net:8032/stream
 #EXTINF:-1,Radio Regi Gospel
 https://stm28.srvaudio.com.br:9718/stream
+#EXTINF:-1,Radio SOL FM
+https://whd1.webradios.com.br:18576/8576
 #EXTINF:-1,Radio Yvytu
 https://rds3.desdeparaguay.net/movyvytu/movyvytu.stream/playlist.m3u8
 #EXTINF:-1,Radio Soy Listen live
@@ -102,15 +100,15 @@ https://cloudstream2032.conectarhosting.com/9500/server
 #EXTINF:-1,La Poderosa Radio Online Viejoteca Listen live
 https://sonicpanel.totalstreaming.net/8016/server
 #EXTINF:-1,moxfm Listen live
-https://moxfm.stream.laut.fm/moxfm?ref=radiode&t302=2025-12-19_16-30-28&uuid=f6842689-ab81-4647-a89b-61dfa24836b1
+https://moxfm.stream.laut.fm/moxfm?ref=radiode&t302=2026-06-09_19-50-57&uuid=b206b897-1779-48d8-a56c-24d4b74b6255
 #EXTINF:-1,80er-zone Listen live
-https://80er-zone.stream.laut.fm/80er-zone?ref=radiode&t302=2025-12-19_16-30-30&uuid=38fa3dec-f7ee-4a96-9217-f67889a53b1e
+https://80er-zone.stream.laut.fm/80er-zone?ref=radiode&t302=2026-06-09_19-50-58&uuid=a3a98033-e78c-4657-9f3d-b5488d92d8e2
 #EXTINF:-1,radio-signal-beat Listen live
-https://radio-signal-beat.stream.laut.fm/radio-signal-beat?ref=radiode&t302=2025-12-19_16-30-30&uuid=24f397c9-fa99-4f7c-87ad-740ff65ab1fa
+https://radio-signal-beat.stream.laut.fm/radio-signal-beat?ref=radiode&t302=2026-06-09_19-50-58&uuid=524f5e73-1ed0-4271-a30c-a2def3daabc3
 #EXTINF:-1,Radio Forever 80 Listen live
-https://forever80.stream.laut.fm/forever80?t302=2025-12-19_16-30-30&uuid=01669fbc-9a8e-42fa-b7c1-63e6db948a32
+https://forever80.stream.laut.fm/forever80?t302=2026-06-09_19-50-58&uuid=fad0451d-8515-488a-8835-d4d935aa9fb3
 #EXTINF:-1,Radio MASsalsa Listen live
-https://radiomassalsa.stream.laut.fm/radiomassalsa?t302=2025-12-19_16-30-30&uuid=5874db2d-67b5-4808-8267-57340cea3ead
+https://radiomassalsa.stream.laut.fm/radiomassalsa?t302=2026-06-09_19-50-58&uuid=b1e7afc9-e209-462a-b381-b64cc3fab10c
 #EXTINF:-1,Montecarlo
 https://rds3.desdeparaguay.net/movmontecarlo/movmontecarlo.stream/playlist.m3u8
 #EXTINF:-1,Radio Concierto
@@ -119,14 +117,14 @@ https://rds3.desdeparaguay.net/movconcierto/movconcierto.stream/playlist.m3u8
 https://rds3.desdeparaguay.net/mov1000/mov1000.stream/playlist.m3u8
 #EXTINF:-1,Radio Digital 88.5 FM Paraguay
 https://radio.host.com.py:7226/
+#EXTINF:-1,Go Radio
+https://rds3.desdeparaguay.net:8002/go
 #EXTINF:-1,Radio Libre
 https://rds3.desdeparaguay.net/mov1200/mov1200.stream/playlist.m3u8
 #EXTINF:-1,Nacional del Praguay
 https://rds3.desdeparaguay.net/trans920/trans920/playlist.m3u8
 #EXTINF:-1,Radio Interacción
 https://stream.radiosenpy.net/8096/
-#EXTINF:-1,Nuevo Tiempo
-https://stream.live.novotempo.com/radio/smil:rntAsuncionPY.smil/playlist.m3u8
 #EXTINF:-1,Radio Amor
 https://rds3.desdeparaguay.net/movamor/movamor.stream/playlist.m3u8
 #EXTINF:-1,Radio Itapirú
@@ -135,8 +133,6 @@ https://proxy01.servidorenlinea.net/cdehosting/8002/
 https://proxy01.servidorenlinea.net/cdehosting/8050/
 #EXTINF:-1,Radio Universo
 https://proxy01.servidorenlinea.net/cdehosting/8042/
-#EXTINF:-1,La Deportiva
-https://ladeportiva.radioca.st/stream/1/
 #EXTINF:-1,Urbana 106.9
 https://us-b4-p-e-pb13-audio.cdn.mdstrm.com/live-audio-aw/62d81cdabff0bc082f8f1a24/playlist.m3u8
 #EXTINF:-1,FM Del Este
@@ -145,6 +141,7 @@ https://proxy01.servidorenlinea.net/cdehosting/8040/
 https://proxy01.servidorenlinea.net/cdehosting/8022/
 #EXTINF:-1,Monumental
 https://us-b4-p-e-zs14-audio.cdn.mdstrm.com/live-audio-aw/62d81ca6a459e4082203c95b/playlist.m3u8
+#EXTINF:-1,Radio Copernico
 #EXTINF:-1,Esto es Kchak con Monchi Bogarin Radio
 http://stream.zeno.fm/kd0p50swchruv.m3u
 #EXTINF:-1,Musica de Bad Bunny Radio
@@ -153,6 +150,8 @@ http://stream.zeno.fm/rebfuhvwcuhvv.m3u
 http://stream.zeno.fm/z6hdhgcpq18uv.m3u
 #EXTINF:-1,Fernando de la Mora
 https://rds3.desdeparaguay.net/movfernando/movfernando.stream/chunklist_w488544033.m3u8
+#EXTINF:-1,Guyrá Campana
+https://rds3.desdeparaguay.net/mov1420/mov1420.stream/chunklist_w337673514.m3u8
 #EXTINF:-1,Radio 1º de Marzo
 https://rds3.desdeparaguay.net/movlatina/movlatina.stream/chunklist_w2099700998.m3u8
 #EXTINF:-1,Radio Arandú
@@ -169,20 +168,16 @@ https://stream.radiosenpy.net/8240/
 https://stream.radiosenpy.net/3092/
 #EXTINF:-1,Radio Ñanduti
 https://radio.host.com.py/8058/stream
-#EXTINF:-1,Radio Ñopotyvo 89.3 Fm
-https://radio.host.com.py:7243/
 #EXTINF:-1,Radio Oxigeno
 https://stream.radiosenpy.net/8360/
 #EXTINF:-1,Radio Regional
 https://rds3.desdeparaguay.net/mov660/mov660.stream/chunklist_w2001945090.m3u8?k=248a14002aaa95e128dd4ae798dc3a95479261b1777eac142e42b5ed9c534803&ampexp=1629720472
 #EXTINF:-1,Radio Repatriación Py 100.1 Fm
 https://stream.radiosenpy.net/3050/
-#EXTINF:-1,Radio Sin Fronteras
-https://rds3.desdeparaguay.net/movsinfronteras/movsinfronteras.stream/chunklist_w352330400.m3u8
 #EXTINF:-1,Radio Web Virtual Internacional
-https://stm21.srvaudio.com.br:11214/stream
+https://stm1.aovivodigital.com.br:11214/stream
 #EXTINF:-1,Radio Yacare
-https://radioyacare.stream.laut.fm/radio_yacare?t302=2025-12-19_16-30-49&uuid=7b958c67-efb9-46ac-915f-ea6032cae16f
+https://radioyacare.stream.laut.fm/radio_yacare?t302=2026-06-09_19-51-16&uuid=c5439566-979c-433a-a4bb-1782921382e7
 #EXTINF:-1,Radio Yvytyruzu 100.7 Fm
 https://fps4.listen2myradio.com:2199/listen.php?ip=109.169.23.123&ampport=8024&amptype=ice&ampmount=stream&amp1619148632207
 #EXTINF:-1,Rj Music Py
@@ -217,6 +212,10 @@ http://rds3.desdeparaguay.net/transcamara/transcamara/playlist.m3u8
 http://stm2.conectastreaming.com:6694/
 #EXTINF:-1,Radio Maria Paraguay
 http://dreamsiteradiocp2.com:8068/stream/
+#EXTINF:-1,Amambay FM
+http://cp9.serverse.com:7221/amambayfm/
+#EXTINF:-1,Revelación Radio
+http://radio.host.com.py:9324/stream/
 #EXTINF:-1,Rock Nacional Paraguay
 http://s32.radiolize.com:8010/radio.mp3
 #EXTINF:-1,FM del Este
@@ -247,6 +246,8 @@ http://streaming.radiosenlinea.com.ar:8558/stream/
 http://rds3.desdeparaguay.net/mov1330/mov1330.stream/playlist.m3u8
 #EXTINF:-1,Radio Piro’y FM
 http://www.genexservicios.com:8016/stream/
+#EXTINF:-1,Radio Yatytay
+http://panel.wilhost.com:8056/stream
 #EXTINF:-1,Radio Libertad FM
 http://server2.ejeserver.com:8646/live
 #EXTINF:-1,FM Azul y Oro
@@ -295,8 +296,6 @@ https://tvs.com.py/
 https://stream.radiosenpy.net/10390/
 #EXTINF:-1,Tereré Mix Paraguay
 https://server.radiostreaming.com.ar/8618/stream
-#EXTINF:-1,Uninorte FM Estéreo
-http://cactus2.uninorte.edu.co:1755/stream.mp3
 #EXTINF:-1,Victor Avalos
 http://streaming.camaronhosting.com:9428
 #EXTINF:-1,Progreso FM
@@ -342,7 +341,7 @@ https://rds3.desdeparaguay.net/mov660/mov660.stream/playlist.m3u8
 #EXTINF:-1,Radio La Costa FM – PY-1
 https://stream.radiosenpy.net/8650/
 #EXTINF:-1,Palma FM – PY-ASU
-https://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio-aw/62d81d48f5ef320830c8becf/playlist.m3u8?aid=62d818a924cf7908229cd029&dnt=true&uid=AIq790MzWY59qxUAgQkYArOTm3y9CcRZ&sid=S4xAURE36MxnCTmgmVvIxF9NXuQUETbe&pid=FJg9rc9Rdml5Oj8y3AnsZzYtGKkThrlj&es=us-b4-p-e-cg11-audio.cdn.mdstrm.com&ote=1766248335175&ot=szncHniLR45r07NmoFK_Jg&proto=https&pz=us&cP=128000&awCollectionId=62d818a924cf7908229cd029&aw_0_1st.playerId=Palma-vivo&liveId=62d81d48f5ef320830c8becf&propertyName=Palma-vivo&propertyType=web-app&propertyVersion=&listenerId=AIq790MzWY59qxUAgQkYArOTm3y9CcRZ
+https://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio-aw/62d81d48f5ef320830c8becf/playlist.m3u8?aid=62d818a924cf7908229cd029&dnt=true&uid=AIq790MzWY59qxUAgQkYArOTm3y9CcRZ&sid=S4xAURE36MxnCTmgmVvIxF9NXuQUETbe&pid=FJg9rc9Rdml5Oj8y3AnsZzYtGKkThrlj&es=us-b4-p-e-cg11-audio.cdn.mdstrm.com&ote=1781121124134&ot=JQI1ofOqnrBZGS1F-R2Tyw&proto=https&pz=us&cP=128000&awCollectionId=62d818a924cf7908229cd029&aw_0_1st.playerId=Palma-vivo&liveId=62d81d48f5ef320830c8becf&propertyName=Palma-vivo&propertyType=web-app&listenerId=AIq790MzWY59qxUAgQkYArOTm3y9CcRZ
 #EXTINF:-1,La Nueva 107.5 FM – 107.5 FM – Ciudad del Este – Alto Paraná – PY
 https://radio.host.com.py:7085/
 #EXTINF:-1,RNPY – Rock Nacional Paraguayo – Colonia General Alfredo Stroessner – PY-5
@@ -355,6 +354,8 @@ https://fps4.listen2myradio.com:2199/listen.php?ip=109.169.23.123&port=8024&type
 https://rds3.desdeparaguay.net/movmegaestacion95/movmegaestacion95.stream/playlist.m3u8
 #EXTINF:-1,Radio Itapiru – 660 AM – Ciudad del Este – Alto Paraná – PY
 https://proxy01.servidorenlinea.net/cdehosting/8004/
+#EXTINF:-1,La Hermandad VYT-L Medios de Comunicación – PY-ASU
+https://servidor14-1.brlogic.com:7126/live?source=website
 #EXTINF:-1,Radio Digital 88.5 FM – 88.5 FM – PY-ASU
 http://streaming.camaronhosting.com:8036
 #EXTINF:-1,Canal 100 – 100 FM – PY-ASU
@@ -368,35 +369,35 @@ https://rds3.desdeparaguay.net/transpopular/transpopular/playlist.m3u8?k=9b45f96
 #EXTINF:-1,Radio Aspen 102.7 FM – 102.7 FM – PY-ASU
 https://rds3.desdeparaguay.net/movaspen/movaspen.stream/playlist.m3u8?k=c0bb781791c1322fb51cc3e8ac7a4d05895ec4b5d9050c6950c1b39c2a02aae6&exp=1622023977
 #EXTINF:-1,Palma FM radio
-https://us-b4-p-e-qg12-audio.cdn.mdstrm.com/live-audio-aw/62d81d48f5ef320830c8becf/playlist.m3u8?aid=62d818a924cf7908229cd029&pid=Z36pHkXWAY2tC9muOH5n3QNufhBAyU5x&sid=thc1g9ikTd9ocWRAPf3pulMxqU4GZpYS&uid=Ac4YblHupTEslM5U3rfNsrO07ryZlHmg&es=us-b4-p-e-qg12-audio.cdn.mdstrm.com&ote=1766248339466&ot=lHaBjI9NGmajC9XWElseqg&proto=https&pz=us&cP=128000&awCollectionId=62d818a924cf7908229cd029&liveId=62d81d48f5ef320830c8becf&listenerId=Ac4YblHupTEslM5U3rfNsrO07ryZlHmg
+https://us-b4-p-e-ml19-audio.cdn.mdstrm.com/live-audio-aw/62d81d48f5ef320830c8becf/playlist.m3u8?aid=62d818a924cf7908229cd029&pid=0lFS00mBhpnScidGWjKpeR5g1Zl9lHM8&sid=e9WfSUq11yMmmgzzvGtSrJEJ0uzp4bWS&uid=O9BZBMhVAcAgdYjcyJZFoOh3eV3A3WrF&es=us-b4-p-e-ml19-audio.cdn.mdstrm.com&ote=1781121128407&ot=MWV4vtq70jgOoBkrU-Sw9w&proto=https&pz=us&cP=128000&awCollectionId=62d818a924cf7908229cd029&liveId=62d81d48f5ef320830c8becf&listenerId=O9BZBMhVAcAgdYjcyJZFoOh3eV3A3WrF
 #EXTINF:-1,FM Popular radio
 https://rds3.desdeparaguay.net/transpopular/transpopular/playlist.m3u8
 #EXTINF:-1,Radio Soy radio
 https://streamsoymedios.com/8008/stream
 #EXTINF:-1,Estacion 40 radio
-https://us-b4-p-e-jn18-audio.cdn.mdstrm.com/live-audio-aw/62d81cfbbfbcee0837ba1b60/playlist.m3u8?aid=62d818a924cf7908229cd029&pid=GK27fVRROXVfb2k7N6jhEj3TkHwyFkK8&sid=L0PRHbN25MewKhS4Gx3RZcQcVEeec7ge&uid=IKrdWmUk7wndCMoU6rrXG0MhczCTMZGk&es=us-b4-p-e-jn18-audio.cdn.mdstrm.com&ote=1766248340274&ot=XcqOX2qQbGjQUILkp1r8tQ&proto=https&pz=us&cP=128000&awCollectionId=62d818a924cf7908229cd029&liveId=62d81cfbbfbcee0837ba1b60&listenerId=IKrdWmUk7wndCMoU6rrXG0MhczCTMZGk
+https://us-b4-p-e-jn18-audio.cdn.mdstrm.com/live-audio-aw/62d81cfbbfbcee0837ba1b60/playlist.m3u8?aid=62d818a924cf7908229cd029&pid=fCVBPKRMSXJAUMgqCTIM69aQS9OS6lAM&sid=2m47zzzhZENzjbIDTKQfLQwH55JRSo3K&uid=lqeQcovN4brK5qwJXxonFDrgXroTmqIL&es=us-b4-p-e-jn18-audio.cdn.mdstrm.com&ote=1781121129025&ot=NAnvQIGmb51y7IFd_s1I6w&proto=https&pz=us&cP=128000&awCollectionId=62d818a924cf7908229cd029&liveId=62d81cfbbfbcee0837ba1b60&listenerId=lqeQcovN4brK5qwJXxonFDrgXroTmqIL
 #EXTINF:-1,Universo 970 AM radio
 https://www.hoy.com.py/radios/radio970
 #EXTINF:-1,Monumental AM radio
-https://us-b4-p-e-nq15-audio.cdn.mdstrm.com/live-audio-aw/62d81ca6a459e4082203c95b/playlist.m3u8?aid=62d818a924cf7908229cd029&pid=gTi7QMs77jw1vkAGGJVAiCWJgq5I261V&sid=0cTKb7dbq2Br5YVqPUEPd8rukaXmOWXN&uid=xR3qjnBGgLguaxcROO4ocZGIBWMSNoad&es=us-b4-p-e-nq15-audio.cdn.mdstrm.com&ote=1766248341180&ot=6-qXxGWZf9tgNR3i2KREWA&proto=https&pz=us&cP=128000&awCollectionId=62d818a924cf7908229cd029&liveId=62d81ca6a459e4082203c95b&listenerId=xR3qjnBGgLguaxcROO4ocZGIBWMSNoad
+https://us-b4-p-e-jn18-audio.cdn.mdstrm.com/live-audio-aw/62d81ca6a459e4082203c95b/playlist.m3u8?aid=62d818a924cf7908229cd029&pid=5gOktjdfcFEJmqKg3bp0Hqx9tPW66AiE&sid=nkTlTbpg0fLhIpuSqsDJhuzLd4hxvIcq&uid=2Fe4Syw4e33TdlVIjkirnqy24MHy4ttx&es=us-b4-p-e-jn18-audio.cdn.mdstrm.com&ote=1781121129585&ot=wplUfwkqgCumebqqZua7Wg&proto=https&pz=us&cP=128000&awCollectionId=62d818a924cf7908229cd029&liveId=62d81ca6a459e4082203c95b&listenerId=2Fe4Syw4e33TdlVIjkirnqy24MHy4ttx
 #EXTINF:-1,Emisoras Paraguay radio
 https://www.emisorasparaguay.com.py/envivo/
 #EXTINF:-1,Urbana radio
-https://us-b4-p-e-nq15-audio.cdn.mdstrm.com/live-audio-aw/62d81cdabff0bc082f8f1a24/playlist.m3u8?aid=62d818a924cf7908229cd029&pid=mX2uOF9Q5QyM2Ug7BZ6S8wnpWEPqdh8a&sid=teujMVds66de9LX2wvtEnmRjUNFLc9oB&uid=HUJeVqeKtL9exXf6DiLq9924VRfce1tn&es=us-b4-p-e-nq15-audio.cdn.mdstrm.com&ote=1766248342006&ot=oltT5jIRzPS_0tPEhflyeQ&proto=https&pz=us&cP=128000&awCollectionId=62d818a924cf7908229cd029&liveId=62d81cdabff0bc082f8f1a24&listenerId=HUJeVqeKtL9exXf6DiLq9924VRfce1tn
+https://us-b4-p-e-jn18-audio.cdn.mdstrm.com/live-audio-aw/62d81cdabff0bc082f8f1a24/playlist.m3u8?aid=62d818a924cf7908229cd029&pid=jddFEfkvvjwQZn0c7ZUbQfAIH2O23IGG&sid=qmMIyliYrO16bjZHrmpXtWN7BHjqLOWZ&uid=q1qVYTRviborZ4Nv05RUDulcHiPHSdzl&es=us-b4-p-e-jn18-audio.cdn.mdstrm.com&ote=1781121130175&ot=vAzCrNxybrO3o1PFxm84zw&proto=https&pz=us&cP=128000&awCollectionId=62d818a924cf7908229cd029&liveId=62d81cdabff0bc082f8f1a24&listenerId=q1qVYTRviborZ4Nv05RUDulcHiPHSdzl
 #EXTINF:-1,Radio Ysapy radio
 https://streamsoymedios.com/8014/stream
 #EXTINF:-1,Radio Colmenar radio
 https://server5.hostipy.com:2020/stream/8018/stream
 #EXTINF:-1,Onda Verde radio
 https://stream.radiosenpy.net/8812/
-#EXTINF:-1,La Deportiva 1120 AM radio
-https://ladeportiva.radioca.st/stream
 #EXTINF:-1,Radio Guaira FM 103.5 radio
 https://cdn.streaming.com.py:7090/stream
 #EXTINF:-1,Corazón radio
 https://www.hoy.com.py/radios/fm-corazon
 #EXTINF:-1,Radio Carapegua FM radio
 https://streamsoymedios.com/8012/stream
+#EXTINF:-1,HEi Música radio
+https://heinow.com.py/
 #EXTINF:-1,Radio Venus radio
 https://www.venus.com.py/en-vivo-mira-el-lanzamiento-de-blue-origin-en-donde-el-actor-de-star-trek-william-shatner-viajara-al-espacio
 #EXTINF:-1,La Unión R 800 AM radio
@@ -417,16 +418,13 @@ https://streamsoymedios.com/8042/stream
 https://radioiglesia.com/
 #EXTINF:-1,Estación 101.3 radio
 https://v.orlandohugo.com:10939/
-#EXTINF:-1,Vida Radio
-https://sonicpanel.gabehost.com/8002/stream
 #EXTINF:-1,La Voz Del Nazareno radio
 https://streamsoymedios.com/8112/stream
-#EXTINF:-1,Radio Evenezer FM 107.1 radio
-https://server5.hostipy.com:8034/stream.nsv
 #EXTINF:-1,Radio Ultrasonix radio
 https://sonicpanel.totalstreaming.net/8006/
 #EXTINF:-1,Radio Arandú radio
 https://www.desdeparaguay.com/arandu
+#EXTINF:-1,Radio Vida 93.5 FM radio
 #EXTINF:-1,Corpus radio
 https://proxy01.servidorenlinea.net/cdehosting/8026/
 #EXTINF:-1,OH Radio - OrlandoHugo
@@ -439,8 +437,6 @@ https://www.desdeparaguay.com/parana
 https://v.orlandohugo.com:10905/
 #EXTINF:-1,Enlaon Radio Online
 https://radio.host.com.py:7100/stream.nsv
-#EXTINF:-1,Itakua Poty radio
-https://radio.host.com.py:7173/
 #EXTINF:-1,Fama FM radio
 https://stream.radiosenpy.net/8266/stream.mp3
 #EXTINF:-1,Radio Triunfo radio
@@ -487,6 +483,8 @@ https://Fps2.listen2myradio.com:2199/listen.php?ip=109.169.23.17\u0026port=9436\
 https://stream.radiosenpy.net/8108/
 #EXTINF:-1,Radio Dinámica radio
 https://radio.host.com.py:7044/
+#EXTINF:-1,Radio Acuncion radio
+https://sonicpanel.oficialserver.com/8204/
 #EXTINF:-1,Radio Mandu´ara radio
 https://stream.radiosenpy.net/8410/
 #EXTINF:-1,Carayao Radio Tv Online
@@ -494,7 +492,7 @@ https://Fps3.listen2myradio.com:2199/listen.php?ip=109.169.23.124\u0026port=8421
 #EXTINF:-1,Santa Rosa 92.7 radio
 https://Fps1.listen2myradio.com:2199/listen.php?ip=95.154.228.120\u0026port=9338\u0026type=s1
 #EXTINF:-1,RadioCast 25 radio
-https://enlatitud25.com/news/
+https://enlatitud25.com/
 #EXTINF:-1,Radio Las Hijas Del Rey radio
 https://streamsoymedios.com/8054/stream
 #EXTINF:-1,Maxima FM 99.9 radio
@@ -503,8 +501,6 @@ https://stm01.dialpy.com:8020/radiomaxima
 https://stream.radiosenpy.net/8180/
 #EXTINF:-1,Que Suerte Py radio
 https://Fps5.listen2myradio.com:2199/listen.php?ip=78.129.139.48\u0026port=8276\u0026type=s1
-#EXTINF:-1,Radio Fiesta 102.9 FM radio
-https://cfaradio.com.py/
 #EXTINF:-1,Radio Yvytu radio
 https://www.desdeparaguay.com/yvytu
 #EXTINF:-1,Radio Libre 1200 AM radio
@@ -515,8 +511,6 @@ http://163.172.70.223:8146/stream
 https://rds3.desdeparaguay.net/movpiribebuy/movpiribebuy.stream/playlist.m3u8
 #EXTINF:-1,Radio Cielo Spa Online radio
 http://cdn.streaming.com.py:7062/stream.nsv
-#EXTINF:-1,Radio Ñopotyvo 89.3 Fm radio
-http://streaming.camaronhosting.com:8070/stream.nsv
 #EXTINF:-1,Radio Sur Fm 104.7 radio
 http://streaming.camaronhosting.com:9896/
 #EXTINF:-1,93.7 FM San Vicente radio
@@ -555,8 +549,6 @@ http://streaming.camaronhosting.com:9570/
 http://radio.cdehosting.net:8002/
 #EXTINF:-1,Dosis de Radio
 http://streaming.camaronhosting.com:9348/
-#EXTINF:-1,Radio Suprema Online
-http://streaming.camaronhosting.com:9702/
 #EXTINF:-1,Fm Integracion 104.3
 http://radio.cdehosting.net:8022/
 #EXTINF:-1,Radio Renacer Fm Minga Guazu
@@ -571,10 +563,9 @@ https://proxy01.servidorenlinea.net/cdehosting/8040/;
 https://proxy01.servidorenlinea.net/cdehosting/8050/;
 #EXTINF:-1,Radio Lata Pararâ
 https://stream.radiosenpy.net/8188/;
-#EXTINF:-1,Radio Evenezer FM 107.1
-https://server5.hostipy.com:8034/;stream.nsv
 #EXTINF:-1,Itapiru
 https://proxy01.servidorenlinea.net/cdehosting/8004/;
+#EXTINF:-1,Radio Triunfo
 #EXTINF:-1,Fama FM
 https://stream.radiosenpy.net/8266/;stream.mp3
 #EXTINF:-1,Radio Sur Fm 104.7
@@ -587,8 +578,6 @@ http://streaming.camaronhosting.com:8036/;
 http://streaming.camaronhosting.com:9392/stream
 #EXTINF:-1,Radio La Exitosa
 https://stream.radiosenpy.net/8094/;
-#EXTINF:-1,Radio Mainumby FM 99.1
-https://sonicpanel.gabehost.com/8016/stream
 #EXTINF:-1,Web Radio Cultura Online
 https://fps2.listen2myradio.com:2199/listen.php?ip=109.169.23.17&port=9153&type=s1
 #EXTINF:-1,Radio Aspen Paraguay
@@ -613,8 +602,7 @@ https://fps3.listen2myradio.com:2199/listen.php?ip=109.169.23.124&port=8646&type
 https://stream.radiosenpy.net/8180/;
 #EXTINF:-1,Portal Del Norte
 https://stream.radiosenpy.net/8108/;
-#EXTINF:-1,Radio Las Hijas Del Rey
-https://sonicpanel.gabehost.com/8040/stream
+#EXTINF:-1,Radio Urundey 103.3
 #EXTINF:-1,YVYPYTA
 https://v.orlandohugo.com:10929/;
 #EXTINF:-1,Che La Reina Online
@@ -637,6 +625,8 @@ https://1000noticias.live:8010/memories.mp3
 http://tigocloud.desdeparaguay.net/movaranduka/movaranduka.stream/playlist.m3u8
 #EXTINF:-1,Aspen FM 102.7 Paraguay - 28 - Paraguay - community - pop - top 40
 https://copaco.desdeparaguay.net/movaspen/movaspen.stream/playlist.m3u8
+#EXTINF:-1,CFA Radio - 96 - Paraguay -
+https://rds3.desdeparaguay.net:8002/cfa
 #EXTINF:-1,Emisoras Paraguay 106.1  - 0 - Paraguay - music
 https://rds3.desdeparaguay.net/movemisoras/movemisoras.stream/chunklist w1882715633.m3u8?k=90ba439d59a58390e5abac95530dd4becd61b4e573b237e6fe0bf9eb4a529caf&exp=1693084452
 #EXTINF:-1,Exclusiva FM 103.7  - 96 - Paraguay - music
@@ -671,10 +661,24 @@ https://Fps2.listen2myradio.com:2199/listen.php?ip=109.169.23.17&ampampport=9436
 https://Fps1.listen2myradio.com:2199/listen.php?ip=95.154.228.120&ampampport=9338&ampamptype=s1
 #EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/112989.v7.png",RD Online 91.7
 https://fps4.listen2myradio.com:2199/listen.php?ip=109.169.23.123&ampampport=9310&ampamptype=s1
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/129670.v4.png",Activa, Caazapá
+https://server7.hostradios.com:7009/stream
 #EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/114451.v3.png",Que Suerte Py
 https://Fps5.listen2myradio.com:2199/listen.php?ip=78.129.139.48&ampampport=8276&ampamptype=s1
 #EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/110427.v2.png",Manantial de Vida Online
 https://fps5.listen2myradio.com:2199/listen.php?ip=78.129.139.48&ampampport=8319&ampamptype=s1
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/116160.v2.png",Tradición Online
+https://Fps3.listen2myradio.com:2199/listen.php?ip=109.169.23.124&ampampport=8646&ampamptype=s1
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/127247.v2.png",Pirapó FM 93.7
+https://streamsoymedios.com/8060/stream
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/93470.v8.png",Radio Cielo Spa Online
+http://cdn.streaming.com.py:7062/
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/122099.v4.png",Go Radio
+https://goradio.com.py/
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/109908.v6.png",Stilo Fm 88.5
+https://fps2.listen2myradio.com:2199/listen.php?ip=109.169.23.17&ampampport=8333&ampamptype=s1
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/130322.v4.png",Ko´e Poty
+https://radio.host.com.py:7269/
 #EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/129669.v2.png",Caazapa Poty
 https://streamsoymedios.com/8056/stream
 #EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/115205.v2.png",24horasmusica
@@ -701,6 +705,7 @@ https://www.radiopopular.com.py/
 https://server01.heplayer.com/8074/stream
 #EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/V13JJ.png",Radio America
 http://158.69.200.1:8022/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/76908/logo_xUHKFGs2Zw.png",Radio Vida
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/76853/logo_PxxMyHf2vS.png",Radio Mborayhu Comunicaciones
 https://rr5100.globalhost1.com/8414/stream
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/76898/logo_9cYwK3SRPB.png",Universo 970 AM Radio
@@ -737,8 +742,6 @@ https://streaming01.radiosenlinea.com.ar/9248/stream
 https://fps5.listen2myradio.com:2199/listen.php?ip=78.129.139.48&ampport=8319&amptype=s1
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/76845/logo_cGxEDTkdYB.png",Santo Tomas Radio
 https://stream.radiosenpy.net/8944/
-#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/76957/logo_J2A7wqk8Ly.png",Radio Evenezer FM 107.1
-https://server5.hostipy.com:8034/stream
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/76803/logo_cG9zblGgQB.png",RD Online 91.7 Radio
 https://fps4.listen2myradio.com:2199/listen.php?ip=109.169.23.123&ampport=9310&amptype=s1
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/76855/logo_n4XWfndD4N.png",Radio 1000 AM
@@ -760,7 +763,7 @@ https://sonic.host-live.com/8398/stream
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/76842/logo_dGO4Ft2NVK.png",Radio Tiempo de Despertar
 https://server5.hostipy.com:8010/stream
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/76873/logo_mwwx3qSxc7.png",MAS FULL MUSIC Radio
-https://masfullmusic.stream.laut.fm/mas_full_music?t302=2025-12-19_16-34-00&uuid=d5bf50a3-632e-4d7e-af5d-ca0f6db22d07
+https://masfullmusic.stream.laut.fm/mas_full_music?t302=2026-06-09_19-53-36&uuid=8a6a824b-f1f5-493e-85c3-57fbfa1d6f93
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/76802/logo_iQuuQtZXVi.png",Que Suerte Py Radio
 https://Fps5.listen2myradio.com:2199/listen.php?ip=78.129.139.48&ampport=8276&amptype=s1
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/76885/logo_ykPppUJrkE.png",Radio Sur Online
@@ -769,13 +772,12 @@ https://fpsnew2.listen2myradio.com:2199/listen.php?ip=212.84.160.3&ampport=8163&
 https://stream3.rcast.net/71999
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/76798/logo_mGWk4EiW0F.png",Radio Manantial 90.5 Fm
 https://Fps3.listen2myradio.com:2199/listen.php?ip=109.169.23.124&ampport=8041&amptype=s1
-#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/76869/logo_C5R6caQ247.png",Radio Caapucu 91.7 FM
-https://radio.host.com.py:7191/
 #EXTINF:-1,Radio Disney Paraguay FM 96.5
-https://26563.live.streamtheworld.com/DISNEY_PAR_ASAAC/HLS/playlist.m3u8?dist=web-radiodisney
+https://27573.live.streamtheworld.com/DISNEY_PAR_ASAAC/HLS/playlist.m3u8?dist=web-radiodisney
+#EXTINF:-1,Emisoras Paraguay 106.1
+https://rds3.desdeparaguay.net/movemisoras/movemisoras.stream/chunklist_w1882715633.m3u8?k=90ba439d59a58390e5abac95530dd4becd61b4e573b237e6fe0bf9eb4a529caf&exp=1693084452
 #EXTINF:-1,Monumental 1080 AM
-https://us-b4-p-e-ml19-audio.cdn.mdstrm.com/live-audio-aw/62d81ca6a459e4082203c95b?aid=62d818a924cf7908229cd029&pid=WwoEIO79TNuAgGrPC9il6kqrLlTUQBMf&sid=CAtc9qCpYZsgwd4YAPb3cOUCnL9wh2th&uid=19rfm0ufIez0mbRlxf0i3tV2VHqVI3kO&es=us-b4-p-e-ml19-audio.cdn.mdstrm.com&ote=1769973454673&ot=4o7TWNXeLJvBZOGBuNKF2w&proto=https&pz=us&cP=128000&awCollectionId=62d818a924cf7908229cd029&liveId=62d81ca6a459e4082203c95b&listenerId=19rfm0ufIez0mbRlxf0i3tV2VHqVI3kO
-#EXTINF:-1,Radio Universo 92.5 Fm
+https://us-b4-p-e-qg12-audio.cdn.mdstrm.com/live-audio-aw/62d81ca6a459e4082203c95b?aid=62d818a924cf7908229cd029&pid=yPzfwLsRtaeJnVlLjwAl7KEwyanvCdEG&sid=l2SGGDejDz4pRjvjRduu8l6JvGPHfqoz&uid=nthTSoUoZesBCTnUD7cobjTBgvHGGFxt&es=us-b4-p-e-qg12-audio.cdn.mdstrm.com&ote=1781121216393&ot=jDol9DTqjttnjA927on7Og&proto=https&pz=us&cP=128000&awCollectionId=62d818a924cf7908229cd029&liveId=62d81ca6a459e4082203c95b&listenerId=nthTSoUoZesBCTnUD7cobjTBgvHGGFxt
 https://copaco.desdeparaguay.net/movvibras/movvibras.stream/chunklist_w1786225280.m3u8?k=5d1b32cc4cfb2b10be3ecff56d8aeee5e59993cfc1a5234cc73eca0b8b7f7487&exp=1651095717
 #EXTINF:-1,Radio RQP 94.3 FM
 http://dx85eyfuo1x2i.cloudfront.net/index.m3u8
@@ -783,45 +785,31 @@ http://dx85eyfuo1x2i.cloudfront.net/index.m3u8
 http://cp9.serverse.com:7221/stream
 #EXTINF:-1,Radio Capital 101.7 FM
 http://ic2489.c1788.fastserv.com/stream
+#EXTINF:-1,Cuevas FM 91.7
+https://radio.host.com.py:7020/
 #EXTINF:-1,Exa FM
 https://27063.live.streamtheworld.com/XHPSFMAAC.aac
-#EXTINF:-1,Radio Palma 106.5 FM
-http://rds3.desdeparaguay.net/transpalma/transpalma/playlist.m3u8
-#EXTINF:-1,Fabulosa FM 104.5
-https://radio.host.com.py:7034/
 #EXTINF:-1,Radio Ysapy 90.7 FM
 http://streamsoymedios.com:8014/stream
 #EXTINF:-1,Estacion 105  105.1 FM
 http://radio.host.com.py:9460/
 #EXTINF:-1,RADIO CAAPUCU FM 91.7
 http://radio.host.com.py:9452/
-#EXTINF:-1,Emisoras Paraguay 106.1 FM
-https://rds3.desdeparaguay.net/movemisoras/movemisoras.stream/playlist.m3u8
 #EXTINF:-1,Radio ABC FM 98.5
 http://200.3.249.91:8000/abcradio/fm.mp3
-#EXTINF:-1,Radio Urbana 106.9 FM
-http://rds3.desdeparaguay.net/transurbana/transurbana/playlist.m3u8
 #EXTINF:-1,super radio
 https://c32.radioboss.fm:8139/stream
 #EXTINF:-1,Radio Monumental 1080 AM
 http://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio-aw/62d81ca6a459e4082203c95b
 #EXTINF:-1,Radio Impacto 95.3 FM
 http://radio.host.com.py:9714/stream
-#EXTINF:-1,La Clave 103.9
-https://radio.host.com.py:7181/
 #EXTINF:-1,Radio Top Milenium 91.5 FM
 http://sonic.host-live.com:8398/stream
 #EXTINF:-1,Radio Concierto 89.1
 https://radio.host.com.py/9572/stream
 #EXTINF:-1,Abdulbasit Abdulsamad
 https://radio.mp3islam.com/listen/abdulbasit/radio.mp3
-#EXTINF:-1,Radio Impacto 95.3
-https://radio.host.com.py:7137/
 #EXTINF:-1,Amabmay FM 100.5
 http://cp9.serverse.com:7221/amambayfm
 #EXTINF:-1,Radio Cerro Cora 91.5 FM
 http://135.181.103.10:8018/stream
-#EXTINF:-1,GO Radio
-https://rds3.desdeparaguay.net:8002/go
-#EXTINF:-1,Radio Sagrados Online
-http://rds3.desdeparaguay.net/movsagrados/movsagrados.stream/playlist.m3u8

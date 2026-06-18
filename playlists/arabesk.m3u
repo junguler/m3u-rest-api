@@ -22,7 +22,7 @@ http://ip169.ozelip.com:8538/stream
 #EXTINF:-1,Radyo Slayt
 http://live.radyo.in:8050/stream
 #EXTINF:-1,Balkan Orient Deluxe
-http://balkan-orient-deluxe.stream.laut.fm/balkan-orient-deluxe?t302=2025-12-17_16-55-37&uuid=490d417d-75dd-4bcc-b421-81306a0d8959
+http://balkan-orient-deluxe.stream.laut.fm/balkan-orient-deluxe?t302=2026-06-08_07-35-34&uuid=28b8f1bb-d14c-455c-8aee-27a2e61fe8ab
 #EXTINF:-1,ARABESKİN MERKEZİ FM
 http://canli.arabeskinmerkezi.com:9180/stream
 #EXTINF:-1,راديو مراكش بلوس
@@ -33,28 +33,24 @@ http://live.radyotvonline.com:9025/
 https://canli.arabeskinmerkezi.com/9180/stream
 #EXTINF:-1,Alaşehir Damar FM
 http://live.radyo.in:8026/stream
+#EXTINF:-1,Arabesk Radyo
+https://dinle.arabeskradyo.biz/stream
 #EXTINF:-1,Arabesk Radyom
 https://anadolu.liderhost.com.tr:10990/stream
 #EXTINF:-1,Ask FM 102.1
 https://stream.netradyom.com/radio/8000/radio.mp3
+#EXTINF:-1,Baba Radyo
+http://officialbabaradyo.radyotvonline.net/babaofficial
 #EXTINF:-1,DamarTürk FM
 https://live.radyositesihazir.com/7000/stream
-#EXTINF:-1,Deva FM - Arabesk
-https://radyo.radyoimza.com/8014/stream
 #EXTINF:-1,Eşme FM
 http://178.32.4.127:8358/
 #EXTINF:-1,Fistik FM
 https://yayin.turkhosted.com/6064/stream
-#EXTINF:-1,Genc Arabesk FM
-https://yayin.radyohostu.net/8050/stream
 #EXTINF:-1,Imparator FM 99.9
 https://radyo.yayindakiler.com:4042/stream
 #EXTINF:-1,Kral FM
 https://dygedge2.radyotvonline.net/kralfm/playlist.m3u8
-#EXTINF:-1,Number1 Türk Damar
-https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e3ce2c120f_1/playlist.m3u8
-#EXTINF:-1,Number1 Türk Slow
-https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e318b5ac09_1/playlist.m3u8
 #EXTINF:-1,Park FM
 http://yayin.netradyom.com:8050/PARKFM
 #EXTINF:-1,Radyo 44
@@ -65,12 +61,12 @@ http://178.32.4.127:8358//stream/1/?icy=http
 https://live.radyositesihazir.com:10997/
 #EXTINF:-1,Radyo Hayal FM
 http://yayin.radyohayalfm.net:8050/stream
-#EXTINF:-1,Radyo Kadirga
-https://radyo.yayin.com.tr:4022/
 #EXTINF:-1,Radyo Mega
 https://radyo.yayin.com.tr:4052/
 #EXTINF:-1,Radyo Megasite
 http://mega.netradyom.com:7900
+#EXTINF:-1,Radyo Moda
+http://m.radyomoda.com.tr/stream
 #EXTINF:-1,Radyo Mucizem
 https://live.radyositesihazir.com/8036/stream
 #EXTINF:-1,Söz FM

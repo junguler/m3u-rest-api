@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1,KAZY 93.7
 http://72.13.83.130:1010/KAZY
-#EXTINF:-1,Buckin Country 92.5
-http://streaming.radiowyo.com:1010/KHAT
 #EXTINF:-1,103.3 The Range
 https://nebcoradio.com:1010/KRAN
 #EXTINF:-1,1480 KRAE
@@ -11,6 +9,8 @@ https://ice7.securenetsystems.net/KYOYFM
 https://wyoming-public-ice.streamguys1.com/CLS128MP3
 #EXTINF:-1,92.9 The Bear
 https://stream.revma.ihrhls.com/zc409
+#EXTINF:-1,93.7 KAZY
+https://nebcoradio.com:1010/KAZY
 #EXTINF:-1,100.7 KOLT FM
 https://stream.revma.ihrhls.com/zc2705
 #EXTINF:-1,104.9 KRRR
@@ -33,8 +33,6 @@ https://wyoming-public-ice.streamguys1.com/WPR128MP3
 http://streaming.radiowyo.com:1010/KRAN
 #EXTINF:-1,103.3 The Range The Big Horn Basin
 http://72.13.83.130:1010/KBEN
-#EXTINF:-1,104.5 iMix
-http://nebcoradio.com:1010/KIMX
 #EXTINF:-1,106.7 The Mix
 http://ice9.securenetsystems.net:80/KMRZ
 #EXTINF:-1,107.1 The Adventure
@@ -54,7 +52,7 @@ http://wyoming-public-ice.streamguys1.com/CLS128MP3
 #EXTINF:-1,Country Legends 101.7 FM
 http://ice10.securenetsystems.net/KDNO
 #EXTINF:-1,Cowboy Joe Radio
-http://26343.live.streamtheworld.com/SAM03AAC531_SC
+http://13683.live.streamtheworld.com/SAM03AAC531_SC
 #EXTINF:-1,CSN International 90.3 Cheyenne
 http://ice7.securenetsystems.net/CSNAAC
 #EXTINF:-1,EWTN Radio KOFR 107.1 FM
@@ -79,6 +77,8 @@ http://ice7.securenetsystems.net/KYOYFM
 http://ice9.securenetsystems.net/CO7WY
 #EXTINF:-1,KRRR 104.9 FM
 http://streaming.radiowyo.com:1010/KRRR
+#EXTINF:-1,KVOW 1450
+http://ice6.securenetsystems.net/KVOW
 #EXTINF:-1,KWYG 98.5 FM
 http://s2.stationplaylist.com:7110/listen.aac
 #EXTINF:-1,KYOY 92.3
@@ -87,8 +87,8 @@ http://ice6.securenetsystems.net/KRAE
 http://ice23.securenetsystems.net/KMXW
 #EXTINF:-1,Praise 88.9 FM KOHR
 http://ice23.securenetsystems.net/YNOP
-#EXTINF:-1,Vintage Vinyl 98.7 FM
-http://nebcoradio.com:1010/KRQU
+#EXTINF:-1,The Krow 101.1
+http://streaming.radiowyo.com:1010/KROW
 #EXTINF:-1,Wind River's Rock 93.1 FM
 http://ice10.securenetsystems.net:80/KFCW
 #EXTINF:-1,Wyoming Public Radio 89.9 Rawlins

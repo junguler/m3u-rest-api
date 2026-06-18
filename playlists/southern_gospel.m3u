@@ -3,10 +3,6 @@
 http://74.3.144.19:8000
 #EXTINF:-1,Inspired Internet Radio VSC GOSPEL NETWORK
 http://62.210.24.124:8830/stream
-#EXTINF:-1,Maritime Gospel radio
-http://108.62.0.141:7232/stream
-#EXTINF:-1,wsgo
-http://streamingp.shoutcast.com/JamendoLounge?lang=*
 #EXTINF:-1,WTGF
 http://192.241.185.108:8024
 #EXTINF:-1,WCB "America's Gospel FM"
@@ -82,9 +78,11 @@ https://das-edge62-live365-dal03.cdnstream.com/a44433
 #EXTINF:-1,SOUTHERN GOSPEL ! AFFIRM SOUTHERN GOSPEL RADIO
 https://das-edge62-live365-dal03.cdnstream.com/a38333
 #EXTINF:-1,Restoration Gospel Radio
-https://das-edge14-live365-dal02.cdnstream.com/a15548
+https://das-edge11-live365-dal03.cdnstream.com/a15548
 #EXTINF:-1,WDYN
 https://das-edge62-live365-dal03.cdnstream.com/a01983
+#EXTINF:-1,WFPW
+https://das-edge17-live365-dal02.cdnstream.com/a76666
 #EXTINF:-1,Heavenly-Tracks
 https://das-edge16-live365-dal02.cdnstream.com/a99170
 #EXTINF:-1,KOTG RADIO
@@ -123,10 +121,10 @@ https://das-edge13-live365-dal02.cdnstream.com/a70162
 https://das-edge13-live365-dal02.cdnstream.com/a89738
 #EXTINF:-1,God's Country Radio Maine
 https://das-edge12-live365-dal02.cdnstream.com/a43016
-#EXTINF:-1,WVTC Radio Network
-https://das-edge12-live365-dal02.cdnstream.com/a68089
 #EXTINF:-1,Faith Radio
 https://das-edge15-live365-dal02.cdnstream.com/a76883
+#EXTINF:-1,"Doc's Barn"
+https://das-edge13-live365-dal02.cdnstream.com/a45206
 #EXTINF:-1,God's Music Today!
 https://das-edge15-live365-dal02.cdnstream.com/a47929
 #EXTINF:-1,KJTF
@@ -137,23 +135,19 @@ https://das-edge15-live365-dal02.cdnstream.com/a19783
 https://das-edge12-live365-dal02.cdnstream.com/a66957
 #EXTINF:-1,Kuntry Boi Radio
 https://das-edge15-live365-dal02.cdnstream.com/a21026
-#EXTINF:-1,WURL
-https://das-edge14-live365-dal02.cdnstream.com/a46923
 #EXTINF:-1,WMQY
 https://das-edge16-live365-dal02.cdnstream.com/a89261
 #EXTINF:-1,WTJT
-https://das-edge13-live365-dal02.cdnstream.com/a32000
+https://das-edge17-live365-dal02.cdnstream.com/a32000
 #EXTINF:-1,The Rock-Southern Gospel
 https://das-edge62-live365-dal03.cdnstream.com/a34432
 #EXTINF:-1,Southern Gospel Radio
 https://streams.cbnradio.com//southern-gospel-128K
 #EXTINF:-1,Texas Gospel - Southern Gospel
 https://free.rcast.net/207391
-#EXTINF:-1,VSC RADIO LIVE
-http://195.154.174.198:8120/stream
 #EXTINF:-1,0nlineradio Gospel
-https://0nlineradio.stream42.radiohost.de/0r-gospel?upd-meta&upd-scheme=https&_art=dD0xNzY2MDIzMDYwJmQ9YTJjOTdmYmQyMTQwNGJiY2MzODI
+https://0nlineradio.stream42.radiohost.de/0r-gospel?upd-meta&upd-scheme=https&_art=dD0xNzgwOTI4MTM1JmQ9NzM0MzE3OGZhZGU3YjkzZDNmMGU
 #EXTINF:-1,SOGR Radio (CSNX-9827)
 http://broadcasting.kennyinteractivehosting.com:8000/
 #EXTINF:-1,Pure Gospel Radio (CSNX-8052)
-https://das-edge13-live365-dal02.cdnstream.com/a38997
+https://das-edge63-live365-dal03.cdnstream.com/a38997

@@ -1,24 +1,22 @@
 #EXTM3U
 #EXTINF:-1,KWBW Radio
 https://ice41.securenetsystems.net/KWBW
-#EXTINF:-1,KGGF Radio
-https://crystalout.surfernetwork.com:8001/KGGF-AM_MP3
 #EXTINF:-1,B98 FM
 https://ample.revma.ihrhls.com/zc945
 #EXTINF:-1,Country 102.9
 https://ice9.securenetsystems.net/KHUT
 #EXTINF:-1,NewGrass Valley
-https://audio-edge-qse4n.yyz.g.radiomast.io/a561c414-1402-4f40-91c8-dfd050d3a784
+https://audio-edge-4ev3b.lax.g.radiomast.io/a561c414-1402-4f40-91c8-dfd050d3a784
 #EXTINF:-1,The Kansas Breeze
-https://audio-edge-w4d68.yul.o.radiomast.io/a2dd31a2-a524-48ce-baea-8271e1a37ab2
+https://audio-edge-4ev3b.lax.g.radiomast.io/a2dd31a2-a524-48ce-baea-8271e1a37ab2
 #EXTINF:-1,Radio Kansas
-https://audio-edge-vqwx4.yyz.g.radiomast.io/5567306a-66f6-4d8f-a399-520e2936e3a0
+https://audio-edge-4ev3b.lax.g.radiomast.io/5567306a-66f6-4d8f-a399-520e2936e3a0
 #EXTINF:-1,My 93.1
 https://ice9.securenetsystems.net/KHMY2
 #EXTINF:-1,Channel 963
 https://stream.revma.ihrhls.com/zc953
 #EXTINF:-1,Radio Kansas Jazz
-https://audio-edge-qse4n.yyz.g.radiomast.io/2d226519-ac25-43db-a366-db0759319858
+https://audio-edge-4ev3b.lax.g.radiomast.io/2d226519-ac25-43db-a366-db0759319858
 #EXTINF:-1,ALT 107.3
 https://stream.revma.ihrhls.com/zc949
 #EXTINF:-1,102.1 The Bull
@@ -53,8 +51,6 @@ http://ice23.securenetsystems.net/KLWNAM
 http://mediaserver3.afa.net:8000/talk.mp3
 #EXTINF:-1,B104-3
 http://ice9.securenetsystems.net/KVGBFM
-#EXTINF:-1,B104.7
-http://crystalout.surfernetwork.com:8001/KXBZ_MP3
 #EXTINF:-1,Catholic Radio Network KPIO 93.7 FM
 http://ice24.securenetsystems.net/CRN3
 #EXTINF:-1,Classic Hits 99.3 The Eagle
@@ -77,14 +73,12 @@ http://ice9.securenetsystems.net/KBGLFM
 http://ice23.securenetsystems.net/KWGB
 #EXTINF:-1,Indy 102.9
 http://ice23.securenetsystems.net/KBIK
-#EXTINF:-1,K-Rock 101.5
-http://crystalout.surfernetwork.com:8001/KMKF_MP3
 #EXTINF:-1,KAYS 1400 AM
 http://ice9.securenetsystems.net/KAYS
 #EXTINF:-1,KBUF 1030 AM
 http://ice23.securenetsystems.net/KBUF
 #EXTINF:-1,KCMO 94.9 FM
-http://13743.live.streamtheworld.com/KCMOFM_SC
+http://29314.live.streamtheworld.com/KCMOFM_SC
 #EXTINF:-1,KD Country 94 - KDNS
 http://ice23.securenetsystems.net/KDNS
 #EXTINF:-1,KEOJ Your Choice for the Family 101.1 FM
@@ -93,8 +87,6 @@ http://ice7.securenetsystems.net/KXOJ
 http://ice24.securenetsystems.net/KFEX
 #EXTINF:-1,KFIX 96.9 FM
 http://ice9.securenetsystems.net/KFIX
-#EXTINF:-1,KGCR Tri-State Praise 107.7
-http://ice10.securenetsystems.net/KGCR
 #EXTINF:-1,KGSO Sports Radio 1410 AM
 http://162.244.80.178:8000/
 #EXTINF:-1,KHYM 103.9 FM
@@ -109,10 +101,8 @@ http://ice9.securenetsystems.net/KJCKAM
 http://ice3.securenetsystems.net/KJIL
 #EXTINF:-1,KJIL 99.1 FM
 http://ice41.securenetsystems.net/KJILW
-#EXTINF:-1,KLOE 730 AM
-http://ice42.securenetsystems.net/KLOE
 #EXTINF:-1,KMAJ AM 1440 The Big Talker
-http://14983.live.streamtheworld.com/KMAJAM_SC
+http://24153.live.streamtheworld.com/KMAJAM_SC
 #EXTINF:-1,KPRD 88.9 FM
 http://ice9.securenetsystems.net/KPRD
 #EXTINF:-1,KQNK 106.7 FM
@@ -132,7 +122,7 @@ http://ice42.securenetsystems.net/KSMMKZRD
 #EXTINF:-1,Lifetalk Radio KTHA 100.5
 http://ais-sa1.streamon.fm/7013_64k.aac
 #EXTINF:-1,Magic 107.7
-http://22983.live.streamtheworld.com/KMAJFM_SC
+http://29312.live.streamtheworld.com/KMAJFM_SC
 #EXTINF:-1,Mix 103.3
 http://ice9.securenetsystems.net/KJLS
 #EXTINF:-1,My 93-1
@@ -140,11 +130,9 @@ http://ice10.securenetsystems.net/KHMY
 #EXTINF:-1,My Country 93.5
 http://ice8.securenetsystems.net/KKDT
 #EXTINF:-1,Nash Icon 102.9
-http://18533.live.streamtheworld.com/KTOPFM_SC
+http://18373.live.streamtheworld.com/KTOPFM_SC
 #EXTINF:-1,News Radio 1150 KSAL
 http://ice23.securenetsystems.net/KSALAM
-#EXTINF:-1,News Radio KMAN
-http://crystalout.surfernetwork.com:8001/KMAN_MP3
 #EXTINF:-1,Nortenas Sax Addict
 http://usa10.fastcast4u.com:7590/
 #EXTINF:-1,One Kansas City Radio
@@ -158,11 +146,11 @@ http://ice23.securenetsystems.net/KKJQ
 #EXTINF:-1,Radio Kansas 89.5 HD2 Jazz
 http://audio-edge-vqwx4.yyz.g.radiomast.io/a561c414-1402-4f40-91c8-dfd050d3a784
 #EXTINF:-1,RadioStorm - Classic Rock
-http://ais-edge90-dal03.cdnstream.com/b47785_128mp3
+http://ais-edge89-dal02.cdnstream.com/b47785_128mp3
 #EXTINF:-1,RadioStorm - Comedy
-http://ais-edge90-dal03.cdnstream.com/b42761_64mp3
+http://ais-edge89-dal02.cdnstream.com/b42761_64mp3
 #EXTINF:-1,RadioStorm - Oldies
-http://ais-edge90-dal03.cdnstream.com/b09584_128mp3
+http://ais-edge89-dal02.cdnstream.com/b09584_128mp3
 #EXTINF:-1,Rock 107
 http://ice42.securenetsystems.net/KJML
 #EXTINF:-1,Rockin' Planet Radio
@@ -170,15 +158,13 @@ https://jenny.torontocast.com:2000/stream/rockinplanetradio
 #EXTINF:-1,Romantica Stereo con Dj Pajaro Herrera
 http://usa19.fastcast4u.com/djpajaroherrera
 #EXTINF:-1,Sports Radio 1490 AM
-http://18513.live.streamtheworld.com/KTOPAM_SC
+http://22973.live.streamtheworld.com/KTOPAM_SC
 #EXTINF:-1,Star 104.3 FM
 http://ice42.securenetsystems.net/KCAR
-#EXTINF:-1,Sunny 102.5 KBLS
-http://crystalout.surfernetwork.com:8001/KBLS-FM_MP3
 #EXTINF:-1,Superhits K95
 http://ice42.securenetsystems.net/KAHE
 #EXTINF:-1,The FOX 101.1 FM
-http://18513.live.streamtheworld.com/KCFXFM_SC
+http://14093.live.streamtheworld.com/KCFXFM_SC
 #EXTINF:-1,The General 1560 AM
 http://ice42.securenetsystems.net/KABI
 #EXTINF:-1,The Gospel Station KOKN 88.7 FM
@@ -186,14 +172,10 @@ http://thegospelstation.streamguys1.com/live
 #EXTINF:-1,The Ride 100.3 FM
 http://ice23.securenetsystems.net/KRDQ
 #EXTINF:-1,V100
-http://18513.live.streamtheworld.com/KDVVFMAAC192_SC
-#EXTINF:-1,V93 FM
-http://ice41.securenetsystems.net/KLKC
+http://18253.live.streamtheworld.com/KDVVFMAAC192_SC
 #EXTINF:-1,VCY America KCVS 91.7
-http://19313.live.streamtheworld.com/WVCYFM_SC
+http://26113.live.streamtheworld.com/WVCYFM_SC
 #EXTINF:-1,Y93.7
 http://ice23.securenetsystems.net/KYEZ
-#EXTINF:-1,Z 96.3
-http://crystalout.surfernetwork.com:8001/KACZ_MP3
 #EXTINF:-1,Z98 KSKZ
 http://ice23.securenetsystems.net:80/KSKZ

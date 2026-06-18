@@ -17,6 +17,8 @@ http://158.69.200.1:8020/stream/;
 https://server2.ejeserver.com:8070/live
 #EXTINF:-1,Radio Bachata
 http://perseus.shoutca.st:8312/;
+#EXTINF:-1,FM Parrandera
+https://laradiossl.online:10375/;
 #EXTINF:-1,Turística 92.7 FM
 https://sp4.colombiatelecom.com.co/8014/stream
 #EXTINF:-1,Frecuencia estéreo
@@ -31,8 +33,6 @@ https://sonic.paulatina.co/8086/stream
 http://epsilon.shoutca.st:7000/stream/;
 #EXTINF:-1,La Sonora Bar
 https://sonic.paulatina.co/8100/stream
-#EXTINF:-1,La Nueva Ecua Stereo
-https://sonic.radiostreaminglatino.com:10913/;stream.nsv
 #EXTINF:-1,La Sonora Llanera
 https://sonic.paulatina.co/8088/stream
 #EXTINF:-1,La Sonora Salsa
@@ -43,20 +43,18 @@ https://jm8n.net/8024/stream
 https://streaming.radiosenlinea.com.ar:10835/;
 #EXTINF:-1,Latino FM
 http://stream.latinofm.de/latinofm.mp3
+#EXTINF:-1,Tropicalisima.fm - Merengue
+http://tropicalisima.net:8004/;
 #EXTINF:-1,Imaginación
 http://streaming3.globalhost.net.ve:8070/stream
-#EXTINF:-1,Emisora Valle Stereo com
-https://play8.tikast.com:20009/;stream.nsv
 #EXTINF:-1,Fantasia Stereo
 http://64.37.50.226:8096/;stream.nsv
+#EXTINF:-1,Latina
+https://server6.globalhostla.com:8028/stream
 #EXTINF:-1,La Mas Latina
 https://streams.radio.co/sd1bcd1376/listen#.mp3
 #EXTINF:-1,Radio Sensación
 https://server6.globalhostla.com:9348/stream
-#EXTINF:-1,Expreso Latino Crossover
-https://listen.radioexpresolatino.com/stream/1/
-#EXTINF:-1,Andina Stereo
-https://impactodigitalcol.com/8018/stream
 #EXTINF:-1,Radio La Kariñosa FM
 https://ecuamedios.net/8889/stream
 #EXTINF:-1,Sam Digital Radio
@@ -67,8 +65,6 @@ https://jm8n.net/8066/stream
 https://streaming.brol.tech/rtfmlounge
 #EXTINF:-1,Ranking
 https://server6.globalhostla.com:9260/stream
-#EXTINF:-1,El Dorado Radio Co
-http://51.81.49.98:8300/stream
 #EXTINF:-1,DJS FULL MUSIC
 https://sonicpanel.globalstream.pro/8198/stream
 #EXTINF:-1,Radio Bavaro
@@ -101,8 +97,6 @@ https://1-radio-latino.stream.laut.fm/1-radio-latino
 https://sonic.globalstreaming.net/8122/stream
 #EXTINF:-1,Radio IMER
 https://s2.mexside.net/8050/stream
-#EXTINF:-1,Fiesta Latina
-https://play8.tikast.com:20012/stream
 #EXTINF:-1,Salsa Y Mas Chicago
 https://audio-edge-cmc51.fra.h.radiomast.io/740a1243-cc5f-4bf7-a202-e30d94d4fcd9
 #EXTINF:-1,MERENGUE FIERAMIX
@@ -145,20 +139,18 @@ http://server6.20comunicacion.com:8062/;726626872550696stream.nsv
 https://bigrradio.cdnstream1.com/5225_128
 #EXTINF:-1,Super Latina 90.1 Fm
 https://securestream.radioshd.info:7037/;
+#EXTINF:-1,Ondambiental Stereo
+https://virtualtronics.net/proxy/ondambientalstereo?mp=/stream
 #EXTINF:-1,Radio Turbo
 https://streamingecuador.com:9022/stream
 #EXTINF:-1,Serie25 Radio Merengue
 https://sonicp.delseibotech.com/8010/stream
-#EXTINF:-1,Radio Tropicalisima CR
-http://163.172.209.91:9119/stream
 #EXTINF:-1,RSMUSIC 5 - Amor Latino - Latin Love
 https://latinlove.stream.laut.fm/latinlove?t302=2023-09-19_12-32-12&uuid=014fbbe5-9ea7-4f6e-9e17-080172f642ee
 #EXTINF:-1,Live Musica Radio
 https://jm8n.net:7012/;
 #EXTINF:-1,Salsa Celestial Radio
 https://panel.lifestreammedia.net:8116/stream
-#EXTINF:-1,YAPE RADIO
-http://streaming.hdserver.biz:9464/;stream.nsv
 #EXTINF:-1,Alto Klibre Radio
 http://usa18.fastcast4u.com:5504/;
 #EXTINF:-1,Paisanita Radio
@@ -191,18 +183,14 @@ https://cloudstream2036.conectarhosting.com/8236/stream
 http://149.56.175.167:5150/;
 #EXTINF:-1,Simple too Radio
 https://eu10.fastcast4u.com:2400/;stream.nsv
-#EXTINF:-1,Voces FM
-https://live.hbstreaming.com/8060/stream
 #EXTINF:-1,Ondas Del Cercado
 https://sp.wnetserver.com/8036/stream
+#EXTINF:-1,Temperatura Estereo
+https://cp.sonicpanel.stream:7128/stream
 #EXTINF:-1,DesmadrozasOnlineVip
 https://technoplayerserver.net:8026/;stream.nsv
 #EXTINF:-1,La Mejor 94.9FM
 https://mars.streamerr.co:7049/stream
-#EXTINF:-1,Viejoteca la Santisima
-https://s1.raudiostream.com:8010/stream
-#EXTINF:-1,Tropicalisimo Stereo
-http://stream.playerlive.info:8128/live.aac
 #EXTINF:-1,Serie25 Radio HD
 https://sonicp.delseibotech.com/8024/stream
 #EXTINF:-1,Solo Para Rumberos
@@ -213,6 +201,12 @@ https://securestream.radioshd.info/9362/stream
 https://jm8n.net/8150/stream;stream.nsv
 #EXTINF:-1,Songer Stereo
 https://securestream.radioshd.info:7085/;
+#EXTINF:-1,Sonando fino
+https://sonandofino.net/live/
+#EXTINF:-1,harrynet.com
+http://servidor21.brlogic.com:8082/live
+#EXTINF:-1,La Super Radio
+https://c22.radioboss.fm:18074/stream
 #EXTINF:-1,La Movida Latina
 https://server2.ejeserver.com:8400/stream
 #EXTINF:-1,La Sonora Radio
@@ -225,8 +219,12 @@ https://server6.hostradios.com/8374/stream
 https://sp.sintonizapp.com:7022/stream
 #EXTINF:-1,VIRadio
 https://stream20.usastreams.com/8190/stream
+#EXTINF:-1,Radio Planeta 247
+https://stream1.305stream.com/proxy/client296?mp=/;
 #EXTINF:-1,Radio Vivencias Musicales
 http://65.60.45.74:5340/;
+#EXTINF:-1,Latin Team
+https://app.sonicpanelradio.com/8064/stream
 #EXTINF:-1,Ray Carrion Radio
 https://sonicp.delseibotech.com/8032/stream
 #EXTINF:-1,La Poderosa
@@ -243,8 +241,6 @@ https://sonic.sistemahost.es/8016/stream
 http://sv2.globalhostlive.com:7012/live
 #EXTINF:-1,Radio Rocio Ecuador
 https://securestream.radioshd.info:7085/;stream.nsv
-#EXTINF:-1,Fiesta Fm
-http://54.39.106.212:8156/;stream.mp3
 #EXTINF:-1,Radio Girasol
 https://stream.playerlive.info:8037/live.aac
 #EXTINF:-1,Galaxia Digital
@@ -253,10 +249,8 @@ https://sonicpanelpro.com/8020/stream;stream.nsv
 https://sp.radiosonline.xyz/8166/stream
 #EXTINF:-1,Zona Roja
 https://technoplayerserver.net:8108/stream?icy=http
-#EXTINF:-1,Corona Mix La Reina
-http://c15.radioboss.fm:8463/stream
-#EXTINF:-1,Dannys Radió Stacion
-http://securestream.radioshd.info:9492/stream
+#EXTINF:-1,La Buena Tally
+https://s6.citrus3.com:8106/stream
 #EXTINF:-1,Radio Hispanohablante
 https://technoplayerserver.net/8016/stream
 #EXTINF:-1,Pedraza Estereo
@@ -267,18 +261,16 @@ https://mx.hdaudiostreaming.com:7201/;
 https://c3.radioboss.fm:8292/stream
 #EXTINF:-1,Impacto Radio
 https://server6.globalhostla.com:9414/stream
+#EXTINF:-1,bluradiodigital
+https://stream3.305stream.com/proxy/client02/stream
 #EXTINF:-1,Josy Music Live Swing
 https://dj91.hostingnuclear.com/8146/stream
 #EXTINF:-1,Dagr8fm Latino
 https://streamdb6web.securenetsystems.net/v5/WQRXDB
 #EXTINF:-1,Alpha plus radio
 https://conectperu.com/8362/stream
-#EXTINF:-1,La Jungla FM
-https://securestream.radioshd.info:7106/stream
 #EXTINF:-1,Power HD Radio
 https://sp.oyotunstream.com/8032/stream
-#EXTINF:-1,Mas Típico RD
-http://51.89.173.53:8018/;
 #EXTINF:-1,Madrigal Stereo
 https://streaming.radiosenlinea.com.ar:10983/stream
 #EXTINF:-1,Metrópolis Stereo
@@ -291,7 +283,5 @@ https://fps5.listen2myradio.com:2199/listen.php?ip=78.129.139.48&port=8869&type=
 http://server2.ejeserver.com:8210/stream
 #EXTINF:-1,Radio IMER (Comitán) - 107.9 FM / 540 AM - XHEMIT-FM / XEMIT-AM - IMER - Comitán, Chiapas
 https://s2.mexside.net/8050http:/adioimer
-#EXTINF:-1,Panamericana
-https://cloudstream2032.conectarhosting.com:7268/;stream.nsv
 #EXTINF:-1,Rascacielos FM
 https://cloudstream2032.conectarhosting.com/9322/stream

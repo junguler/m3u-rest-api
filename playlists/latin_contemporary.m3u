@@ -2,7 +2,7 @@
 #EXTINF:-1,Oldies Internet Radio
 https://panel.retrolandigital.com/listen/oldies_internet_radio/listen
 #EXTINF:-1,Relax Cafe
-https://edge01.cdn.bitflip.ee:8888/cafe?_i=04ec9f99
+https://edge03.cdn.bitflip.ee:8888/cafe?_i=14333d54
 #EXTINF:-1,Los 40
 https://26643.live.streamtheworld.com:443/LOS40_COLOMBIAAAC.aac
 #EXTINF:-1,Reactor 105.7
@@ -13,8 +13,6 @@ https://master.letio.com/io/?gs=9160&type=master.m3u8
 http://www.tuasesorweb.com:8032/;
 #EXTINF:-1,Radio Lluvia
 https://streamingecuador.net:7010/stream
-#EXTINF:-1,Radio Pinamar FM La Serena
-https://sonic.streamingchilenos.com:7077/;stream.nsv
 #EXTINF:-1,Crooner Radio Julio Iglesias
 https://croonerradio_julioiglesias.ice.infomaniak.ch/croonerradio-julioiglesias-midfi.mp3
 #EXTINF:-1,Pop Extremo
@@ -33,6 +31,8 @@ http://streaming.comunicacioneschile.net:9376/;
 https://server6.globalhostla.com:8018/stream
 #EXTINF:-1,La 98
 http://stream.playerlive.info:8025/live.aac
+#EXTINF:-1,MundoNet Radio
+https://13683.live.streamtheworld.com:443/SAM02AAC60.mp3
 #EXTINF:-1,Radio Fan
 http://streaming5.locucionar.com:23184/stream
 #EXTINF:-1,Raudal FM

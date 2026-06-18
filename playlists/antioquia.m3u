@@ -71,16 +71,12 @@ https://streamingmediaradio.live/8048/stream
 https://server2.ejeserver.com:8444/stream
 #EXTINF:-1,Paraiso Musical Colombia
 https://sonic01.instainternet.com:7018/;stream.nsv
-#EXTINF:-1,Viva Stereo Medellin
-http://vivastereo.usuarios.space:8016/live
 #EXTINF:-1,Arauquita Stereo
 https://sp.tvcontrolcp.com/8094/stream
 #EXTINF:-1,Tequendamita Estéreo 89.4 fm
 http://51.15.160.78:9099/;stream.mp3
 #EXTINF:-1,Radio Pueblo de Dios
 http://51.15.160.78:8312/live
-#EXTINF:-1,TDeA Radio
-https://streaming.codigoe-marketing.co:8600/test.mp3
 #EXTINF:-1,La Quillera Stereo
 https://play10.tikast.com:20001/live
 #EXTINF:-1,Soy-Supernova
@@ -93,8 +89,8 @@ https://streamingmediaradio.live/8040/stream
 http://51.15.160.78:8092/;
 #EXTINF:-1,Iglesia Centro Agape
 http://209.126.119.28:8280/;
-#EXTINF:-1,Conexión Lasallista
-http://51.15.160.78:8430/index.html;
+#EXTINF:-1,Temperatura Estereo
+https://cp.sonicpanel.stream:7128/stream
 #EXTINF:-1,Parroquia Nuestra Señora de Chiquinquira
 http://51.15.160.78:9263/stream
 #EXTINF:-1,Nicfel radio
@@ -129,5 +125,7 @@ https://us-b4-p-e-qg12-audio.cdn.mdstrm.com/live-audio-aw/632cb48f613bac0856b931
 https://us-b4-p-e-zs14-audio.cdn.mdstrm.com/live-audio-aw/632cb505a057b90249b9dcc8
 #EXTINF:-1,El Sol (Medellín) 107.9 FM
 https://us-b4-p-e-qg12-audio.cdn.mdstrm.com/live-audio-aw/632c9d30aa9ace684913b853
+#EXTINF:-1,Radio Fontana
+http://46.4.104.253:8010/;music.ogg
 #EXTINF:-1,Farallones Digital Stereo FM
 http://163.172.198.16:8112/live

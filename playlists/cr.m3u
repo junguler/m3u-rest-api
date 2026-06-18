@@ -23,8 +23,6 @@ https://host.rowrigo.com/radio/8090/radiocasino
 http://superradio.rtvhd.net:8010/
 #EXTINF:-1,PJ Radio
 https://c17.radioboss.fm:18231/stream
-#EXTINF:-1,Actual FM
-http://163.172.209.91:9124/actualfm
 #EXTINF:-1,BBN Radio
 https://audio-edge-5bkfj.fra.h.radiomast.io/844b0a81-f4b9-485e-adaa-aab8d3ea9f7f
 #EXTINF:-1,Clásicos de Costa Rica
@@ -38,7 +36,7 @@ http://stream20.usastreams.com/8008/stream
 #EXTINF:-1,ONE HITS RADIO
 https://guri.tepuyserver.net/8575/stream
 #EXTINF:-1,FM Globo 100.3
-https://19003.live.streamtheworld.com/XHJMFM_SC?dist=onlineradiobox
+https://18213.live.streamtheworld.com/XHJMFM_SC?dist=onlineradiobox
 #EXTINF:-1,KAYFA RADIO
 http://stream20.usastreams.com/8060/stream
 #EXTINF:-1,Radio Dos
@@ -59,20 +57,16 @@ http://servidor36.brlogic.com:7486/live
 http://rtvhd.net:9932/*.nsv
 #EXTINF:-1,Baladas en linea
 https://stream20.usastreams.com/8104/stream
-#EXTINF:-1,Radio Cultural Los Santos
-https://radio.tiquiciatv.com:8000/radio.mp3
-#EXTINF:-1,Radio Diria
-http://stm1.hostingtico.com:7004/stream.nsv
 #EXTINF:-1,Radio Mil Recuerdos Stereo
 https://sechin.grupocentroserver.com/radio/8060/radio.mp3
 #EXTINF:-1,Radio Salsealo
 https://radio.grscr.com/listen/radio_salsealo/radio.mp3
-#EXTINF:-1,Radio Tropicalisima CR
-http://163.172.209.91:9119/stream
 #EXTINF:-1,Teletica Radio
 https://g2qd375ol7an-hls-live.5centscdn.com/Radio/eae835e83c0494a376229f254f7d3392.sdp/playlist.m3u8
 #EXTINF:-1,Puerto Limón Radio
 https://puertolimonradio-rowrigos.radioca.st/live
+#EXTINF:-1,Humor 24-7
+https://rodrigo6-rowrigos.radioca.st/stream/1/
 #EXTINF:-1,Pococi FM 88.1FM
 https://host.rowrigo.com/radio/8040/radio.mp3
 #EXTINF:-1,Radio Victoria 1180 AM
@@ -87,8 +81,6 @@ https://ssl.hostingtico.com:7000/stream/1/
 https://s1.raudiostream.com:8008/stream
 #EXTINF:-1,Zoom Radio 91.9 FM
 http://190.0.226.17:8000/stream/1/
-#EXTINF:-1,Rock a La 2
-https://streaming.radio.co/s0ebd65fd5/listen
 #EXTINF:-1,Radio Bahia Puntarensa
 https://s40.myradiostream.com/:20178/
 #EXTINF:-1,Radio Tica
@@ -109,8 +101,6 @@ https://s40.myradiostream.com:12700/
 https://host.rowrigo.com/radio/8130/radiomejimhs
 #EXTINF:-1,On Radio 91.7 fm
 https://strcdn.klm99.com/8038/stream
-#EXTINF:-1,Radio Sideral 1340 AM
-http://163.172.209.91:9125/sideral
 #EXTINF:-1,K-pop Hit
 https://stream20.usastreams.com/8208/stream
 #EXTINF:-1,Jukebox Nova Hits
@@ -121,6 +111,9 @@ https://streaming.radio.co/s6729aeaac/listen
 https://laradiossl.online:10656/stream.nsv
 #EXTINF:-1,Radio Fides
 http://centova.hostingtico.com:8023/stream
+#EXTINF:-1,Elemental Tropicabanga
+http://www.accesopanel.com/8418/stream
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/18807.png",Columbia Radio
 #EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/18808.png",Radio Faro Del Caribe
 https://sp.unoredcdn.net/8032/stream
 #EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/18811.png",95.5 Jazz
@@ -134,7 +127,7 @@ https://str3.openstream.co/1084?aw_0_1st.collectionid%3D3908%26stationId%3D3908%
 #EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/18835.png",CONTROL MUSIC 88.2 FM
 https://streamer.radio.co/sd6131729c/listen?listening-from-radio-garden=1666083374
 #EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/18876.png",Radio 94.7 FM
-https://23263.live.streamtheworld.com/CRC_947AAC_SC
+https://18393.live.streamtheworld.com/CRC_947AAC_SC
 #EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/18884.png",Fe y Poder Radio
 https://feypoder-rowrigos.radioca.st/live
 #EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/39166510.jpg",Radio Spectro
